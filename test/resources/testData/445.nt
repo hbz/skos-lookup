@@ -1,0 +1,46 @@
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_249> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299514900773> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1325839195232> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299514900818> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299514900845> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299514900869> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299514900892> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299514900917> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299514900943> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299514900972> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299514901003> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299514901061> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299514901097> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299514901133> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299514901171> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299514901216> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299514901267> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299514901309> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11054_1321792375836> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299514900795> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://purl.org/dc/terms/created> "2011-11-20T20:32:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://purl.org/dc/terms/modified> "2015-03-12T18:14:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2004/02/skos/core#prefLabel> "p\u0159iboudliny"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fusel\u00F6l"@de .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2004/02/skos/core#prefLabel> "fusel oils"@en .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0631\u0648\u063A\u0646\u200C\u0647\u0627\u064A \u0641\u0648\u0632\u0644"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2004/02/skos/core#prefLabel> "Huile de fusel"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092B\u094D\u092F\u0942\u091C\u0932 \u0924\u0947\u0932"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2004/02/skos/core#prefLabel> "kozmaolaj"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2004/02/skos/core#prefLabel> "Olio di flemma (fuselolo)"@it .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30D5\u30FC\u30BC\u30EB\u6CB9"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uD4E8\uC824\uC720"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E99\u0EC9\u0EB3\u0EA1\u0EB1\u0E99\u0EC0\u0E8A\u0EB7\u0EC9\u0EAD\u0EC4\u0E9F"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oleje fuzlowe"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00D3leo de fusel"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0441\u0438\u0432\u0443\u0448\u043D\u044B\u0435 \u043C\u0430\u0441\u043B\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2004/02/skos/core#prefLabel> "pribudliny"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E19\u0E49\u0E33\u0E21\u0E31\u0E19\u0E40\u0E0A\u0E37\u0E49\u0E2D\u0E40\u0E1E\u0E25\u0E34\u0E07"@th .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6742\u9187\u6CB9"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2004/02/skos/core#prefLabel> "fuzel ya\u011F\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2004/02/skos/core#altLabel> "Fuseloel"@de .
+<http://aims.fao.org/aos/agrovoc/c_11054> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_249> .

@@ -1,0 +1,4 @@
+<http://aims.fao.org/aos/agrontology#isPartOfSubvocabulary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://aims.fao.org/aos/agrontology#isPartOfSubvocabulary> <http://www.w3.org/2000/01/rdf-schema#domain> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrontology#isPartOfSubvocabulary> <http://www.w3.org/2000/01/rdf-schema#label> "Is part of subvocabulary"@en .
+<http://aims.fao.org/aos/agrontology#isPartOfSubvocabulary> <http://www.w3.org/2000/01/rdf-schema#range> _:node1anntf97gx4 .

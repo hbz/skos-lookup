@@ -1,0 +1,64 @@
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1256> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://aims.fao.org/aos/agrontology#isUsedAs> <http://aims.fao.org/aos/agrovoc/c_5328> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://aims.fao.org/aos/agrontology#isUsedAs> <http://aims.fao.org/aos/agrovoc/c_2876> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://aims.fao.org/aos/agrontology#isUsedAs> <http://aims.fao.org/aos/agrovoc/c_2393> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4072298-3> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Cannabis_sativa> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/21897> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://aims.fao.org/aos/agrontology#produces> <http://aims.fao.org/aos/agrovoc/c_3558> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://aims.fao.org/aos/agrontology#hasTaxonomicRank> <http://aims.fao.org/aos/agrovoc/c_331243> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299492832442> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299492832460> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299492832483> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299492832504> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299492832538> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299492832563> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299492832595> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299492832627> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299492832657> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299492832688> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299492832728> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299492832766> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299492832806> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299492832848> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299492832890> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299492832946> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299492832987> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299492833034> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299492833080> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1257_1321790183092> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1257_1328260273823> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299492833196> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299492833274> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299492833338> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://purl.org/dc/terms/created> "2012-02-03T17:11:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://purl.org/dc/terms/modified> "2013-08-28T22:56:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0642\u0646\u0628 \u0645\u0632\u0631\u0648\u0639"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cannabis sativa"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cannabis sativa"@de .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cannabis sativa"@en .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cannabis sativa"@es .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u06A9\u0627\u0646\u0627\u0628\u06CC\u0633 \u0633\u0627\u062A\u06CC\u0648\u0627"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cannabis sativa"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u0947\u0928\u094D\u0928\u093E\u0935\u093F\u0938 \u0938\u0948\u091F\u093E\u0907\u0935\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cannabis sativa"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cannabis sativa"@it .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30A2\u30B5"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uB300\uB9C8"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cannabis sativa"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cannabis sativa"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cannabis sativa"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cannabis sativa"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cannabis sativa"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cannabis sativa"@th .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5927\u9EBB(\u690D\u7269)"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cannabis sativa"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C35\u0C3F\u0C37\u0C2F \u0C32\u0C15\u0C4D\u0C37\u0C23\u0C36\u0C3E\u0C38\u0C4D\u0C30\u0C4D\u0C24\u0C02"@te .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#altLabel> "Ch\u00E8nevis"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#altLabel> "Konopie siewne"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043A\u043E\u043D\u043E\u043F\u043B\u044F \u043F\u043E\u0441\u0435\u0432\u043D\u0430\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1257> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1256> .

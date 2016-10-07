@@ -1,0 +1,51 @@
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_6259> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://aims.fao.org/aos/agrontology#hasComposition> <http://aims.fao.org/aos/agrovoc/c_5691> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://aims.fao.org/aos/agrontology#isDerivedFrom> <http://aims.fao.org/aos/agrovoc/c_4807> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_46804> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/888> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299516083912> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299516084058> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299516084093> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299516084121> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299516084143> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299516084168> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299516084193> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299516084246> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299516084280> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299516084313> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299516084346> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299516084381> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299516084418> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299516084459> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299516084500> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299516084536> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299516084578> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12537_1321792539402> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_807d45f6> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://purl.org/dc/terms/created> "2011-11-20T20:35:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://purl.org/dc/terms/modified> "2015-09-18T00:20:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0628\u0631\u0648\u062A\u064A\u0646\u0627\u062A \u0645\u064A\u0643\u0631\u0648\u0628\u064A\u0629"@ar .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#prefLabel> "mikrobi\u00E1ln\u00ED b\u00EDlkoviny"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mikrobielles Protein"@de .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#prefLabel> "microbial proteins"@en .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#prefLabel> "Prote\u00EDnas microbianas"@es .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u067E\u0631\u0648\u062A\u0626\u06CC\u0646\u200C\u0647\u0627\u06CC \u0645\u06CC\u06A9\u0631\u0648\u0628\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#prefLabel> "Prot\u00E9ine microbienne"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0938\u0942\u0915\u094D\u0937\u094D\u092E\u091C\u0940\u0935\u0940 \u092A\u094D\u0930\u094B\u091F\u0940\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#prefLabel> "mikrobi\u00E1lis feh\u00E9rje"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#prefLabel> "Proteine microbiche"@it .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5FAE\u751F\u7269\u30BF\u30F3\u30D1\u30AF\u8CEA"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bia\u0142ka drobnoustroj\u00F3w"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#prefLabel> "Prote\u00EDna microbiana"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0431\u0435\u043B\u043A\u0438 \u043C\u0438\u043A\u0440\u043E\u043E\u0440\u0433\u0430\u043D\u0438\u0437\u043C\u043E\u0432"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#prefLabel> "mikrobi\u00E1lna bielkovina"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E42\u0E1B\u0E23\u0E15\u0E35\u0E19\u0E02\u0E2D\u0E07\u0E08\u0E38\u0E25\u0E34\u0E19\u0E17\u0E23\u0E35\u0E22\u0E4C"@th .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5FAE\u751F\u7269\u86CB\u767D"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#prefLabel> "mikrobiyel protein"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#prefLabel> "proteine microbiene"@mo .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#narrower> <http://aims.fao.org/aos/agrovoc/c_24141> .
+<http://aims.fao.org/aos/agrovoc/c_12537> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_6259> .

@@ -1,0 +1,52 @@
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_26768> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299510645806> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299510645826> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299510645844> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299510645864> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299510645889> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299510645910> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299510645934> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299510645961> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299510646061> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299510646095> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299510646125> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299510646235> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299510646286> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299510646329> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299510646368> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299510646409> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1320398474084> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11775_1321792450180> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1323163829948> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1320398744390> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1320398603514> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1320398486998> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://purl.org/dc/terms/created> "2011-11-20T20:34:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://purl.org/dc/terms/modified> "2013-08-27T20:13:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#prefLabel> "zran\u011Bn\u00ED zv\u00ED\u0159at"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#prefLabel> "livestock injuries"@en .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#prefLabel> "Da\u00F1os al ganado"@es .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0622\u0633\u064A\u0628\u200C\u0647\u0627\u064A \u062F\u0627\u0645"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blessure au b\u00E9tail"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092A\u0936\u0941\u0927\u0928 \u0915\u094D\u0937\u0924\u093F"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00E1llom\u00E1nyk\u00E1r"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#prefLabel> "Danni al bestiame"@it .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5BB6\u755C\u306E\u640D\u50B7"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E84\u0EA7\u0EB2\u0EA1\u0EC0\u0EAA\u0E8D\u0EAB\u0EB2\u0E8D\u0E97\u0EB5\u0EC8\u0EC0\u0E81\u0EB5\u0E94\u0E81\u0EB1\u0E9A\u0EAA\u0EB1\u0E94\u0EA5\u0EC9\u0EBD\u0E87"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zranienia zwierz\u0105t gospodarskich"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#prefLabel> "Escoria\u00E7\u00E3o"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043F\u043E\u0432\u0440\u0435\u0436\u0434\u0435\u043D\u0438\u0435 \u0441\u043A\u043E\u0442\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#prefLabel> "zranenie zvierat"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E04\u0E27\u0E32\u0E21\u0E40\u0E2A\u0E35\u0E22\u0E2B\u0E32\u0E22\u0E17\u0E35\u0E48\u0E40\u0E01\u0E34\u0E14\u0E01\u0E31\u0E1A\u0E1B\u0E28\u0E38\u0E2A\u0E31\u0E15\u0E27\u0E4C"@th .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5BB6\u755C\u5371\u5BB3"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#prefLabel> "Viehunf\u00E4lle"@de .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#prefLabel> "hayvan yaralanmas\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#altLabel> "Vieh-Unf\u00E4lle"@de .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#altLabel> "Verletzungen am Vieh"@de .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#altLabel> "Verletzungen der Nutztiere"@de .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#altLabel> "Viehunfaelle"@de .
+<http://aims.fao.org/aos/agrovoc/c_11775> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_26768> .

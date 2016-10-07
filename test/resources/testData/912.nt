@@ -1,0 +1,48 @@
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_8528> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://aims.fao.org/aos/agrontology#study> <http://aims.fao.org/aos/agrovoc/c_4559> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://aims.fao.org/aos/asfa/c_7066> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299509669140> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299509669156> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299509669174> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299509669192> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299509669212> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299509669236> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299509669262> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299509669287> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299509669314> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299509669344> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299509669378> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299509669625> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299509669849> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299509669883> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299509669917> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12359_1321792518977> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1331628853602> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1331628944283> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1331628957425> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://purl.org/dc/terms/created> "2011-11-20T20:35:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://purl.org/dc/terms/modified> "2014-07-03T17:13:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2004/02/skos/core#prefLabel> "odborn\u00EDci na studium savc\u016F"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2004/02/skos/core#prefLabel> "mammalogists"@en .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mamifer\u00F3logo"@es .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u067E\u0633\u062A\u0627\u0646\u062F\u0627\u0631\u0634\u0646\u0627\u0633\u0627\u0646"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mammalogiste"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092E\u0948\u092E\u094B\u0932\u093E\u0901\u091C\u093F\u0938\u094D\u091F \u0938\u094D\u0924\u0928\u0927\u093E\u0930\u0940\u091C\u0940\u0935 \u0935\u093F\u091C\u094D\u091E\u093E\u0928\u0940"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2004/02/skos/core#prefLabel> "Studiosi dei mammiferi"@it .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u54FA\u4E73\u52D5\u7269\u5B66\u8005"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uD3EC\uC720\uB3D9\uBB3C\uD559\uC790"@ko .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zoolog zajmuj\u0105cy si\u0119 ssakami"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zo\u00F3logo de mam\u00EDferos"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0442\u0435\u0440\u0438\u043E\u043B\u043E\u0433\u0438"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2004/02/skos/core#prefLabel> "odborn\u00EDci na \u0161t\u00FAdium cicavcov"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E1C\u0E39\u0E49\u0E40\u0E0A\u0E35\u0E48\u0E22\u0E27\u0E0A\u0E32\u0E0D\u0E40\u0E23\u0E37\u0E48\u0E2D\u0E07\u0E2A\u0E31\u0E15\u0E27\u0E4C\u0E40\u0E25\u0E35\u0E49\u0E22\u0E07\u0E25\u0E39\u0E01\u0E14\u0E49\u0E27\u0E22\u0E19\u0E21"@th .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u54FA\u4E73\u52A8\u7269\u5B66\u8005"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2004/02/skos/core#prefLabel> "memeliler uzman\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mam\u00ADma\u00ADlo\u00ADge"@de .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2004/02/skos/core#altLabel> "S\u00E4ugetierspezialist"@de .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2004/02/skos/core#altLabel> "Saeugetierspezialist"@de .
+<http://aims.fao.org/aos/agrovoc/c_12359> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_8528> .

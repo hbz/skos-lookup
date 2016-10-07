@@ -1,0 +1,25 @@
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://www.w3.org/2004/02/skos/core#inScheme> <http://voc.landportal.info/landterms> .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://www.w3.org/2004/02/skos/core#related> <http://aims.fao.org/aos/agrovoc/c_24866> .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://www.w3.org/2004/02/skos/core#related> <http://aims.fao.org/aos/agrovoc/c_202> .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_37899> .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_01683538> .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_b9d0f1fe> .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_km_6162102d> .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_vi_7d5627ab> .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_my_4dac9065> .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_98dc88f2> .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://purl.org/dc/terms/created> "2016-02-19T13:04:09Z"^^<xsd:http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://purl.org/dc/terms/modified> "2016-07-11T20:55:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://www.w3.org/2004/02/skos/core#prefLabel> "land fragmentation"@en .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fragmenta\u00E7\u00E3o de parcelas (terraa)"@pt .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u1794\u17C6\u178E\u17C2\u1780\u178A\u17B8\u1792\u17D2\u179B\u17B8"@km .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://www.w3.org/2004/02/skos/core#prefLabel> "s\u1EF1 ph\u00E2n t\u00E1n/ph\u00E2n m\u1EA3nh \u0111\u1EA5t \u0111ai"@vi .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u1019\u103C\u1031\u101A\u102C\u1015\u102D\u102F\u1004\u103A\u1038\u1001\u103C\u102C\u1038\u1019\u103E\u102F"@my .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E41\u0E1A\u0E48\u0E07\u0E01\u0E23\u0E30\u0E08\u0E32\u0E22\u0E02\u0E2D\u0E07\u0E17\u0E35\u0E48\u0E14\u0E34\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://www.w3.org/2004/02/skos/core#related> <http://aims.fao.org/aos/agrovoc/c_57156ff8> .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://www.w3.org/2004/02/skos/core#related> <http://aims.fao.org/aos/agrovoc/c_a79c0bb8> .
+<http://aims.fao.org/aos/agrovoc/c_0543301f> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_37899> .

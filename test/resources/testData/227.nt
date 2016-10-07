@@ -1,0 +1,80 @@
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#definition> <http://aims.fao.org/aos/agrovoc/xDef_1328253125482> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1501> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Drug_resistance> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_25071> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4143180-7> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://id.loc.gov/authorities/sh85039708#concept> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/132> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://aims.fao.org/aos/asfa/c_5398> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299487965378> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299487965393> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299487965408> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299487965424> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299487965443> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299487965462> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299487965483> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299487965505> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299487965530> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299487965791> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299487965819> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299487965848> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299487965879> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299487965911> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299487965944> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299487965979> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299487966018> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299487966057> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299487966098> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10471_1321792304257> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_5580eb19> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299487966282> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299487966833> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299487966181> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299487966973> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299487966332> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299487966762> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299487966695> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299487966902> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299487966437> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299487966497> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_25067_1321793261326> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://purl.org/dc/terms/created> "2011-11-20T20:47:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://purl.org/dc/terms/modified> "2016-07-11T20:37:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0645\u0642\u0627\u0648\u0645\u0629 \u0627\u0644\u062F\u0648\u0627\u0621"@ar .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#prefLabel> "rezistence k l\u00E9k\u016Fm"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arzneimittelresistenz"@de .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#prefLabel> "drug resistance"@en .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#prefLabel> "Resistencia a medicamentos"@es .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0645\u0642\u0627\u0648\u0645\u062A \u062F\u0627\u0631\u0648\u06CC\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#prefLabel> "R\u00E9sistance aux m\u00E9dicaments"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0914\u0937\u0927\u093F \u0938\u0947 \u092A\u094D\u0930\u0924\u093F\u0930\u094B\u0927\u0940"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#prefLabel> "gy\u00F3gyszer-rezisztencia"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#prefLabel> "Resistenza ai farmaci"@it .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u85AC\u7269\u62B5\u6297\u6027"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC758\uC57D\uC81C\uC800\uD56D\uC131"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E84\u0EA7\u0EB2\u0EA1\u0E95\u0EC9\u0EB2\u0E99\u0E97\u0EB2\u0E99\u0EA2\u0EB2"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oporno\u015B\u0107 na leki"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#prefLabel> "Resist\u00EAncia aos medicamentos"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0443\u0441\u0442\u043E\u0439\u0447\u0438\u0432\u043E\u0441\u0442\u044C \u043A \u043B\u0435\u043A\u0430\u0440\u0441\u0442\u0432\u0430\u043C"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#prefLabel> "odolnos\u0165 vo\u010Di liekom"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E04\u0E27\u0E32\u0E21\u0E15\u0E49\u0E32\u0E19\u0E17\u0E32\u0E19\u0E22\u0E32"@th .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6297\u836F\u6027"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#prefLabel> "ila\u00E7 direnci"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#prefLabel> "rezisten\u0163\u0103 la medicamente"@mo .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#altLabel> "odolnost k l\u00E9\u010Div\u016Fm"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#altLabel> "resistance to drugs"@en .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0645\u0642\u0627\u0648\u0645\u062A \u0628\u0647 \u062F\u0627\u0631\u0648\u0647\u0627"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#altLabel> "\u85AC\u5264\u62B5\u6297\u6027"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E97\u0EBB\u0E99\u0E97\u0EB2\u0E99\u0E95\u0ECD\u0EC8\u0EA2\u0EB2"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#altLabel> "Odporno\u015B\u0107 na leki"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#altLabel> "Resist\u00EAncia \u00E0s drogas"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043B\u0435\u043A\u0430\u0440\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u0443\u0441\u0442\u043E\u0439\u0447\u0438\u0432\u043E\u0441\u0442\u044C"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#altLabel> "rezistencia vo\u010Di liekom"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#altLabel> "\u6297\u836F\u529B"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#altLabel> "ilaca diren\u00E7"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#narrower> <http://aims.fao.org/aos/agrovoc/c_25066> .
+<http://aims.fao.org/aos/agrovoc/c_10471> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1501> .

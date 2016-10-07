@@ -1,0 +1,53 @@
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_603> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Buenos_Aires> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_3643> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://aims.fao.org/aos/agrontology#isPartOfSubvocabulary> "Geographical below country level" .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299521167920> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299521167938> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299521167956> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299521167976> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299521168013> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299521168038> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299521168064> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299521168092> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299521168242> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299521168268> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299521168298> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299521168357> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299521168404> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299521168440> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299521168480> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299521168519> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299521168611> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299521168652> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299521168696> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1136_1321790113776> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1136_1328260195251> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://purl.org/dc/terms/created> "2012-02-03T17:09:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://purl.org/dc/terms/modified> "2013-08-28T18:45:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0628\u0648\u064A\u0646\u0648\u0633 \u0623\u064A\u0631\u064A\u0633"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buenos Aires"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buenos Aires"@de .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buenos Aires"@en .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buenos Aires"@es .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0628\u0648\u06CC\u0646\u0648\u0633\u200C\u0622\u06CC\u0631\u0633"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buenos Aires"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092C\u094D\u092F\u0942\u0928\u0949\u0938 \u090F\u0930\u093F\u0938"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buenos Aires"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buenos Aires"@it .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30D6\u30A8\u30CE\u30B9\u30A2\u30A4\u30EC\u30B9\u5DDE"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uBD80\uC5D0\uB178\uC2A4\uC544\uC774\uB808\uC2A4"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E9A\u0EBB\u0EA7\u0E99\u0EBB\u0E94\u0EC4\u0EAD\u0EC0\u0EA3\u0EB1\u0E94"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buenos Aires"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buenos aires"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0431\u0443\u044D\u043D\u043E\u0441-\u0430\u0439\u0440\u0435\u0441"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buenos Aires"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E1A\u0E31\u0E27\u0E42\u0E19\u0E2A\u0E44\u0E2D\u0E40\u0E23\u0E2A"@th .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5E03\u5B9C\u8BFA\u65AF\u827E\u5229\u65AF"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buenos Aires"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C21\u0C3F\u0C38\u0C4D\u0C38\u0C4A\u0C38\u0C4D\u0C1F\u0C48\u0C16\u0C3E\u0C38\u0C4D \u0C0E\u0C38\u0C4D \u0C2A\u0C3F \u0C2A\u0C3F"@te .
+<http://aims.fao.org/aos/agrovoc/c_1136> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_603> .

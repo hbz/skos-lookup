@@ -1,0 +1,50 @@
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_381> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/31638> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_24175> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_24174> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299513695038> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299513695078> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299513695098> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299513695121> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299513695145> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299513695170> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299513695196> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299513695223> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299513695253> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299513695284> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299513695406> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299513695563> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299513695635> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299513695676> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299513695809> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299513695851> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1315390911087> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12226_1321792504636> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299513695056> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://purl.org/dc/terms/created> "2011-11-20T20:35:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://purl.org/dc/terms/modified> "2015-03-12T18:28:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#prefLabel> "lok\u00E1ln\u00ED anestetika"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#prefLabel> "local anaesthetics"@en .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anest\u00E9sicos locales"@es .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062F\u0627\u0631\u0648\u0647\u0627\u0649 \u0628\u06CC\u200C\u062D\u0633\u06CC \u0645\u0648\u0636\u0639\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anesth\u00E9sique local"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0938\u094D\u0925\u093E\u0928\u0940\u092F \u0938\u0902\u0935\u0947\u0926\u0928\u093E\u0939\u0930\u0923"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#prefLabel> "helyi \u00E9rz\u00E9stelen\u00EDt\u00F5"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anestetici locali"@it .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5C40\u6240\u9EBB\u9154"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uAD6D\uC18C\uB9C8\uCDE8\uC57D"@ko .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u015Arodki znieczulaj\u0105ce miejscowo"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anest\u00E9sico local"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043C\u0435\u0441\u0442\u043D\u044B\u0435 \u0430\u043D\u0435\u0441\u0442\u0435\u0442\u0438\u043A\u0438"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#prefLabel> "lok\u00E1lne anestetik\u00E1"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E22\u0E32\u0E0A\u0E32\u0E43\u0E0A\u0E49\u0E40\u0E09\u0E1E\u0E32\u0E30\u0E17\u0E35\u0E48"@th .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5C40\u90E8\u9EBB\u9189\u836F"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lokalan\u00E4sthetikum"@de .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#prefLabel> "lokal anestetik"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#altLabel> "Lokalanaesthetikum"@de .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#narrower> <http://aims.fao.org/aos/agrovoc/c_37244> .
+<http://aims.fao.org/aos/agrovoc/c_12226> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_381> .

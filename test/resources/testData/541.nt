@@ -1,0 +1,78 @@
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#scopeNote> "Spojen\u00ED dvou r\u00F9zn\u00FDch rostlin vlo\u017Een\u00EDm pupenu jedn\u00E9 do stonku druh\u00E9."@cs .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#scopeNote> "Einsetzen einer Knospe einer Pflanze in eine andere Pflanze; fuer das natuerliche Phaenomen <15948> benutzen"@de .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#scopeNote> "The union of two different plants by inserting the bud of one into the stem of the other; for the naturally occurring phenomenon use <15948>"@en .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#scopeNote> "M\u00E9todo de injerto; para el fen\u00F3meno natural use <15948>"@es .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u067E\u06CC\u0648\u0646\u062F \u062F\u0648 \u06AF\u06CC\u0627\u0647 \u0645\u062E\u062A\u0644\u0641 \u0628\u0627 \u0642\u0631\u0627\u0631 \u062F\u0627\u062F\u0646 \u062C\u0648\u0627\u0646\u0647 \u06CC\u06A9\u06CC \u062F\u0631 \u0633\u0627\u0642\u0647 \u062F\u06CC\u06AF\u0631\u06CC\u061B \u0628\u0631\u0627\u06CC \u067E\u062F\u06CC\u062F\u0647\u200C\u0647\u0627\u06CC\u06CC \u06A9\u0647 \u0628\u0647 \u0635\u0648\u0631\u062A \u0637\u0628\u06CC\u0639\u06CC \u0631\u062E \u0645\u06CC\u200C\u062F\u0647\u0646\u062F \u0628\u0647 \u06A9\u0627\u0631 \u0628\u0631\u06CC\u062F \"\"\u062C\u0648\u0627\u0646\u0647\u200C\u0622\u063A\u0627\u0632\u06CC\"\""@fa .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#scopeNote> "Insertion du bourgeon d'une plante dans la tige d'une autre plante; pour le ph\u00E9nom\u00E8ne naturel utiliser <15948>"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#scopeNote> "Egy n\u00F6v\u00E9ny r\u00FCgy\u00E9nek egy m\u00E1sik n\u00F6v\u00E9nyre t\u00F6rt\u00E9no olt\u00E1sa; Term\u00E9szetes jelens\u00E9g: <15948>"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#scopeNote> "Unione di due piante ottenuta inserendo la gemma di una nel fusto dell'altra; per il fenomeno naturale usare <15948>"@it .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0E81\u0EB2\u0E99\u0E95\u0ECD\u0EC8\u0E9E\u0EB7\u0E94\u0E95\u0EBB\u0EC9\u0E99\u0E95\u0EC8\u0EB2\u0E87\u0E81\u0EB1\u0E99 \u0E94\u0EC9\u0EA7\u0E8D\u0E81\u0EB2\u0E99\u0E95\u0EB4\u0E94\u0E95\u0EB8\u0EC8\u0EA1/\u0E95\u0EB2 \u0E82\u0EAD\u0E87\u0E95\u0EBB\u0EC9\u0E99\u0E99\u0EB6\u0EC8\u0E87 \u0EC3\u0EAA\u0EC8\u0EA5\u0EB3\u0E95\u0EBB\u0EC9\u0E99 \u0E82\u0EAD\u0E87\u0EAD\u0EB5\u0E81\u0E95\u0EBB\u0EC9\u0E99\u0E99\u0EB6\u0EC8\u0E87. \u0EAA\u0EB3\u0EA5\u0EB1\u0E9A\u0E81\u0EB2\u0E99\u0E9B\u0EBB\u0EC8\u0E87\u0E95\u0EB8\u0EC8\u0EA1\u0EC2\u0E94\u0E8D\u0E97\u0EB3\u0EA1\u0EB0\u0E8A\u0EB2\u0E94 \u0EC3\u0EAB\u0EC9\u0EC3\u0E8A\u0EC9 <15948>"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#scopeNote> "Jeden ze sposob\u00F3w rozmna\u017Cania wegetatywnego polegaj\u0105cy na przeniesieniu oczka (p\u0105czka) z jednej ro\u015Bliny na \u0142odyg\u0119 ro\u015Bliny drugiej; dla naturalnego tworzenia zawi\u0105zk\u00F3w p\u0119d\u00F3w i kwiat\u00F3w u\u017Cywaj <15948>"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#scopeNote> "<15948>"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0E01\u0E32\u0E23\u0E23\u0E27\u0E21\u0E01\u0E31\u0E19\u0E02\u0E2D\u0E07\u0E1E\u0E37\u0E0A\u0E17\u0E35\u0E48\u0E41\u0E15\u0E01\u0E15\u0E48\u0E32\u0E07\u0E01\u0E31\u0E19 2 \u0E15\u0E49\u0E19 \u0E42\u0E14\u0E22\u0E01\u0E32\u0E23\u0E15\u0E34\u0E14\u0E15\u0E32\u0E02\u0E2D\u0E07\u0E1E\u0E37\u0E0A\u0E0A\u0E19\u0E34\u0E14\u0E2B\u0E19\u0E36\u0E48\u0E07 \u0E25\u0E07\u0E44\u0E1B\u0E17\u0E35\u0E48\u0E15\u0E49\u0E19\u0E1E\u0E37\u0E0A\u0E2D\u0E35\u0E01\u0E15\u0E49\u0E19\u0E2B\u0E19\u0E36\u0E48\u0E07, \u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E01\u0E32\u0E23\u0E40\u0E01\u0E34\u0E14\u0E02\u0E36\u0E49\u0E19\u0E02\u0E2D\u0E07\u0E15\u0E32\u0E42\u0E14\u0E22\u0E18\u0E23\u0E23\u0E21\u0E0A\u0E32\u0E15\u0E34\u0E43\u0E0A\u0E49 <15948>"@th .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#scopeNote> "Birinin tomurcu\u011Funu di\u011Ferinin g\u00F6vdesine yerle\u015Ftirme yoluyla iki farkl\u0131 bitkinin birle\u015Ftirilmesi; do\u011Fal olarak ger\u00E7ekle\u015Fen fenomen i\u00E7in <15948> kodlu terimi kullan\n"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3344> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://aims.fao.org/aos/agrontology#makeUseOf> <http://aims.fao.org/aos/agrovoc/c_6857> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Budding> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://aims.fao.org/aos/biotechglossary/c_4766> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_12584> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4575226-6> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299518162110> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299518162125> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299518162143> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299518162162> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299518162182> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299518162203> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299518162227> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299518162252> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299518162278> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299518162309> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299518162338> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299518162446> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299518162479> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299518162513> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299518162548> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299518162586> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299518162723> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299518162763> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299518162804> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1132_1321790111594> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1132_1328260192809> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299518163082> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299518163383> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299518162952> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299518163157> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299518163006> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://purl.org/dc/terms/created> "2012-02-03T17:09:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://purl.org/dc/terms/modified> "2014-07-03T18:09:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0646\u0637\u0639\u064A\u0645 \u0628\u0627\u0644\u0628\u0631\u0639\u0645"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#prefLabel> "o\u010Dkov\u00E1n\u00ED"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#prefLabel> "Okulieren"@de .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#prefLabel> "budding"@en .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#prefLabel> "Injerto de yema"@es .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u067E\u06CC\u0648\u0646\u062F \u062C\u0648\u0627\u0646\u0647"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00C9cussonnage"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u0932\u093F\u0915\u093E\u092F\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#prefLabel> "szemz\u00E9s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#prefLabel> "Innesto a gemma"@it .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u82BD\u63A5\u304E"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uB208\uC811"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0E99\u0E95\u0EB4\u0E94\u0E95\u0EB2"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#prefLabel> "Okulizacja"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#prefLabel> "Enxerto de borbulhia"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043E\u043A\u0443\u043B\u0438\u0440\u043E\u0432\u043A\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#prefLabel> "o\u010Dkovanie"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E15\u0E34\u0E14\u0E15\u0E32"@th .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5206\u82BD"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#prefLabel> "g\u00F6z a\u015F\u0131s\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C15\u0C30\u0C17\u0C21\u0C2E\u0C41"@te .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#altLabel> "Injerto en escudete"@es .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#altLabel> "\u06A9\u0648\u067E\u06CC\u0648\u0646\u062F"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#altLabel> "Greffage d'yeux"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#altLabel> "Oczkowanie"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043F\u0440\u0438\u0432\u0438\u0432\u043A\u0430 \u0433\u043B\u0430\u0437\u043A\u043E\u043C"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1132> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3344> .

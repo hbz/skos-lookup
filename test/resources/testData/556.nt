@@ -1,0 +1,64 @@
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#definition> <http://aims.fao.org/aos/agrovoc/xDef_1328252819322> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#definition> <http://aims.fao.org/aos/agrovoc/xDef_1328253146124> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1521> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://aims.fao.org/aos/agrontology#influences> <http://aims.fao.org/aos/agrovoc/c_87> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/20312> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299488053342> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299488053357> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299488053374> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299488053394> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299488053414> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299488053436> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299488053460> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299488053485> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299488053511> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299488053539> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299488053568> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299488053599> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299488053633> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299488053667> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299488053704> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299488053745> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299488053784> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299488053824> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299488053867> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1138_1321790115403> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1138_1328260196512> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1327916147310> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299488054277> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299488053977> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299488054028> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299488054222> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://purl.org/dc/terms/created> "2012-02-03T17:09:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://purl.org/dc/terms/modified> "2014-07-03T18:19:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u0644\u0642\u062F\u0631\u0629 \u0627\u0644\u062A\u0646\u0638\u064A\u0645\u064A\u0629"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#prefLabel> "pufra\u010Dn\u00ED schopnost"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pufferkapazitaet"@de .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#prefLabel> "buffering capacity"@en .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#prefLabel> "Capacidad tamp\u00F3n"@es .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0638\u0631\u0641\u06CC\u062A \u0628\u0627\u0641\u0631\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#prefLabel> "Capacit\u00E9 tampon"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0909\u092D\u092F \u092A\u094D\u0930\u0924\u093F\u0930\u094B\u0927\u0940 \u0915\u094D\u0937\u092E\u0924\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#prefLabel> "pufferkapacit\u00E1s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#prefLabel> "Potere tampone"@it .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7DE9\u885D\u80FD"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC644\uCDA9\uB825"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EAA\u0EB0\u0EA1\u0EB1\u0E94\u0E96\u0EB0\u0E99\u0EB0\u0E81\u0EB2\u0E99\u0E88\u0EB2\u0EA7"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pojemno\u015B\u0107 buforowa"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#prefLabel> "Capacidade tamp\u00E3o"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0431\u0443\u0444\u0435\u0440\u043D\u0430\u044F \u0435\u043C\u043A\u043E\u0441\u0442\u044C"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#prefLabel> "pufrovacia schopnos\u0165"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E04\u0E27\u0E32\u0E21\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E02\u0E2D\u0E07\u0E01\u0E32\u0E23\u0E40\u0E1B\u0E47\u0E19\u0E1A\u0E31\u0E1F\u0E40\u0E1F\u0E2D\u0E23\u0E4C"@th .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7F13\u51B2\u80FD\u529B"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#prefLabel> "tamponlama kapasitesi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C26\u0C42\u0C30\u0C3E\u0C2D\u0C4D\u0C2F\u0C3E\u0C38\u0C2E\u0C41"@te .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#altLabel> "Pufferkapazit\u00E4t"@de .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#altLabel> "Soluciones reguladoras"@es .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#altLabel> "Pouvoir tampon"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0431\u0443\u0444\u0435\u0440\u043D\u044B\u0435 \u0441\u0432\u043E\u0439\u0441\u0442\u0432\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0431\u0443\u0444\u0435\u0440\u043D\u044B\u0435 \u0440\u0430\u0441\u0442\u0432\u043E\u0440\u044B"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1138> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1521> .

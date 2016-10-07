@@ -1,0 +1,53 @@
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_6269> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_29509> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_8366> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://id.loc.gov/authorities/sh85039208#concept> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/34435> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://aims.fao.org/aos/agrontology#affects> <http://aims.fao.org/aos/agrovoc/c_676> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://aims.fao.org/aos/agrontology#affects> <http://aims.fao.org/aos/agrovoc/c_3668> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://aims.fao.org/aos/agrontology#isPartOfSubvocabulary> "Chemicals" .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299512253886> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299512253904> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299512253921> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299512253941> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299512253961> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299512253984> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299512254011> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299512254037> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299512254065> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299512254095> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299512254127> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299512254161> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299512254196> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299512254233> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299512254272> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299512254313> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299512254743> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10444_1321792301071> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_feedb6dd> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://purl.org/dc/terms/created> "2011-11-20T20:31:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://purl.org/dc/terms/modified> "2015-10-20T17:13:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#prefLabel> "dourin"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#prefLabel> "Durine"@de .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#prefLabel> "dourine"@en .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#prefLabel> "Durina"@es .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0628\u0627\u062F \u0627\u0633\u0628"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dourine"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0921\u0942\u0930\u093F\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#prefLabel> "teny\u00E9szb\u00E9nas\u00E1g"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#prefLabel> "Durina"@it .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5ABE\u75AB"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uAD6C\uC5ED"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zaraza stadnicza"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#prefLabel> "Durina"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0441\u043B\u0443\u0447\u043D\u0430\u044F \u0431\u043E\u043B\u0435\u0437\u043D\u044C"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u017Ereb\u010Dia n\u00E1kaza, dourine"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E42\u0E23\u0E04\u0E14\u0E39\u0E23\u0E35\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u9A6C\u5ABE\u75AB"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#prefLabel> "at frengisi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#prefLabel> "durin\u0103"@mo .
+<http://aims.fao.org/aos/agrovoc/c_10444> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_6269> .

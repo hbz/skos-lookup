@@ -1,0 +1,55 @@
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#broadMatch> <http://cat.aii.caas.cn/concept/c_5912> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_14816> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://aims.fao.org/aos/agrontology#makeUseOf> <http://aims.fao.org/aos/agrovoc/c_28005> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_9370> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://id.loc.gov/authorities/sh85042004#concept> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://aims.fao.org/aos/asfa/c_5515> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://aims.fao.org/aos/agrontology#produces> <http://aims.fao.org/aos/agrovoc/c_7415> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299486125148> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299486125164> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299486125180> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299486125199> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299486125218> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299486125238> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299486125261> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299486125293> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299486125318> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299486125346> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299486125376> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299486125409> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299486125442> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299486125476> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299486125513> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299486125717> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299486125764> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299486125807> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10568_1321792316771> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_10568_1328257794884> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://purl.org/dc/terms/created> "2012-02-03T16:29:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://purl.org/dc/terms/modified> "2014-07-03T17:52:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#prefLabel> "stimulace elektrick\u00FDm proudem"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elektrische Stimulation"@de .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#prefLabel> "electric stimulation"@en .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#prefLabel> "Estimulaci\u00F3n el\u00E9ctrica"@es .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062A\u062D\u0631\u064A\u0643 \u0627\u0644\u0643\u062A\u0631\u064A\u0643\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stimulation \u00E9lectrique"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0935\u0948\u0927\u0941\u0924 \u0909\u0924\u094D\u0924\u0947\u091C\u0928\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#prefLabel> "elektromos stimul\u00E1ci\u00F3"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elettrostimolazione"@it .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u96FB\u6C17\u523A\u6FC0\u6CD5"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC804\uAE30\uC790\uADF9"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0E99\u0E81\u0EB0\u0E95\u0EB8\u0EC9\u0E99\u0E94\u0EC9\u0EA7\u0E8D\u0E81\u0EB0\u0EC1\u0EAA\u0EC4\u0E9F\u0E9F\u0EC9\u0EB2"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pobudzanie elektryczne"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#prefLabel> "Estimula\u00E7\u00E3o el\u00E9ctrica"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u044D\u043B\u0435\u043A\u0442\u0440\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0441\u0442\u0438\u043C\u0443\u043B\u044F\u0446\u0438\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#prefLabel> "elektrick\u00E1 stimul\u00E1cia"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E01\u0E23\u0E30\u0E15\u0E38\u0E49\u0E19\u0E42\u0E14\u0E22\u0E01\u0E23\u0E30\u0E41\u0E2A\u0E44\u0E1F\u0E1F\u0E49\u0E32"@th .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7535\u523A\u6FC0"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#prefLabel> "elektrik uyar\u0131s\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C35\u0C3F\u0C26\u0C4D\u0C2F\u0C41\u0C26\u0C41\u0C26\u0C4D\u0C26\u0C40\u0C2A\u0C28\u0C2E\u0C41"@te .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#broadMatch> <http://cat.aii.caas.cn/concept/c_5912> .
+<http://aims.fao.org/aos/agrovoc/c_10568> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_14816> .

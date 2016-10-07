@@ -1,0 +1,42 @@
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1316> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_35953> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/22388> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299513658421> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299513658439> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299513658457> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299513658477> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299513658498> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299513658521> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299513658547> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299513658574> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299513658602> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299513658632> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299513658665> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299513658698> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299513658994> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299513659030> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11191_1321792392150> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1369398287354> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://purl.org/dc/terms/created> "2011-11-20T20:33:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://purl.org/dc/terms/modified> "2013-08-27T21:37:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2004/02/skos/core#prefLabel> "srde\u010Dn\u00ED glykosidy"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2004/02/skos/core#prefLabel> "Herzglykosid"@de .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2004/02/skos/core#prefLabel> "cardiac glycosides"@en .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u06AF\u0644\u064A\u0643\u0648\u0632\u064A\u062F\u0647\u0627\u064A \u0642\u0644\u0628\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0939\u0943\u0926\u092F\u0940 \u0917\u094D\u0932\u093E\u0908\u0915\u094B\u0938\u093E\u0907\u0921"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2004/02/skos/core#prefLabel> "sz\u00EDvglikozid"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glicosidi cardiocinetici"@it .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5F37\u5FC3\u914D\u7CD6\u4F53"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glikozydy nasercowe"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glic\u00F3sido card\u00EDaco"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0441\u0435\u0440\u0434\u0435\u0447\u043D\u044B\u0435 \u0433\u043B\u0438\u043A\u043E\u0437\u0438\u0434\u044B"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2004/02/skos/core#prefLabel> "srdcov\u00E9 glykozidy"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E44\u0E01\u0E25\u0E42\u0E04\u0E44\u0E0B\u0E14\u0E4C\u0E17\u0E35\u0E48\u0E2D\u0E2D\u0E01\u0E24\u0E17\u0E18\u0E34\u0E4C\u0E15\u0E48\u0E2D\u0E2B\u0E31\u0E27\u0E43\u0E08"@th .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5F3A\u5FC3\u82F7"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2004/02/skos/core#prefLabel> "kalp glikozitleri"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2004/02/skos/core#altLabel> "kalp glikozidleri"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11191> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1316> .

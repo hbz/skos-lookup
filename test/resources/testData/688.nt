@@ -1,0 +1,57 @@
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_22> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://aims.fao.org/aos/agrontology#isMeansFor> <http://aims.fao.org/aos/agrovoc/c_27596> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_55136> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/1787> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299486223703> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299486223720> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299486223738> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299486223757> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299486223778> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299486223801> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299486223830> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299486223870> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299486223919> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299486223951> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299486223992> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299486224039> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299486224095> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299486224142> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299486224189> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299486224242> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299486224297> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299486224340> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11761_1321792448316> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_11761_1328259127761> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_14044392> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_e0db4388> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_83989f72> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://purl.org/dc/terms/created> "2012-02-03T16:52:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://purl.org/dc/terms/modified> "2016-07-11T20:36:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#prefLabel> "um\u011Bl\u00E9 potraty"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#prefLabel> "Induzierter Abort"@de .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#prefLabel> "induced abortion"@en .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aborto provocado"@es .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0633\u0642\u0637 \u0627\u0644\u0642\u0627\u064A\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#prefLabel> "Avortement provoqu\u00E9"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092A\u094D\u0930\u0947\u0930\u093F\u0924 \u0917\u0930\u094D\u092D\u092A\u093E\u0924"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#prefLabel> "m\u0171vi abortusz"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aborto indotto"@it .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4EBA\u53E3\u6D41\u7523"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC720\uB3C4\uC720\uC0B0"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0E99\u0E8A\u0EC8\u0EA7\u0E8D\u0EC3\u0EAB\u0EC9\u0EA1\u0EB5\u0E81\u0EB2\u0E99\u0EA5\u0EB8\u0EA5\u0EB9\u0E81"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#prefLabel> "Poronienie wywo\u0142ane"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aborto provocado"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0438\u0441\u043A\u0443\u0441\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0430\u0431\u043E\u0440\u0442"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#prefLabel> "vyvolan\u00FD potrat"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E0A\u0E31\u0E01\u0E19\u0E33\u0E43\u0E2B\u0E49\u0E40\u0E01\u0E34\u0E14\u0E01\u0E32\u0E23\u0E41\u0E17\u0E49\u0E07"@th .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8BF1\u53D1\u6D41\u4EA7"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#prefLabel> "gebelik sonland\u0131rmas\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C2A\u0C4D\u0C30\u0C47\u0C30\u0C3F\u0C24 \u0C17\u0C30\u0C4D\u0C2D \u0C35\u0C3F\u0C1A\u0C4D\u0C1B\u0C3F\u0C24\u0C4D\u0C24\u0C3F"@te .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#prefLabel> "avort provocat"@mo .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#altLabel> "avort indus"@mo .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#altLabel> "avort artificial"@mo .
+<http://aims.fao.org/aos/agrovoc/c_11761> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_22> .

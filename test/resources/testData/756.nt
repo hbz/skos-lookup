@@ -1,0 +1,71 @@
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#scopeNote> "Parte dell'URSS prima del 1992; per documenti riguardanti tale nazione prima del cambiamento di status usare <4081>"@it .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#scopeNote> "Partie de l'URSS avant 1992; pour les documents traitant de cette r\u00E9gion avant le changement de statut utiliser <4081>"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#scopeNote> "Regi\u00E3o da URSS antes de 1992; para documentos que tratem daquela regi\u00E3o antes da mudan\u00E7a pol\u00EDtica usar <4081>"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u00E8\u00E1st SSSR p\u00F8ed r. 1992; pro dokumenty zab\u00FDvaj\u00EDc\u00ED se touto oblast\u00ED p\u00F8ed zm\u00ECnou statutu USE KAZA\u0160SK\u00C1 SSR"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#scopeNote> "Cz\u0119\u015B\u0107 ZSRR przed 1992 r.; do dokument\u00F3w dotycz\u0105cych tego regionu przed zmian\u0105 statusu u\u017Cywaj <4081>"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#scopeNote> "1992 elott a Szovjet Szocialista K\u00F6zt\u00E1rsas\u00E1gok Sz\u00F6vets\u00E9g\u00E9nek tagja; Az \u00E1llam st\u00E1tusz\u00E1nak megv\u00E1ltoz\u00E1sa elott a r\u00E9gi\u00F3val kapcsolatos dokumentumokban szerepelt: <4081>"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0EAA\u0EC8\u0EA7\u0E99\u0E82\u0EAD\u0E87\u200B\u0EAA\u0EB0\u0EAB\u0EB0\u0E9E\u0EB2\u0E9A\u200B\u0EC2\u0E8A\u0EA7\u0EBD\u0E94 \u0E88\u0EBB\u0E99\u200B\u0EC0\u0E96\u0EB4\u0E87\u200B\u0E9B\u0EB5 1991; \u0EAA\u0EB3\u0EA5\u0EB1\u0E9A\u200B\u0EC3\u0E8A\u0EC9\u200B\u0E81\u0EB1\u0E9A\u200B\u0E9A\u0EB1\u0E99\u0E94\u0EB2\u200B\u0EC0\u0EAD\u0E81\u0EB0\u200B\u0EAA\u0EB2\u0E99 \u0E81\u0EC8\u0EBD\u0EA7\u200B\u0E81\u0EB1\u0E9A \u0E9E\u0EB2\u0E81\u200B\u0E9E\u0EB7\u0EC9\u0E99\u200B\u0E94\u0EB1\u0EC8\u0E87\u200B\u0E81\u0EC8\u0EB2\u0EA7 \u0E81\u0EC8\u0EAD\u0E99\u200B\u0EC0\u0E81\u0EB5\u0E94\u200B\u0E81\u0EB2\u0E99\u200B\u0E9B\u0EC8\u0EBD\u0E99\u200B\u0EC1\u0E9B\u0E87\u200B\u0EA5\u0EB0\u0E9A\u0EAD\u0E9A\u0E81\u0EB2\u0E99\u200B\u0E9B\u0EBB\u0E81\u200B\u0E84\u0EAD\u0E87; \u0EAA\u0EC8\u0EA7\u0E99\u200B\u0E9E\u0EB2\u0E8D\u200B\u0EAB\u0EBC\u0EB1\u0E87\u0E88\u0EB2\u0E81\u200B\u0E99\u0EB1\u0EC9\u0E99 \u200B\u0EC3\u0EAB\u0EC9\u200B\u0EC3\u0E8A\u0EC9 <4081>"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#scopeNote> "Fuer Dokumente, die von dieser Region vor 1992 handeln, <4081> benutzen"@de .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0642\u0633\u0645\u062A\u06CC \u0627\u0632 \u0627\u062A\u062D\u0627\u062F \u062C\u0645\u0627\u0647\u06CC\u0631 \u0634\u0648\u0631\u0648\u06CC \u0642\u0628\u0644 \u0627\u0632 \u0633\u0627\u0644 1992\u061B\u0628\u0631\u0627\u06CC \u0627\u0633\u062A\u0641\u0627\u062F\u0647 \u0627\u0632 \u0645\u062F\u0627\u0631\u06A9 \u0645\u0631\u0628\u0648\u0637 \u0628\u0647 \u0622\u0646 \u0645\u0646\u0637\u0642\u0647 \u0642\u0628\u0644 \u0627\u0632 \u062A\u063A\u06CC\u06CC\u0631 \u0648\u0636\u0639\u06CC\u062A \u0628\u0647 \u06A9\u0627\u0631 \u0628\u0631\u06CC\u062F \"\"\u0642\u0632\u0627\u0642\u0633\u062A\u0627\u0646 (\u062C\u0645\u0647\u0648\u0631\u06CC \u0633\u0648\u0633\u06CC\u0627\u0644\u06CC\u0633\u062A \u0634\u0648\u0631\u0648\u06CC)\"\""@fa .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#scopeNote> "Part of USSR before 1992; for documents dealing with that region before the change of status use <4081>"@en .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#scopeNote> "Parte de la URSS antes de 1992; para los documentos que tratan de esta regi\u00F3n antes del cambio de estatuto use <4081>"@es .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0E40\u0E1B\u0E47\u0E19\u0E2A\u0E48\u0E27\u0E19\u0E2B\u0E19\u0E36\u0E48\u0E07\u0E02\u0E2D\u0E07\u0E42\u0E0B\u0E40\u0E27\u0E35\u0E22\u0E15\u0E01\u0E48\u0E2D\u0E19 \u0E1E.\u0E28. 2535, \u0E43\u0E0A\u0E49\u0E43\u0E19\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23,\u0E02\u0E49\u0E2D\u0E15\u0E01\u0E25\u0E07\u0E2B\u0E25\u0E31\u0E07\u0E40\u0E1B\u0E25\u0E35\u0E48\u0E22\u0E19\u0E2A\u0E16\u0E32\u0E19\u0E20\u0E32\u0E1E \u0E01\u0E48\u0E2D\u0E19\u0E2B\u0E19\u0E49\u0E32\u0E19\u0E31\u0E49\u0E19\u0E43\u0E0A\u0E49 <4081>"@th .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#scopeNote> "1992'ye kadar SSCB'ye ba\u011Fl\u0131d\u0131r; b\u00F6lgeyle ilgili bu tarihteki stat\u00FC de\u011Fi\u015Fiminden \u00F6nceki dok\u00FCmanlar i\u00E7in <4081> kodlu terimi kullan\n"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_37864> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Kazakhstan> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_16708> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kazakhstan> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://aims.fao.org/aos/agrontology#spatiallyIncludes> <http://aims.fao.org/aos/agrovoc/c_29699> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://aims.fao.org/aos/agrontology#spatiallyIncludes> <http://aims.fao.org/aos/agrovoc/c_49822> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://aims.fao.org/aos/agrontology#isPartOfSubvocabulary> "Geographical country level" .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299520447084> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299520447171> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299520447009> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299520447026> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299520447044> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299520447062> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299520447106> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299520447196> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299520447222> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299520447250> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299520447279> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299520447310> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299520447343> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299520447378> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299520447552> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299520447589> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299520447646> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299520447703> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299520447770> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11952_1321792473347> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299520448128> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299520448013> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://purl.org/dc/terms/created> "2011-11-20T20:34:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://purl.org/dc/terms/modified> "2013-08-28T17:55:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kazajstan"@es .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kazakhstan"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0642\u0627\u0632\u0627\u062E\u0633\u062A\u0627\u0646"@ar .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kazachst\u00E1n"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kasachstan"@de .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kazakhstan"@en .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0642\u0632\u0627\u0642\u0633\u062A\u0627\u0646"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u091C\u093E\u0915\u0938\u094D\u0924\u093E\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kazahszt\u00E1n"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kazakistan"@it .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30AB\u30B6\u30D5\u30B9\u30BF\u30F3\u5171\u548C\u56FD"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uCE74\uC790\uD750\uC2A4\uD0C4"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0E8A\u0EB1\u0E81\u0EAA\u0EB0\u0E96\u0EB2\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kazachstan"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cazaquist\u00E3o"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043A\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043D"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kazachstan"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E04\u0E32\u0E0B\u0E31\u0E04\u0E2A\u0E16\u0E32\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u54C8\u8428\u514B\u65AF\u5766"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kazakistan"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#altLabel> "Kazakhst\u00E1n"@es .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#altLabel> "Kazahstan"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11952> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_37864> .

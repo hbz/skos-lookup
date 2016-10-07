@@ -1,0 +1,39 @@
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2331> .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299516410193> .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299516410211> .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299516410228> .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299516410246> .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299516410266> .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299516410589> .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299516410612> .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299516410637> .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299516410664> .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299516410754> .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299516410784> .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299516410817> .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299516410851> .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299516410953> .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10271_1321792279746> .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://purl.org/dc/terms/created> "2011-11-20T20:31:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://purl.org/dc/terms/modified> "2013-08-27T21:11:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2004/02/skos/core#prefLabel> "detergenty v ml\u00E9ka\u0159stv\u00ED"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2004/02/skos/core#prefLabel> "Molkereireinigungmittel"@de .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2004/02/skos/core#prefLabel> "dairy detergents"@en .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0632\u062F\u0627\u064A\u0646\u062F\u0647\u200C\u0647\u0627\u064A \u0634\u064A\u0631"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0921\u093E\u0930\u0940 \u092A\u094D\u0930\u0915\u094D\u0937\u093E\u0932\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2004/02/skos/core#prefLabel> "tejipari detergens"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2004/02/skos/core#prefLabel> "Detergenti per il settore lattiero-caseario"@it .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u916A\u8FB2\u7528\u6D17\u6D44\u5264"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uAC00\uCD95\uC138\uC81C"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2004/02/skos/core#prefLabel> "Detergenty w mleczarstwie"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043C\u043E\u044E\u0449\u0438\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430 \u0434\u043B\u044F \u043C\u043E\u043B\u043E\u0447\u043D\u043E\u0433\u043E \u043E\u0431\u043E\u0440\u0443\u0434\u043E\u0432\u0430\u043D\u0438\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2004/02/skos/core#prefLabel> "detergenty v mliekarstve"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E2A\u0E32\u0E23\u0E06\u0E48\u0E32\u0E40\u0E0A\u0E37\u0E49\u0E2D\u0E43\u0E19\u0E19\u0E21"@th .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5976\u5236\u54C1\u6E05\u6D01\u5242"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2004/02/skos/core#prefLabel> "s\u00FCt\u00E7\u00FCl\u00FCk deterjanlar\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2004/02/skos/core#narrower> <http://aims.fao.org/aos/agrovoc/c_15066> .
+<http://aims.fao.org/aos/agrovoc/c_10271> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2331> .

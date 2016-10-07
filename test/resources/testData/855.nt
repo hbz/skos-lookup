@@ -1,0 +1,43 @@
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1081> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_21792> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299509714987> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299509715003> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299509715022> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299509715040> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299509715060> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299509715082> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299509715105> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299509715373> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299509715399> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299509715426> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299509715454> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299509715483> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299509715518> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299509715552> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299509715587> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299509715623> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12212_1321792503365> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://purl.org/dc/terms/created> "2011-11-20T20:35:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://purl.org/dc/terms/modified> "2014-07-03T19:56:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2004/02/skos/core#prefLabel> "plemena hospod\u00E1\u0159sk\u00FDch zv\u00ED\u0159at"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2004/02/skos/core#prefLabel> "Viehrasse"@de .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2004/02/skos/core#prefLabel> "livestock breeds"@en .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2004/02/skos/core#prefLabel> "Razas de ganado"@es .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0646\u0698\u0627\u062F\u0647\u0627\u06CC \u062F\u0627\u0645"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2004/02/skos/core#prefLabel> "Race d'animal d'\u00E9levage"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092A\u0936\u0941\u0927\u0928 \u0928\u0938\u094D\u0932\u0947\u0902 / \u092A\u094D\u0930\u091C\u093E\u0924\u093F\u092F\u093E\u0901"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2004/02/skos/core#prefLabel> "h\u00E1zi\u00E1llatfajta"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2004/02/skos/core#prefLabel> "Razze di bestiame"@it .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5BB6\u755C\u306E\u54C1\u7A2E"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rasy zwierz\u0105t gospodarskich"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ra\u00E7a de gado"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043F\u043E\u0440\u043E\u0434\u044B \u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0445 \u0436\u0438\u0432\u043E\u0442\u043D\u044B\u0445"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2004/02/skos/core#prefLabel> "plemen\u00E1 hospod\u00E1rskych zvierat"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E2A\u0E32\u0E22\u0E1E\u0E31\u0E19\u0E18\u0E38\u0E4C\u0E1B\u0E28\u0E38\u0E2A\u0E31\u0E15\u0E27\u0E4C"@th .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5BB6\u755C\u54C1\u79CD"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00E7iftlik hayvan\u0131 \u0131rk\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12212> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1081> .

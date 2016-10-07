@@ -1,0 +1,55 @@
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3859> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_29732> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299492346472> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299492346490> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299492346512> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299492346531> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299492346552> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299492346573> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299492346622> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299492346649> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299492346677> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299492346707> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299492346736> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299492346785> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299492346822> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299492346858> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299492346895> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299492347134> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299492347183> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299492347229> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299492347294> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10648_1321792326891> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_10648_1328257924797> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299492347397> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10648_1321792327015> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://purl.org/dc/terms/created> "2012-02-03T16:32:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://purl.org/dc/terms/modified> "2013-08-27T19:47:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0641\u064A\u0631\u0648\u0633 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u062E\u064A\u0648\u0644"@ar .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#prefLabel> "virus ch\u0159ipky kon\u00ED"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equines influenzavirus"@de .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equine influenzavirus"@en .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virus de la influenza equina"@es .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u0648\u06CC\u0631\u0648\u0633 \u0627\u0633\u0628\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#prefLabel> "Influenzavirus \u00E9quin"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0905\u0936\u094D\u0935\u0940\u092F \u0928\u091C\u0932\u093E-\u0935\u093F\u0937\u093E\u0923\u0941"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#prefLabel> "l\u00F3 influenzav\u00EDrus"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virus dell'influenza equina"@it .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30A6\u30DE\u30A4\u30F3\u30D5\u30EB\u30A8\u30F3\u30B6\u30A6\u30A4\u30EB\u30B9"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uB9D0\uC778\uD50C\uB8E8\uC5D4\uC790\uBC14\uC774\uB7EC\uC2A4"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equine influenzavirus"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wirus influenzy koni"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#prefLabel> "V\u00EDrus da gripe equina"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0432\u0438\u0440\u0443\u0441\u044B \u0433\u0440\u0438\u043F\u043F\u0430 \u043B\u043E\u0448\u0430\u0434\u0435\u0439"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#prefLabel> "v\u00EDrus chr\u00EDpky kon\u00ED"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equine influenzavirus"@th .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u9A6C\u6D41\u611F\u75C5\u6BD2"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#prefLabel> "at influenza vir\u00FCs\u00FC"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C17\u0C41\u0C30\u0C4D\u0C30\u0C2A\u0C41 \u0C35\u0C3F\u0C37 \u0C2A\u0C21\u0C3F\u0C36 \u0C35\u0C3F\u0C2A\u0C3E\u0C23\u0C41\u0C35\u0C41"@te .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#altLabel> "Wirus grypy koni"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#altLabel> "at gribi vir\u00FCs\u00FC"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10648> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3859> .

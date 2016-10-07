@@ -1,0 +1,40 @@
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2004/02/skos/core#definition> <http://aims.fao.org/aos/agrovoc/xDef_1328252915763> .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7616> .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://eurovoc.europa.eu/4078> .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299519653521> .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299519653739> .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299519653758> .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299519653777> .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299519653798> .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299519653819> .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299519653844> .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299519653869> .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299519653895> .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299519653922> .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299519653951> .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299519653983> .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299519654018> .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299519654054> .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10223_1321792274528> .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://purl.org/dc/terms/created> "2011-11-20T20:31:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://purl.org/dc/terms/modified> "2014-07-03T19:31:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2004/02/skos/core#prefLabel> "celn\u00ED poplatky"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2004/02/skos/core#prefLabel> "Warenzoll"@de .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2004/02/skos/core#prefLabel> "customs duties"@en .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2004/02/skos/core#prefLabel> "Derechos de aduana"@es .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0938\u0940\u092E\u0915\u0930"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2004/02/skos/core#prefLabel> "v\u00E1m"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2004/02/skos/core#prefLabel> "Imposte doganali"@it .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u95A2\u7A0E"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taryfa celna"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2004/02/skos/core#prefLabel> "Encargo alfandeg\u00E1rio"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0442\u0430\u043C\u043E\u0436\u0435\u043D\u043D\u044B\u0435 \u043F\u043E\u0448\u043B\u0438\u043D\u044B"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2004/02/skos/core#prefLabel> "coln\u00E9 poplatky"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E2D\u0E32\u0E01\u0E23\u0E28\u0E38\u0E25\u0E01\u0E32\u0E01\u0E23"@th .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8FDB\u53E3\u5173\u7A0E"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2004/02/skos/core#prefLabel> "g\u00FCmr\u00FCk vergisi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10223> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7616> .

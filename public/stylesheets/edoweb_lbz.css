@@ -1,0 +1,21 @@
+.key {
+	 vertical-align: top;
+}
+.resourceDetail .shortTitle 	{
+	 display: none;
+}
+.resourceList .longTitle 	{
+	 display: none;
+}
+
+.shortTitle #otherTitleInformation{
+	font-style:italic;
+}
+
+.shortTitle #lastModified{
+	font-style:italic;
+	font-size:small;
+}
+.shortTitle #urn{
+	
+}

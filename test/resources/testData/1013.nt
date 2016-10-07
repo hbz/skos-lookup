@@ -1,0 +1,90 @@
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5296> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Canton_and_Enderbury_Islands> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://aims.fao.org/aos/agrontology#isPartOfSubvocabulary> "Geographical country level" .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299520485677> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299520486252> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299520485585> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299520485604> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299520485625> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299520485646> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299520485705> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299520485732> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299520485985> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299520486027> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299520486057> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299520486089> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299520486129> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299520486173> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299520486214> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299520486293> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299520486356> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299520486399> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1265_1321790187643> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1265_1328260278281> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299520488278> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299520488168> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299520486571> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299520486757> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299520488041> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299520487668> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299520487853> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299520486508> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299520487580> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299520486625> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299520487306> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299520487229> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299520487948> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299520487487> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299520487400> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299520487757> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299520487099> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299520486685> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299520487159> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10595_1321792319019> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://purl.org/dc/terms/created> "2012-02-03T17:11:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://purl.org/dc/terms/modified> "2013-08-28T18:44:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#prefLabel> "Islas de Cant\u00F3n y Enderbury"@es .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043E\u0441\u0442\u0440\u043E\u0432\u0430 \u043A\u0430\u043D\u0442\u043E\u043D \u0438 \u044D\u043D\u0434\u0435\u0440\u0431\u0435\u0440\u0438"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062C\u0632\u0631 \u0643\u0627\u0646\u062A\u0648\u0646 \u0648\u0623\u0646\u062F\u0631\u0628\u0631\u064A"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kanton a Enderbursk\u00E9 ostrovy"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#prefLabel> "Canton und Enderbury Inseln"@de .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#prefLabel> "Canton and Enderbury Islands"@en .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062C\u0632\u0627\u06CC\u0631 \u06A9\u0627\u0646\u062A\u0648\u0646 \u0627\u0646\u062F\u0631\u0628\u0631\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00CEles Canton et Enderbury"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u0948\u0928\u094D\u091F\u0928 \u090F\u0935\u0902 \u0907\u0928\u094D\u0921\u0930\u092C\u0930\u0940 \u0926\u094D\u0935\u0940\u092A"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#prefLabel> "Canton \u00E9s Enderbury-szigetek"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#prefLabel> "Isole Canton ed Enderbury"@it .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30AB\u30F3\u30C8\u30F3\u30FB\u30A8\u30F3\u30C0\u30D9\u30EA\u8AF8\u5CF6"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EDD\u0EB9\u0EC8\u0EC0\u0E81\u0EB2\u0EB0\u0EC1\u0E84\u0EB1\u0E99\u0E95\u0EB1\u0EAD\u0E99 \u0EC1\u0EA5\u0EB0 \u0EC0\u0EAD\u0E99\u0EC0\u0E94\u0EB5\u0EC9\u0EC0\u0E9A\u0EB5\u0EA3\u0EB5"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wyspy Canton i Enderbury"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ilhas de Canton e Enderbury"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#prefLabel> "ostrovy Canton a Enderbury"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E2B\u0E21\u0E39\u0E48\u0E40\u0E01\u0E32\u0E30\u0E41\u0E04\u0E19\u0E15\u0E2D\u0E19\u0E41\u0E25\u0E30\u0E40\u0E2D\u0E47\u0E19\u0E40\u0E14\u0E2D\u0E40\u0E1A\u0E2D\u0E23\u0E35\u0E48"@th .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u574E\u987F\u548C\u6069\u5FB7\u4F2F\u91CC\u7FA4\u5C9B"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kanton ve Endenburi Adalar\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C26\u0C47\u0C36\u0C40\u0C2F \u0C09\u0C24\u0C4D\u0C2A\u0C24\u0C4D\u0C24\u0C3F"@te .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#altLabel> "Canton (islas)"@es .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043A\u0430\u043D\u0442\u043E\u043D (\u043E\u0441\u0442\u0440\u043E\u0432)"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062C\u0632\u064A\u0631\u0629 \u0627\u0646\u062F\u0631\u0628\u0648\u0631\u064A"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#altLabel> "Enderbury"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#altLabel> "Enderbury"@de .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#altLabel> "Enderbury Island"@en .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#altLabel> "Isla Enderbury"@es .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062C\u0632\u064A\u0631\u0647 \u0627\u0646\u062F\u0631\u0628\u0631\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#altLabel> "\u00CEle Enderbury"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#altLabel> "\u090F\u0928\u094D\u0921\u0930\u092C\u0947\u0930\u0940 \u0926\u094D\u0935\u0940\u092A"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#altLabel> "Enderbury-sziget"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#altLabel> "Isola Enderbury"@it .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#altLabel> "\u30A8\u30F3\u30C0\u30D9\u30EA\u5CF6"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#altLabel> "Wyspa Enderbury"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#altLabel> "Ilha Enderbury"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#altLabel> "\u044D\u043D\u0434\u0435\u0440\u0431\u0435\u0440\u0438 (\u043E\u0441\u0442\u0440\u043E\u0432)"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#altLabel> "Enderbursk\u00E9 ostrovy"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E2B\u0E21\u0E39\u0E48\u0E40\u0E01\u0E32\u0E30\u0E40\u0E2D\u0E47\u0E19\u0E40\u0E14\u0E2D\u0E40\u0E1A\u0E2D\u0E23\u0E35\u0E48"@th .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#altLabel> "\u6069\u5FB7\u4F2F\u91CC\u5C9B"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#altLabel> "Enderbury Adalar\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1265> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5296> .

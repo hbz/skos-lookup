@@ -1,0 +1,64 @@
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3880> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Boric_acid> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/21199> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_34265> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/18626> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://aims.fao.org/aos/asfa/c_4435> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://aims.fao.org/aos/agrontology#isPartOfSubvocabulary> "Chemicals" .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299514532644> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299514532659> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1320923586783> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299514532693> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299514532713> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299514532734> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299514532758> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299514532782> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299514533084> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299514533113> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299514533180> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299514533211> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299514533243> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299514533275> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299514533332> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299514533456> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299514533499> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299514533544> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299514533601> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1016_1321790046519> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1016_1328260119021> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_40918e5c> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299514532675> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299514533820> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299514533747> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://purl.org/dc/terms/created> "2012-02-03T17:08:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://purl.org/dc/terms/modified> "2015-09-18T00:20:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062D\u0645\u0636 \u0627\u0644\u0628\u0648\u0631\u064A\u0643"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#prefLabel> "kyselina borit\u00E1"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bors\u00E4ure"@de .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#prefLabel> "boric acid"@en .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00C1cido b\u00F3rico"@es .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0628\u0648\u0631\u06CC\u06A9 \u0627\u0633\u06CC\u062F"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acide borique"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092C\u094B\u0930\u093F\u0915 \u0905\u092E\u094D\u0932"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#prefLabel> "b\u00F3rsav"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acido borico"@it .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30DB\u30A6\u9178"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uBD95\uC0B0"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EAD\u0EB2\u0E8A\u0EB4\u0E94\u0E9A\u0ECD\u0EA3\u0EB4\u0E81"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kwas borny"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00C1cido b\u00F3rico"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0431\u043E\u0440\u043D\u0430\u044F \u043A\u0438\u0441\u043B\u043E\u0442\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#prefLabel> "kyselina borit\u00E1"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E23\u0E14\u0E1A\u0E2D\u0E23\u0E34\u0E04"@th .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u787C\u9178"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#prefLabel> "borik asit"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C26\u0C4D\u0C35\u0C2F\u0C38\u0C4D\u0C25\u0C3F\u0C24\u0C3F\u0C15\u0C02"@te .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#prefLabel> "acid boric"@mo .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#altLabel> "Borsaeure"@de .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0627\u0633\u06CC\u062F \u0628\u0648\u0631\u064A\u0643"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#altLabel> "Kwas borowy"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1016> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3880> .

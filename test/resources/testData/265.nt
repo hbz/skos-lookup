@@ -1,0 +1,54 @@
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4810> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/26363> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/124290> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/36212> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://aims.fao.org/aos/asfa/c_5536> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299485916834> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299485916851> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299485916868> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299485916887> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299485916908> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299485916929> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299485916953> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299485916978> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299485917007> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299485917036> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299485917066> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299485917097> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299485917131> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299485917165> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299485917202> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299485917240> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299485917280> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299485917320> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10573_1321792317267> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_10573_1328257809787> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_12db937b> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://purl.org/dc/terms/created> "2012-02-03T16:30:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://purl.org/dc/terms/modified> "2016-07-11T20:44:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#prefLabel> "elektronov\u00E1 mikroskopie"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elektronenmikroskopie"@de .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#prefLabel> "electron microscopy"@en .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Microscop\u00EDa electr\u00F3nica"@es .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0631\u064A\u0632\u0628\u064A\u0646\u0649 \u0627\u0644\u0643\u062A\u0631\u0648\u0646\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Microscopie \u00E9lectronique"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0907\u0932\u0947\u0915\u094D\u091F\u094D\u0930\u093E\u0928 \u0938\u0942\u0915\u094D\u0937\u094D\u092E\u0926\u0930\u094D\u0936\u0940\u092F"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#prefLabel> "elektronmikroszk\u00F3pia"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Microscopia elettronica"@it .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u96FB\u5B50\u9855\u5FAE\u93E1\u691C\u67FB"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC804\uC790\uD604\uBBF8\uACBD\uC0AC\uC6A9\uBC95"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0E99\u0EAA\u0EC8\u0EAD\u0E87\u0E94\u0EC9\u0EA7\u0E8D\u0E81\u0EC9\u0EAD\u0E87\u0E88\u0EB8\u0EA5\u0EB0\u0E97\u0EB1\u0E94\u0EAD\u0EB4\u0EC0\u0EA5\u0EB1\u0E81\u0E97\u0EA3\u0EAD\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mikroskopia elektronowa"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Microscopia electr\u00F3nica"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u044D\u043B\u0435\u043A\u0442\u0440\u043E\u043D\u043D\u0430\u044F \u043C\u0438\u043A\u0440\u043E\u0441\u043A\u043E\u043F\u0438\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#prefLabel> "elektr\u00F3nov\u00E1 mikroskopia"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E25\u0E49\u0E2D\u0E07\u0E08\u0E38\u0E25\u0E17\u0E23\u0E23\u0E28\u0E19\u0E4C\u0E2D\u0E34\u0E40\u0E25\u0E47\u0E01\u0E15\u0E23\u0E2D\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7535\u5B50\u663E\u5FAE\u672F"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#prefLabel> "elektron mikroskopisi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C35\u0C3F\u0C26\u0C4D\u0C2F\u0C41\u0C24\u0C4D\u0C15\u0C23 \u0C38\u0C42\u0C15\u0C4D\u0C37\u0C4D\u0C2E \u0C26\u0C30\u0C4D\u0C36\u0C28\u0C02"@te .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#prefLabel> "microscopie electronic\u0103"@mo .
+<http://aims.fao.org/aos/agrovoc/c_10573> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4810> .

@@ -1,0 +1,59 @@
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#scopeNote> "Rostlin"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#scopeNote> "An Pflanzen"@de .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#scopeNote> "To plants"@en .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#scopeNote> "A las plantas"@es .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#scopeNote> "Aux plantes"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#scopeNote> "N\u00F6v\u00E9nyek eset\u00E9n"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#scopeNote> "A carico delle piante"@it .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0E95\u0ECD\u0EC8\u0E9E\u0EB7\u0E94"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0E2D\u0E31\u0E19\u0E15\u0E23\u0E32\u0E22\u0E02\u0E2D\u0E07\u0E1B\u0E38\u0E4B\u0E22\u0E15\u0E48\u0E2D\u0E1E\u0E37\u0E0A"@th .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#scopeNote> "Bitkilere\n"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5848> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/39933> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299488401872> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1326883322056> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299488401904> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299488401922> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299488401942> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299488401963> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299488401986> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299488402012> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299488402038> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299488402065> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299488402092> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299488402122> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299488402154> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299488402185> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299488402219> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299488402254> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299488402481> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10797_1321792344804> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_10797_1328258324237> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299488401887> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://purl.org/dc/terms/created> "2012-02-03T16:38:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://purl.org/dc/terms/modified> "2015-03-12T18:16:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#prefLabel> "po\u0161kozen\u00ED hnojivy"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#prefLabel> "D\u00FCngeschaden"@de .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#prefLabel> "fertilizer injury"@en .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#prefLabel> "Da\u00F1os por abonos"@es .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0622\u0633\u064A\u0628 \u0643\u0648\u062F \u0634\u06CC\u0645\u06CC\u0627\u06CC\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#prefLabel> "D\u00E9g\u00E2t par engrais"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0909\u0930\u094D\u0935\u0930\u0915 \u0938\u0947 \u0915\u094D\u0937\u0924\u093F"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#prefLabel> "tr\u00E1gy\u00E1z\u00E1s okozta k\u00E1r"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#prefLabel> "Danno da fertilizzanti"@it .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u80A5\u713C\u3051"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uBE44\uB8CC\uD574"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#prefLabel> "Uszkodzenie ro\u015Blin przez nawozy"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dano por fertilizante"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043F\u043E\u0432\u0440\u0435\u0436\u0434\u0435\u043D\u0438\u0435 \u0443\u0434\u043E\u0431\u0440\u0435\u043D\u0438\u044F\u043C\u0438"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#prefLabel> "po\u0161kodenie hnojivami"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E04\u0E27\u0E32\u0E21\u0E40\u0E2A\u0E35\u0E22\u0E2B\u0E32\u0E22\u0E08\u0E32\u0E01\u0E01\u0E32\u0E23\u0E43\u0E2A\u0E48\u0E1B\u0E38\u0E4B\u0E22"@th .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u80A5\u6599\u4F24\u5BB3"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#prefLabel> "g\u00FCbre hasar\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C0E\u0C30\u0C41\u0C35\u0C41\u0C32 \u0C26\u0C46\u0C2C\u0C4D\u0C2C"@te .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#altLabel> "Duengeschaden"@de .
+<http://aims.fao.org/aos/agrovoc/c_10797> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5848> .

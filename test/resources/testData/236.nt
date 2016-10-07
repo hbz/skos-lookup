@@ -1,0 +1,52 @@
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_8378> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://aims.fao.org/aos/agrontology#hasComposition> <http://aims.fao.org/aos/agrovoc/c_24127> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://id.loc.gov/authorities/sh85040083#concept> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299512690432> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299512690880> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299512690898> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299512690917> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299512690937> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299512690959> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299512690983> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299512691019> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299512691052> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299512691087> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299512691140> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299512691197> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299512691388> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299512691430> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299512691482> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299512691534> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299512691680> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10492_1321792307593> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1332150969223> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_e4406ec3> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_49668dd7> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://purl.org/dc/terms/created> "2011-11-20T20:31:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://purl.org/dc/terms/modified> "2015-11-10T17:06:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#prefLabel> "pra\u0161n\u00E9 v\u00EDry"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#prefLabel> "dust devils"@en .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tempestades de polvo"@es .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u06AF\u0631\u062F\u0628\u0627\u062F\u0647\u0627\u064A \u0643\u0648\u0686\u0643"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tourbillon de poussi\u00E8re"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0927\u0942\u0932 \u0926\u0948\u0928\u094D\u092F/\u0927\u0942\u0932 \u0915\u0947 \u092C\u0935\u0902\u0921\u0930"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#prefLabel> "por\u00F6rd\u00F6g"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turbini di polvere"@it .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5875\u65CB\u98A8"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uBAA8\uB798\uC120\uD48D"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E9E\u0EB0\u0E8D\u0EB8\u0E9D\u0EC8\u0EB8\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#prefLabel> "Burza piaskowa"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tempestade de p\u00F3"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043F\u044B\u043B\u044C\u043D\u044B\u0435 \u0431\u0443\u0440\u0438"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#prefLabel> "prachov\u00E9 v\u00EDry"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E25\u0E21\u0E27\u0E19\u0E17\u0E35\u0E48\u0E40\u0E15\u0E47\u0E21\u0E44\u0E1B\u0E14\u0E49\u0E27\u0E22\u0E1D\u0E38\u0E48\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5C18\u66B4"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#prefLabel> "toz f\u0131rt\u0131nas\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleintrombe"@de .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#prefLabel> "furtun\u0103 de nisip"@mo .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#altLabel> "furtun\u0103 de praf"@mo .
+<http://aims.fao.org/aos/agrovoc/c_10492> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_8378> .

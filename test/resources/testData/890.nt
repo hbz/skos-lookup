@@ -1,0 +1,53 @@
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_598> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_27672> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/12050> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://aims.fao.org/aos/agrontology#hasTaxonomicRank> <http://aims.fao.org/aos/agrovoc/c_331243> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299492135928> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299492135947> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299492135967> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299492135987> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299492136037> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299492136063> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299492136090> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299492136119> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299492136150> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299492136210> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299492136348> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299492136382> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299492136416> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299492136452> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299492136489> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299492136530> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299492136571> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299492136616> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12291_1321792512739> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1327566234349> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1337694900663> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://purl.org/dc/terms/created> "2011-11-20T20:35:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://purl.org/dc/terms/modified> "2013-08-27T19:46:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#prefLabel> "virus lymfocyt\u00E1rn\u00ED choriomeningitidy"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lymphozytaeres choriomeningitisvirus"@de .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lymphocytic choriomeningitis virus"@en .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virus coriomeningitis linfoc\u00EDtica"@es .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0648\u064A\u0631\u0648\u0633 \u0643\u0648\u0631\u064A\u0648\u0645\u0646\u0646\u0698\u064A\u062A \u0644\u0646\u0641\u0648\u0633\u064A\u062A\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virus choriom\u00E9ningite lymphocytique"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0932\u093F\u092E\u094D\u092B\u094B\u0938\u093F\u091F\u093F\u0915 \u0915\u094B\u0930\u0940\u0913\u092E\u0947\u0928\u093F\u0928\u091C\u093E\u0908\u091F\u093F\u0938 \u0935\u093F\u0937\u093E\u0923\u0941"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lymphocyt\u00E1s choriomeningitis v\u00EDrus"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virus della coriomeningite linfocitaria"@it .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30EA\u30F3\u30D1\u7403\u6027\u8108\u7D61\u9AC4\u819C\u708E\u30A6\u30A4\u30EB\u30B9"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC784\uD30C\uAD6C\uC131\uB9E5\uB77D\uC218\uB9C9\uBC14\uC774\uB7EC\uC2A4"@ko .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lymphocytic choriomeningitis virus"@lo .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wirus limfocytowego zapalenia opon m\u00F3zgowych"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#prefLabel> "V\u00EDrus da coriomeningite linf\u00F3citica"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0432\u0438\u0440\u0443\u0441 \u043B\u0438\u043C\u0444\u043E\u0446\u0438\u0442\u0430\u0440\u043D\u043E\u0433\u043E \u0445\u043E\u0440\u0438\u043E\u043C\u0435\u043D\u0438\u043D\u0433\u0438\u0442\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#prefLabel> "virus lymfocyt\u00E1rnej choriomeningit\u00EDdy"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lymphocytic choriomeningitis virus"@th .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6DCB\u5DF4\u7EC6\u80DE\u6027\u8109\u7EDC\u4E1B\u8111\u819C\u708E\u75C5\u6BD2"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#prefLabel> "lenfositik koriyomenenjit vir\u00FCs\u00FC"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#altLabel> "Lymphozyt\u00E4res Choriomeningitisvirus"@de .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#altLabel> "Lymphozyt\u00E4res Choriomeningitis Virus"@de .
+<http://aims.fao.org/aos/agrovoc/c_12291> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_598> .

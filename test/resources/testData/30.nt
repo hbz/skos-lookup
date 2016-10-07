@@ -1,0 +1,33 @@
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://voc.landportal.info/landterms> .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2004/02/skos/core#inScheme> <http://voc.landportal.info/landterms> .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2004/02/skos/core#definition> <http://aims.fao.org/aos/agrovoc/xDef_9343e456> .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2004/02/skos/core#definition> <http://aims.fao.org/aos/agrovoc/xDef_e25490f8> .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_16205> .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_476cfc0a> .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_54e74c9f> .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_f00c203c> .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_3b6a7a33> .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_04bce822> .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_km_f88918b3> .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_vi_e51ec0b2> .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_my_eb785317> .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_13730241> .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_6ad67ea9> .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://purl.org/dc/terms/created> "2015-03-09T14:50:41Z"^^<xsd:http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://purl.org/dc/terms/modified> "2016-07-11T20:58:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2004/02/skos/core#prefLabel> "unclaimed lands"@en .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2004/02/skos/core#prefLabel> "terres vacantes"@fr .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2004/02/skos/core#prefLabel> "bald\u00EDos"@es .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2004/02/skos/core#prefLabel> "nen\u00E1rokovan\u00E1 p\u016Fda"@cs .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2004/02/skos/core#prefLabel> "Terras n\u00E3o reclamadas"@pt .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u178A\u17B8\u1791\u17C6\u1793\u17C1\u179A"@km .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0111\u1EA5t v\u00F4 ch\u1EE7 (\u0111\u1EA5t kh\u00F4ng khai b\u00E1o)"@vi .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u1015\u102D\u102F\u1004\u103A\u1006\u102D\u102F\u1004\u103A\u1000\u103C\u1031\u102C\u1004\u103A\u1038\u1021\u1011\u1031\u102C\u1000\u103A\u1021\u1011\u102C\u1038\u1019\u1015\u103C\u1014\u102D\u102F\u1004\u103A\u101E\u100A\u1037\u103A \u1019\u103C\u1031\u101A\u102C\u1019\u103B\u102C\u1038"@my .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E1E\u0E37\u0E49\u0E19\u0E17\u0E35\u0E48\u0E17\u0E35\u0E48\u0E44\u0E21\u0E48\u0E21\u0E35\u0E01\u0E32\u0E23\u0E08\u0E31\u0E1A\u0E08\u0E2D\u0E07"@th .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2004/02/skos/core#altLabel> "tierras no reclamadas"@es .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://voc.landportal.info/landterms> .
+<http://aims.fao.org/aos/agrovoc/c_0e0e555b> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_16205> .

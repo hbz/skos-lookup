@@ -1,0 +1,72 @@
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_11183> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Monosodium_glutamate> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/25121> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299515559444> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299515559462> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299515559482> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299515559503> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299515559526> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299515559549> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299515559573> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299515559599> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299515559626> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299515559655> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299515559685> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299515559717> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299515559749> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299515559784> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299515559821> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299515559859> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12645_1321792547657> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299515560530> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299515560943> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299515560384> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299515560431> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299515560753> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299515560696> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299515561012> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299515560334> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299515560814> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299515560877> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299515560584> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299515560478> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299515560640> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12680_1321792553097> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://purl.org/dc/terms/created> "2011-11-20T20:35:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://purl.org/dc/terms/modified> "2015-06-16T20:39:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#prefLabel> "glutam\u00E1t sodn\u00FD"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mononatriumglutamat"@de .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#prefLabel> "monosodium glutamate"@en .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glutamato monos\u00F3dico"@es .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0645\u0648\u0646\u0648\u0633\u062F\u064A\u0645 \u06AF\u0644\u0648\u062A\u0627\u0645\u0627\u062A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092E\u094B\u0928\u094B\u0938\u094B\u0921\u093F\u092F\u092E \u0917\u094D\u0932\u0942\u091F\u093E\u092E\u0947\u091F"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#prefLabel> "monon\u00E1trium-glutam\u00E1t"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glutammato monosodico"@it .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30B0\u30EB\u30BF\u30DF\u30F3\u9178\u30CA\u30C8\u30EA\u30A6\u30E0"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uAE00\uB8E8\uD0C0\uBBFC\uC0B0\uB098\uD2B8\uB968"@ko .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glutaminian sodu"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glutamato monoss\u00F3dico"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0433\u043B\u0443\u0442\u0430\u043C\u0430\u0442 \u043D\u0430\u0442\u0440\u0438\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#prefLabel> "glutam\u00E1t sodn\u00FD"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E42\u0E21\u0E42\u0E19\u0E42\u0E0B\u0E40\u0E14\u0E35\u0E22\u0E21\u0E01\u0E25\u0E39\u0E15\u0E32\u0E40\u0E21\u0E17"@th .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8C37\u6C28\u9178\u94A0"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#prefLabel> "monosodyum glutamat"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#altLabel> "msg"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#altLabel> "MSG"@en .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0627\u0645.\u0627\u0633.\u062C\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#altLabel> "\u092E\u0948\u0917"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#altLabel> "MSG"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#altLabel> "MSG"@it .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#altLabel> "\u30B0\u30EB\u30BF\u30DF\u30F3\u9178\u30E2\u30CE\u30CA\u30C8\u30EA\u30A6\u30E0"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#altLabel> "\uC5E0\uC5D0\uC2A4\uC9C0"@ko .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#altLabel> "Msg (glutaminian sodu)"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#altLabel> "MSG"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#altLabel> "glutaman sodn\u00FD"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E40\u0E2D\u0E47\u0E21\u0E40\u0E2D\u0E2A\u0E08\u0E35"@th .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#altLabel> "\u5473\u7CBE"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#altLabel> "MSG"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12645> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_11183> .

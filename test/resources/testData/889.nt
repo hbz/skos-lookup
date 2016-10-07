@@ -1,0 +1,53 @@
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4483> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_27652> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299523617793> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299523617809> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299523617826> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299523617845> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299523617866> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299523617887> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299523617910> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299523617934> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299523618126> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299523618156> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299523618322> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299523618352> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299523618384> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299523618418> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299523618454> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299523618492> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299523618531> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299523618571> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12290_1321792512486> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_5113efec> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1326880149507> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12290_1321792512609> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://purl.org/dc/terms/created> "2011-11-20T20:35:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://purl.org/dc/terms/modified> "2015-09-17T17:05:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#prefLabel> "lymfatick\u00E9 c\u00E9vy"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lymphgefaess"@de .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#prefLabel> "lymphatic vessels"@en .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cond\u00FActos linf\u00E1ticos"@es .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0631\u06AF\u200C\u0647\u0627\u064A \u0644\u0646\u0641\u0627\u0648\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vaisseau lymphatique"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0932\u0938\u0940\u0915\u093E \u0935\u093E\u0939\u093F\u0928\u0940 \u0924\u0902\u0924\u094D\u0930"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#prefLabel> "nyirok\u00E9r"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vasi linfatici"@it .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30EA\u30F3\u30D1\u7BA1\u708E"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uB9BC\uD504\uAD00"@ko .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EAB\u0EBC\u0EAD\u0E94\u0E99\u0EC9\u0EB3\u0EA2\u0EB2\u0E87\u0EC0\u0EAB\u0EBC\u0EB7\u0EAD\u0E87"@lo .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Naczynia limfatyczne"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vasos linf\u00E1ticos"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043B\u0438\u043C\u0444\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0441\u043E\u0441\u0443\u0434\u044B"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#prefLabel> "lymfatick\u00E9 cievy"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E2B\u0E25\u0E2D\u0E14\u0E19\u0E49\u0E33\u0E40\u0E2B\u0E25\u0E37\u0E2D\u0E07"@th .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6DCB\u5DF4\u7BA1"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#prefLabel> "llenfatik damarlar"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#prefLabel> "vase limfatice"@mo .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#altLabel> "Lymphgef\u00E4\u00DF"@de .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#altLabel> "lenf damarlar\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12290> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4483> .

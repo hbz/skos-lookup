@@ -1,0 +1,69 @@
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5187> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Calcium_nitrate> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_49624> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_33820> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_43117> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4326860-2> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/21119> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://aims.fao.org/aos/agrontology#isPartOfSubvocabulary> "Chemicals" .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299514812821> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299514812839> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299514812856> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299514812875> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299514812895> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299514812917> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299514812939> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299514812964> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299514812993> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299514813021> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299514813050> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299514813080> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299514813114> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299514813149> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299514813185> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299514813223> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299514813262> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299514813305> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299514813348> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1201_1321790149284> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1201_1328260236515> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299514813730> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299514813621> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299514813952> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299514813805> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299514813867> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299514813678> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://purl.org/dc/terms/created> "2012-02-03T17:10:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://purl.org/dc/terms/modified> "2013-08-27T21:18:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0646\u062A\u0631\u0627\u062A \u0627\u0644\u0643\u0644\u0633\u064A\u0648\u0645"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#prefLabel> "dusi\u010Dnan v\u00E1penat\u00FD"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calciumnitrat"@de .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#prefLabel> "calcium nitrate"@en .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nitrato de calcio"@es .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u06A9\u0644\u0633\u06CC\u0645 \u0646\u06CC\u062A\u0631\u0627\u062A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nitrate de calcium"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u0948\u0932\u094D\u0938\u093F\u092F\u092E \u0928\u093E\u0907\u091F\u094D\u0930\u0947\u091F"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#prefLabel> "kalcium-nitr\u00E1t"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nitrato di calcio"@it .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u785D\u9178\u30AB\u30EB\u30B7\u30A6\u30E0"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC9C8\uC0B0\uC11D\uD68C"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EC1\u0E84\u0EA5\u0E8A\u0EBD\u0EA1\u0EC4\u0E99\u0EC0\u0E95\u0EA3\u0E95"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#prefLabel> "Azotan wapnia"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nitrato de c\u00E1lcio"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043D\u0438\u0442\u0440\u0430\u0442 \u043A\u0430\u043B\u044C\u0446\u0438\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#prefLabel> "dusi\u010Dnan v\u00E1penat\u00FD"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E41\u0E04\u0E25\u0E40\u0E0B\u0E35\u0E22\u0E21 \u0E44\u0E19\u0E40\u0E15\u0E23\u0E15"@th .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u785D\u9178\u9499"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#prefLabel> "kalsiyum nitrat"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C21\u0C3F.\u0C0E\u0C28\u0C4D.\u0C0E \u0C2A\u0C4D\u0C30\u0C24\u0C3F \u0C15\u0C43\u0C24\u0C3F"@te .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#altLabel> "Nitrato c\u00E1lcico"@es .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#altLabel> "Nitrate de chaux"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#altLabel> "Azotan (V) wapnia"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#altLabel> "Saletra wapniowa"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043A\u0430\u043B\u044C\u0446\u0438\u0435\u0432\u0430\u044F \u0441\u0435\u043B\u0438\u0442\u0440\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0430\u0437\u043E\u0442\u043D\u043E\u043A\u0438\u0441\u043B\u044B\u0439 \u043A\u0430\u043B\u044C\u0446\u0438\u0439"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1201> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5187> .

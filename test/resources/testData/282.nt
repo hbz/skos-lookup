@@ -1,0 +1,52 @@
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#definition> <http://aims.fao.org/aos/agrovoc/xDef_1299510760008> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_27944> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_32610> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/28350> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://eurovoc.europa.eu/203> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://www.eionet.europa.eu/gemet/concept/2716> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/37098> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299510759524> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299510759541> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299510759558> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299510759576> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299510759598> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299510759619> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299510759642> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299510759666> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299510759691> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299510759718> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299510759746> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299510759775> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299510759808> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299510759842> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299510759879> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299510759918> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299510759958> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10608_1321792322108> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_10608_1328257857951> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://purl.org/dc/terms/created> "2012-02-03T16:30:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://purl.org/dc/terms/modified> "2015-01-26T21:41:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#prefLabel> "p\u0159em\u011Bna energie"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#prefLabel> "Energieumwandlung"@de .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#prefLabel> "energy conversion"@en .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conversi\u00F3n de energ\u00EDa"@es .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062A\u0628\u062F\u064A\u0644 \u0627\u0646\u0631\u0698\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conversion \u00E9nerg\u00E9tique"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u090A\u0930\u094D\u091C\u093E \u092A\u0930\u093F\u0935\u0930\u094D\u0924\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#prefLabel> "energia\u00E1talakul\u00E1s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conversione dell'energia"@it .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30A8\u30CD\u30EB\u30AE\u30FC\u8EE2\u63DB"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC5D0\uB108\uC9C0\uC804\uD658"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konwersja energii"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#prefLabel> "Convers\u00E3o de energia"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043F\u0440\u0435\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435 \u044D\u043D\u0435\u0440\u0433\u0438\u0438"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#prefLabel> "premena energie"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E40\u0E1B\u0E25\u0E35\u0E48\u0E22\u0E19\u0E41\u0E1B\u0E25\u0E07\u0E1E\u0E25\u0E31\u0E07\u0E07\u0E32\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u80FD\u91CF\u8F6C\u6362"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#prefLabel> "enerji d\u00F6n\u00FC\u015F\u00FCm\u00FC"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C36\u0C15\u0C4D\u0C24\u0C3F \u0C2A\u0C30\u0C3F\u0C35\u0C30\u0C4D\u0C24\u0C28\u0C2E\u0C41"@te .
+<http://aims.fao.org/aos/agrovoc/c_10608> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_27944> .

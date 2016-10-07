@@ -1,0 +1,90 @@
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2452> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_1435> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_1446> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/15889> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://aims.fao.org/aos/agrontology#hasTaxonomicRank> <http://aims.fao.org/aos/agrovoc/c_331243> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299500590580> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299500590597> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299500590615> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299500590632> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299500590652> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299500590674> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299500590696> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299500590720> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299500590746> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299500590772> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299500590802> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299500590832> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299500590865> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299500590897> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299500590930> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299500590966> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299500591004> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299500591045> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299500591088> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10527_1321792311610> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299500591471> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299500591622> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299500592735> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299500592116> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299500592492> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299500591275> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299500592050> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299500591518> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299500591855> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299500591793> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299500592664> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299500591677> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299500591982> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299500592828> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299500591918> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299500592416> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299500592909> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299500591569> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299500591735> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://purl.org/dc/terms/created> "2011-11-20T20:31:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://purl.org/dc/terms/modified> "2013-08-29T23:01:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0625\u064A\u0643\u064A\u0646\u0648\u0643\u0644\u0648\u0627 \u0633\u0627\u0642 \u0627\u0644\u062F\u064A\u0643"@ar .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#prefLabel> "Echinochloa crus galli"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#prefLabel> "Echinochloa crus galli"@de .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#prefLabel> "Echinochloa crus galli"@en .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#prefLabel> "Echinochloa crus galli"@es .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u06A9\u06CC\u0646\u0648\u06A9\u0644\u0648\u0622 \u06A9\u0631\u0648\u0633 \u06AF\u0627\u0644\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#prefLabel> "Echinochloa crus galli"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u090F\u0915\u093E\u0908\u0928\u094B\u0915\u094D\u0932\u094B\u0906 \u0915\u094D\u0930\u0938 \u0917\u0947\u0932\u0940"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#prefLabel> "Echinochloa crus galli"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#prefLabel> "Echinochloa crus galli"@it .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30A4\u30CC\u30D3\u30A8"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uB3CC\uD53C(\uD559\uBA85)"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#prefLabel> "Echinochloa crus galli"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#prefLabel> "Echinochloa crus galli"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#prefLabel> "Echinochloa crus galli"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#prefLabel> "Echinochloa crus galli"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ecinochloa crus-galli"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#prefLabel> "Echinochloa crus galli"@th .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7A17"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#prefLabel> "Echinochloa crus galli"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0625\u064A\u0643\u064A\u0646\u0648\u0643\u0644\u0648\u0627 \u062C\u0631\u062F\u0627\u0621"@ar .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#altLabel> "Echinochloa glabrescens"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#altLabel> "Echinochloa glabrescens"@de .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#altLabel> "Echinochloa glabrescens"@en .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#altLabel> "Echinochloa glabrescens"@es .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0627\u0643\u064A\u0646\u0648\u0643\u0644\u0648\u0622 \u06AF\u0644\u0627\u0628\u0631\u0633\u0627\u0646\u0633"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#altLabel> "Echinochloa glabrescens"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#altLabel> "\u090F\u0915\u093E\u0908\u0928\u094B\u0915\u094D\u0932\u094B\u0906 \u0917\u094D\u0932\u0947\u092C\u094D\u0930\u0947\u0938\u0947\u0928\u094D\u0938"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#altLabel> "Echinochloa glabrescens"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#altLabel> "Echinochloa glabrescens"@it .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#altLabel> "\u30A4\u30CC\u30D3\u30A8\u3001\u30A8\u30AD\u30CE\u30AF\u30ED\u30A2\u3000\u30B0\u30E9\u30D6\u30EC\u30B9\u30B1\u30F3\u30B9"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#altLabel> "Echinochloa glabrescens"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#altLabel> "Echinochloa glabrescens"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#altLabel> "Chwastnica zbo\u017Cowa"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#altLabel> "Echinochloa glabrescens"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#altLabel> "Echinochloa glabrescens"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0435\u0436\u043E\u0432\u043D\u0438\u043A \u043F\u0435\u0442\u0443\u0448\u0438\u0439"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#altLabel> "Echinochloa glabrescens"@th .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#altLabel> "\u7A17\u5B50"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10527> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2452> .

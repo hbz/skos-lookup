@@ -1,0 +1,97 @@
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7265> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Botswana> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_3423> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dewey.info/class/968.83/> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://eurovoc.europa.eu/5029> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Botswana> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/18861> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://zbw.eu/stw/descriptor/17680-2> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://sws.geonames.org/933860/> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://aims.fao.org/aos/agrontology#spatiallyIncludes> <http://aims.fao.org/aos/agrovoc/c_29752> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://aims.fao.org/aos/agrontology#spatiallyIncludes> <http://aims.fao.org/aos/agrovoc/c_92375> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://aims.fao.org/aos/agrontology#spatiallyIncludes> <http://aims.fao.org/aos/agrovoc/c_49965> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://aims.fao.org/aos/agrontology#spatiallyIncludes> <http://aims.fao.org/aos/agrovoc/c_29754> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://aims.fao.org/aos/agrontology#isPartOfSubvocabulary> "Geographical country level" .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299520775067> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299520775155> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299520775171> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299520775186> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299520775205> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299520775222> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299520775241> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299520775263> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299520775285> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299520775310> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299520775336> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299520775362> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299520775390> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299520775419> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299520775451> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299520775483> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299520775516> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299520775551> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299520775586> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1030_1321790053731> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1030_1328260128077> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299520776259> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299520776422> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299520777260> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299520776944> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299520777100> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299520775953> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299520776871> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299520776314> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299520776660> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299520776597> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299520776799> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299520776726> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299520777022> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299520776480> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299520776367> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299520776538> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_13820_1321792671422> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://purl.org/dc/terms/created> "2012-02-03T17:08:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://purl.org/dc/terms/modified> "2012-02-03T17:08:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0628\u0648\u062A\u0633\u0648\u0627\u0646\u0627"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Botswana"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Botsuana"@de .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Botswana"@en .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Botswana"@es .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0628\u0648\u062A\u0633\u0648\u0627\u0646\u0627"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Botswana"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092C\u094B\u091F\u094D\u0938\u0935\u093E\u0928\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Botswana"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Botswana"@it .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30DC\u30C4\u30EF\u30CA\u5171\u548C\u56FD"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uBCF4\uCE20\uC640\uB098"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E9A\u0EBB\u0E94\u0EAA\u0EB0\u0EA7\u0EB2\u0E99\u0EB2"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Botswana"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Botsuana"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0431\u043E\u0442\u0441\u0432\u0430\u043D\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Botswana"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E1A\u0E2D\u0E15\u0E2A\u0E27\u0E32\u0E19\u0E32"@th .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u535A\u8328\u74E6\u7EB3"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Botsvana"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C21\u0C3F\u0C2A\u0C4D\u0C32\u0C4A\u0C1F\u0C3E\u0C15\u0C4D\u0C38\u0C3F\u0C38\u0C4D"@te .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0628\u0648\u062A\u0633\u0648\u0627\u0646\u0627"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#altLabel> "Botswansk\u00E1 republika"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#altLabel> "Republik Botsuana"@de .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#altLabel> "Republic of Botswana"@en .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#altLabel> "Rep\u00FAblica de Botswana"@es .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062C\u0645\u0647\u0648\u0631\u064A \u0628\u0648\u062A\u0633\u0648\u0627\u0646\u0627"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#altLabel> "R\u00E9publique du Botswana"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#altLabel> "\u092C\u094B\u0924\u094D\u0938\u0935\u093E\u0928\u093E \u0917\u0923\u0930\u093E\u091C\u094D\u092F"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#altLabel> "Botswanai K\u00F6zt\u00E1rsas\u00E1g"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#altLabel> "Repubblica di Botswana"@it .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#altLabel> "Republika Botswany"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#altLabel> "Rep\u00FAblica do Botsuana"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0440\u0435\u0441\u043F\u0443\u0431\u043B\u0438\u043A\u0430 \u0431\u043E\u0442\u0441\u0432\u0430\u043D\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#altLabel> "Botswansk\u00E1 republika"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E2A\u0E32\u0E18\u0E32\u0E23\u0E13\u0E23\u0E31\u0E10\u0E1A\u0E2D\u0E15\u0E2A\u0E27\u0E32\u0E19\u0E32"@th .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#altLabel> "\u535A\u8328\u74E6\u7EB3\u5171\u548C\u56FD"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#altLabel> "Botsvana Cumhuriyeti"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1030> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7265> .

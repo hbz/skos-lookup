@@ -1,0 +1,105 @@
+{
+	"settings": {
+		"index": {
+			"max_result_window": "25000",
+			"analysis": {
+				"analyzer": {
+					"default": {
+						"type": "custom",
+						"tokenizer": "hyphen_tokenizer",
+						"filter": [
+							"lowercase",
+							"german_filter",
+							"hyphen_filter"
+						]
+					},
+					"autocomplete_de": {
+						"tokenizer": "edge_ngram_tokenizer",
+						"filter": [
+							"lowercase",
+							"german_filter"
+						]
+					},
+					"autocomplete_en": {
+						"tokenizer": "edge_ngram_tokenizer",
+						"filter": [
+							"lowercase"
+						]
+					},
+					"id": {
+						"tokenizer": "keyword",
+						"filter": "lowercase"
+					}
+				},
+				"tokenizer": {
+					"edge_ngram_tokenizer": {
+						"type": "edgeNGram",
+						"min_gram": "1",
+						"max_gram": "40",
+						"token_chars": [
+							"letter",
+							"digit"
+						]
+					},
+					"hyphen_tokenizer": {
+						"type": "hyphen"
+					}
+				},
+				"filter": {
+					"german_filter": {
+						"type": "snowball",
+						"language": "German2"
+					},
+					"hyphen_filter": {
+						"type": "hyphen"
+					}
+				}
+			}
+		}
+	},
+	"mappings": {
+		"agrovoc": {
+			"properties": {
+				"@context": {
+					"enabled": false
+				},
+				"prefLabel": {
+					"properties": {
+						"de": {
+							"type": "string",
+							"analyzer": "autocomplete_de",
+							"search_analyzer": "default"
+						},
+						"en": {
+							"type": "string",
+							"analyzer": "autocomplete_en",
+							"search_analyzer": "default"
+						}
+					}
+				},
+				"altLabel": {
+					"properties": {
+						"de": {
+							"type": "string",
+							"analyzer": "autocomplete_de",
+							"search_analyzer": "default"
+						},
+						"en": {
+							"type": "string",
+							"analyzer": "autocomplete_en",
+							"search_analyzer": "default"
+						}
+					}
+				},				
+				"type": {
+					"index": "not_analyzed",
+					"type": "string"
+				},
+				"id": {
+					"index": "not_analyzed",
+					"type": "string"
+				}
+			}
+		}
+	}
+}

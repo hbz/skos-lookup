@@ -1,0 +1,63 @@
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#scopeNote> "Kod IUPAC 3 4 24 3"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#scopeNote> "Codice IUPAC 3 4 24 3"@it .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC code 3 4 24 3"@en .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#scopeNote> "c\u00F3digo IUPAC 3 4 24 3"@es .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC code 3 4 24 3"@de .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC \u0EA5\u0EB0\u0EAB\u0EB1\u0E94 3 4 24 3"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#scopeNote> "Code IUPAC 3 4 24 3"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC k\u00F3d 3 4 24 3"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC code 3 4 24 3"@th .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC kodu 3 4 24 3\n"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3729> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_22896> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://id.loc.gov/authorities/sh85027972#concept> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/27897> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299515863015> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299515863034> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299515863054> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299515863075> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299515863097> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299515863126> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299515863154> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299515863182> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299515863212> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299515863240> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299515863272> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299515863306> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299515863355> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299515863445> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299515863484> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299515863530> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299515863590> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299515863637> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10003_1321792241769> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_2ad7f36e> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10003_1321792241889> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://purl.org/dc/terms/created> "2011-11-20T20:30:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://purl.org/dc/terms/modified> "2016-01-15T19:05:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#prefLabel> "kolagen\u00E1zy"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#prefLabel> "Collagenase"@de .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#prefLabel> "collagenases"@en .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#prefLabel> "Colaginasa"@es .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0643\u0644\u0627\u0698\u0646\u0627\u0632\u0647\u0627"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#prefLabel> "Collag\u00E9nase"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u094B\u0932\u0947\u091C\u093F\u0928\u0947\u0938\u0938"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#prefLabel> "kollagen\u00E1z"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#prefLabel> "Collagenasi"@it .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30B3\u30E9\u30B2\u30CA\u30FC\u30BC"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uCF5C\uB77C\uAC8C\uB098\uC544\uC81C"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E84\u0EAD\u0EA5\u0EA5\u0EB2\u0E88\u0EB5\u0EC0\u0E99\u0E8A"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kolagenaza"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#prefLabel> "Colagenase"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043A\u043E\u043B\u043B\u0430\u0433\u0435\u043D\u0430\u0437\u044B"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#prefLabel> "kolagen\u00E1zy"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E04\u0E2D\u0E25\u0E25\u0E32\u0E08\u0E35\u0E40\u0E19\u0E2A"@th .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u80F6\u539F\u9176"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#prefLabel> "kollajenaz"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#prefLabel> "colagenaz\u0103"@mo .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#altLabel> "kolagenaz"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10003> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3729> .

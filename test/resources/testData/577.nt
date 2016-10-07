@@ -1,0 +1,110 @@
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_964> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/25474> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_6111> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://aims.fao.org/aos/asfa/c_6319> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://aims.fao.org/aos/agrontology#hasProperty> <http://aims.fao.org/aos/agrovoc/c_7566> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://aims.fao.org/aos/agrontology#causes> <http://aims.fao.org/aos/agrovoc/c_11426> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299510320056> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299510320074> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1327394606949> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299510320115> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299510320140> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299510320166> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299510320196> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299510320225> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299510320256> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299510320288> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299510320327> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299510320364> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299510320404> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299510320444> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299510320487> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299510320528> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299510320571> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299510320618> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299510320661> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11438_1321792408842> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_11438_1328258739054> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299510321278> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299510320094> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299510322135> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1327394626552> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299510321750> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299510321940> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299510321049> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299510322702> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299510321685> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299510321182> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299510321503> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299510321445> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299510321622> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299510321562> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299510321817> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299510321337> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299510321229> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299510321390> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_16692_1321793037711> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_e90ea551> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_4e843bc0> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_fb48cefb> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_08a94e2f> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_a2328377> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_383e0850> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_65414831> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_ca4a6fde> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://purl.org/dc/terms/created> "2012-02-03T16:45:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://purl.org/dc/terms/modified> "2015-03-12T18:40:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0646\u0632\u0641 \u0627\u0644\u062F\u0645"@ar .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#prefLabel> "hemoragie"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#prefLabel> "H\u00E4morrhagie"@de .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#prefLabel> "haemorrhage"@en .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hemorragia"@es .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062E\u0648\u0646\u0631\u06CC\u0632\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#prefLabel> "H\u00E9morragie"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0930\u0915\u094D\u0924 \u0938\u094D\u0924\u094D\u0930\u093E\u0935"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#prefLabel> "haemorrhagia"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#prefLabel> "Emorragia"@it .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u51FA\u8840"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uCD9C\uD608"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EAD\u0EB2\u0E81\u0EB2\u0E99\u0EC0\u0EA5\u0EB7\u0EAD\u0E94\u0EAD\u0EAD\u0E81"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#prefLabel> "Krwotok"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hemorragia"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0433\u0435\u043C\u043E\u0440\u0440\u0430\u0433\u0438\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#prefLabel> "hemoragia"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E15\u0E01\u0E40\u0E25\u0E37\u0E2D\u0E14"@th .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u51FA\u8840"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#prefLabel> "hemoraji"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C30\u0C15\u0C4D\u0C24 \u0C38\u0C4D\u0C30\u0C3E\u0C35\u0C02"@te .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "krv\u00E1cen\u00ED"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "Haemorrhagie"@de .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "Blutung (haemorrhagie)"@de .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "Blutung (h\u00E4morrhagie)"@de .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "bleeding (haemorrhage)"@en .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "Sangr\u00EDa (hemorragia)"@es .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062E\u0648\u0646\u0631\u064A\u0632\u0634"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062E\u0648\u0646\u0631\u0648\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "Saignement (h\u00E9morragie)"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0930\u0915\u094D\u0924 \u0938\u094D\u0924\u094D\u0930\u093E\u0935 (\u0939\u0940\u092E\u094B\u0930\u0947\u091C )"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "v\u00E9rz\u00E9s (haemorrhagia)"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "Sanguinamento (emorragia)"@it .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "Krwawienie"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "Perda de sangue (hemorragia)"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043A\u0440\u043E\u0432\u043E\u0442\u0435\u0447\u0435\u043D\u0438\u0435 (\u0433\u0435\u043C\u043E\u0440\u0440\u0430\u0433\u0438\u044F)"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "krv\u00E1canie (hemor\u00E1gia)"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E2D\u0E32\u0E01\u0E32\u0E23\u0E40\u0E25\u0E37\u0E2D\u0E14\u0E2D\u0E2D\u0E01 (\u0E01\u0E32\u0E23\u0E15\u0E01\u0E40\u0E25\u0E37\u0E2D\u0E14)"@th .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "\u5927\u51FA\u8840"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "kanama"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "hemorhagie"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "hemorrhage"@en .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "v\u00E9rz\u00E9s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "Perdita di sangue"@it .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0EC0\u0EA5\u0EB7\u0EAD\u0E94\u0E95\u0EBB\u0E81\u0EC3\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043A\u0440\u043E\u0432\u043E\u0438\u0437\u043B\u0438\u044F\u043D\u0438\u0435"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "krv\u00E1canie"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#altLabel> "\u5931\u8840"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#narrower> <http://aims.fao.org/aos/agrovoc/c_16727> .
+<http://aims.fao.org/aos/agrovoc/c_11438> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_964> .

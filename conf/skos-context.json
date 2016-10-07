@@ -1,0 +1,65 @@
+{
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "void": "http://rdfs.org/ns/void#",
+    "xskos": "http://rdf-vocabulary.ddialliance.org/xkos#",
+    "agrontology":"http://aims.fao.org/aos/agrontology#",
+    "uniroma":"http://art.uniroma2.it/ontologies/vocbench#",
+    "skos-xl":"http://www.w3.org/2008/05/skos-xl#",
+    "agrovoc":"http://aims.fao.org/aos/agrovoc/",
+    "xmlSchema":"http://www.w3.org/2001/XMLSchema#",
+    "rdfschema":"http://www.w3.org/2000/01/rdf-schema#",
+	"owl":"http://www.w3.org/2002/07/owl#",
+    "id": "@id",
+    
+    "type": "@type",
+    
+    
+    "created": "dct:created",
+    "issued": "dct:issued",
+    "modified": "dct:modified",
+    "creator": "dct:creator",
+    "contributor": "dct:contributor",
+    "publisher": "dct:publisher",
+    "partOf": "dct:isPartOf",
+
+    "url": { "@id": "foaf:page", "@type": "@id" },
+    "identifier": { "@id": "skos:closeMatch", "@type": "@id" },
+    "notation": "skos:notation",
+    "prefLabel": { "@id": "skos:prefLabel", "@container": "@language" },
+    "altLabel": { "@id": "skos:altLabel", "@container": "@language" },
+    "hiddenLabel": { "@id": "skos:altLabel", "@container": "@language" },
+
+    "subject": { "@id": "dct:subject", "@type": "@id" },
+    "subjectOf": { "@reverse": "dct:subject" },
+    "depiction": { "@id": "foaf:depiction", "@type": "@id" },
+
+    "narrower": "skos:narrower",
+    "broader": "skos:broader",
+    "related": "skos:related",
+    "previous": "xskos:previous",
+    "next": "xskos:next",
+
+    "ancestors": "skos:broaderTransitive",
+    "inScheme": { "@id": "skos:inScheme", "@type": "@id" },
+    "topConceptOf": { "@id": "skos:topConceptOf", "@type": "@id" },
+
+    "topConcepts": "skos:hasTopConcept",
+    "versionOf": "dct:isVersionOf",
+    "extent": "dct:extent",
+    "languages": "dct:language",
+    "license": "dct:license",
+    
+    "fromScheme": "void:subjectsTarget",
+    "toScheme": "void:objectsTarget",
+    "isPartOfSubvocabulary":"agrontology:isPartOfSubvocabulary",
+    "hasProperty":"agrontology:hasProperty",
+    "hasTaxonomicRank":"agrontology:hasTaxonomicRank",
+    "hasStatus":"uniroma:hasStatus",
+    "skosxl:prefLabel":"skos-xl:prefLabel",
+   	"domain":"rdfschema:domain",
+   	"inverseOf":"owl:inverseOf"
+  
+}

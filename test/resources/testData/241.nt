@@ -1,0 +1,117 @@
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_13410> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_50080> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_50082> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_9827> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299512255645> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299512255663> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299512255681> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299512255862> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299512255884> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299512255907> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299512255932> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299512256064> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299512256091> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299512256119> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299512256148> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299512256177> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299512256209> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299512256241> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299512256277> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299512256316> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299512256354> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299512256395> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10514_1321792309595> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_10514_1328257699675> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299512256943> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299512257967> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299512257665> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299512259187> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1328605509796> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1328605530157> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1338454383385> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299512257473> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299512258827> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299512259005> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299512256843> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299512257734> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299512258743> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299512256892> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299512257808> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299512257297> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299512258383> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299512257599> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299512259093> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299512256504> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299512257412> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299512258660> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299512257354> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299512258580> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299512257535> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299512258916> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299512257881> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299512257049> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299512258301> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10514_1321792310434> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_16681_1321793035989> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_22577_1321793082107> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_te_16681_1328258101161> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://purl.org/dc/terms/created> "2012-02-03T16:35:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://purl.org/dc/terms/modified> "2015-03-11T22:10:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062D\u0645\u0649 \u0627\u0644\u0633\u0627\u062D\u0644 \u0627\u0644\u0634\u0631\u0642\u064A"@ar .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#prefLabel> "theileri\u00F3za"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kuestenfieber"@de .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#prefLabel> "East coast fever"@en .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fiebre de la costa oriental"@es .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062A\u0628 \u0633\u0627\u062D\u0644 \u0634\u0631\u0642\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#prefLabel> "Theil\u00E9riose"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092A\u0942\u0930\u094D\u0935\u0940 \u0924\u091F\u0940\u092F \u091C\u094D\u0935\u0930"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#prefLabel> "Febbre della costa orientale"@it .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6771\u5CB8\u71B1\u75C5"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uB3D9\uC5F0\uC548\uC5F4"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E9E\u0EB0\u0E8D\u0EB2\u0E94\u0EAD\u0EB4\u0EAA\u0E97\u0EC2\u0E84\u0EAA\u0E9F\u0EB5\u0EC0\u0EA7\u0EB5"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gor\u0105czka wschodniego wybrze\u017Ca"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#prefLabel> "Febre da Costa Leste"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0432\u043E\u0441\u0442\u043E\u0447\u043D\u043E-\u0431\u0435\u0440\u0435\u0433\u043E\u0432\u0430\u044F \u043B\u0438\u0445\u043E\u0440\u0430\u0434\u043A\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#prefLabel> "theileri\u00F3za"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E42\u0E23\u0E04\u0E2D\u0E34\u0E2A\u0E42\u0E04\u0E2A\u0E40\u0E1F\u0E40\u0E27\u0E2D\u0E23\u0E4C"@th .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4E1C\u6D77\u5CB8\u70ED"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#prefLabel> "Do\u011Fu k\u0131y\u0131 hummas\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C08\u0C38\u0C4D\u0C1F\u0C4D \u0C15\u0C4B\u0C38\u0C4D\u0C1F\u0C4D \u0C2B\u0C40\u0C35\u0C30\u0C4D"@te .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "african coast fever"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "east coast fever"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "Afrikanisches Kuestenfieber"@de .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "Theileriose"@de .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "K\u00FCstenfieber"@de .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "Afrikanisches K\u00FCstenfieber"@de .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "Ostk\u00FCstenfieber"@de .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "African coast fever"@en .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "theileriosis"@en .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "Theileriosis"@es .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062A\u0628 \u0633\u0627\u062D\u0644 \u0622\u0641\u0631\u064A\u0642\u0627\u064A\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062A\u064A\u0644\u0631\u064A\u0648\u0632"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "Fi\u00E8vre de la c\u00F4te orientale"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0905\u092B\u094D\u0930\u0940\u0915\u0940 \u0924\u091F\u0940\u092F \u091C\u094D\u0935\u0930"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0925\u093F\u0932\u0947\u0930\u093F\u092F\u094B\u0938\u093F\u0938"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "Febbre delle coste dell'Africa"@it .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "Theileriosi"@it .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "\u30A2\u30D5\u30EA\u30AB\u6771\u6D77\u5CB8\u71B1\u75C5"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "\u30BF\u30A4\u30EC\u30EA\u30A2\u75C7\u3001\u30BB\u30FC\u30E9\u30FC\u75C5\u3001\u6771\u6D77\u5CB8\u71B1\u75C5"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "\uC544\uD504\uB9AC\uCE74\uC5F0\uC548\uC5F4"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "Teilerioza"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "Tejlerioza"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "Febre da Costa Oriental Africana"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "Teileriose"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0430\u0444\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0430\u044F \u0431\u0435\u0440\u0435\u0433\u043E\u0432\u0430\u044F \u043B\u0438\u0445\u043E\u0440\u0430\u0434\u043A\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0442\u0435\u0439\u043B\u0435\u0440\u0438\u043E\u0437"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E42\u0E23\u0E04\u0E44\u0E17\u0E40\u0E25\u0E23\u0E34\u0E42\u0E2D\u0E0B\u0E35\u0E2A"@th .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "\u975E\u6D32\u6D77\u5CB8\u70ED"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "\u6CF0\u52D2\u7126\u866B\u75C5"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "Do\u011Fu sahil hummas\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "Afrika sahil ate\u015Fi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "theileriozis"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0C06\u0C2B\u0C4D\u0C30\u0C3F\u0C15\u0C3E \u0C24\u0C40\u0C30 \u0C1C\u0C4D\u0C35\u0C30\u0C02"@te .
+<http://aims.fao.org/aos/agrovoc/c_10514> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_13410> .

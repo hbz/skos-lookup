@@ -1,0 +1,47 @@
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_331518> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_462> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/29670> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://aims.fao.org/aos/agrontology#hasTaxonomicRank> <http://aims.fao.org/aos/agrovoc/c_331243> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299506369763> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299506369785> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299506369805> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299506369825> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299506369858> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299506369886> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299506369913> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299506369953> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299506369996> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299506370065> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299506370103> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299506370144> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299506370207> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299506370289> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299506370349> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299506370562> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299506370631> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299506370874> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://purl.org/dc/terms/created> "1981-01-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://purl.org/dc/terms/modified> "2013-08-28T21:03:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coturnix coturnix"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coturnix coturnix"@de .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coturnix coturnix"@en .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coturnix coturnix"@es .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0643\u0648\u062A\u0648\u0631\u0646\u064A\u0643\u0633 \u0643\u0648\u062A\u0648\u0631\u0646\u064A\u0643\u0633"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coturnix coturnix"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u094B\u091F\u0930\u094D\u0928\u093F\u0915\u094D\u0938 \u0915\u094B\u091F\u0930\u094D\u0928\u093F\u0915\u094D\u0938"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coturnix coturnix"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coturnix coturnix"@it .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30B3\u30C4\u30EB\u30CB\u30AF\u3000\u30B3\u30C4\u30EB\u30CB\u30AF"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uBA54\uCD94\uB77C\uAE30(\uD559\uBA85)"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coturnix coturnix"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coturnix coturnix"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coturnix coturnix"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coturnix coturnix"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coturnix coturnix"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coturnix coturnix"@th .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u9E4C\u9E51"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10137> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_331518> .

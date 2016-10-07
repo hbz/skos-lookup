@@ -1,0 +1,46 @@
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7377> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299486008613> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299486008629> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299486008645> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299486008663> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299486008683> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299486008704> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299486008727> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299486008752> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299486008780> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299486008809> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299486008839> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299486008874> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299486008964> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299486008999> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299486009073> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299486009107> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10729_1321792333790> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_10729_1328258196526> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_af710b6b> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://purl.org/dc/terms/created> "2012-02-03T16:36:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://purl.org/dc/terms/modified> "2016-07-11T20:44:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2004/02/skos/core#prefLabel> "faktori\u00E1lov\u00E1 anal\u00FDza"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2004/02/skos/core#prefLabel> "Faktorielle Analyse"@de .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2004/02/skos/core#prefLabel> "factorial analysis"@en .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062A\u062D\u0644\u064A\u0644 \u0639\u0627\u0645\u0644\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2004/02/skos/core#prefLabel> "Analyse factorielle"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u093E\u0930\u0915\u0940\u092F \u0935\u093F\u0936\u094D\u0932\u0947\u0937\u0923"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2004/02/skos/core#prefLabel> "faktori\u00E1lis vizsg\u00E1lat"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2004/02/skos/core#prefLabel> "Analisi fattoriale"@it .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8981\u56E0\u914D\u7F6E\u5206\u6790"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC694\uC778\uBD84\uC11D"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wsp\u00F3\u0142czynnik statystyczny"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2004/02/skos/core#prefLabel> "An\u00E1lise factorial"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0444\u0430\u043A\u0442\u043E\u0440\u0438\u0430\u043B\u044C\u043D\u044B\u0439 \u0430\u043D\u0430\u043B\u0438\u0437"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2004/02/skos/core#prefLabel> "faktori\u00E1lna anal\u00FDza"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E27\u0E34\u0E40\u0E04\u0E23\u0E32\u0E30\u0E2B\u0E4C\u0E41\u0E1A\u0E1A\u0E41\u0E1F\u0E04\u0E17\u0E2D\u0E40\u0E23\u0E35\u0E22\u0E25"@th .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8981\u7D20\u5206\u6790"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fakt\u00F6riyel analiz"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C15\u0C4D\u0C30\u0C2E\u0C17\u0C41\u0C23\u0C3F\u0C24 \u0C35\u0C3F\u0C36\u0C4D\u0C32\u0C47\u0C37\u0C23"@te .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2004/02/skos/core#prefLabel> "analiz\u0103 factorial\u0103"@mo .
+<http://aims.fao.org/aos/agrovoc/c_10729> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7377> .

@@ -1,0 +1,42 @@
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2628> .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299506685230> .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299506685249> .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299506685770> .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299506685789> .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299506685809> .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299506685833> .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299506685855> .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299506685888> .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299506685929> .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299506685980> .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299506686022> .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299506686134> .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299506686184> .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299506686232> .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299506686291> .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299506686337> .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299506686378> .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://purl.org/dc/terms/created> "1981-01-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://purl.org/dc/terms/modified> "2013-08-28T21:05:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equus caballus"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equus caballus"@de .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equus caballus"@en .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equus caballus"@es .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u0643\u0648\u0626\u0648\u0633 \u0643\u0627\u0628\u0627\u0644\u0648\u0633"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equus caballus"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0907\u0915\u094D\u0915\u0938  \u0915\u0948\u092C\u0947\u0932\u0938"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equus caballus"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equus caballus"@it .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u99AC"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uBABD\uACE0\uB9D0(\uD559\uBA85)"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equus caballus"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equus caballus"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equus caballus"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equus caballus"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equus caballus"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equus caballus"@th .
+<http://aims.fao.org/aos/agrovoc/c_10652> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2628> .

@@ -1,0 +1,45 @@
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3367> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://aims.fao.org/aos/agrontology#makeUseOf> <http://aims.fao.org/aos/agrovoc/c_1782> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299525418183> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299525418202> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299525418670> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299525418686> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299525418703> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299525418725> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299525418744> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299525418766> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299525418787> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299525418812> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299525418837> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299525418863> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299525418892> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299525418921> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299525418952> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1319531035624> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10034_1321792249932> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1319531012368> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://purl.org/dc/terms/created> "2011-11-20T20:30:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://purl.org/dc/terms/modified> "2013-08-27T22:11:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2004/02/skos/core#prefLabel> "spole\u010Dn\u00E1 pastva"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2004/02/skos/core#prefLabel> "common grazing"@en .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0686\u0631\u0627\u06AF\u0627\u0647 \u0645\u0634\u062A\u0631\u0643"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vaine p\u00E2ture"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0938\u093E\u092E\u093E\u0928\u094D\u092F \u091A\u0930\u093E\u0908"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2004/02/skos/core#prefLabel> "k\u00F6z\u00F6s legeltet\u00E9s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pascolamento a gestione comune"@it .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5171\u540C\u653E\u7267"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC77C\uBC18\uBC29\uBAA9\uC9C0"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wypas zbiorowy"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pastoreio em pastagem natural"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0432\u044B\u043F\u0430\u0441 \u043D\u0430 \u043E\u0431\u0449\u0438\u043D\u043D\u044B\u0445 \u043F\u0430\u0441\u0442\u0431\u0438\u0449\u0430\u0445"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2004/02/skos/core#prefLabel> "spolo\u010Dn\u00E1 pastva"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E41\u0E17\u0E30\u0E40\u0E25\u0E47\u0E21\u0E23\u0E48\u0E27\u0E21\u0E01\u0E31\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u516C\u5171\u7267\u5730"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gemeinschaftsweiden"@de .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2004/02/skos/core#prefLabel> "ortak otlatma"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2004/02/skos/core#altLabel> "Gemeinschaftliches Weideland"@de .
+<http://aims.fao.org/aos/agrovoc/c_10034> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3367> .

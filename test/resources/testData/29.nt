@@ -1,0 +1,29 @@
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://voc.landportal.info/landterms> .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2004/02/skos/core#inScheme> <http://voc.landportal.info/landterms> .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2004/02/skos/core#definition> <http://aims.fao.org/aos/agrovoc/xDef_d65a0ff3> .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2004/02/skos/core#definition> <http://aims.fao.org/aos/agrovoc/xDef_d25b4c13> .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_28898> .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_8a38947f> .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_9bb85404> .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_8fbf1db6> .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_02b7f397> .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_km_f669a1a3> .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_vi_c5893dbe> .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_my_2cd8fdb5> .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_e942c197> .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://purl.org/dc/terms/created> "2015-03-06T12:06:43Z"^^<xsd:http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://purl.org/dc/terms/modified> "2015-10-08T17:47:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2004/02/skos/core#prefLabel> "investment funds"@en .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2004/02/skos/core#prefLabel> "fonds d' investissement "@fr .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2004/02/skos/core#prefLabel> "investi\u010Dn\u00ED fondy"@cs .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fundos de investimento"@pt .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u1798\u17BC\u179B\u1793\u17B7\u1792\u17B7\u179C\u17B7\u1793\u17B7\u1799\u17C4\u1782"@km .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2004/02/skos/core#prefLabel> "c\u00E1c qu\u1EF9 \u0111\u1EA7u t\u01B0"@vi .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u101B\u1004\u103A\u1038\u1014\u103E\u102E\u1038\u1019\u103C\u103E\u102F\u1015\u103A\u1014\u103E\u1036\u1019\u103E\u102F\u101B\u1014\u103A\u1015\u102F\u1036\u1004\u103D\u1031"@my .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E40\u0E07\u0E34\u0E19\u0E25\u0E07\u0E17\u0E38\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://voc.landportal.info/landterms> .
+<http://aims.fao.org/aos/agrovoc/c_0d7ef890> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_28898> .

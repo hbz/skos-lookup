@@ -1,0 +1,79 @@
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#scopeNote> "Statistick\u00E9 studie lidsk\u00FDch populac\u00ED"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#scopeNote> "Statistische Studie der menschlichen Bevoelkerung"@de .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#scopeNote> "Statistical study of human populations"@en .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0645\u0637\u0627\u0644\u0639\u0647 \u0622\u0645\u0627\u0631\u06CC \u062C\u0645\u0639\u06CC\u062A\u200C\u0647\u0627\u06CC \u0627\u0646\u0633\u0627\u0646\u06CC."@fa .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u00C9tude statistique des populations humaines"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#scopeNote> "Hum\u00E1n popul\u00E1ci\u00F3t statisztikailag tanulm\u00E1nyoz\u00F3 tudom\u00E1ny"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#scopeNote> "Studio statistico delle popolazioni umane"@it .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0E81\u0EB2\u0E99\u0EAA\u0EB7\u0E81\u0EAA\u0EB2\u0E81\u0EC8\u0EBD\u0EA7\u0E81\u0EB1\u0E9A\u0EAA\u0EB0\u0E96\u0EB4\u0E95\u0EB4\u0E9B\u0EB0\u0E8A\u0EB2\u0E81\u0EAD\u0E99\u0EA1\u0EB0\u0E99\u0EB8\u0E94"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#scopeNote> "Nauka zajmuj\u0105ca si\u0119 statystycznym badaniem ludno\u015Bci"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#scopeNote> "Estudo estat\u00EDstico das popula\u00E7\u00F5es humanas"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0E01\u0E32\u0E23\u0E28\u0E36\u0E01\u0E29\u0E32\u0E40\u0E01\u0E35\u0E48\u0E22\u0E27\u0E01\u0E31\u0E1A\u0E2A\u0E16\u0E34\u0E15\u0E34\u0E1B\u0E23\u0E30\u0E0A\u0E32\u0E01\u0E23"@th .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0130nsan populasyonlar\u0131n\u0131n istatistiki ara\u015Ft\u0131rmas\u0131\n"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7142> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://aims.fao.org/aos/agrontology#study> <http://aims.fao.org/aos/agrovoc/c_9000029> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://aims.fao.org/aos/agrontology#study> <http://aims.fao.org/aos/agrovoc/c_8268> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://aims.fao.org/aos/agrontology#study> <http://aims.fao.org/aos/agrovoc/c_3683> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Demography> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/8306> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4011412-0> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/108250> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://eurovoc.europa.eu/385> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://www.eionet.europa.eu/gemet/concept/2060> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/32264> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://zbw.eu/stw/descriptor/15916-2> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.gesis.org/thesoz/concept/10039070> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://aims.fao.org/aos/asfa/c_5193> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299516974193> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299516974209> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299516974227> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299516974246> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299516974384> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299516974408> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299516974432> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299516974457> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299516974484> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299516974514> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299516974546> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299516974578> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299516974611> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299516974647> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299516974683> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299516974721> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299516974763> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299516974803> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299516974846> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10328_1321792287250> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_6d02e515> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299516975557> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1329212325939> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://purl.org/dc/terms/created> "2011-11-20T20:31:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://purl.org/dc/terms/modified> "2015-08-18T21:41:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062F\u064A\u0645\u0648\u063A\u0631\u0627\u0641\u064A\u0627"@ar .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#prefLabel> "demografie"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#prefLabel> "Demographie"@de .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#prefLabel> "demography"@en .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#prefLabel> "Demograf\u00EDa"@es .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062C\u0645\u0639\u06CC\u062A\u200C\u0634\u0646\u0627\u0633\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#prefLabel> "D\u00E9mographie"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u091C\u0928\u0938\u0902\u0916\u094D\u092F\u093E \u0935\u093F\u091C\u094D\u091E\u093E\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#prefLabel> "demogr\u00E1fia"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#prefLabel> "Demografia"@it .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4EBA\u53E3\u7D71\u8A08\u5B66"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC778\uAD6C\uD559"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E9B\u0EB0\u0E8A\u0EB2\u0E81\u0EAD\u0E99\u0EAA\u0EB2\u0E94"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#prefLabel> "Demografia"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#prefLabel> "Demografia"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0434\u0435\u043C\u043E\u0433\u0440\u0430\u0444\u0438\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#prefLabel> "demografia"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E1B\u0E23\u0E30\u0E0A\u0E32\u0E01\u0E23\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C"@th .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4EBA\u53E3\u7EDF\u8BA1\u5B66"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#prefLabel> "demografi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#prefLabel> "demografie"@mo .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062F\u0645\u0648\u06AF\u0631\u0627\u0641\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#altLabel> "n\u00FCfus bilimi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10328> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7142> .

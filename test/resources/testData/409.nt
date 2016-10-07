@@ -1,0 +1,110 @@
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://voc.landportal.info/landterms> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#inScheme> <http://voc.landportal.info/landterms> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#scopeNote> "Physischer und oekonomischer Zugang, von allen Menschen zu jeder Zeit, zu den notwendigen Grundnahrungsmitteln"@de .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#scopeNote> "Fizyczna i ekonomiczna dost\u0119pno\u015B\u0107 wszystkich ludzi do podstawowych, niezb\u0119dnych produkt\u00F3w \u017Cywno\u015Bciowych"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#scopeNote> "Acesso f\u00EDsico e econ\u00F3mico permanente de todas as pessoas aos alimentos b\u00E1sicos de que necessitam"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#scopeNote> "Physical and economic access, by all people at all times, to the basic food they need"@en .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0E81\u0EB2\u0E99\u0EA1\u0EB5\u0EAD\u0EB2\u0EAB\u0EB2\u0E99 \u0EAB\u0EBC\u0EB7 \u0EC0\u0E87\u0EB7\u0EC8\u0EAD\u0E99\u0EC4\u0E82\u0E97\u0EB2\u0E87\u0EC0\u0EAA\u0E94\u0E96\u0EB0\u0E81\u0EB4\u0E94 \u0E9E\u0EBD\u0E87\u0E9E\u0ECD\u0E81\u0EB1\u0E9A\u0E84\u0EA7\u0EB2\u0EA1\u0E95\u0EC9\u0EAD\u0E87\u0E81\u0EB2\u0E99\u0E9E\u0EB7\u0EC9\u0E99\u0E96\u0EB2\u0E99 \u0E94\u0EC9\u0EB2\u0E99\u0EAD\u0EB2\u0EAB\u0EB2\u0E99 \u0E82\u0EAD\u0E87\u0E97\u0EB8\u0E81\u0E84\u0EBB\u0E99 \u0EC3\u0E99\u0E97\u0EB8\u0E81\u0EC0\u0EA7\u0EA5\u0EB2."@lo .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#scopeNote> "Disponibilit\u00E0, dal punto di vista fisico ed economico, degli alimenti di base per tutte le persone"@it .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0E01\u0E32\u0E23\u0E44\u0E14\u0E49\u0E23\u0E31\u0E1A\u0E2D\u0E32\u0E2B\u0E32\u0E23\u0E15\u0E32\u0E21\u0E04\u0E27\u0E32\u0E21\u0E15\u0E49\u0E2D\u0E07\u0E01\u0E32\u0E23\u0E02\u0E2D\u0E07\u0E17\u0E38\u0E01\u0E04\u0E19\u0E41\u0E25\u0E30\u0E17\u0E38\u0E01\u0E40\u0E27\u0E25\u0E32"@th .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#scopeNote> "Acc\u00E8s physique et \u00E9conomique, par tous les peuples en tout temps, \u00E0 la nourriture de base qui leur est n\u00E9cessaire"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#scopeNote> "Acceso f\u00EDsico y econ\u00F3mico, para todos los pueblos y en todo momento a la nutrici\u00F3n de base que les es necesaria"@es .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u062F\u0633\u062A\u0631\u0633\u06CC \u0641\u06CC\u0632\u06CC\u06A9\u06CC \u0648 \u0627\u0642\u062A\u0635\u0627\u062F\u06CC\u060C \u062A\u0648\u0633\u0637 \u0647\u0645\u0647 \u0627\u0641\u0631\u0627\u062F \u062F\u0631 \u0647\u0645\u0647 \u0632\u0645\u0627\u0646\u200C\u0647\u0627\u060C \u0628\u0647 \u063A\u0630\u0627\u06CC \u0627\u0635\u0644\u06CC \u06A9\u0647 \u0646\u06CC\u0627\u0632\u0645\u0646\u062F \u0622\u0646\u0646\u062F."@fa .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#scopeNote> "Zaji\u0161t\u00ECn\u00ED p\u00F8im\u00EC\u00F8en\u00E9 v\u00FD\u017Eivy pro obyvatelstvo"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#scopeNote> "A sz\u00FCks\u00E9ges alap\u00E9lelmiszerek fizikai \u00E9s gazdas\u00E1gi \u00E9rtelemben vett el\u00E9rhetos\u00E9ge minden ember sz\u00E1m\u00E1ra"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#scopeNote> "T\u00FCm insanlar\u0131n ihtiya\u00E7lar\u0131 olan temel g\u0131daya her zaman fiziksel ve ekonomik eri\u015Fiminin olmas\u0131\n"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#related> <http://aims.fao.org/aos/agrovoc/c_3012> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_201> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://aims.fao.org/aos/agrontology#makeUseOf> <http://aims.fao.org/aos/agrovoc/c_9000038> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://aims.fao.org/aos/agrontology#includes> <http://aims.fao.org/aos/agrovoc/c_37904> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Food_security> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4152826-8> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/92330> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/5302> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://zbw.eu/stw/descriptor/13428-4> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://aims.fao.org/aos/asfa/c_5965> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://aims.fao.org/aos/agrontology#hasComponent> <http://aims.fao.org/aos/agrovoc/c_3016> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299526010782> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299526010801> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299526010822> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299526010844> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299526010868> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299526010901> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299526010928> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299526010968> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299526011017> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299526011061> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299526011336> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299526011376> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299526011440> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299526011501> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299526011572> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299526011630> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299526011672> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299526011717> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299526011759> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10967_1321792364098> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_10967_1328258519616> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_km_ce553ac3> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_vi_eb7aba28> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_my_02a043a9> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_f569628f> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ka_c8406000> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1338988700226> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1338988731620> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1359541678893> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299526011903> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299526012237> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299526012301> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299526012550> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299526012626> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299526012758> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_9001005_1321796243197> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_te_9001005_1328258503779> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://purl.org/dc/terms/created> "2012-02-03T16:41:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://purl.org/dc/terms/modified> "2014-07-03T19:21:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0623\u0645\u0646 \u063A\u0630\u0627\u0626\u064A"@ar .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "potravinov\u00E1 bezpe\u010Dnost"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ern\u00E4hrungssicherheit"@de .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "food security"@en .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seguridad alimentar\u00EDa"@es .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u0645\u0646\u06CC\u062A \u062A\u0627\u0645\u06CC\u0646 \u063A\u0630\u0627"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "S\u00E9curit\u00E9 alimentaire"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0916\u093E\u0926\u094D\u092F \u0938\u0941\u0930\u0915\u094D\u0937\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00E9lelmiszerell\u00E1t\u00E1s biztons\u00E1ga"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sicurezza alimentare"@it .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u98DF\u7CE7\u5B89\u5168\u4FDD\u969C"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC2DD\uB7C9\uC548\uBCF4"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E84\u0EA7\u0EB2\u0EA1\u0EDD\u0EB1\u0EC9\u0E99\u0E84\u0EBB\u0E87\u0E94\u0EC9\u0EB2\u0E99\u0EAD\u0EB2\u0EAB\u0EB2\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bezpiecze\u0144stwo \u017Cywno\u015Bciowe"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seguran\u00E7a alimentar"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043F\u0440\u043E\u0434\u043E\u0432\u043E\u043B\u044C\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "dostatok potrav\u00EDn"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E04\u0E27\u0E32\u0E21\u0E21\u0E31\u0E48\u0E19\u0E04\u0E07\u0E14\u0E49\u0E32\u0E19\u0E2D\u0E32\u0E2B\u0E32\u0E23"@th .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u98DF\u7269\u4FDD\u969C"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "g\u0131da g\u00FCvencesi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C06\u0C39\u0C3E\u0C30 \u0C2D\u0C26\u0C4D\u0C30\u0C24"@te .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u179F\u1793\u17D2\u178F\u17B7\u179F\u17BB\u1781\u179F\u17D2\u1794\u17C0\u1784"@km .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "an ninh l\u01B0\u01A1ng th\u1EF1c"@vi .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u1005\u102C\u1038\u1014\u1015\u103A\u101B\u102D\u1000\u1039\u1001\u102C\u1016\u1030\u101C\u102F\u1036\u1019\u103E\u102F"@my .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E04\u0E27\u0E32\u0E21\u0E21\u0E31\u0E48\u0E19\u0E04\u0E07\u0E17\u0E32\u0E07\u0E2D\u0E32\u0E2B\u0E32\u0E23"@th .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u10E1\u10D0\u10E1\u10E3\u10E0\u10E1\u10D0\u10D7\u10DD \u10E3\u10E1\u10D0\u10E4\u10E0\u10D7\u10EE\u10DD\u10D4\u10D1\u10D0"@ka .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#altLabel> "Nahrungssicherheit"@de .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#altLabel> "Ernaehrungssicherheit"@de .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#altLabel> "Ern\u00E4hrungssicherung"@de .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0916\u093E\u0926\u094D\u092F \u0905\u0938\u0941\u0930\u0915\u094D\u0937\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#altLabel> "nedostatek potravin"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#altLabel> "nedostatok potrav\u00EDn"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#altLabel> "Rischio alimentare"@it .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#altLabel> "Inseguran\u00E7a alimentar"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#altLabel> "food insecurity"@en .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#altLabel> "g\u0131da g\u00FCvencesizli\u011Fi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0C06\u0C39\u0C3E\u0C30 \u0C05\u0C2D\u0C26\u0C4D\u0C30\u0C24"@te .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#related> <http://aims.fao.org/aos/agrovoc/c_3012> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#narrower> <http://aims.fao.org/aos/agrovoc/c_9000078> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://voc.landportal.info/landterms> .
+<http://aims.fao.org/aos/agrovoc/c_10967> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_201> .

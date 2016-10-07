@@ -1,0 +1,92 @@
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#scopeNote> "Obsah za\u017E\u00EDvac\u00ED trubice"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#scopeNote> "Inhalt des Verdauungstraktes"@de .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#scopeNote> "Contents of the alimentary canal"@en .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#scopeNote> "Contenido del tubo digestivo"@es .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0645\u062D\u062A\u0648\u06CC\u0627\u062A \u06A9\u0627\u0646\u0627\u0644 \u06AF\u0648\u0627\u0631\u0634\u06CC."@fa .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#scopeNote> "Contenu du tube digestif"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#scopeNote> "T\u00E1pcsatorna tartalma"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#scopeNote> "Contenuto del tubo digerente"@it .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0EAA\u0EB4\u0EC8\u0E87\u0E9A\u0EB1\u0E99\u0E88\u0EB8\u0EC3\u0E99\u0E8A\u0EC8\u0EAD\u0E87\u0E97\u0EB2\u0E87\u0EC0\u0E94\u0EB5\u0E99\u0EAD\u0EB2\u0EAB\u0EB2\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#scopeNote> "Zawarto\u015B\u0107 przewodu pokarmowego"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#scopeNote> "Conte\u00FAdo do tubo digestivo"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0E04\u0E27\u0E32\u0E21\u0E08\u0E38\u0E02\u0E2D\u0E07\u0E0A\u0E48\u0E2D\u0E07\u0E17\u0E32\u0E07\u0E40\u0E14\u0E34\u0E19\u0E2D\u0E32\u0E2B\u0E32\u0E23"@th .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#scopeNote> "Sindirim kanal\u0131n\u0131n i\u00E7eri\u011Fi\n"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_330705> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://aims.fao.org/aos/agrontology#influences> <http://aims.fao.org/aos/agrovoc/c_2772> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Digesta> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/18340> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299514484665> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299514484690> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299514484712> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299514484788> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299514484812> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299514484832> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299514484857> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299514484882> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299514484910> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299514484939> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299514484971> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299514484998> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299514485028> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299514485058> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299514485090> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299514485123> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299514485157> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299514485192> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299514485228> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10372_1321792294596> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299514485681> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299514486225> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299514486019> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299514485550> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299514485594> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299514485905> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299514485855> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299514486152> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299514485960> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299514486080> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299514485763> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299514485637> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299514485809> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_16653_1321793032293> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://purl.org/dc/terms/created> "2011-11-20T20:43:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://purl.org/dc/terms/modified> "2013-08-27T17:35:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0647\u0636\u064A\u0645"@ar .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#prefLabel> "tr\u00E1venina"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#prefLabel> "Digesta"@de .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#prefLabel> "digesta"@en .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#prefLabel> "Digesta"@es .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u06AF\u0648\u0627\u0631\u062F\u0647\u200C\u0647\u0627"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#prefLabel> "Digesta"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092A\u091A\u093E\u0928\u0947 \u0935\u093E\u0932\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#prefLabel> "b\u00E9ltartalom"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#prefLabel> "Digesta"@it .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6D88\u5316\u5668\u5B98\u5185\u5BB9\u7269"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC18C\uD654\uAE30\uB0B4\uC6A9\uBB3C"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0E99\u0E8D\u0EC8\u0EAD\u0E8D"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tre\u015B\u0107 pokarmowa"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#prefLabel> "Digesta"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0441\u043E\u0434\u0435\u0440\u0436\u0438\u043C\u043E\u0435 \u043F\u0438\u0449\u0435\u0432\u0430\u0440\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0433\u043E \u0442\u0440\u0430\u043A\u0442\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#prefLabel> "(na)tr\u00E1venina"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E22\u0E48\u0E2D\u0E22"@th .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6D88\u5316\u7269"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#prefLabel> "sindirilmi\u015F madde"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#altLabel> "obsah tr\u00E1vic\u00ED soustavy"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#altLabel> "Inhalt des Verdauungssystems"@de .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#altLabel> "digestive system contents"@en .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0645\u062D\u062A\u0648\u064A\u0627\u062A \u062F\u0633\u062A\u06AF\u0627\u0647 \u06AF\u0648\u0627\u0631\u0634"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#altLabel> "\u092A\u093E\u091A\u0928 \u0924\u0902\u0924\u094D\u0930 \u0938\u092E\u092D\u093E\u0917"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#altLabel> "em\u00E9szt\u00F5rendszer tartalma"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#altLabel> "Contenuti dell'apparato digerente"@it .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#altLabel> "\u6D88\u5316\u7BA1\u5185\u5BB9\u7269"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#altLabel> "Zawarto\u015B\u0107 uk\u0142adu pokarmowego"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0441\u043E\u0434\u0435\u0440\u0436\u0438\u043C\u043E\u0435 \u043F\u0438\u0449\u0435\u0432\u0430\u0440\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0433\u043E \u043A\u0430\u043D\u0430\u043B\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#altLabel> "obsah za\u017E\u00EDvacieho traktu"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E04\u0E27\u0E32\u0E21\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E43\u0E19\u0E01\u0E32\u0E23\u0E22\u0E48\u0E2D\u0E22\u0E2D\u0E32\u0E2B\u0E32\u0E23"@th .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#altLabel> "\u6D88\u5316\u7CFB\u7EDF\u6210\u5206"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#altLabel> "sindirim sistemi i\u00E7eri\u011Fi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10372> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_330705> .

@@ -1,0 +1,49 @@
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4561> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_38085> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299511774072> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1326356532937> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299511774106> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299511774126> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299511774147> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299511774181> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299511774214> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299511774251> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299511774507> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299511774537> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299511774567> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299511774681> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299511774719> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299511774754> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299511774801> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299511774845> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299511774889> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12360_1321792519103> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_9719b92a> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299511774088> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://purl.org/dc/terms/created> "2011-11-20T20:35:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://purl.org/dc/terms/modified> "2015-10-29T22:23:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#prefLabel> "ed\u00E9m ml\u00E9\u010Dn\u00E9 \u017El\u00E1zy"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#prefLabel> "Euter\u00F6dem"@de .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#prefLabel> "mammary oedema"@en .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#prefLabel> "Edema en las mamas"@es .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062E\u064A\u0632 \u067E\u0633\u062A\u0627\u0646"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oedeme mammaire"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0938\u094D\u0924\u0928 \u0924\u094D\u0935\u091A\u093E \u0936\u094B\u0925(\u0905\u0902\u0917\u0915\u093E \u091C\u0932\u0940\u092F \u0936\u094B\u0925)"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#prefLabel> "eml\u00F5\u00F6d\u00E9ma"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#prefLabel> "Edema mammario"@it .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4E73\u623F\u6D6E\u816B"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC720\uBC29\uBD80\uC885"@ko .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#prefLabel> "Obrz\u0119k wymienia"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#prefLabel> "Edema mam\u00E1rio"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043E\u0442\u0435\u043A \u043C\u043E\u043B\u043E\u0447\u043D\u043E\u0439 \u0436\u0435\u043B\u0435\u0437\u044B"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#prefLabel> "ed\u00E9m mlie\u010Dnej \u017E\u013Eazy"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E42\u0E23\u0E04\u0E40\u0E15\u0E49\u0E32\u0E19\u0E21\u0E1A\u0E27\u0E21"@th .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4E73\u817A\u6C34\u80BF"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#prefLabel> "meme \u00F6demi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#prefLabel> "edem mamar"@mo .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#altLabel> "Euteroedem"@de .
+<http://aims.fao.org/aos/agrovoc/c_12360> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4561> .

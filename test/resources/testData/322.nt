@@ -1,0 +1,51 @@
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2436> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Eustachian_tube> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299523815119> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299523815138> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299523815158> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299523815179> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299523815442> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299523815473> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299523815499> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299523815528> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299523815602> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299523815641> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299523815678> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299523815715> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299523815754> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299523815808> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299523815857> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299523815900> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299523815945> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299523816120> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10701_1321792330866> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_10701_1328257955500> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1326273651896> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://purl.org/dc/terms/created> "2012-02-03T16:32:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://purl.org/dc/terms/modified> "2014-07-03T19:35:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eustachova trubice"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eustachische Roehre"@de .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#prefLabel> "eustachian tube"@en .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trompa de eustaquio"@es .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0644\u0648\u0644\u0647 \u0627\u0633\u062A\u0627\u0634"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trompe d'eustache"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092F\u0942\u0938\u094D\u091F\u0947\u091A\u093F\u092F\u0928 \u0928\u0932\u0940"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eustach-k\u00FCrt"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tromba di Eustachio"@it .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8033\u7BA1"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC720\uC2A4\uD0C0\uD0A4\uC624\uAD00"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E97\u0ECD\u0EC8\u0EA2\u0EB9\u0EAA\u0EB0\u0EC0\u0E95\u0E8A\u0EBD\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tr\u0105bka Eustachiusza"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trompa de eust\u00E1quio"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0435\u0432\u0441\u0442\u0430\u0445\u0438\u0435\u0432\u0430 \u0442\u0440\u0443\u0431\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eustachova trubica"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E17\u0E48\u0E2D\u0E17\u0E35\u0E48\u0E15\u0E48\u0E2D\u0E23\u0E30\u0E2B\u0E27\u0E48\u0E32\u0E07\u0E17\u0E48\u0E2D\u0E2B\u0E39\u0E2A\u0E48\u0E27\u0E19\u0E01\u0E25\u0E32\u0E07\u0E01\u0E31\u0E1A\u0E04\u0E2D\u0E2B\u0E2D\u0E22"@th .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8033\u54BD\u7BA1"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00F6staki borusu"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C36\u0C4D\u0C30\u0C4B\u0C24\u0C4D\u0C30 \u0C28\u0C3E\u0C33\u0C02"@te .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#altLabel> "Eustachische R\u00F6hre"@de .
+<http://aims.fao.org/aos/agrovoc/c_10701> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2436> .

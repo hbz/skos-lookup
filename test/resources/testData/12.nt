@@ -1,0 +1,12 @@
+<http://aims.fao.org/aos/agrovoc/c_01b896ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_01b896ed> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_01b896ed> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_16155> .
+<http://aims.fao.org/aos/agrovoc/c_01b896ed> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_da3a4e39> .
+<http://aims.fao.org/aos/agrovoc/c_01b896ed> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_ffb781e6> .
+<http://aims.fao.org/aos/agrovoc/c_01b896ed> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_01b896ed> <http://purl.org/dc/terms/created> "2015-08-11T15:19:18Z"^^<xsd:http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_01b896ed> <http://purl.org/dc/terms/modified> "2015-10-08T17:10:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_01b896ed> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_01b896ed> <http://www.w3.org/2004/02/skos/core#prefLabel> "strategic objectives"@en .
+<http://aims.fao.org/aos/agrovoc/c_01b896ed> <http://www.w3.org/2004/02/skos/core#prefLabel> "stratejik hedef"@tr .
+<http://aims.fao.org/aos/agrovoc/c_01b896ed> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_16155> .

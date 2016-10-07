@@ -1,0 +1,138 @@
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_29238> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_24928> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Butyric_acid> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_9626> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/20659> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://aims.fao.org/aos/agrontology#isPartOfSubvocabulary> "Chemicals" .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299514616236> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299514616266> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1326872274957> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299514616513> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299514616543> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299514616567> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299514616593> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299514616620> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299514616649> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299514616687> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299514616722> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299514616755> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299514616789> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299514616827> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299514616877> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299514616925> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299514616970> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299514617021> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299514617074> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1168_1321790131307> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1168_1328260216657> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_9a461048> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299514619172> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299514617442> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299514616288> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299514618817> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1326872304504> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299514619926> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299514618487> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299514620220> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299514618652> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299514618901> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299514617253> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299514620455> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299514619813> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299514618414> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299514618998> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299514617320> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299514619513> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299514617815> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299514619425> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299514617732> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299514620339> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299514618735> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299514617187> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299514619249> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299514617514> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299514619704> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299514618346> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299514619604> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299514618260> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299514620100> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299514618575> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299514617585> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299514619080> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299514617381> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299514619340> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299514617656> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11847_1321792461745> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_23697_1321793086711> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_d9fe12fb> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_b9e48054> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://purl.org/dc/terms/created> "2012-02-03T17:10:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://purl.org/dc/terms/modified> "2015-09-17T17:02:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062D\u0645\u0636 \u0627\u0644\u0628\u064A\u0648\u062A\u0631\u064A\u0643"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#prefLabel> "kyselina m\u00E1seln\u00E1"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#prefLabel> "Butters\u00E4ure"@de .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#prefLabel> "butyric acid"@en .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00C1cido butirico"@es .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0628\u0648\u062A\u06CC\u0631\u06CC\u06A9 \u0627\u0633\u06CC\u062F"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acide butyrique"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092C\u094D\u092F\u0942\u091F\u093E\u0907\u0930\u093F\u0915 \u0905\u092E\u094D\u0932"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#prefLabel> "vajsav"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acido butirrico"@it .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u916A\u9178"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uB099\uC0B0"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EAD\u0EB2\u0E8A\u0EB4\u0E94\u0E9A\u0EB4\u0EA7\u0E95\u0EB5\u0EA3\u0EB4\u0E81"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kwas mas\u0142owy"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ac\u00EDdo but\u00EDrico"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043C\u0430\u0441\u043B\u044F\u043D\u0430\u044F \u043A\u0438\u0441\u043B\u043E\u0442\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#prefLabel> "kyselina maslov\u00E1"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E23\u0E14\u0E1A\u0E34\u0E27\u0E17\u0E35\u0E23\u0E34\u0E04"@th .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4E01\u9178"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#prefLabel> "b\u00FCtirik asit"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C15\u0C4A\u0C32\u0C02\u0C2C\u0C3F\u0C2F\u0C3E \u0C21\u0C3F\u0C38\u0C4D\u0C1F\u0C4D\u0C30\u0C3F\u0C15\u0C4D\u0C1F\u0C4D"@te .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#prefLabel> "acid butiric"@mo .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "butanov\u00E1 kyselina"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "kyselina izom\u00E1seln\u00E1"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "Buttersaeure"@de .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "Isobuttersaeure"@de .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "Isobutters\u00E4ure"@de .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "butanoic acid"@en .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "isobutyric acid"@en .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "\u00C1cido butanoico"@es .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "\u00C1cido isobut\u00EDrico"@es .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0628\u0648\u062A\u0627\u0646\u0648\u064A\u064A\u0643 \u0627\u0633\u064A\u062F"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0627\u064A\u0632\u0648\u0628\u0648\u062A\u064A\u0631\u064A\u0643 \u0627\u0633\u064A\u062F"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0627\u0633\u06CC\u062F \u0628\u0648\u062A\u064A\u0631\u064A\u0643"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "Acide butano\u00EFque"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "Acide isobutyrique"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "\u092C\u094D\u092F\u0942\u091F\u093E\u0928\u094B\u0907\u0915 \u0905\u092E\u094D\u0932"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0906\u0908\u0938\u094B\u092C\u094D\u092F\u0941\u0906\u0908\u0930\u093F\u0915 \u0905\u092E\u094D\u0932"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "but\u00E1nsav"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "izovajsav"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "Acido butanoico"@it .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "Acido isobutirrico"@it .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "\u30D6\u30BF\u30F3\u9178"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "\u30A4\u30BD\u916A\u9178"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "\uC774\uC18C\uB099\uC0B0"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0EAD\u0EB2\u0E8A\u0EB4\u0E94 \u0E9A\u0EB4\u0EA7\u0E97\u0EB2\u0EC2\u0E99\u0EAD\u0EB4\u0E81"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0EAD\u0EB2\u0E8A\u0EB4\u0E94\u0EC4\u0EAD\u0EC2\u0E8A\u0E9A\u0EB4\u0EA7\u0E97\u0EB5\u0EA3\u0EB4\u0E81"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "Kwas butanowy"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "Kwas izomas\u0142owy"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "\u00C1cido butan\u00F3ico"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "\u00C1cido isobut\u00EDrico"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0431\u0443\u0442\u0430\u043D\u043E\u0432\u0430\u044F \u043A\u0438\u0441\u043B\u043E\u0442\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0438\u0437\u043E\u043C\u0430\u0441\u043B\u044F\u043D\u0430\u044F \u043A\u0438\u0441\u043B\u043E\u0442\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "kyselina izomaslov\u00E1"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E01\u0E23\u0E14\u0E1A\u0E34\u0E27\u0E17\u0E32\u0E42\u0E19\u0E2D\u0E34\u0E04"@th .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E01\u0E23\u0E14\u0E44\u0E2D\u0E42\u0E0B\u0E1A\u0E34\u0E27\u0E17\u0E35\u0E23\u0E34\u0E04"@th .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "\u56DB\u70F7\u9178"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "\u5F02\u4E01\u9178"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "izob\u00FCtirik asit"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "butanoik asit"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "acid butanoic"@mo .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#altLabel> "acid izobutiric"@mo .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_29238> .
+<http://aims.fao.org/aos/agrovoc/c_1168> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_24928> .

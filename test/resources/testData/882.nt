@@ -1,0 +1,59 @@
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#scopeNote> "c\u00F3digo IUPAC 5 5"@es .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC code 5 5"@th .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#scopeNote> "Code IUPAC 5 5"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#scopeNote> "Codice IUPAC 5 5"@it .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#scopeNote> "k\u00F3d IUPAC 5 5"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#scopeNote> "Kod IUPAC 5 5"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC \u0EA5\u0EB0\u0EAB\u0EB1\u0E94 5 5"@lo .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC code 5 5"@en .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC k\u00F3d 5 5"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC code 5 5"@de .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC kodu 5 5\n"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3967> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299515876163> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299515876181> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299515876491> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299515876515> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299515876536> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299515876558> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299515876581> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299515876609> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299515876635> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299515876664> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299515876695> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299515876727> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299515876761> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299515876797> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299515876834> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299515876875> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299515876915> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12282_1321792511569> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_12282_1328259281888> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_b7c588ed> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://purl.org/dc/terms/created> "2012-02-03T16:54:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://purl.org/dc/terms/modified> "2016-01-15T19:12:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#prefLabel> "intramolekul\u00E1rn\u00ED ly\u00E1zy"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#prefLabel> "Intramolekulare Lyase"@de .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#prefLabel> "intramolecular lyases"@en .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#prefLabel> "Liasa intramolecular"@es .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u064A\u0646\u062A\u0631\u0627\u0645\u0648\u0644\u0643\u0648\u0644\u0627\u0631 \u0644\u064A\u0627\u0632\u0647\u0627"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lyase intramol\u00E9culaire"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0905\u0902\u0924\u0930\u093E\u0906\u0923\u0941\u0935\u093F\u0915 \u0932\u093E\u0907\u090F\u091C\u0947\u0938"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#prefLabel> "intramolekul\u00E1ris li\u00E1z"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#prefLabel> "Liasi intramolecolari"@it .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5206\u5B50\u5185\u30EA\u30A2\u30FC\u30BC"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EAD\u0EB4\u0E99\u0E97\u0EA3\u0EB2\u0EC2\u0EA1\u0EC0\u0EA5\u0E81\u0EB9\u0E99\u0EA5\u0EB2 \u0EC4\u0EA5\u0EC0\u0EAD\u0E8A"@lo .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#prefLabel> "Liazy wewn\u0105trzkom\u00F3rkowe"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#prefLabel> "Liase intramolecular"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0432\u043D\u0443\u0442\u0440\u0438\u043C\u043E\u043B\u0435\u043A\u0443\u043B\u044F\u0440\u043D\u044B\u0435 \u043B\u0438\u0430\u0437\u044B"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#prefLabel> "intramolekul\u00E1rne ly\u00E1zy"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E2D\u0E34\u0E19\u0E17\u0E23\u0E32\u0E42\u0E21\u0E40\u0E25\u0E01\u0E39\u0E25\u0E32\u0E44\u0E25\u0E40\u0E2D\u0E2A"@th .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5206\u5B50\u5185\u88C2\u89E3\u9176"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#prefLabel> "molek\u00FCl i\u00E7i liyazlar"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C05\u0C23\u0C4D\u0C35\u0C3E\u0C02\u0C24\u0C30\u0C4D\u0C17\u0C24 \u0C32\u0C2F\u0C47\u0C38\u0C41\u0C32\u0C41"@te .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#prefLabel> "liaz\u0103 intramolecular\u0103"@mo .
+<http://aims.fao.org/aos/agrovoc/c_12282> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3967> .

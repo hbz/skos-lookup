@@ -1,0 +1,40 @@
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5579> .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299512272563> .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299512272578> .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299512272596> .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299512272615> .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299512273016> .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299512273040> .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299512273063> .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299512273089> .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299512273115> .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299512273142> .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299512273173> .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299512273204> .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299512273237> .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299512273272> .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299512273308> .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11846_1321792461620> .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://purl.org/dc/terms/created> "2011-11-20T20:34:21Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://purl.org/dc/terms/modified> "2015-03-11T22:10:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2004/02/skos/core#prefLabel> "rozto\u010D\u00EDkov\u00E1 n\u00E1kaza v\u010Del"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2004/02/skos/core#prefLabel> "Isle-Of-Wight Krankheit"@de .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2004/02/skos/core#prefLabel> "Isle of Wight disease"@en .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2004/02/skos/core#prefLabel> "Enfermedad de la Isla de Wight"@es .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0628\u064A\u0645\u0627\u0631\u064A \u062C\u0632\u06CC\u0631\u0647 \u0648\u0627\u06CC\u062A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0935\u094D\u0939\u093E\u0907\u091F \u0930\u094B\u0917 \u0915\u0947 \u0907\u0938\u094D\u0932\u0947"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2004/02/skos/core#prefLabel> "Malattia dell'isola di Wight"@it .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30EF\u30A4\u30C8\u5CF6\u75C5"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC640\uC774\uD2B8\uC12C\uBCD1"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2004/02/skos/core#prefLabel> "Roztoczowa choroba pszcz\u00F3\u0142"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2004/02/skos/core#prefLabel> "Doen\u00E7a da Ilha de Wight"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0431\u043E\u043B\u0435\u0437\u043D\u044C \u043E\u0441\u0442\u0440\u043E\u0432\u0430 \u0443\u0430\u0439\u0442"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2004/02/skos/core#prefLabel> "rozto\u010Dov\u00E1 n\u00E1kaza v\u010Diel"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E42\u0E23\u0E04\u0E2D\u0E34\u0E2A\u0E40\u0E25\u0E2D\u0E2D\u0E1F\u0E40\u0E27\u0E08\u0E17\u0E4C"@th .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6000\u5F97\u5C9B\u75C5"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wright Adas\u0131 hastal\u0131\u011F\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11846> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5579> .

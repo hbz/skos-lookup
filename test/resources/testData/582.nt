@@ -1,0 +1,47 @@
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2046> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://aims.fao.org/aos/agrontology#hasObjectOfActivity> <http://aims.fao.org/aos/agrovoc/c_1310> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299517650949> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299517650965> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299517651124> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299517651142> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299517651162> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299517651184> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299517651208> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299517651232> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299517651259> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299517651288> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299517651319> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299517651350> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299517651384> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299517651420> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299517651455> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299517651494> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11448_1321792409614> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_11448_1328258745772> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1331546812426> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://purl.org/dc/terms/created> "2012-02-03T16:45:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://purl.org/dc/terms/modified> "2014-07-03T18:10:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2004/02/skos/core#prefLabel> "p\u016Flen\u00ED"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2004/02/skos/core#prefLabel> "halving (carcasses)"@en .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062F\u0648\u0646\u064A\u0645\u200C\u0633\u0627\u0632\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fendage des carcasses"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0939\u093E\u0932\u0935\u093F\u0902\u0917/\u0906\u0927\u093E \u0915\u0930\u0928\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2004/02/skos/core#prefLabel> "felez\u00E9s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sezionamento"@it .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u80CC\u5272\u308A"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uB3C4\uCCB4\uBD84\uD560"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0E99\u0E9C\u0EC8\u0EB2\u0EC0\u0E84\u0EB4\u0EC8\u0E87"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2004/02/skos/core#prefLabel> "Podzia\u0142 tuszy"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2004/02/skos/core#prefLabel> "Corte de carca\u00E7a"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0434\u0435\u043B\u0435\u043D\u0438\u0435 \u0442\u0443\u0448\u0438"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2004/02/skos/core#prefLabel> "polenie"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E1C\u0E48\u0E32\u0E0B\u0E35\u0E01\u0E0B\u0E32\u0E01\u0E2A\u0E31\u0E15\u0E27\u0E4C"@th .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7B49\u5206"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2004/02/skos/core#prefLabel> "yar\u0131ya b\u00F6lme (karkas)"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C38\u0C17\u0C02 \u0C1A\u0C47\u0C2F\u0C21\u0C02"@te .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2004/02/skos/core#prefLabel> "Halbierung (schlachtk\u00F6rper)"@de .
+<http://aims.fao.org/aos/agrovoc/c_11448> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2046> .

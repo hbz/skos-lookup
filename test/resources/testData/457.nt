@@ -1,0 +1,81 @@
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_8174> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://aims.fao.org/aos/agrontology#isUsedAs> <http://aims.fao.org/aos/agrovoc/c_7388> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Rhubarb> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/23892> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_7402> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_6263> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4177974-5> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/41691> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299487162708> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299487162724> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299487162740> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299487163030> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299487163051> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299487163072> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299487163094> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299487163118> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299487163143> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299487163169> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299487163199> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299487163232> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299487163263> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299487163297> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299487163332> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299487163370> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299487163408> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299487163447> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299487163488> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl-b19f4eb8-241c-4b89-bc55-1c47206c110a> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_cf4289bf> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299487163738> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299487164080> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299487164206> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299487163634> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299487163686> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299487163900> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299487164019> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299487164142> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299487163791> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299487163845> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_13910_1321792688596> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_559468fb> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://purl.org/dc/terms/created> "2011-11-20T20:38:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://purl.org/dc/terms/modified> "2015-09-17T17:30:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0631\u0627\u0648\u0646\u062F \u0645\u062E\u0632\u0646\u064A"@ar .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#prefLabel> "reve\u0148"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rhabarber"@de .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#prefLabel> "rhubarb"@en .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ruibarbo"@es .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0631\u06CC\u0648\u0627\u0633"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rhubarbe"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0930\u0942\u092C\u093E\u0930\u094D\u092C"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#prefLabel> "rebarbara"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rabarbaro"@it .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30EB\u30D0\u30FC\u30D6"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uB300\uD669"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E9C\u0EB1\u0E81\u0EA3\u0EB9\u0E9A\u0EB2\u0E81\u0E9A"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rabarbar (warzywo)"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ruibarbo"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0440\u0435\u0432\u0435\u043D\u044C (\u043E\u0432\u043E\u0449\u0438)"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#prefLabel> "rebarbora"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E23\u0E39\u0E1A\u0E32\u0E23\u0E4C\u0E1A"@th .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5927\u9EC4"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0131\u015Fg\u0131n"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#prefLabel> "revent"@mo .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#altLabel> "rebarbora"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#altLabel> "garden rhubarb"@en .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#altLabel> "Ruipontico"@es .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0631\u064A\u0648\u0627\u0633 \u0628\u0627\u063A\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0909\u0927\u093E\u0928 \u0930\u0942\u092C\u093E\u0930\u094D\u092C"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#altLabel> "Rabarbaro dei giardini"@it .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#altLabel> "Rzewie\u0144 ogrodowy (warzywo)"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043E\u0432\u043E\u0449\u043D\u043E\u0439 \u0440\u0435\u0432\u0435\u043D\u044C"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#altLabel> "rebarbora z\u00E1hradn\u00E1"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#altLabel> "\u98DF\u7528\u5927\u9EC4"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#altLabel> "bah\u00E7e \u0131\u015Fk\u0131n\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#altLabel> "rubarb\u0103"@mo .
+<http://aims.fao.org/aos/agrovoc/c_11089> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_8174> .

@@ -1,0 +1,44 @@
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4962> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299510405676> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1326183368535> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299510405710> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299510405728> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299510405751> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299510405809> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299510405833> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299510405858> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299510405900> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299510406073> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299510406118> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299510406219> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299510406271> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299510406347> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299510406390> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299510406439> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1363788433277> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299510405693> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://purl.org/dc/terms/created> "1981-01-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://purl.org/dc/terms/modified> "2015-03-12T18:23:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2004/02/skos/core#prefLabel> "choroby pohybov\u00E9ho syst\u00E9mu"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fortbewegungsst\u00F6rung"@de .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2004/02/skos/core#prefLabel> "locomotion disorders"@en .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ataxia locomotora"@es .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u062E\u062A\u0644\u0627\u0644\u0627\u062A \u062C\u0627\u0628\u062C\u0627\u06CC\u06CC (\u062D\u0631\u0643\u062A)"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trouble de la locomotion"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0917\u0924\u093F\u0936\u0940\u0932\u0924\u093E \u0935\u093F\u0915\u0943\u0924\u093F\u092F\u093E\u0901"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2004/02/skos/core#prefLabel> "mozg\u00E1si rendelleness\u00E9g"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2004/02/skos/core#prefLabel> "Disturbi della locomozione"@it .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u904B\u52D5\u969C\u5BB3"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zaburzenia w poruszaniu si\u0119"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ataxia locomotora"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043D\u0430\u0440\u0443\u0448\u0435\u043D\u0438\u0435 \u043F\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043D\u0438\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2004/02/skos/core#prefLabel> "poruchy pohybu"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E04\u0E27\u0E32\u0E21\u0E1C\u0E34\u0E14\u0E1B\u0E01\u0E15\u0E34\u0E15\u0E48\u0E2D\u0E01\u0E32\u0E23\u0E40\u0E04\u0E25\u0E37\u0E48\u0E2D\u0E19\u0E17\u0E35\u0E48"@th .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8FD0\u52A8\u7D0A\u4E71"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2004/02/skos/core#prefLabel> "lokomosyon bozuklu\u011Fu"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2004/02/skos/core#altLabel> "Fortbewegungsstoerung"@de .
+<http://aims.fao.org/aos/agrovoc/c_12230> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4962> .

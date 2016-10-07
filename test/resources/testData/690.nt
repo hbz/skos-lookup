@@ -1,0 +1,44 @@
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1842> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_5918> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_35657> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299518336164> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299518336180> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299518336198> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299518336216> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299518336235> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299518336257> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299518336279> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299518336305> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299518336331> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299518336361> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299518336391> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299518336424> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299518336458> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299518336492> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299518336528> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl-1d8d6b64-d3fe-426e-991a-35b6c5c53aeb> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_uk_bbbf332b> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://purl.org/dc/terms/created> "1981-01-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://purl.org/dc/terms/modified> "2015-07-30T23:15:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2004/02/skos/core#prefLabel> "skladov\u00E1n\u00ED v inertn\u00EDm plynu"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inertgaslagerung"@de .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2004/02/skos/core#prefLabel> "inert gas storage"@en .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2004/02/skos/core#prefLabel> "Almacenamiento bajo gas inerte"@es .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stockage sous gaz inerte"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0905\u0915\u094D\u0930\u093F\u092F \u0917\u0948\u0938 \u092D\u0923\u094D\u0921\u093E\u0930\u0923"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2004/02/skos/core#prefLabel> "inert g\u00E1z t\u00E1rol\u00E1sa"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2004/02/skos/core#prefLabel> "Immagazzinamento in gas inerte"@it .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4E0D\u6D3B\u6027\u30AC\u30B9\u8CAF\u8535"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uBD88\uD65C\uC131\uAC00\uC2A4\uC800\uC7A5"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2004/02/skos/core#prefLabel> "Przechowywanie w atmosferze gazu oboj\u0119tnego"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2004/02/skos/core#prefLabel> "Armazenamento em g\u00E1s inerte"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0445\u0440\u0430\u043D\u0435\u043D\u0438\u0435 \u0432 \u0430\u0442\u043C\u043E\u0441\u0444\u0435\u0440\u0435 \u0438\u043D\u0435\u0440\u0442\u043D\u043E\u0433\u043E \u0433\u0430\u0437\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2004/02/skos/core#prefLabel> "skladovanie v inertnom plyne"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5145\u60F0\u6027\u6C14\u4F53\u50A8\u5B58"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2004/02/skos/core#prefLabel> "inert gaz alt\u0131nda depolama"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0437\u0431\u0435\u0440\u0456\u0433\u0430\u043D\u043D\u044F \u0432 \u0430\u0442\u043C\u043E\u0441\u0444\u0435\u0440\u0456 \u0456\u043D\u0435\u0440\u0442\u043D\u043E\u0433\u043E \u0433\u0430\u0437\u0443"@uk .
+<http://aims.fao.org/aos/agrovoc/c_11764> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1842> .

@@ -1,0 +1,50 @@
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#scopeNote> "Gleba gliniasta z g\u0142azami narzutowymi"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4387> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://aims.fao.org/aos/asfa/c_4465> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299519908141> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299519908167> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299519908189> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299519908213> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299519908238> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299519908263> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299519908291> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299519908321> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299519908841> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299519908876> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299519908929> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299519908975> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299519909028> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299519909090> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299519909143> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299519909199> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299519909264> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299519909315> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299519909364> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1036_1328260131673> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://purl.org/dc/terms/created> "2012-02-03T17:08:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://purl.org/dc/terms/modified> "2012-02-03T17:08:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062A\u0631\u0628 \u0627\u0644\u062C\u0644\u0627\u0645\u064A\u062F \u0627\u0644\u063A\u0636\u0627\u0631\u064A\u0629"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#prefLabel> "hlinit\u00E9 souvkov\u00E9 p\u016Fdy"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#prefLabel> "Steiniger und Tonreicher Boden"@de .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#prefLabel> "boulder clay soils"@en .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#prefLabel> "Suelo de arcilla s\u00EDlice"@es .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062E\u0627\u06A9\u200C\u0647\u0627\u06CC \u0631\u0633 \u06AF\u0631\u062F\u0627\u0644\u0647 \u0633\u0646\u06AF\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sol sur d\u00E9p\u00F4t morainique"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0917\u094B\u0932\u093E\u0915\u094D\u0937\u094D\u092E \u091A\u093F\u0915\u0928\u0940 \u092E\u093F\u091F\u094D\u091F\u0940"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#prefLabel> "glaci\u00E1lis agyagos-f\u00F6ld"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#prefLabel> "Suoli argillosi su depositi morenici"@it .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6C37\u792B\u7C98\u571F\u571F\u58CC"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uD45C\uC11D\uC810\uC9C8\uD1A0\uC591"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E94\u0EB4\u0E99\u0E9A\u0EB2\u0EA7\u0EC0\u0E94\u0EB5\u0EA3\u0EC0\u0E84\u0EA3"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gleba gliniasta-kamienista"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#prefLabel> "Solo de dep\u00F3sito argiloso"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043F\u043E\u0447\u0432\u044B \u043D\u0430 \u043C\u043E\u0440\u0435\u043D\u043D\u044B\u0445 \u0433\u043B\u0438\u043D\u0430\u0445"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#prefLabel> "hlinit\u00E9 mor\u00E9nov\u00E9 p\u00F4dy"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E14\u0E34\u0E19\u0E1A\u0E32\u0E27\u0E14\u0E4C\u0E40\u0E14\u0E2D\u0E23\u0E4C\u0E40\u0E04\u0E25\u0E22\u0E4C"@th .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6CE5\u7C92\u571F\u58E4"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C2E\u0C41\u0C02\u0C1A\u0C21\u0C02"@te .
+<http://aims.fao.org/aos/agrovoc/c_1036> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4387> .

@@ -1,0 +1,92 @@
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_37347> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Faidherbia_albida> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4561929-3> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/1911> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://aims.fao.org/aos/agrontology#hasTaxonomicRank> <http://aims.fao.org/aos/agrovoc/c_331243> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299497739445> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299497739462> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299497739479> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299497739497> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299497739518> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299497739539> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299497739562> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299497739586> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299497739612> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299497739640> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299497739670> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299497739704> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299497739737> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299497739773> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299497739812> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299497740121> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299497740160> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299497740199> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10734_1321792334227> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299497740321> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299497740471> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299497741404> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299497741117> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299497741256> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299497741500> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299497741603> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299497740272> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299497741052> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299497740371> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299497740778> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299497740708> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299497741329> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299497740525> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299497740987> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299497740925> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299497741187> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299497740582> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299497740420> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299497740640> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_33_1321789430856> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://purl.org/dc/terms/created> "2011-11-20T20:32:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://purl.org/dc/terms/modified> "2013-08-29T21:10:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0641\u064A\u062F\u0647\u064A\u0631\u0628\u064A\u0627 \u0628\u064A\u0636\u0627\u0621"@ar .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Faidherbia albida"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Faidherbia albida"@de .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Faidherbia albida"@en .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Faidherbia albida"@es .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0641\u06CC\u062F\u0631\u0628\u06CC\u0627 \u0622\u0644\u0628\u06CC\u062F\u0627"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Faidherbia albida"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092B\u0947\u0926\u094D\u0939\u0930\u094D\u092C\u0940\u0906 \u090F\u0932\u094D\u092C\u093F\u0921\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Faidherbia albida"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Faidherbia albida"@it .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30D5\u30A1\u30A4\u30C9\u30D8\u30EB\u30D3\u30A2\u3000\u30A2\u30EB\u30D3\u30C0"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Faidherbia albida"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Faidherbia albida"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Faidherbia albida"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Faidherbia albida"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Faidherbia albida"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Faidherbia albida"@th .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#prefLabel> "faidherbia albida"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Faidherbia albida"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0633\u0646\u0637 \u0623\u0628\u064A\u0636"@ar .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#altLabel> "Acacia albida"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#altLabel> "Acacia albida"@de .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#altLabel> "Acacia albida"@en .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#altLabel> "Acacia albida"@es .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#altLabel> "Cadde"@es .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#altLabel> "Mukababu"@es .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0622\u0643\u0627\u0633\u064A\u0627 \u0622\u0644\u0628\u064A\u062F\u0627"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#altLabel> "Acacia albida"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0905\u0915\u0947\u0938\u093F\u092F\u093E \u0905\u0932\u092C\u093F\u0921\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#altLabel> "Acacia albida"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#altLabel> "Acacia albida"@it .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#altLabel> "\u30A2\u30AB\u30AD\u30A2\u3000\u30A2\u30EB\u30D3\u30C0"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#altLabel> "Acacia albida"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#altLabel> "Acacia albida"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#altLabel> "Acacia albida"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#altLabel> "Acacia albida"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#altLabel> "Acacia albida"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#altLabel> "Acacia albida"@th .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#altLabel> "\u5FAE\u767D\u91D1\u5408\u6B22"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#altLabel> "Acacia albida"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10734> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_37347> .

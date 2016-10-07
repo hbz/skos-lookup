@@ -1,0 +1,87 @@
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_909> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://aims.fao.org/aos/agrontology#usesProcess> <http://aims.fao.org/aos/agrovoc/c_5806> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299511181097> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299511181608> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299511181729> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299511181748> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299511181768> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299511181789> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299511181811> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299511181835> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299511181861> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299511181888> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299511181921> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299511181955> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299511181990> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299511182029> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299511182068> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299511182108> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299511182150> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299511182341> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_126_1321789489311> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_736f0675> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299511183766> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299511182428> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299511182477> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299511182825> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299511182873> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299511182975> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299511183030> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299511183088> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299511183146> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299511183205> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299511183267> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299511183332> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299511183397> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299511183462> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299511183531> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299511183602> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299511183676> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_17558_1321793061164> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_1dff4c68> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://purl.org/dc/terms/created> "2011-11-20T20:44:21Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://purl.org/dc/terms/modified> "2015-08-18T21:46:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062D\u0644\u0642\u0629 \u0623\u062F\u064A\u0646\u0648\u0632\u064A\u0646 \u062B\u0644\u0627\u062B\u064A \u0627\u0644\u0641\u0633\u0641\u0627\u062B"@ar .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#prefLabel> "adenosintrifosf\u00E1tov\u00FD cyklus"@cs .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATP ZYKLUS"@de .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATP cycle"@en .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ciclo de la ATP"@es .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0686\u0631\u062E\u0647 \u0622.\u062A\u06CC.\u067E\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cycle de l'ATP"@fr .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#prefLabel> "(\u090F\u0921\u093F\u0928\u094B\u0938\u093F\u0928 \u091F\u094D\u0930\u093E\u0908 \u092B\u093E\u0938\u094D\u092B\u0947\u091F \u091A\u0915\u094D\u0930)"@hi .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATP-ciklus"@hu .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ciclo dell'ATP"@it .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATP\u30B5\u30A4\u30AF\u30EB"@ja .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EA7\u0EBB\u0E87\u0E88\u0EAD\u0E99 Atp"@lo .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cykl ATP"@pl .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ciclo ATP"@pt .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0446\u0438\u043A\u043B \u0430\u0442\u0444"@ru .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATP cyklus"@sk .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E27\u0E31\u0E0F\u0E08\u0E31\u0E01\u0E23\u0E40\u0E2D\u0E17\u0E35\u0E1E\u0E35"@th .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATP\u5FAA\u73AF"@zh .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATP d\u00F6ng\u00FCs\u00FC"@tr .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#prefLabel> "ciclu ATP"@mo .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#altLabel> "Cykl adenozynotrifosforanu"@pl .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0686\u0631\u062E\u0647 \u0622\u062F\u0646\u0648\u0632\u064A\u0646 \u062A\u0631\u064A\u200C\u0641\u0633\u0641\u0627\u062A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062F\u0648\u0631\u0629 \u062B\u0627\u0644\u062B \u0641\u0648\u0633\u0641\u0627\u062A \u0627\u0644\u0623\u062F\u064A\u0646\u0648\u0633\u064A\u0646"@ar .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0910\u0921\u0940\u0928\u094B\u0938\u093F\u0928 \u091F\u094D\u0930\u093E\u0908 \u092B\u0949\u0938\u094D\u092B\u0947\u091F \u091A\u0915\u094D\u0930"@hi .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E27\u0E31\u0E0F\u0E08\u0E31\u0E01\u0E23\u0E2D\u0E30\u0E14\u0E35\u0E42\u0E19\u0E0B\u0E35\u0E19\u0E44\u0E15\u0E23\u0E1F\u0E2D\u0E2A\u0E40\u0E1F\u0E15"@th .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0EA7\u0EBB\u0E87\u0E88\u0EAD\u0E99\u0EAD\u0EB2\u0E94\u0EB5\u0EC2\u0E99\u0E8A\u0EB5\u0E99\u0EC4\u0E95\u0EA3\u0E9F\u0ECD\u0EAA\u0EC0\u0E9F\u0E95"@lo .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#altLabel> "\u817A\u82F7\u4E09\u78F7\u9178\u5FAA\u73AF"@zh .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#altLabel> "Ciclo dell'adenosintrifosfato"@it .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#altLabel> "adenozintrifoszf\u00E1t ciklus"@hu .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#altLabel> "Ciclo da adenosinatrifosfato"@pt .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#altLabel> "Cykl adenozynotr\u00F3jfosforanu"@pl .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#altLabel> "Cycle de l'ad\u00E9nosine triphosphate"@fr .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#altLabel> "adenosine triphosphate cycle"@en .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0430\u0434\u0435\u043D\u043E\u0437\u0438\u043D\u0442\u0440\u0438\u0444\u043E\u0441\u0444\u0430\u0442\u043D\u044B\u0439 \u0446\u0438\u043A\u043B"@ru .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#altLabel> "Ciclo del adenosintrifosfato"@es .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#altLabel> "\u30A2\u30C7\u30CE\u30B7\u30F3\u4E09\u30EA\u30F3\u9178\u56DE\u8DEF"@ja .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#altLabel> "Adenosintriphosphatzyklus"@de .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#altLabel> "adenozin trifosfat d\u00F6ng\u00FCs\u00FC"@tr .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#altLabel> "ciclu adenozintrifosfatului"@mo .
+<http://aims.fao.org/aos/agrovoc/c_126> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_909> .

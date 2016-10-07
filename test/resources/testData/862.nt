@@ -1,0 +1,40 @@
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2953> .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299524496348> .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299524496368> .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299524496387> .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299524496406> .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299524496427> .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299524496707> .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299524496730> .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299524496764> .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299524496794> .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299524496822> .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299524496853> .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299524497241> .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299524497288> .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299524497334> .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299524497378> .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12223_1321792504511> .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://purl.org/dc/terms/created> "2011-11-20T20:35:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://purl.org/dc/terms/modified> "2014-07-03T18:02:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2004/02/skos/core#prefLabel> "ko\u0161e na chyt\u00E1n\u00ED humr\u016F"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hummerfalle"@de .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2004/02/skos/core#prefLabel> "lobster pots"@en .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062A\u0644\u0647\u200C\u0647\u0627\u064A \u062E\u0631\u0686\u0646\u06AF\u200C\u06AF\u064A\u0631\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nasse"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0932\u094B\u092C\u094D\u0938\u091F\u0930 \u092A\u093E\u0901\u091F"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2004/02/skos/core#prefLabel> "hom\u00E1rfog\u00F3-kos\u00E1r"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nasse per aragoste"@it .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30A8\u30D3\u304B\u3054"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EAA\u0EB8\u0EC8\u0EA1"@lo .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kosz do po\u0142owu homar\u00F3w"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nassa"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2004/02/skos/core#prefLabel> "ko\u0161e na chytanie rakov"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E25\u0E2D\u0E1A\u0E08\u0E31\u0E1A\u0E01\u0E38\u0E49\u0E07"@th .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6355\u9F99\u867E\u7F51"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0131stakoz sepeti"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12223> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2953> .

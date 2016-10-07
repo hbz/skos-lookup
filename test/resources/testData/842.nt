@@ -1,0 +1,42 @@
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5336> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://aims.fao.org/aos/agrontology#isDerivedFrom> <http://aims.fao.org/aos/agrovoc/c_12192> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_51734> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299486496304> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299486496322> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299486496341> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299486496360> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299486496381> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299486496405> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299486496429> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299486496454> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299486496481> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299486496511> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299486496543> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299486496576> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299486496611> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299486496648> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12193_1321792500162> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ms_1310442104495> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://purl.org/dc/terms/created> "2011-11-20T20:35:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://purl.org/dc/terms/modified> "2014-07-03T18:41:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2004/02/skos/core#prefLabel> "ln\u011Bn\u00E9 pokrutiny"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leinsaatpresskuchen"@de .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2004/02/skos/core#prefLabel> "linseed cake"@en .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0643\u0646\u062C\u0627\u0644\u0647 \u0628\u0630\u0631 \u0643\u062A\u0627\u0646"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0905\u0932\u0938\u0940 \u0915\u0940 \u0916\u0932\u0940"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2004/02/skos/core#prefLabel> "lenmag pog\u00E1csa"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Panelli di semi di lino"@it .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4E9C\u9EBB\u4EC1\u6CB9\u7C95"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Makuchy lniane"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Torta de linha\u00E7a"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043B\u044C\u043D\u044F\u043D\u043E\u0439 \u0436\u043C\u044B\u0445"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u013Eanov\u00E9 v\u00FDlisky"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E01\u0E40\u0E21\u0E25\u0E47\u0E14\u0E25\u0E34\u0E19\u0E0B\u0E35\u0E14"@th .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4E9A\u9EBB\u7C7D\u997C"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2004/02/skos/core#prefLabel> "keten tohumu k\u00FCspesi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2004/02/skos/core#altLabel> "Kek linsid"@ms .
+<http://aims.fao.org/aos/agrovoc/c_12193> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5336> .

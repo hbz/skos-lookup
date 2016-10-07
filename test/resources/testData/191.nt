@@ -1,0 +1,42 @@
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1316> .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299513657593> .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299513657641> .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299513657749> .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299513657767> .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299513657787> .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299513657998> .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299513658023> .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299513658048> .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299513658076> .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299513658105> .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299513658137> .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299513658170> .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299513658205> .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299513658242> .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299513658280> .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299513658322> .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1369398556587> .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://purl.org/dc/terms/created> "1981-01-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://purl.org/dc/terms/modified> "2013-08-27T21:37:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2004/02/skos/core#prefLabel> "glykosidy n\u00E1prstn\u00EDku"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2004/02/skos/core#prefLabel> "Digitalisglycosid"@de .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2004/02/skos/core#prefLabel> "digitalis glycosides"@en .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gluc\u00F3sidos de digitales"@es .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u06AF\u0644\u064A\u0643\u0648\u0632\u064A\u062F\u0647\u0627\u064A \u062F\u064A\u0698\u064A\u062A\u0627\u0644\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glycoside de digitale"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0921\u093F\u091C\u093F\u091F\u0947\u0932\u093F\u0938 \u0917\u094D\u0932\u093E\u0908\u0915\u094B\u0938\u093E\u0907\u0921"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2004/02/skos/core#prefLabel> "Digitalis glikozidok"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glucosidi della digitale"@it .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30B8\u30AE\u30BF\u30EA\u30B9\u914D\u7CD6\u4F53"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glikozydy naparstnicy (pochodne digitogeniny)"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2004/02/skos/core#prefLabel> "Digitalis glycosides"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0433\u043B\u0438\u043A\u043E\u0437\u0438\u0434\u044B \u043D\u0430\u043F\u0435\u0440\u0441\u0442\u044F\u043D\u043A\u0438"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2004/02/skos/core#prefLabel> "glykoz\u00EDdy n\u00E1prstn\u00EDka"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E22\u0E32\u0E1A\u0E33\u0E23\u0E38\u0E07\u0E2B\u0E31\u0E27\u0E43\u0E08"@th .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6BDB\u5730\u9EC4\u7CD6\u82F7"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2004/02/skos/core#prefLabel> "Digitalis glikozitleri"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10373> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1316> .

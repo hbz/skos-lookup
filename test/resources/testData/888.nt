@@ -1,0 +1,114 @@
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1432> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Cameroon> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_24737> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dewey.info/class/967.11/> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://eurovoc.europa.eu/5095> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Cameroon> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/21545> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://zbw.eu/stw/descriptor/17732-2> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://sws.geonames.org/2233387/> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://aims.fao.org/aos/agrontology#spatiallyIncludes> <http://aims.fao.org/aos/agrovoc/c_29702> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://aims.fao.org/aos/agrontology#spatiallyIncludes> <http://aims.fao.org/aos/agrovoc/c_49968> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://aims.fao.org/aos/agrontology#isPartOfSubvocabulary> "Geographical country level" .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299520592990> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299520593017> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299520593043> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299520593066> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299520593094> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299520593130> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299520593162> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299520593195> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299520593230> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299520593265> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299520593311> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299520593350> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299520593385> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299520593420> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299520593458> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299520593512> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299520593554> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299520593601> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299520593643> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1229_1321790167960> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1229_1328260255519> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ka_0420d5d4> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299520594027> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299520594213> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299520595618> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299520594916> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299520595329> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299520593953> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299520594807> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299520594088> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299520594579> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299520594491> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299520595494> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299520594722> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299520594644> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299520595047> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299520594275> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299520594144> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299520594393> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_15093_1321792825739> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_187f7550> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_eaea5a50> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_88dc8ec8> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_64e66c76> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_72df86e7> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_b289d485> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ka_65064df5> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://purl.org/dc/terms/created> "2012-02-03T17:10:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://purl.org/dc/terms/modified> "2014-10-16T17:04:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u0644\u0643\u0627\u0645\u064A\u0631\u0648\u0646"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kamerun"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kamerun"@de .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cameroon"@en .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#prefLabel> "Camer\u00FAn"@es .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u06A9\u0627\u0645\u0631\u0648\u0646"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cameroun"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u0948\u092E\u0947\u0930\u0942\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kamerun"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#prefLabel> "Camerun"@it .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30AB\u30E1\u30EB\u30FC\u30F3\u5171\u548C\u56FD"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uCE74\uBA54\uB8EC"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0EC0\u0EA1\u0EB5\u0EA3\u0EB9\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kamerun"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rep\u00FAblica dos Camar\u00F5es"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043A\u0430\u043C\u0435\u0440\u0443\u043D"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kamerun"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E41\u0E04\u0E40\u0E21\u0E2D\u0E23\u0E39\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5580\u9EA6\u9686"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kamerun"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C21\u0C3E\u0C32\u0C3F\u0C16\u0C4A\u0C21\u0C4A \u0C30\u0C48\u0C21\u0C40"@te .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u10D9\u10D0\u10DB\u10D4\u10E0\u10E3\u10DC\u10D8"@ka .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0643\u0645\u064A\u0631\u0648\u0646 \u0627\u0644\u0645\u062A\u062D\u062F\u0629"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "Kamerunsk\u00E1 sjednocen\u00E1 republika"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "Republik Kamerun"@de .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "United Republic of Cameroon"@en .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "Rep\u00FAblica Unida de Camer\u00FAn"@es .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062C\u0645\u0647\u0648\u0631\u064A \u0645\u062A\u062D\u062F\u0647 \u0643\u0627\u0645\u0631\u0648\u0646"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "R\u00E9publique unie du Cameroun"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0938\u0902\u092F\u0941\u0915\u094D\u0924 \u0917\u0923\u0930\u093E\u091C\u094D\u092F \u0915\u0948\u092E\u0947\u0930\u0942\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "Kameruni Egyes\u00FClt K\u00F6zt\u00E1rsas\u00E1g"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "Repubblica Unita del Camerum"@it .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "\u30AB\u30E1\u30EB\u30FC\u30F3\u9023\u90A6\u5171\u548C\u56FD"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "Republika Kamerunu"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "Rep\u00FAblica Unida dos Camar\u00F5es"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043E\u0431\u044A\u0435\u0434\u0438\u043D\u0435\u043D\u043D\u0430\u044F \u0440\u0435\u0441\u043F\u0443\u0431\u043B\u0438\u043A\u0430 \u043A\u0430\u043C\u0435\u0440\u0443\u043D"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "Kamerunsk\u00E1 republika"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E2A\u0E2B\u0E2A\u0E32\u0E18\u0E32\u0E23\u0E13\u0E23\u0E31\u0E10\u0E41\u0E04\u0E40\u0E21\u0E2D\u0E23\u0E39\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "\u5580\u9EA6\u9686\u5171\u548C\u56FD"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "Kamerun Birle\u015Fik Cumhuriyeti"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0643\u0645\u064A\u0631\u0648\u0646"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "cameroun"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "Cameroun"@en .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "Cameroun"@it .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "\u30AB\u30E1\u30EB\u30FC\u30F3"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "Camar\u00F5es"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#altLabel> "\u10D9\u10D0\u10DB\u10D4\u10E0\u10E3\u10DC\u10D8\u10E1 \u10E0\u10D4\u10E1\u10DE\u10E3\u10D1\u10DA\u10D8\u10D9\u10D0"@ka .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#related> <http://aims.fao.org/aos/agrovoc/c_1381491471346> .
+<http://aims.fao.org/aos/agrovoc/c_1229> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1432> .

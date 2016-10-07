@@ -1,0 +1,35 @@
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7507> .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://aims.fao.org/aos/agrontology#hasComposition> <http://aims.fao.org/aos/agrovoc/c_3118> .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299515141609> .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299515141627> .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299515141646> .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299515141666> .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299515141689> .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299515141761> .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299515141786> .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299515141811> .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299515141838> .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299515141913> .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299515141944> .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299515142043> .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1330419001532> .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://purl.org/dc/terms/created> "1981-01-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://purl.org/dc/terms/modified> "2012-07-25T22:52:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2004/02/skos/core#prefLabel> "form\u00F3zov\u00E9 cukry"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2004/02/skos/core#prefLabel> "formose sugars"@en .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0642\u0646\u062F\u0647\u0627\u064A \u0641\u0648\u0631\u0645\u0648\u0632"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092B\u094B\u0930\u092E\u094B\u0938 \u0936\u0930\u094D\u0915\u0930\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2004/02/skos/core#prefLabel> "form\u00F3z cukor"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zuccheri da condensazione della formaldeide"@it .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30DB\u30EB\u30E2\u30FC\u30B9\u7CD6"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uD3EC\uB974\uBAA8\uC624\uC2A4\uB2F9"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cukier argenty\u0144ski"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0444\u043E\u0440\u043C\u043E\u0437\u0430-\u0441\u0430\u0445\u0430\u0440\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2004/02/skos/core#prefLabel> "form\u00F3zov\u00E9 cukry"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7532\u919B\u805A\u7CD6"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2004/02/skos/core#prefLabel> "Formose"@de .
+<http://aims.fao.org/aos/agrovoc/c_10987> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7507> .

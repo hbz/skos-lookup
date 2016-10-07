@@ -1,0 +1,34 @@
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_24189> .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299518303560> .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299518303576> .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299518303596> .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299518303615> .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299518303637> .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299518303660> .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299518303873> .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299518303901> .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299518303929> .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299518303957> .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299518303987> .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1319452252876> .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10038_1321792250343> .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://purl.org/dc/terms/created> "2011-11-20T20:30:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://purl.org/dc/terms/modified> "2014-07-03T18:19:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2004/02/skos/core#prefLabel> "obecn\u00ED vyva\u0159ovny"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2004/02/skos/core#prefLabel> "communal feeding"@en .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062A\u063A\u0630\u064A\u0647 \u06AF\u0631\u0648\u0647\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0938\u093E\u092E\u0941\u0926\u093E\u092F\u093F\u0915 \u092D\u094B\u091C\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2004/02/skos/core#prefLabel> "k\u00F6z\u00E9tkeztet\u00E9s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ristorazione collettiva"@it .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5171\u540C\u7D66\u98DF"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u017Bywienie sto\u0142\u00F3wkowe"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alimenta\u00E7\u00E3o comunit\u00E1ria"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2004/02/skos/core#prefLabel> "spolo\u010Dn\u00E9 stravovanie"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u96C6\u4F53\u996D"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gemeinschaftsspeisung"@de .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2004/02/skos/core#prefLabel> "toplu beslenme"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10038> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_24189> .

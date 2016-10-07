@@ -1,0 +1,48 @@
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7535> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299526009679> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1328606170886> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299526009716> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299526009738> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299526009760> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299526009887> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299526009910> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299526009936> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299526010200> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299526010229> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299526010259> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299526010402> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299526010500> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299526010540> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299526010582> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299526010625> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299526010668> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10972_1321792364976> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_10972_1328258526761> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299526009698> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://purl.org/dc/terms/created> "2012-02-03T16:42:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://purl.org/dc/terms/modified> "2015-03-12T18:28:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2004/02/skos/core#prefLabel> "p\u0159ebytek potravin"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lebensmittel\u00FCberschuss"@de .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2004/02/skos/core#prefLabel> "food surplus"@en .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2004/02/skos/core#prefLabel> "Excedentes de alimentos"@es .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0645\u0627\u0632\u0627\u062F \u063A\u0630\u0627"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2004/02/skos/core#prefLabel> "Surplus alimentaire"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0916\u093E\u0926\u094D\u092F \u0906\u0927\u093F\u0915\u094D\u092F"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00E9lelmiszerfelesleg"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2004/02/skos/core#prefLabel> "Surplus di alimenti"@it .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u98DF\u6599\u904E\u5270"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC2DD\uB7C9\uACFC\uC789"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nadwy\u017Cka \u017Cywno\u015Bci"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2004/02/skos/core#prefLabel> "Excedente alimentar"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0438\u0437\u043B\u0438\u0448\u043A\u0438 \u043F\u0440\u043E\u0434\u043E\u0432\u043E\u043B\u044C\u0441\u0442\u0432\u0438\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2004/02/skos/core#prefLabel> "prebytok potrav\u00EDn"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E2D\u0E32\u0E2B\u0E32\u0E23\u0E2A\u0E48\u0E27\u0E19\u0E40\u0E01\u0E34\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7CAE\u98DF\u8FC7\u5269"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2004/02/skos/core#prefLabel> "g\u0131da fazlal\u0131\u011F\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C06\u0C39\u0C3E\u0C30 \u0C2E\u0C3F\u0C17\u0C41\u0C32\u0C41"@te .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2004/02/skos/core#altLabel> "Lebensmittelueberschuss"@de .
+<http://aims.fao.org/aos/agrovoc/c_10972> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7535> .

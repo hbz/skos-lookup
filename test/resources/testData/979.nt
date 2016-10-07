@@ -1,0 +1,43 @@
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3494> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://aims.fao.org/aos/agrontology#isDerivedFrom> <http://aims.fao.org/aos/agrovoc/c_182> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299487571643> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299487571660> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299487571678> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299487571697> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299487571718> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299487571740> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299487571765> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299487571791> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299487571818> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1331548390172> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1354282975898> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1354283444221> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1357553713646> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1354273032635> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1354282698840> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1354282680698> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1357554016540> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://purl.org/dc/terms/created> "1981-01-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://purl.org/dc/terms/modified> "2013-08-27T17:30:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2004/02/skos/core#prefLabel> "mexican fibre"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2004/02/skos/core#prefLabel> "mexican fibre"@en .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092E\u0948\u0915\u094D\u0938\u093F\u0915\u0928 \u0930\u0947\u0936\u093E/\u092B\u093E\u0907\u092C\u0930"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fibra messicana"@it .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30A4\u30B9\u30C8\u30EC"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uBA55\uC2DC\uCF54\uC12C\uC720"@ko .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fibra mexicana"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2004/02/skos/core#prefLabel> "ag\u00E1va"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u58A8\u897F\u54E5\u7EA4\u7EF4"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tampico-Faser"@de .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2004/02/skos/core#prefLabel> "fibre de tampico"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2004/02/skos/core#prefLabel> "fibra Tampico"@es .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meksika lifi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2004/02/skos/core#altLabel> "tampico fiber"@en .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2004/02/skos/core#altLabel> "Mexikanische Faser"@de .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2004/02/skos/core#altLabel> "Tampicofaser"@de .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2004/02/skos/core#altLabel> "Tampiko lifi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12531> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3494> .

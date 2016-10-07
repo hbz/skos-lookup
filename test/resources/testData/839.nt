@@ -1,0 +1,67 @@
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#scopeNote> "<8489>"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u00C0 n'utiliser que pour les jeunes animaux des bovins et des z\u00E9bus; pour les autres esp\u00E8ces utiliser <8489> et le descripteur approprie \u00E0 l'esp\u00E8ce consid\u00E8re"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#scopeNote> "Use only for the young animals of cattle and zebu cattle; for other species use <8489> and the appropriate descriptor for the species considered"@en .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#scopeNote> "Usar solamente para los animales j\u00F3venes de ganado bovino y cebu; para otras especies use <8489> y el descriptor apropiado de la especie considerada"@es .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#scopeNote> "Usare solo per i giovani bovini e zeb\u00F9; per le altre specie usare <8489> con l'appropriato descrittore"@it .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0E43\u0E0A\u0E49\u0E40\u0E09\u0E1E\u0E32\u0E30\u0E25\u0E39\u0E01\u0E27\u0E31\u0E27\u0E41\u0E25\u0E30\u0E27\u0E31\u0E27\u0E2D\u0E34\u0E19\u0E40\u0E14\u0E35\u0E22\u0E2B\u0E23\u0E37\u0E2D\u0E27\u0E31\u0E27\u0E41\u0E02\u0E01, \u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E2A\u0E31\u0E15\u0E27\u0E4C\u0E0A\u0E19\u0E34\u0E14\u0E2D\u0E37\u0E48\u0E19\u0E46 \u0E43\u0E0A\u0E49 <8489> "@th .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0EC3\u0E8A\u0EC9\u0EAA\u0EB0\u0EC0\u0E9E\u0EB2\u0EB0\u0E81\u0EB1\u0E9A\u0E87\u0EBB\u0EA7\u0E99\u0EC9\u0EAD\u0E8D \u0EC1\u0EA5\u0EB0 \u0E87\u0EBB\u0EA7 Zebu \u0EC0\u0E97\u0EBB\u0EC8\u0EB2\u0E99\u0EB1\u0EC9\u0E99. \u0EAA\u0EB3\u0EA5\u0EB1\u0E9A\u0E8A\u0EB0\u0E99\u0EB4\u0E94\u0EAD\u0EB7\u0EC8\u0E99 \u0EC3\u0EAB\u0EC9\u0EC3\u0E8A\u0EC9 <8489> \u0E9E\u0EC9\u0EAD\u0EA1\u0E84\u0EB3\u0EAA\u0EB1\u0E9A\u0E97\u0EB5\u0EC8\u0EC0\u0EDD\u0EB2\u0EB0\u0EAA\u0EB3\u0EA5\u0EB1\u0E9A\u0E8A\u0EB0\u0E99\u0EB4\u0E94 \u0E97\u0EB5\u0EC8\u0EAD\u0EC9\u0EB2\u0E87\u0EC0\u0E96\u0EB4\u0E87."@lo .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#scopeNote> "U\u017Cywaj tylko dla m\u0142odego byd\u0142a i zebu; dla innych gatunk\u00F3w u\u017Cyj <8489> i w\u0142a\u015Bciwy deskryptor dla gatunku"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#scopeNote> "Nur fuer junge Rinder oder Zebus benutzen; fuer andere Arten <8489> plus den entsprechenden Deskriptor fuer die Tierart benutzen"@de .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#scopeNote> "Fiatal marha \u00E9s zebu; Egy\u00E9b fajok eset\u00E9n: <8489> \u00E9s egy\u00E9b megfelelo kifejez\u00E9s az adott fajokra vonatkoz\u00F3an"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#scopeNote> "Yaln\u0131zca s\u0131\u011F\u0131r ve H\u00F6rg\u00FC\u00E7l\u00FC Hint s\u0131\u011F\u0131r\u0131 yavrular\u0131 i\u00E7in kullan; di\u011Fer t\u00FCrler i\u00E7in <15969> kodlu terimle birlikte t\u00FCr\u00FCn tan\u0131mlay\u0131c\u0131 terimini kullan\n"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_8489> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1391> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/16560> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_10279> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4163040-3> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/21177> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299491016608> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299491016627> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299491016652> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299491016674> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299491016699> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299491016776> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299491016804> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299491016832> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299491016863> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299491016896> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299491016932> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299491016970> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299491017012> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299491017053> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299491017097> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299491017142> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299491017191> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299491017240> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299491017290> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1219_1321790160520> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1219_1328260248923> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://purl.org/dc/terms/created> "2012-02-03T17:10:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://purl.org/dc/terms/modified> "2013-08-27T19:44:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0639\u062C\u0648\u0644"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#prefLabel> "telata"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kalb"@de .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#prefLabel> "calves"@en .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ternero"@es .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u06AF\u0648\u0633\u0627\u0644\u0647\u200C\u0647\u0627"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#prefLabel> "Veau"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092C\u091B\u0921\u093C\u0947"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#prefLabel> "borj\u00FA"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vitelli"@it .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4ED4\u725B"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC1A1\uC544\uC9C0"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E87\u0EBB\u0EA7\u0E99\u0EC9\u0EAD\u0E8D"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ciel\u0119"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bezerro"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0442\u0435\u043B\u044F\u0442\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#prefLabel> "te\u013Eat\u00E1"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E25\u0E39\u0E01\u0E42\u0E04"@th .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u728A\u725B"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#prefLabel> "buza\u011F\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C21\u0C4A\u0C21\u0C46\u0C30\u0C4D \u0C32\u0C48\u0C28\u0C3F\u0C2F\u0C3E \u0C2C\u0C46\u0C30\u0C48\u0C15\u0C3E\u0C2F\u0C3F\u0C21\u0C46\u0C38\u0C4D"@te .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_8489> .
+<http://aims.fao.org/aos/agrovoc/c_1219> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1391> .

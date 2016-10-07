@@ -1,0 +1,41 @@
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_8483> .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://aims.fao.org/aos/agrontology#isPartOfSubvocabulary> "Geographical below country level" .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299520388218> .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299520388235> .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299520388253> .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299520388272> .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299520388293> .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299520388315> .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299520388339> .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299520388364> .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299520388391> .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299520388421> .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299520388451> .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299520388483> .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299520388519> .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299520388554> .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299520388591> .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11935_1321792471897> .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://purl.org/dc/terms/created> "2011-11-20T20:34:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://purl.org/dc/terms/modified> "2011-11-20T20:34:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062C\u0632\u0631 \u0627\u0644\u0643\u0627\u0645\u0631\u0627\u0646"@ar .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2004/02/skos/core#prefLabel> "ostrov Kamaran"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kamaran"@de .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kamaran Island"@en .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2004/02/skos/core#prefLabel> "Islas Kamar\u00E1n"@es .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00CEles Kamaran"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u093E\u092E\u0930\u093E\u0928 \u0926\u094D\u0927\u0940\u092A"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kamaran"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2004/02/skos/core#prefLabel> "Isola Kamaran"@it .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30AB\u30DE\u30E9\u30F3\u5CF6"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wyspy Kamaran"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ilha Kamaran"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043E\u0441\u0442\u0440\u043E\u0432 \u043A\u0430\u043C\u0430\u0440\u0430\u043D"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2004/02/skos/core#prefLabel> "ostrov Kamaran"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E2B\u0E21\u0E39\u0E48\u0E40\u0E01\u0E32\u0E30\u0E04\u0E32\u0E21\u0E32\u0E23\u0E32\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kamaran Adas\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11935> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_8483> .

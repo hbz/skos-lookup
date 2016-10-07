@@ -1,0 +1,67 @@
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://voc.landportal.info/landterms> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#inScheme> <http://voc.landportal.info/landterms> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7669> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Land_tenure> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/39524> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://zbw.eu/stw/descriptor/12020-6> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299525482918> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299525482938> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299525482957> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299525482992> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299525483022> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299525483049> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299525483075> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299525483352> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299525483385> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299525483414> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299525483467> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299525483501> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299525483536> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299525483574> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299525483633> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12069_1321792488156> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_74729efd> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_75f1723e> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_km_987e7994> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_vi_080ae13f> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_my_d37dcc23> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_734f0e5c> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12069_1321792488038> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://purl.org/dc/terms/created> "2011-11-20T20:34:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://purl.org/dc/terms/modified> "2015-11-10T17:13:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#prefLabel> "p\u016Fdn\u00ED dr\u017Eba"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Landbesitz"@de .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#prefLabel> "land tenure"@en .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tenencia de la tierra"@es .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062A\u0635\u0631\u0641 \u0632\u0645\u064A\u0646"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092D\u0942\u092E\u093F \u0905\u0935\u0927\u093F \u092A\u091F\u094D\u091F\u0947\u0926\u093E\u0930\u0940"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#prefLabel> "f\u00F6ldbirtok"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Possesso dei terreni"@it .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u501F\u5730\u5236\u5EA6"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0E99\u0E84\u0EAD\u0E9A\u0E84\u0EAD\u0E87\u0E97\u0EB5\u0EC8\u0E94\u0EB4\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tytu\u0142 prawny do ziemi"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0437\u0435\u043C\u043B\u0435\u0432\u043B\u0430\u0434\u0435\u043D\u0438\u0435"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#prefLabel> "p\u00F4dna dr\u017Eba"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E16\u0E37\u0E2D\u0E04\u0E23\u0E2D\u0E07\u0E17\u0E35\u0E48\u0E14\u0E34\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u571F\u5730\u4F7F\u7528\u671F\u9650"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#prefLabel> "arazi kullan\u0131m hakk\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#prefLabel> "tenure fonci\u00E8re"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Posse da terra"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u1780\u17B6\u179A\u1780\u17B6\u1793\u17CB\u1780\u17B6\u1794\u17CB\u178A\u17B8\u1792\u17D2\u179B\u17B8"@km .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#prefLabel> "quy\u1EC1n h\u01B0\u1EDFng d\u1EE5ng \u0111\u1EA5t"@vi .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u1019\u103C\u1031\u101A\u102C\u1021\u101E\u102F\u1036\u1038\u1001\u103B\u1019\u103E\u102F"@my .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E2A\u0E34\u0E17\u0E18\u0E34\u0E01\u0E32\u0E23\u0E16\u0E37\u0E2D\u0E04\u0E23\u0E2D\u0E07\u0E17\u0E35\u0E48\u0E14\u0E34\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#altLabel> "icar"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#narrower> <http://aims.fao.org/aos/agrovoc/c_dec8141f> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#narrower> <http://aims.fao.org/aos/agrovoc/c_66afb052> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#narrower> <http://aims.fao.org/aos/agrovoc/c_7fc44e33> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#narrower> <http://aims.fao.org/aos/agrovoc/c_56c34d4d> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#narrower> <http://aims.fao.org/aos/agrovoc/c_dfbaecdf> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#narrower> <http://aims.fao.org/aos/agrovoc/c_dc5739ab> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#narrower> <http://aims.fao.org/aos/agrovoc/c_cc3d0c47> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://voc.landportal.info/landterms> .
+<http://aims.fao.org/aos/agrovoc/c_12069> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7669> .

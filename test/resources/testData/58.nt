@@ -1,0 +1,47 @@
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_49879> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/26788> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299512094639> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1328687505423> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299512094675> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299512094695> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299512094718> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299512094741> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299512094766> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299512094792> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299512094819> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299512094847> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299512094876> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299512095259> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299512095293> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299512095330> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299512095368> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299512095406> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10058_1321792252389> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299512094657> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10058_1321792252508> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://purl.org/dc/terms/created> "2011-11-20T20:30:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://purl.org/dc/terms/modified> "2015-03-12T18:31:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2004/02/skos/core#prefLabel> "vrozen\u00E9 vady"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kongenitale Abnormit\u00E4t"@de .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2004/02/skos/core#prefLabel> "congenital abnormalities"@en .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anomal\u00EDas cong\u00E9nitas"@es .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0646\u0627\u0647\u0646\u062C\u0627\u0631\u064A\u200C\u0647\u0627\u064A \u0645\u0627\u062F\u0631\u0632\u0627\u062F\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anomalie cong\u00E9nitale"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u091C\u0928\u094D\u092E\u091C\u093E\u0924 \u0935\u093F\u0915\u0943\u0924\u093F\u092F\u093E\u0901"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2004/02/skos/core#prefLabel> "velesz\u00FCletett rendelleness\u00E9g"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2004/02/skos/core#prefLabel> "Malformazioni congenite"@it .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5148\u5929\u6027\u7570\u5E38"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC120\uCC9C\uC131\uAE30\uD615"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieprawid\u0142owo\u015Bci wrodzone"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anomalia cong\u00E9nita"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0432\u0440\u043E\u0436\u0434\u0435\u043D\u043D\u044B\u0435 \u0430\u043D\u043E\u043C\u0430\u043B\u0438\u0438"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2004/02/skos/core#prefLabel> "vroden\u00E9 vady"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E04\u0E27\u0E32\u0E21\u0E1C\u0E34\u0E14\u0E1B\u0E01\u0E15\u0E34\u0E41\u0E15\u0E48\u0E01\u0E33\u0E40\u0E19\u0E34\u0E14"@th .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2004/02/skos/core#prefLabel> "do\u011Fum anormallikleri"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2004/02/skos/core#altLabel> "Kongenitale Abnormitaet"@de .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2004/02/skos/core#altLabel> "do\u011Fum anomalileri"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10058> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_49879> .

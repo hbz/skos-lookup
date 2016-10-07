@@ -1,0 +1,53 @@
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#related> <http://aims.fao.org/aos/agrovoc/c_1942> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2141> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Cancer_%28genus%29> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/21775> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://aims.fao.org/aos/agrontology#hasTaxonomicRank> <http://aims.fao.org/aos/agrovoc/c_11125> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299503059499> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299503059515> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299503059532> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299503059552> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299503059574> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299503059595> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299503059620> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299503059644> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299503059671> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299503059700> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299503059730> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299503059762> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299503059795> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299503059830> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299503059866> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299503059904> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299503059945> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299503059986> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1246_1321790176647> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1246_1328260266190> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://purl.org/dc/terms/created> "2012-02-03T17:11:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://purl.org/dc/terms/modified> "2013-08-28T18:54:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0633\u0631\u0637\u0627\u0646 \u0635\u062E\u0631\u064A"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cancer (rod)"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cancer (gattung)"@de .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cancer (genus)"@en .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#prefLabel> "C\u00E1ncer (g\u00E9nero)"@es .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u06A9\u0627\u0646\u0633\u0631 (\u0633\u0631\u062F\u0647)"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cancer (genre)"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u0930\u094D\u0915 (\u0935\u0902\u0936)"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cancer (nemzets\u00E9g)"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cancer (genere)"@it .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30A4\u30C1\u30E7\u30A6\u30AC\u30CB\u5C5E"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cancer (genus)"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cancer (rodzaj)"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cancer (g\u00E9nero)"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cancer (\u0440\u043E\u0434)"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#prefLabel> "cancer (rod)"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cancer (\u0E2A\u0E01\u0E38\u0E25)"@th .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u9EC4\u9053\u87F9\u5C5E"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cancer (genus)"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C21\u0C3E\u0C32\u0C3F\u0C16\u0C3E\u0C38\u0C4D \u0C2F\u0C42\u0C28\u0C3F\u0C2B\u0C4D\u0C32\u0C4B\u0C30\u0C38\u0C4D"@te .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#related> <http://aims.fao.org/aos/agrovoc/c_1942> .
+<http://aims.fao.org/aos/agrovoc/c_1246> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2141> .

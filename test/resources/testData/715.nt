@@ -1,0 +1,51 @@
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2274> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Intestinal_juice> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299523540451> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299523540470> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299523540489> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299523540512> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299523540606> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299523540645> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299523540673> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299523541214> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299523541247> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299523541280> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299523541316> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299523541351> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299523541410> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299523541457> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299523541498> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299523541541> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299523541602> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299523541650> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11817_1321792458207> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_11817_1328259276963> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_b679a39e> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://purl.org/dc/terms/created> "2012-02-03T16:54:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://purl.org/dc/terms/modified> "2015-08-19T16:00:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#prefLabel> "st\u0159evn\u00ED \u0161\u0165\u00E1va"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verdauungssekret"@de .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#prefLabel> "intestinal juice"@en .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jugo intestinal"@es .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0634\u064A\u0631\u0647 \u0631\u0648\u062F\u0647\u200C\u0627\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#prefLabel> "Suc intestinal"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0906\u0902\u0924\u094D\u0930 \u0930\u0938"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#prefLabel> "b\u00E9lnedv"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#prefLabel> "Succo enterico"@it .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8178\u6DB2"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC7A5\uC561"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E99\u0EC9\u0EB3\u0E8D\u0EC8\u0EAD\u0E8D\u0E82\u0EAD\u0E87\u0EA5\u0EB3\u0EC3\u0EAA\u0EC9"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sok jelitowy"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#prefLabel> "Suco intestinal"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043A\u0438\u0448\u0435\u0447\u043D\u044B\u0439 \u0441\u043E\u043A"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u010Drevn\u00E1 \u0161\u0165ava"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E19\u0E49\u0E33\u0E22\u0E48\u0E2D\u0E22\u0E43\u0E19\u0E1C\u0E19\u0E31\u0E07\u0E25\u0E33\u0E44\u0E2A\u0E49\u0E40\u0E25\u0E47\u0E01"@th .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u80A0\u6DB2"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#prefLabel> "ba\u011F\u0131rsak \u00F6zsuyu"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C06\u0C02\u0C24\u0C4D\u0C30 \u0C30\u0C38\u0C02"@te .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#prefLabel> "suc intestinal"@mo .
+<http://aims.fao.org/aos/agrovoc/c_11817> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2274> .

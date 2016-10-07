@@ -1,0 +1,42 @@
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5243> .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299490524446> .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1326360756414> .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299490524482> .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299490524502> .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299490524523> .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299490524546> .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299490524572> .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299490524602> .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299490524630> .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299490524662> .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299490524696> .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299490524731> .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299490524991> .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299490525166> .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299490525202> .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11237_1321792396240> .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299490524463> .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://purl.org/dc/terms/created> "2011-11-20T20:33:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://purl.org/dc/terms/modified> "2015-03-12T18:31:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2004/02/skos/core#prefLabel> "pt\u00E1ci \u017Eiv\u00EDc\u00ED se zrn\u00EDm"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2004/02/skos/core#prefLabel> "k\u00F6rnerfressender Vogel"@de .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2004/02/skos/core#prefLabel> "grain eating birds"@en .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u067E\u0631\u0646\u062F\u06AF\u0627\u0646 \u063A\u0644\u0647\u200C\u062E\u0648\u0627\u0631"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0905\u0928\u093E\u091C \u0916\u093E\u0928\u0947 \u0935\u093E\u0932\u0947 \u092A\u0915\u094D\u0937\u0940"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2004/02/skos/core#prefLabel> "magev\u00F5 mad\u00E1r"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2004/02/skos/core#prefLabel> "Uccelli granivori"@it .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7A40\u5B9F\u3092\u98DF\u3079\u308B\u9CE5\u985E"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E99\u0EBB\u0E81\u0E97\u0EB5\u0EC8\u0E81\u0EB4\u0E99\u0EC0\u0EA1\u0EB1\u0E94\u0E9E\u0EB7\u0E94"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ptaki wyjadaj\u0105ce ziarno"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u00E1ssaro comedor de gr\u00E3o"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0437\u0435\u0440\u043D\u043E\u044F\u0434\u043D\u044B\u0435 \u043F\u0442\u0438\u0446\u044B"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2004/02/skos/core#prefLabel> "vt\u00E1ci \u017Eiviaci sa zrnom"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E19\u0E01\u0E01\u0E34\u0E19\u0E40\u0E21\u0E25\u0E47\u0E14"@th .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u98DF\u8C37\u7269\u9E1F"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tane yiyen ku\u015Flar"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2004/02/skos/core#altLabel> "Koernerfressender Vogel"@de .
+<http://aims.fao.org/aos/agrovoc/c_11237> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5243> .

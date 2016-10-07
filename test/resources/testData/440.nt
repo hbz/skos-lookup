@@ -1,0 +1,46 @@
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_25427> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299487977995> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299487978017> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299487978042> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299487978067> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299487978098> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299487978133> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299487978162> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299487978195> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299487978229> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299487978273> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299487978323> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299487978634> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299487978672> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299487978728> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299487978789> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299487978846> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299487978894> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11047_1321792374081> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11047_1321792374202> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://purl.org/dc/terms/created> "2011-11-20T20:32:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://purl.org/dc/terms/modified> "2014-07-03T19:51:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2004/02/skos/core#prefLabel> "rezistence k fungicid\u016Fm"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fungizidresistenz"@de .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2004/02/skos/core#prefLabel> "resistance to fungicides"@en .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2004/02/skos/core#prefLabel> "Resistencia a los fungicidas"@es .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0645\u0642\u0627\u0648\u0645\u062A \u0628\u0647 \u0642\u0627\u0631\u0686\u200C\u0643\u0634\u200C\u0647\u0627"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2004/02/skos/core#prefLabel> "R\u00E9sistance aux fongicides"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u0935\u0915\u0928\u093E\u0936\u0940 \u092A\u094D\u0930\u0924\u093F\u0930\u094B\u0927\u0940"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2004/02/skos/core#prefLabel> "fungicid-rezisztencia"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2004/02/skos/core#prefLabel> "Resistenza ai fungicidi"@it .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6BBA\u83CC\u5264\u62B5\u6297\u6027"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E84\u0EA7\u0EB2\u0EA1\u0E95\u0EC9\u0EB2\u0E97\u0EB2\u0E99\u0E95\u0ECD\u0EC8\u0EA2\u0EB2\u0E82\u0EC9\u0EB2\u0EC0\u0E8A\u0EB7\u0EC9\u0EB6\u0EAD\u0EC0\u0EAB\u0EB1\u0E94"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2004/02/skos/core#prefLabel> "Odporno\u015B\u0107 na fungicydy"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2004/02/skos/core#prefLabel> "Resist\u00EAncia ao fungicida"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0443\u0441\u0442\u043E\u0439\u0447\u0438\u0432\u043E\u0441\u0442\u044C \u043A \u0444\u0443\u043D\u0433\u0438\u0446\u0438\u0434\u0430\u043C"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2004/02/skos/core#prefLabel> "odolnos\u0165 vo\u010Di fungic\u00EDdom"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E04\u0E27\u0E32\u0E21\u0E15\u0E49\u0E32\u0E19\u0E17\u0E32\u0E19\u0E15\u0E48\u0E2D\u0E2A\u0E32\u0E23\u0E01\u0E33\u0E08\u0E31\u0E14\u0E40\u0E0A\u0E37\u0E49\u0E2D\u0E23\u0E32"@th .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6740\u771F\u83CC\u5242\u6297\u6027"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2004/02/skos/core#prefLabel> "fungisitlere diren\u00E7"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2004/02/skos/core#altLabel> "fungisitlere dayan\u0131kl\u0131l\u0131k"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11047> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_25427> .

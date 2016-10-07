@@ -1,0 +1,88 @@
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1594> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Gas_chromatography> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4019330-5> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://www.eionet.europa.eu/gemet/concept/3567> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://id.loc.gov/authorities/sh85053278#concept> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/21987> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://aims.fao.org/aos/asfa/c_6075> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299485791711> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299485791729> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299485791747> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299485791769> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299485791790> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299485791813> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299485791840> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299485791881> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299485791912> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299485791944> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299485791977> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299485792022> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299485792064> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299485792104> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299485792145> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299485792187> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299485792241> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299485792299> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299485792347> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11097_1321792379207> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_d6abc790> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299485792498> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299485792569> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299485792627> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299485792686> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299485792826> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299485792884> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299485792977> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299485793412> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299485793480> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299485793549> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299485793624> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299485793691> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299485793855> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ms_1311645691701> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_24461_1321793178763> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_22a4e58f> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://purl.org/dc/terms/created> "2011-11-20T20:46:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://purl.org/dc/terms/modified> "2015-11-27T22:07:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0625\u0633\u062A\u0634\u0631\u0627\u0628 \u063A\u0627\u0632\u064A"@ar .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#prefLabel> "plynov\u00E1 chromatografie"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gaschromatographie"@de .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#prefLabel> "gas chromatography"@en .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cromatograf\u00EDa de gases"@es .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u06A9\u0631\u0648\u0645\u0627\u062A\u0648\u06AF\u0631\u0627\u0641\u06CC \u06AF\u0627\u0632\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chromatographie en phase gazeuse"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0917\u0948\u0938 \u0935\u0930\u094D\u0923 \u0932\u0947\u0916\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#prefLabel> "g\u00E1zkromatogr\u00E1fia"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gascromatografia"@it .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30AC\u30B9\u30AF\u30ED\u30DE\u30C8\u30B0\u30E9\u30D5\u30A3\u30FC"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uAE30\uCCB4\uD06C\uB85C\uB9C8\uD1A0\uADF8\uB798\uD53C"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EC2\u0E84\u0EA3\u0EA1\u0EB2\u0EC2\u0E95\u0E81\u0EA3\u0EB2\u0E9F\u0EB5\u0E97\u0EB2\u0E94\u0EAD\u0EB2\u0E8D"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chromatografia gazowa"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cromatografia gasosa"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0433\u0430\u0437\u043E\u0432\u0430\u044F \u0445\u0440\u043E\u043C\u0430\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#prefLabel> "plynov\u00E1 chromatografia"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E4A\u0E32\u0E0B\u0E42\u0E04\u0E23\u0E21\u0E32\u0E42\u0E17\u0E01\u0E23\u0E32\u0E1F\u0E35"@th .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6C14\u76F8\u8272\u8C31"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#prefLabel> "gaz kromatografisi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#prefLabel> "cromatografie gazoas\u0103"@mo .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062C\u064A.\u0633\u064A (\u0643\u0631\u0648\u0645\u0627\u062A\u0648\u06AF\u0631\u0627\u0641\u064A \u06AF\u0627\u0632\u064A)"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0917\u0948\u0938 \u0935\u0930\u094D\u0923\u0932\u0947\u0916\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E08\u0E35\u0E0B\u0E35 (\u0E01\u0E4A\u0E32\u0E0B\u0E42\u0E04\u0E23\u0E21\u0E32\u0E42\u0E17\u0E01\u0E23\u0E32\u0E1F\u0E35)"@th .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#altLabel> "gc"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#altLabel> "GC (gascromatografia)"@it .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#altLabel> "GC (g\u00E1zkromatogr\u00E1fia)"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#altLabel> "Cg (cromatografia gasosa)"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#altLabel> "Chromatografia GC"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#altLabel> "Cg (chromatographie phase gazeuse)"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#altLabel> "GC (gas chromatography)"@en .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0433\u0445 (\u0433\u0430\u0437\u043E\u0432\u0430\u044F \u0445\u0440\u043E\u043C\u0430\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F)"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#altLabel> "Cg (cromatograf\u00EDa de gases)"@es .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#altLabel> "Gc (Gaschromatographie)"@de .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#altLabel> "Kromatografi gas"@ms .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#altLabel> "Gc (gaz kromatografisi)"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#altLabel> "Cg (cromatografie gazoas\u0103)"@mo .
+<http://aims.fao.org/aos/agrovoc/c_11097> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1594> .

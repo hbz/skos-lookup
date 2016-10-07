@@ -1,0 +1,17 @@
+<http://aims.fao.org/aos/agrovoc/c_0b3e4f51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_0b3e4f51> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_0b3e4f51> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1107> .
+<http://aims.fao.org/aos/agrovoc/c_0b3e4f51> <http://aims.fao.org/aos/agrontology#hasTaxonomicRank> <http://aims.fao.org/aos/agrovoc/c_331243> .
+<http://aims.fao.org/aos/agrovoc/c_0b3e4f51> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_cd51bd80> .
+<http://aims.fao.org/aos/agrovoc/c_0b3e4f51> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1f710ba7> .
+<http://aims.fao.org/aos/agrovoc/c_0b3e4f51> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_4fa6e27e> .
+<http://aims.fao.org/aos/agrovoc/c_0b3e4f51> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_a2905985> .
+<http://aims.fao.org/aos/agrovoc/c_0b3e4f51> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_0b3e4f51> <http://purl.org/dc/terms/created> "2015-05-27T07:41:14Z"^^<xsd:http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_0b3e4f51> <http://purl.org/dc/terms/modified> "2015-09-22T17:59:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_0b3e4f51> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_0b3e4f51> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bromus arvensis"@en .
+<http://aims.fao.org/aos/agrovoc/c_0b3e4f51> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bromus arvensis"@de .
+<http://aims.fao.org/aos/agrovoc/c_0b3e4f51> <http://www.w3.org/2004/02/skos/core#altLabel> "field brome"@en .
+<http://aims.fao.org/aos/agrovoc/c_0b3e4f51> <http://www.w3.org/2004/02/skos/core#altLabel> "Acker-Trespe"@de .
+<http://aims.fao.org/aos/agrovoc/c_0b3e4f51> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1107> .

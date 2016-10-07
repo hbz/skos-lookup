@@ -1,0 +1,44 @@
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_415> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299485875510> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299485875524> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299485875542> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299485875560> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299485875579> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299485875600> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299485875622> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299485875647> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299485875674> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299485875704> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299485875735> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299485875766> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299485875805> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299485875863> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299485875903> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10940_1321792359044> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_10940_1328258468081> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1330420087319> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://purl.org/dc/terms/created> "2012-02-03T16:41:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://purl.org/dc/terms/modified> "2014-07-03T17:52:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2004/02/skos/core#prefLabel> "mu\u0161ka\u0159en\u00ED"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2004/02/skos/core#prefLabel> "flyfishing"@en .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pesca con mosca"@es .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0645\u0627\u0647\u06CC\u06AF\u06CC\u0631\u06CC \u0628\u0627 \u0637\u0639\u0645\u0647"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0909\u095C\u0928\u0947 \u0935\u093E\u0932\u0940 \u092E\u091B\u0932\u093F\u092F\u093E\u0901"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2004/02/skos/core#prefLabel> "m\u00FBlegyes horg\u00E1szat"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pesca con la mosca"@it .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30D5\u30E9\u30A4\u30D5\u30A3\u30C3\u30B7\u30F3\u30B0"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC81C\uBB3C\uB09A\uC2DC\uC9C8"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2004/02/skos/core#prefLabel> "W\u0119dkarstwo muchowe"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pesca com mosca"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0443\u0436\u0435\u043D\u0438\u0435 \u043D\u0430 \u043C\u0443\u0445\u0443"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2004/02/skos/core#prefLabel> "mu\u0161k\u00E1renie"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E15\u0E01\u0E1B\u0E25\u0E32\u0E14\u0E49\u0E27\u0E22\u0E40\u0E2B\u0E22\u0E37\u0E48\u0E2D"@th .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7FBD\u6BDB\u9493"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2004/02/skos/core#prefLabel> "sinek olta avc\u0131l\u0131\u011F\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C15\u0C43\u0C24\u0C4D\u0C30\u0C3F\u0C2E \u0C08\u0C17\u0C32\u0C24\u0C4B \u0C1A\u0C47\u0C2A\u0C32\u0C41\u0C2A\u0C1F\u0C4D\u0C1F\u0C21\u0C02"@te .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fliegenfischen"@de .
+<http://aims.fao.org/aos/agrovoc/c_10940> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_415> .

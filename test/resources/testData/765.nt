@@ -1,0 +1,22 @@
+<http://aims.fao.org/aos/agrovoc/c_119678e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_119678e7> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_119678e7> <http://www.w3.org/2004/02/skos/core#inScheme> <http://voc.landportal.info/landterms> .
+<http://aims.fao.org/aos/agrovoc/c_119678e7> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_37942> .
+<http://aims.fao.org/aos/agrovoc/c_119678e7> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1f3ac718> .
+<http://aims.fao.org/aos/agrovoc/c_119678e7> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_2829f798> .
+<http://aims.fao.org/aos/agrovoc/c_119678e7> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_km_b9bc73b8> .
+<http://aims.fao.org/aos/agrovoc/c_119678e7> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_vi_91b247cc> .
+<http://aims.fao.org/aos/agrovoc/c_119678e7> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_my_0ff30462> .
+<http://aims.fao.org/aos/agrovoc/c_119678e7> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_eeb4a2fa> .
+<http://aims.fao.org/aos/agrovoc/c_119678e7> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_119678e7> <http://purl.org/dc/terms/created> "2016-02-19T13:26:04Z"^^<xsd:http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_119678e7> <http://purl.org/dc/terms/modified> "2016-07-11T20:56:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_119678e7> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_119678e7> <http://www.w3.org/2004/02/skos/core#prefLabel> "land titling"@en .
+<http://aims.fao.org/aos/agrovoc/c_119678e7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Titula\u00E7\u00E3o de propriedade de terras"@pt .
+<http://aims.fao.org/aos/agrovoc/c_119678e7> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u1780\u17B6\u179A\u1785\u17C1\u1789\u1794\u17D0\u178E\u17D2\u178E\u1780\u1798\u17D2\u1798\u179F\u17B7\u1791\u17D2\u1792\u17B7\u178A\u17B8\u1792\u17D2\u179B\u17B8"@km .
+<http://aims.fao.org/aos/agrovoc/c_119678e7> <http://www.w3.org/2004/02/skos/core#prefLabel> "c\u1EA5p gi\u1EA5y ch\u1EE9ng nh\u1EADn quy\u1EC1n s\u1EED d\u1EE5ng \u0111\u1EA5t"@vi .
+<http://aims.fao.org/aos/agrovoc/c_119678e7> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u1019\u103C\u1031\u101A\u102C\u1021\u1019\u103B\u102D\u102F\u1038\u1021\u1005\u102C\u1038 \u101E\u1010\u103A\u1019\u103E\u1010\u103A\u1001\u103C\u1004\u103A\u1038"@my .
+<http://aims.fao.org/aos/agrovoc/c_119678e7> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E2D\u0E2D\u0E01\u0E2A\u0E34\u0E17\u0E18\u0E34\u0E1A\u0E19\u0E17\u0E35\u0E48\u0E14\u0E34\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_119678e7> <http://www.w3.org/2004/02/skos/core#narrower> <http://aims.fao.org/aos/agrovoc/c_c10cdeb5> .
+<http://aims.fao.org/aos/agrovoc/c_119678e7> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_37942> .

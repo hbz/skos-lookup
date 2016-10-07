@@ -1,0 +1,73 @@
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#scopeNote> "Projev pudu k sezen\u00ED na vejc\u00EDch"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#scopeNote> "Stadium der Brutbereitschaft"@de .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#scopeNote> "State of readiness to brood eggs"@en .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0645\u0631\u062D\u0644\u0647 \u0622\u0645\u0627\u062F\u06AF\u06CC \u0628\u0631\u0627\u06CC \u0646\u0634\u0633\u062A\u0646 \u0631\u0648\u06CC \u062A\u062E\u0645\u200C\u0647\u0627"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#scopeNote> "P\u00E9riode pendant laquelle un oiseau est en \u00E9tat de couver"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#scopeNote> "A toj\u00E1sok kikeltet\u00E9s\u00E9hez (kotl\u00E1shoz) megfelelo \u00E1llapot"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#scopeNote> "Condizione dell'animale che induce a covare le uova"@it .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0EAA\u0EB0\u0E9E\u0EB2\u0EA7\u0EB0\u0E84\u0EA7\u0EB2\u0EA1\u0E9E\u0EC9\u0EAD\u0EA1\u0EC3\u0E99\u0E81\u0EB2\u0E99\u0EC0\u0E9A\u0EB2\u0EB0\u0E88\u0EB2\u0E81\u0EC4\u0E82\u0EC8"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#scopeNote> "Stan gotowo\u015Bci kury do wyl\u0119gania jaj"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0E2A\u0E20\u0E32\u0E1E\u0E04\u0E27\u0E32\u0E21\u0E1E\u0E23\u0E49\u0E2D\u0E21\u0E43\u0E19\u0E01\u0E32\u0E23\u0E01\u0E01\u0E44\u0E02\u0E48"@th .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#scopeNote> "Tavuklar\u0131n kulu\u00E7kaya yatmaya haz\u0131r olma durumu\n"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_868> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://aims.fao.org/aos/agrontology#influences> <http://aims.fao.org/aos/agrovoc/c_2497> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/8989> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299510830601> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299510830619> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1328085978654> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299510830672> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299510830696> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299510830720> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299510830746> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299510830773> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299510830803> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299510830848> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299510830889> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299510830929> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299510830970> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299510831014> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299510831076> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299510831121> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299510831167> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299510831219> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299510831271> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1112_1321790099694> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1112_1328260179577> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_71db6de3> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299510830651> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299510831779> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299510831988> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1112_1321790100189> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://purl.org/dc/terms/created> "2012-02-03T17:09:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://purl.org/dc/terms/modified> "2015-10-29T22:24:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0625\u0633\u062A\u0639\u062F\u0627\u062F \u0644\u0644\u0625\u062D\u062A\u0636\u0627\u0646"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#prefLabel> "kvokavost"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#prefLabel> "Br\u00FCtigkeit"@de .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#prefLabel> "broodiness"@en .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cloquera"@es .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u06A9\u0631\u0686\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#prefLabel> "Comportement de couvaison"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0938\u0947\u0928\u0947 \u0915\u0940 \u0907\u091A\u094D\u091B\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#prefLabel> "k\u00F6lt\u00E9s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#prefLabel> "Disposizione alla cova"@it .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5C31\u5DE3\u6027"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uCDE8\uC18C\uC131"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0E99\u0E95\u0EB9\u0EC9\u0EA1\u0EA5\u0EB9\u0E81\u0E94\u0EC9\u0EA7\u0E8D\u0E9B\u0EB5\u0E81"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kwoczenie"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#prefLabel> "Choco (estado)"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0438\u043D\u0441\u0442\u0438\u043D\u043A\u0442 \u043D\u0430\u0441\u0438\u0436\u0438\u0432\u0430\u043D\u0438\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#prefLabel> "kvokavos\u0165"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E43\u0E0A\u0E49\u0E1B\u0E35\u0E01\u0E42\u0E2D\u0E1A\u0E2D\u0E38\u0E49\u0E21"@th .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5C31\u5DE2\u6027"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#prefLabel> "gurk"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C05\u0C38\u0C02\u0C24\u0C41\u0C32\u0C28 \u0C38\u0C4D\u0C25\u0C3F\u0C24\u0C3F (\u0C1C\u0C28\u0C4D\u0C2F\u0C41)"@te .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#prefLabel> "instinct de clocit"@mo .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#altLabel> "Bruetigkeit"@de .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#altLabel> "Cloquez"@es .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#altLabel> "Encloquecimiento"@es .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#altLabel> "gurk olma"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1112> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_868> .

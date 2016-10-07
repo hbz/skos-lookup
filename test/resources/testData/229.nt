@@ -1,0 +1,48 @@
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2584> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_51508> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://aims.fao.org/aos/agrontology#causes> <http://aims.fao.org/aos/agrovoc/c_16717> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299492217217> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299492217234> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299492217252> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299492217273> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299492217295> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299492217342> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299492217368> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299492217396> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299492217425> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299492217457> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299492217508> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299492217543> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299492217581> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299492217623> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299492217670> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299492217709> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299492217752> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299492217818> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10478_1321792305479> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://purl.org/dc/terms/created> "2011-11-20T20:31:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://purl.org/dc/terms/modified> "2013-08-27T19:48:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2004/02/skos/core#prefLabel> "virus hepatitidy kachen"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duck hepatitis virus"@de .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duck hepatitis virus"@en .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virus de la hepatitis del pato"@es .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0648\u06CC\u0631\u0648\u0633 \u0647\u067E\u0627\u062A\u06CC\u062A \u0627\u0631\u062F\u06A9"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virus h\u00E9patite du caneton"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092C\u0924\u094D\u0924\u0916 \u0939\u0947\u092A\u0947\u091F\u093E\u0908\u091F\u093F\u0938 \u0935\u093F\u0937\u093E\u0923\u0941"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2004/02/skos/core#prefLabel> "kacsahepatitis v\u00EDrus"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virus dell'epatite dell'anatra"@it .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30A2\u30D2\u30EB\u809D\u708E\u30A6\u30A4\u30EB\u30B9"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC624\uB9AC\uAC04\uC5FC\uBC14\uC774\uB7EC\uC2A4"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duck hepatitis virus"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wirus zapalenia w\u0105troby kaczek"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2004/02/skos/core#prefLabel> "V\u00EDrus da hepatite do pato"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0432\u0438\u0440\u0443\u0441 \u0433\u0435\u043F\u0430\u0442\u0438\u0442\u0430 \u0443\u0442\u043E\u043A"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2004/02/skos/core#prefLabel> "v\u00EDrus hepatit\u00EDdy ka\u010D\u00EDc"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duck hepatitis virus"@th .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u9E2D\u809D\u708E\u75C5\u6BD2"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00F6rdek hepatit vir\u00FCs\u00FC"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10478> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2584> .

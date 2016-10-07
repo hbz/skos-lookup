@@ -1,0 +1,46 @@
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_330966> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://aims.fao.org/aos/agrontology#influences> <http://aims.fao.org/aos/agrovoc/c_4617> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.gesis.org/thesoz/concept/10051728> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299524359617> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299524359633> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299524359650> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299524359667> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299524359687> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299524359707> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299524359728> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299524359753> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299524359778> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299524359805> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299524359834> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299524359865> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299524359897> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299524359931> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299524359967> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299524360004> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12406_1321792523613> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12406_1321792523733> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://purl.org/dc/terms/created> "2011-11-20T20:35:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://purl.org/dc/terms/modified> "2014-07-03T19:18:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2004/02/skos/core#prefLabel> "transparentnost trhu"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2004/02/skos/core#prefLabel> "Markttransparenz"@de .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2004/02/skos/core#prefLabel> "market transparency"@en .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2004/02/skos/core#prefLabel> "Transparencia del mercado"@es .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0634\u0641\u0627\u0641\u064A\u062A \u0628\u0627\u0632\u0627\u0631"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2004/02/skos/core#prefLabel> "Transparence du march\u00E9"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092C\u093E\u091C\u093E\u0930 \u092A\u093E\u0930\u0926\u0930\u094D\u0936\u093F\u0924\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2004/02/skos/core#prefLabel> "piac \u00E1tl\u00E1that\u00F3s\u00E1ga"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trasparenza del mercato"@it .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5E02\u5834\u5BFE\u5FDC"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jawno\u015B\u0107 rynku"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2004/02/skos/core#prefLabel> "Transpar\u00EAncia de mercado"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043F\u0440\u043E\u0437\u0440\u0430\u0447\u043D\u043E\u0441\u0442\u044C \u0440\u044B\u043D\u043A\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2004/02/skos/core#prefLabel> "transparentnos\u0165 trhu"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E04\u0E27\u0E32\u0E21\u0E42\u0E1B\u0E23\u0E48\u0E07\u0E43\u0E2A\u0E17\u0E32\u0E07\u0E01\u0E32\u0E23\u0E15\u0E25\u0E32\u0E14"@th .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5E02\u573A\u900F\u660E\u5EA6"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2004/02/skos/core#prefLabel> "piyasa saydaml\u0131\u011F\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2004/02/skos/core#altLabel> "piyasa \u015Feffafl\u0131\u011F\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12406> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_330966> .

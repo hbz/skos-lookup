@@ -1,0 +1,64 @@
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_6989> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://aims.fao.org/aos/agrontology#hasGoalOrProcess> <http://aims.fao.org/aos/agrovoc/c_15615> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4187933-8> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/20997> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://aims.fao.org/aos/agrontology#hasObjectOfActivity> <http://aims.fao.org/aos/agrovoc/c_29146> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://aims.fao.org/aos/agrontology#hasObjectOfActivity> <http://aims.fao.org/aos/agrovoc/c_29147> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://aims.fao.org/aos/agrontology#hasObjectOfActivity> <http://aims.fao.org/aos/agrovoc/c_29148> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299518300596> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299518300613> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299518300928> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299518300950> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299518300971> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299518300995> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299518301021> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299518301046> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299518301073> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299518301103> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299518301134> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299518301167> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299518301204> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299518301242> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299518301281> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299518301325> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299518301364> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299518301406> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10968_1321792364233> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_10968_1328258521018> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ms_1331713675655> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299518301503> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299518301581> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10968_1321792364356> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://purl.org/dc/terms/created> "2012-02-03T16:42:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://purl.org/dc/terms/modified> "2014-07-03T18:19:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062E\u062F\u0645\u0629 \u063A\u0630\u0627\u0626\u064A\u0629"@ar .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#prefLabel> "ve\u0159ejn\u00E9 stravov\u00E1n\u00ED"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#prefLabel> "Versorgung mit Mahlzeiten"@de .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#prefLabel> "food service"@en .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#prefLabel> "Servicios de alimentaci\u00F3n"@es .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062E\u062F\u0645\u0627\u062A \u063A\u0630\u0627\u06CC\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#prefLabel> "Restauration collective"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0916\u093E\u0926\u094D\u092F \u0938\u0947\u0935\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00E9lelmez\u00E9si szolg\u00E1ltat\u00E1s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#prefLabel> "Servizi alimentari"@it .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5916\u98DF"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0E99\u0E9A\u0ECD\u0EA5\u0EB4\u0E81\u0EB2\u0E99\u0EAD\u0EB2\u0EAB\u0EB2\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#prefLabel> "Us\u0142ugi gastronomiczne"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#prefLabel> "Servi\u00E7o de restaura\u00E7\u00E3o"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0441\u043B\u0443\u0436\u0431\u0430 \u043F\u0438\u0442\u0430\u043D\u0438\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#prefLabel> "verejn\u00E9 stravovanie"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E1A\u0E23\u0E34\u0E01\u0E32\u0E23\u0E14\u0E49\u0E32\u0E19\u0E2D\u0E32\u0E2B\u0E32\u0E23"@th .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u9910\u996E\u4E1A"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#prefLabel> "g\u0131da hizmeti"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C06\u0C39\u0C3E\u0C30 \u0C38\u0C47\u0C35"@te .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#prefLabel> "Perkhidmatan makanan"@ms .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#altLabel> "Dostawy \u017Cywno\u015Bci"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#altLabel> "Gastronomia"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#altLabel> "yemek servisi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#narrower> <http://aims.fao.org/aos/agrovoc/c_24189> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#narrower> <http://aims.fao.org/aos/agrovoc/c_29150> .
+<http://aims.fao.org/aos/agrovoc/c_10968> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_6989> .

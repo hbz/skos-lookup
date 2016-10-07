@@ -1,0 +1,44 @@
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3131> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299486920967> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299486920989> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299486921019> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299486921045> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299486921083> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299486921122> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299486921164> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299486921203> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299486921242> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299486921296> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299486921347> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299486921397> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11864_1321792464536> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1331026545878> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ms_1310620217797> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_ece7027a> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_3bb3bd73> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_14f70d12> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://purl.org/dc/terms/created> "2011-11-20T20:34:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://purl.org/dc/terms/modified> "2014-07-03T18:47:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2004/02/skos/core#prefLabel> "d\u017Eekfrut"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2004/02/skos/core#prefLabel> "jack fruit"@en .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jaquier"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u091F\u0939\u0932"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2004/02/skos/core#prefLabel> "dzsekfr\u00FAt"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2004/02/skos/core#prefLabel> "Keledang"@it .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30B8\u30E3\u30C3\u30AF\u30D5\u30EB\u30FC\u30C4"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC7AD\uD6C4\uB987"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chlebowiec r\u00F3\u017Cnolistny"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jaca"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2004/02/skos/core#prefLabel> "chlebovn\u00EDk"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E02\u0E19\u0E38\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2004/02/skos/core#prefLabel> "jak meyvesi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jackfrucht"@de .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2004/02/skos/core#altLabel> "Nangka"@ms .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2004/02/skos/core#altLabel> "jakfruit"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2004/02/skos/core#altLabel> "jakfruit"@en .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2004/02/skos/core#altLabel> "Chlebowiec bochenkowy"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11864> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3131> .

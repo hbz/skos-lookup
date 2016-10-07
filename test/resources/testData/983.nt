@@ -1,0 +1,44 @@
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5951> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299517596846> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299517596862> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299517596879> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299517596898> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299517596921> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299517596944> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299517596967> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299517596993> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299517597021> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299517597055> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299517597085> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299517597209> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299517597248> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299517597288> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299517597332> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12539_1321792539657> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_ae91dd1e> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1326785840796> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://purl.org/dc/terms/created> "2011-11-20T20:35:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://purl.org/dc/terms/modified> "2015-11-10T17:06:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2004/02/skos/core#prefLabel> "mikroekonomick\u00E9 pl\u00E1nov\u00E1n\u00ED"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mikrooekonomische Planung"@de .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2004/02/skos/core#prefLabel> "microeconomic planning"@en .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2004/02/skos/core#prefLabel> "Planificaci\u00F3n microecon\u00F3mica"@es .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0628\u0631\u0646\u0627\u0645\u0647\u200C\u0631\u06CC\u0632\u06CC \u0627\u0642\u062A\u0635\u0627\u062F \u062E\u0631\u062F"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0938\u0942\u0915\u094D\u0937\u094D\u092E\u0905\u0930\u094D\u0925\u0936\u093E\u0938\u094D\u0924\u094D\u0930 \u092F\u094B\u091C\u0928\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2004/02/skos/core#prefLabel> "mikro\u00F6kon\u00F3miai tervez\u00E9s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pianificazione microeconomica"@it .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30DF\u30AF\u30ED\u7D4C\u6E08\u8A08\u753B"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2004/02/skos/core#prefLabel> "Planowanie szczeg\u00F3\u0142owe"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2004/02/skos/core#prefLabel> "Planeamento microecon\u00F3mico"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043C\u0438\u043A\u0440\u043E\u044D\u043A\u043E\u043D\u043E\u043C\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u043B\u0430\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2004/02/skos/core#prefLabel> "mikroekonomick\u00E9 pl\u00E1novanie"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E27\u0E32\u0E07\u0E41\u0E1C\u0E19\u0E40\u0E28\u0E23\u0E29\u0E10\u0E01\u0E34\u0E08\u0E08\u0E38\u0E25\u0E20\u0E32\u0E04"@th .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5FAE\u89C2\u7ECF\u6D4E\u89C4\u5212"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2004/02/skos/core#prefLabel> "mikroekonomik planlama"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2004/02/skos/core#prefLabel> "planificare microeconomic\u0103"@mo .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2004/02/skos/core#altLabel> "Mikro\u00F6konomische Planung"@de .
+<http://aims.fao.org/aos/agrovoc/c_12539> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5951> .

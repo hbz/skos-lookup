@@ -1,0 +1,49 @@
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_515> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299516282830> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299516282868> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299516282892> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299516282917> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299516282941> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299516282968> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299516282998> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299516283030> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299516283060> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299516283092> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299516283126> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299516283163> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299516283200> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299516283239> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299516283281> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1321442695316> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10954_1321792361793> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_10954_1328258485122> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_a5a4a026> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299516282848> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://purl.org/dc/terms/created> "2012-02-03T16:41:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://purl.org/dc/terms/modified> "2016-07-11T20:42:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#prefLabel> "antagonist\u00E9 kyseliny listov\u00E9"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#prefLabel> "folic acid antagonists"@en .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antagonistas del \u00E1cido f\u00F3lico"@es .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0622\u0646\u062A\u0627\u06AF\u0648\u0646\u064A\u0633\u062A\u200C\u0647\u0627\u064A \u0641\u0648\u0644\u064A\u0643 \u0627\u0633\u064A\u062F"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antagoniste de l'acide folique"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092B\u094B\u0932\u093F\u0915 \u0905\u092E\u094D\u0932 \u0935\u093F\u0930\u094B\u0927\u0940"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#prefLabel> "folsav antagonista"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antagonisti dell'acido folico"@it .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8449\u9178\u62EC\u6297\u5264"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC5FD\uC0B0\uAE38\uD56D\uC81C"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antagonista kwasu foliowego"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antagonista de \u00E1cido f\u00F3lico"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0430\u043D\u0442\u0430\u0433\u043E\u043D\u0438\u0441\u0442\u044B \u0444\u043E\u043B\u0438\u0435\u0432\u043E\u0439 \u043A\u0438\u0441\u043B\u043E\u0442\u044B"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#prefLabel> "antagonisti kyseliny listovej"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E2A\u0E32\u0E23\u0E15\u0E49\u0E32\u0E19\u0E01\u0E23\u0E14\u0E42\u0E1F\u0E25\u0E34\u0E04"@th .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fols\u00E4ureantagonist"@de .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#prefLabel> "folik asit antagonistleri"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C2B\u0C4B\u0C32\u0C3F\u0C15\u0C4D \u0C06\u0C2E\u0C4D\u0C32\u0C3E \u0C35\u0C3F\u0C30\u0C4B\u0C27\u0C41\u0C32\u0C41"@te .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#prefLabel> "antagoni\u0219ti ai acidului folic"@mo .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#altLabel> "Folsaeureantagonist"@de .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#narrower> <http://aims.fao.org/aos/agrovoc/c_36156> .
+<http://aims.fao.org/aos/agrovoc/c_10954> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_515> .

@@ -1,0 +1,141 @@
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7452> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_37490> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4391224-2> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/1731> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://aims.fao.org/aos/agrontology#produces> <http://aims.fao.org/aos/agrovoc/c_34015> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://aims.fao.org/aos/agrontology#hasObjectOfActivity> <http://aims.fao.org/aos/agrovoc/c_3519> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://aims.fao.org/aos/agrontology#developsInto> <http://aims.fao.org/aos/agrovoc/c_11486> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299511454341> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299511454359> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299511454379> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299511454403> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299511454426> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299511454451> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299511454480> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299511454669> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299511454703> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299511454744> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299511454947> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299511454981> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299511455017> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299511455054> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299511455097> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299511455144> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299511455187> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299511455236> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299511455292> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11488_1321792415000> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_11488_1328258809014> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299511455780> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299511459332> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299511456963> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299511458892> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299511456640> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299511459123> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299511456801> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299511455588> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299511461335> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299511456546> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299511458773> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299511457598> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299511455647> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299511458261> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299511456276> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299511456191> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299511458154> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299511459229> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299511456880> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299511455428> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299511457475> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299511458676> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299511456454> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299511458384> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299511456367> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299511460753> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299511459019> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299511456714> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299511456021> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299511457739> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299511455720> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299511457954> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299511456104> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11488_1321792415183> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_14694_1321792778373> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_35888_1321794609813> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_35888_1321794609992> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_35888_1321794610171> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_36475_1321794684397> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_36475_1321794684577> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_36475_1321794684761> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_te_35888_1328259607793> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://purl.org/dc/terms/created> "2012-02-03T17:00:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://purl.org/dc/terms/modified> "2013-08-27T20:12:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0625\u062C\u0647\u0627\u062F \u0628\u0633\u0628\u0628 \u0627\u0644\u062D\u0631\u0627\u0631\u0629"@ar .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#prefLabel> "tepeln\u00FD stres"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hitzestress"@de .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#prefLabel> "heat stress"@en .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#prefLabel> "Estr\u00E9s t\u00E9rmico"@es .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062A\u0646\u0634 \u06AF\u0631\u0645\u0627\u06CC\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stress thermique"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u090A\u0937\u094D\u092E\u093E \u0924\u0928\u093E\u0935"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#prefLabel> "h\u00F5stressz"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stress da calore"@it .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u71B1\u30B9\u30C8\u30EC\u30B9"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC5F4\uCDA9\uACA9"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E84\u0EA7\u0EB2\u0EA1\u0E84\u0EBD\u0E94\u0EC0\u0E81\u0EB5\u0E94\u0E88\u0EB2\u0E81\u0E84\u0EA7\u0EB2\u0EA1\u0EAE\u0EC9\u0EAD\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stres cieplny"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stress t\u00E9rmico"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0442\u0435\u043F\u043B\u043E\u0432\u043E\u0439 \u0441\u0442\u0440\u0435\u0441\u0441"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#prefLabel> "tepeln\u00FD stres"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E04\u0E27\u0E32\u0E21\u0E40\u0E04\u0E23\u0E35\u0E22\u0E14\u0E08\u0E32\u0E01\u0E04\u0E27\u0E32\u0E21\u0E23\u0E49\u0E2D\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u70ED\u80C1\u8FEB"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#prefLabel> "Is\u0131 stresi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C35\u0C47\u0C21\u0C3F\u0C2E\u0C3F \u0C12\u0C24\u0C4D\u0C24\u0C3F\u0C21\u0C3F"@te .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "\u00FApal"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "Thermischer Stress"@de .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "Sonnenstich"@de .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "thermal stress"@en .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "sunstroke"@en .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "Estr\u00E9s cal\u00F3rico"@es .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "Golpe de sol"@es .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0634\u0648\u06A9 \u062E\u0648\u0631\u0634\u06CC\u062F\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0627\u0633\u062A\u0631\u0633 \u06AF\u0631\u0645\u0627\u064A\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "Coup de soleil"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "Stress calorique"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0909\u0937\u094D\u092E\u0940\u092F \u0924\u0928\u093E\u0935"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0932\u0942"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "melegstressz"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "napsz\u00FAr\u00E1s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "Colpo di sole"@it .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "Stress termico"@it .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "\u71B1\u30B9\u30C8\u30EC\u30B9\u3001\u6E29\u71B1\u30B9\u30C8\u30EC\u30B9"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "\u65E5\u5C04\u75C5"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "\uC77C\uC0AC\uBCD1"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "\uC5F4\uC751\uB825"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "Stres termiczny"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "Udar s\u0142oneczny"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "Stress causado por calor"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "Golpe de sol"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0442\u0435\u0440\u043C\u0430\u043B\u044C\u043D\u044B\u0439 \u0448\u043E\u043A"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0442\u0435\u0440\u043C\u0430\u043B\u044C\u043D\u044B\u0439 \u0441\u0442\u0440\u0435\u0441\u0441"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0441\u043E\u043B\u043D\u0435\u0447\u043D\u044B\u0439 \u0443\u0434\u0430\u0440"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "\u00FApal"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E04\u0E27\u0E32\u0E21\u0E40\u0E04\u0E23\u0E35\u0E22\u0E14\u0E40\u0E19\u0E37\u0E48\u0E2D\u0E07\u0E08\u0E32\u0E01\u0E2D\u0E38\u0E13\u0E2B\u0E20\u0E39\u0E21\u0E34\u0E2A\u0E39\u0E07"@th .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E2D\u0E32\u0E01\u0E32\u0E23\u0E2B\u0E21\u0E14\u0E2A\u0E15\u0E34\u0E08\u0E32\u0E01\u0E04\u0E27\u0E32\u0E21\u0E23\u0E49\u0E2D\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "\u70ED\u91CF\u80C1\u8FEB"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "\u65E5\u5C04\u75C5"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0131s\u0131 gerilimi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "g\u00FCne\u015F \u00E7arpmas\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0131s\u0131l gerilim"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "termal stres"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "termik gerilim"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0131s\u0131l \u015Fok"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "termal \u015Fok"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "termik \u015Fok"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0C24\u0C3E\u0C2A\u0C40\u0C2F \u0C12\u0C24\u0C4D\u0C24\u0C3F\u0C21\u0C3F"@te .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#narrower> <http://aims.fao.org/aos/agrovoc/c_3520> .
+<http://aims.fao.org/aos/agrovoc/c_11488> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7452> .

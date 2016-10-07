@@ -1,0 +1,96 @@
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1432> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Burundi> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_3626> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dewey.info/class/967.572/> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://eurovoc.europa.eu/5072> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Burundi> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/20554> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://zbw.eu/stw/descriptor/17731-4> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://sws.geonames.org/433561/> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://aims.fao.org/aos/agrontology#spatiallyIncludes> <http://aims.fao.org/aos/agrovoc/c_49951> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://aims.fao.org/aos/agrontology#isPartOfSubvocabulary> "Geographical country level" .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299520590048> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299520590065> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299520590083> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299520590149> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299520590174> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299520590199> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299520590228> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299520590265> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299520590294> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299520590369> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299520590399> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299520590504> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299520590608> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299520590658> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299520590696> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299520590738> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299520590781> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299520590848> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299520590903> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1159_1321790127080> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1159_1328260210514> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299520591142> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299520591470> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299520592511> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299520592122> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299520592308> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299520591080> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299520591975> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299520591198> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299520591762> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299520591688> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299520591015> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299520591899> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299520591827> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299520592199> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299520591560> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299520591266> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299520591627> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_13821_1321792671569> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://purl.org/dc/terms/created> "2012-02-03T17:10:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://purl.org/dc/terms/modified> "2013-08-28T18:44:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0628\u0648\u0631\u0648\u0646\u062F\u064A"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Burundi"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Burundi"@de .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Burundi"@en .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Burundi"@es .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0628\u0631\u0648\u0646\u062F\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Burundi"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092C\u0941\u0930\u0942\u0923\u094D\u0921\u0940"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Burundi"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Burundi"@it .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30D6\u30EB\u30F3\u30B8\u5171\u548C\u56FD"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uBD80\uB8EC\uB514"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E9A\u0EB8\u0EA3\u0EB8\u0E99\u0E94\u0EB4"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Burundi"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Burundi"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0431\u0443\u0440\u0443\u043D\u0434\u0438"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Burundi"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E1A\u0E38\u0E23\u0E38\u0E19\u0E14\u0E35"@th .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5E03\u9686\u8FEA"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Burundi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C21\u0C3F\u0C38\u0C4D\u0C1F\u0C4A\u0C2E \u0C1F\u0C4A\u0C38\u0C3F\u0C28\u0C4D"@te .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0628\u0648\u0631\u0648\u0646\u062F\u064A"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#altLabel> "Burundsk\u00E1 republika"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#altLabel> "Republik Burundi"@de .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#altLabel> "Republic of Burundi"@en .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#altLabel> "Rep\u00FAblica de Burundi"@es .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062C\u0645\u0647\u0648\u0631\u064A \u0628\u0631\u0648\u0646\u062F\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#altLabel> "R\u00E9publique du Burundi"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#altLabel> "\u092C\u0941\u0930\u0942\u0921\u0940 \u0917\u0923\u0930\u093E\u091C\u094D\u092F"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#altLabel> "Burundi K\u00F6zt\u00E1rsas\u00E1g"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#altLabel> "Repubblica di Burundi"@it .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#altLabel> "\uBD80\uB8EC\uB514\uACF5\uD654\uAD6D"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#altLabel> "Republika Burundi"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#altLabel> "Rep\u00FAblica do Burundi"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0440\u0435\u0441\u043F\u0443\u0431\u043B\u0438\u043A\u0430 \u0431\u0443\u0440\u0443\u043D\u0434\u0438"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#altLabel> "Burundsk\u00E1 republika"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E2A\u0E32\u0E18\u0E32\u0E23\u0E13\u0E23\u0E31\u0E10\u0E1A\u0E38\u0E23\u0E38\u0E19\u0E14\u0E35"@th .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#altLabel> "\u5E03\u9686\u8FEA\u5171\u548C\u56FD"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#altLabel> "Burundi Cumhuriyeti"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1159> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1432> .

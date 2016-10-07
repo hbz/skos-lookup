@@ -1,0 +1,6 @@
+<http://aims.fao.org/aos/agrontology#developsFrom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#TransitiveProperty> .
+<http://aims.fao.org/aos/agrontology#developsFrom> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://aims.fao.org/aos/agrontology#temporalRelationship> .
+<http://aims.fao.org/aos/agrontology#developsFrom> <http://www.w3.org/2000/01/rdf-schema#domain> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrontology#developsFrom> <http://www.w3.org/2000/01/rdf-schema#label> "Develops from"@en .
+<http://aims.fao.org/aos/agrontology#developsFrom> <http://www.w3.org/2002/07/owl#inverseOf> <http://aims.fao.org/aos/agrontology#developsInto> .
+<http://aims.fao.org/aos/agrontology#developsFrom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .

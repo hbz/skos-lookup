@@ -1,0 +1,59 @@
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5837> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://aims.fao.org/aos/agrontology#influences> <http://aims.fao.org/aos/agrovoc/c_5812> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Gas_exchange> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_35652> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4136101-5> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/40685> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://aims.fao.org/aos/asfa/c_6078> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299511383920> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299511383936> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299511384211> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299511384229> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299511384249> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299511384270> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299511384293> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299511384376> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299511384404> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299511384432> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299511384638> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299511384668> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299511384846> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299511384882> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299511384920> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299511384960> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299511385000> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299511385044> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299511385087> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11098_1321792379341> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_26c77f84> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11098_1321792379463> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://purl.org/dc/terms/created> "2011-11-20T20:32:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://purl.org/dc/terms/modified> "2015-08-18T21:46:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062A\u0628\u0627\u062F\u0644 \u0627\u0644\u063A\u0627\u0632\u0627\u062A"@ar .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#prefLabel> "v\u00FDm\u011Bna plyn\u016F"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gasaustausch"@de .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#prefLabel> "gas exchange"@en .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#prefLabel> "Intercambio de gases"@es .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062A\u0628\u0627\u062F\u0644 \u06AF\u0627\u0632"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00C9change gazeux"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0917\u0948\u0938\u0940\u092F \u0906\u0926\u093E\u0928-\u092A\u094D\u0930\u0926\u093E\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#prefLabel> "g\u00E1zcsere"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scambio gassoso"@it .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30AC\u30B9\u4EA4\u63DB"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uAC00\uC2A4\uAD50\uD658"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0E99\u0EC1\u0EA5\u0E81\u0E9B\u0EC8\u0EBD\u0E99\u0E97\u0EB2\u0E94\u0EAD\u0EB2\u0E8D"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wymiana gazowa"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#prefLabel> "Troca gasosa"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0433\u0430\u0437\u043E\u043E\u0431\u043C\u0435\u043D"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#prefLabel> "v\u00FDmena plynov"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E41\u0E25\u0E01\u0E40\u0E1B\u0E25\u0E35\u0E48\u0E22\u0E19\u0E01\u0E4A\u0E32\u0E0B"@th .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6C14\u4F53\u4EA4\u6362"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#prefLabel> "gaz de\u011Fi\u015Fimi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#prefLabel> "schimb de gaze"@mo .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#altLabel> "gaz al\u0131\u015Fveri\u015Fi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#narrower> <http://aims.fao.org/aos/agrovoc/c_5478> .
+<http://aims.fao.org/aos/agrovoc/c_11098> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5837> .

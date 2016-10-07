@@ -1,0 +1,58 @@
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#broadMatch> <http://d-nb.info/gnd/4335305-8> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1100> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#narrowMatch> <http://cat.aii.caas.cn/concept/c_5348> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_5347> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_5346> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/19888> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299526574567> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299526574583> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299526574602> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299526574623> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299526574681> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299526574705> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299526574728> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299526574754> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299526574781> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299526575104> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299526575135> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299526575216> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299526575288> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299526575363> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299526575397> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299526575434> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299526575471> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299526575510> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299526575551> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1099_1321790091965> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1099_1328260170932> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1328516962063> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://purl.org/dc/terms/created> "2012-02-03T17:09:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://purl.org/dc/terms/modified> "2014-07-03T19:47:38Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u063A\u0627\u0628\u0627\u062A \u0639\u0631\u064A\u0636\u0629 \u0627\u0644\u0623\u0648\u0631\u0627\u0642 \u0645\u062E\u0636\u0631\u0629"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#prefLabel> "st\u00E1lezelen\u00E9 listnat\u00E9 lesy"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#prefLabel> "Immergruener Laubwald"@de .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#prefLabel> "broadleaved evergreen forests"@en .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bosque de frondosas siempreverde"@es .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062C\u0646\u06AF\u0644\u200C\u0647\u0627\u06CC \u0647\u0645\u06CC\u0634\u0647\u200C\u0633\u0628\u0632 \u067E\u0647\u0646\u200C\u0628\u0631\u06AF"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#prefLabel> "For\u00EAt feuillue sempervirente"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u091A\u094C\u0921\u093C\u0940 \u092A\u0924\u094D\u0924\u0940\u0927\u093E\u0930\u0940 \u0938\u0926\u093E\u092C\u0939\u093E\u0930 \u0935\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00F6r\u00F6kz\u00F6ld lombos erd\u00F5"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#prefLabel> "Foreste di latifoglie sempreverdi"@it .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5E38\u7DD1\u5E83\u8449\u6A39\u6797"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uD65C\uC5FD\uC0C1\uB85D\uC218\uB9BC"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E9B\u0EC8\u0EB2\u0E94\u0EBB\u0E87\u0E94\u0EB4\u0E9A\u0EC3\u0E9A\u0E81\u0EC9\u0EA7\u0EB2\u0E87"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#prefLabel> "Las li\u015Bciasty wiecznie zielony"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#prefLabel> "Floresta de folhosas perenif\u00F3lias"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0448\u0438\u0440\u043E\u043A\u043E\u043B\u0438\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0435 \u0432\u0435\u0447\u043D\u043E\u0437\u0435\u043B\u0435\u043D\u044B\u0435 \u043B\u0435\u0441\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#prefLabel> "v\u017Edyzelen\u00E9 listnat\u00E9 lesy"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E1B\u0E48\u0E32\u0E44\u0E21\u0E49\u0E43\u0E1A\u0E01\u0E27\u0E49\u0E32\u0E07\u0E44\u0E21\u0E48\u0E1C\u0E25\u0E31\u0E14\u0E43\u0E1A"@th .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5E38\u7EFF\u9614\u53F6\u6797"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#prefLabel> "her dem ye\u015Fil geni\u015F yaprakl\u0131 orman"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C35\u0C4D\u0C2F\u0C3E\u0C27\u0C3F \u0C05\u0C15\u0C38\u0C4D\u0C2E\u0C3E\u0C24\u0C4D\u0C24\u0C41\u0C17\u0C3E \u0C1A\u0C46\u0C32\u0C30\u0C47\u0C17\u0C1F\u0C02"@te .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#altLabel> "Immergr\u00FCner Laubwald"@de .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#broadMatch> <http://d-nb.info/gnd/4335305-8> .
+<http://aims.fao.org/aos/agrovoc/c_1099> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1100> .

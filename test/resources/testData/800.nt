@@ -1,0 +1,113 @@
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3838> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Lao_People_s_Democratic_Republic__the> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://aims.fao.org/aos/agrontology#spatiallyIncludes> <http://aims.fao.org/aos/agrovoc/c_29734> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://aims.fao.org/aos/agrontology#isPartOfSubvocabulary> "Geographical country level" .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299520124949> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299520124966> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299520124984> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299520125003> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299520125026> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299520125049> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299520125072> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299520125176> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299520125204> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299520125233> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299520125263> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299520125299> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299520125518> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299520125553> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299520125590> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299520125634> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299520125675> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299520125720> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299520125764> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12076_1321792488952> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299520126207> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299520128183> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299520126612> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299520128358> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299520127928> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299520128925> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299520127178> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299520127779> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299520126161> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299520128098> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299520128827> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299520127108> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299520126257> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299520128269> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299520128635> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299520126910> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299520126846> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299520127853> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299520129128> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299520128015> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299520125890> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299520126667> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299520128730> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299520127040> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299520126973> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299520129025> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299520127250> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299520126724> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299520128450> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299520126558> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299520126783> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_4189_1321791337400> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12077_1321792489107> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://purl.org/dc/terms/created> "2011-11-20T20:34:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://purl.org/dc/terms/modified> "2013-08-28T22:59:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0644\u0627\u0648 \u0627\u0644\u062F\u064A\u0645\u0642\u0631\u0627\u0637\u064A\u0629 \u0627\u0644\u0634\u0639\u0628\u064A\u0629"@ar .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laosk\u00E1 lidov\u011B demokratick\u00E1 republika"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#prefLabel> "Demokratische Volksrepublik Laos"@de .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lao People's Democratic Republic"@en .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rep\u00FAblica Democr\u00E1tica Popular Lao"@es .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062C\u0645\u0647\u0648\u0631\u06CC \u062F\u0645\u0648\u06A9\u0631\u0627\u062A\u06CC\u06A9 \u062E\u0644\u0642 \u0644\u0627\u0626\u0648"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#prefLabel> "R\u00E9publique d\u00E9mocratique populaire lao"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0932\u093E\u0913 \u091C\u0928\u0924\u093E\u0902\u0924\u094D\u0930\u093F\u0915 \u0917\u0923\u0930\u093E\u091C\u094D\u092F"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laoszi N\u00E9pi Demokratikus K\u00F6zt\u00E1rsas\u00E1g"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#prefLabel> "Repubblica Democratica Popolare del Laos"@it .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30E9\u30AA\u30B9\u4EBA\u6C11\u6C11\u4E3B\u5171\u548C\u56FD"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uB77C\uC624\uC778\uBBFC\uBBFC\uC8FC\uACF5\uD654\uAD6D"@ko .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EAA\u0EB2\u0E97\u0EB2\u0EA5\u0EB0\u0E99\u0EB0\u0EA5\u0EB1\u0E94 \u0E9B\u0EB0\u0E8A\u0EB2\u0E97\u0EB4\u0E9B\u0EB0\u0EC4\u0E95 \u0E9B\u0EB0\u0E8A\u0EB2\u0E8A\u0EBB\u0E99\u0EA5\u0EB2\u0EA7"@lo .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laota\u0144ska Republika Ludowo-Demokratyczna"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rep\u00FAblica Popular Democr\u00E1tica do Laos"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043B\u0430\u043E\u0441\u0441\u043A\u0430\u044F \u043D\u0430\u0440\u043E\u0434\u043D\u043E-\u0434\u0435\u043C\u043E\u043A\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0440\u0435\u0441\u043F\u0443\u0431\u043B\u0438\u043A\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laosk\u00E1 \u013Eudovodemokratick\u00E1 republika"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E2A\u0E32\u0E18\u0E32\u0E23\u0E13\u0E23\u0E31\u0E10\u0E1B\u0E23\u0E30\u0E0A\u0E32\u0E18\u0E34\u0E1B\u0E44\u0E15\u0E22\u0E1B\u0E23\u0E30\u0E0A\u0E32\u0E0A\u0E19\u0E25\u0E32\u0E27"@th .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8001\u631D\u4EBA\u6C11\u6C11\u4E3B\u5171\u548C\u56FD"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lao Demokratik Halk Cumhuriyeti"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0644\u0627\u0648\u0633"@ar .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "Laos"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "Lao"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "Laos"@de .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "Laos"@en .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "Lao"@en .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "Laos"@es .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0644\u0627\u0626\u0648"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0644\u0627\u0626\u0648\u0633"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "Laos"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "Lao"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0932\u093E\u0913"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0932\u093E\u0913\u0938"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "Laosz"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "Laos"@it .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "\u30E9\u30AA\u30B9"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "\uB77C\uC624\uC2A4"@ko .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "\uB77C\uC624\uC871"@ko .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0EA5\u0EB2\u0EA7"@lo .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "Lao"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "Laos"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "Laos"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043B\u0430\u043E\u0441"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0440\u0435\u0441\u043F\u0443\u0431\u043B\u0438\u043A\u0430 \u043B\u0430\u043E\u0441"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "Laos"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E25\u0E32\u0E27"@th .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "\u8001\u631D"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "Lao"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#altLabel> "Laos"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12076> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3838> .

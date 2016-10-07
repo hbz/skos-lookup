@@ -1,0 +1,48 @@
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4740> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299488470425> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299488470438> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299488470454> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299488470472> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299488470492> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299488470512> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299488470534> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299488470557> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299488470581> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299488470609> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299488470639> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299488470668> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299488470699> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299488470732> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299488470766> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299488470802> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299488470839> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299488470878> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12120_1321792493805> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1327390592817> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://purl.org/dc/terms/created> "2011-11-20T20:34:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://purl.org/dc/terms/modified> "2014-07-03T18:35:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2004/02/skos/core#prefLabel> "schopnost u\u010Den\u00ED"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lernfaehigkeit"@de .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2004/02/skos/core#prefLabel> "learning capacity"@en .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Capacidad de aprendizaje"@es .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0638\u0631\u0641\u064A\u062A \u064A\u0627\u062F\u06AF\u064A\u0631\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Capacit\u00E9 d'apprentissage"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0938\u0940\u0916\u0928\u0947 \u0915\u0940 \u0915\u094D\u0937\u092E\u0924\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2004/02/skos/core#prefLabel> "tanul\u00E1si k\u00E9pess\u00E9g"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Capacit\u00E0 di apprendimento"@it .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5B66\u7FD2\u80FD\u529B"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uD559\uC2B5\uB2A5\uB825"@ko .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E84\u0EA7\u0EB2\u0EA1\u0EAA\u0EB2\u0EA1\u0EB2\u0E94\u0EC3\u0E99\u0E81\u0EB2\u0E99\u0EAE\u0EBD\u0E99\u0EAE\u0EC9\u0EB9"@lo .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zdolno\u015B\u0107 uczenia si\u0119"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Capacidade de aprendizagem"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0441\u043F\u043E\u0441\u043E\u0431\u043D\u043E\u0441\u0442\u044C \u043A \u0443\u0447\u0435\u0431\u0435"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2004/02/skos/core#prefLabel> "schopnos\u0165 u\u010Di\u0165 sa"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E04\u0E27\u0E32\u0E21\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E43\u0E19\u0E01\u0E32\u0E23\u0E40\u0E23\u0E35\u0E22\u0E19\u0E23\u0E39\u0E49"@th .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5B66\u4E60\u80FD\u529B"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00F6\u011Frenme kapasitesi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2004/02/skos/core#altLabel> "Lernf\u00E4higkeit"@de .
+<http://aims.fao.org/aos/agrovoc/c_12120> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4740> .

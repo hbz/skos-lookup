@@ -1,0 +1,40 @@
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_6532> .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_57196> .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://aims.fao.org/aos/agrontology#controls> <http://aims.fao.org/aos/agrovoc/c_10139> .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299513722226> .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299513722240> .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299513722257> .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299513722275> .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299513722294> .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299513722625> .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299513722649> .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299513722674> .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299513722700> .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299513722727> .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299513722754> .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299513722784> .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299513722816> .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299513722848> .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10140_1321792264728> .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://purl.org/dc/terms/created> "2011-11-20T20:31:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://purl.org/dc/terms/modified> "2013-08-27T22:01:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2004/02/skos/core#prefLabel> "l\u00E9ky proti ka\u0161li"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hustenmittel"@de .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2004/02/skos/core#prefLabel> "cough suppressants"@en .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062F\u0627\u0631\u0648\u0647\u0627\u06CC \u0633\u0631\u06A9\u0648\u0628\u06AF\u0631 \u0633\u0631\u0641\u0647"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u092B/\u0916\u093E\u0901\u0938\u0940 \u0928\u094D\u092F\u0942\u0928\u0915"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2004/02/skos/core#prefLabel> "k\u00F6h\u00F6g\u00E9scsillap\u00EDt\u00F3"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2004/02/skos/core#prefLabel> "Farmaci antitussivi"@it .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u93AE\u54B3\u5264"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leki przeciwkaszlowe"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inibidor t\u00FAssico"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0441\u0443\u043F\u0440\u0435\u0441\u0441\u0430\u043D\u0442\u044B \u043A\u0430\u0448\u043B\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2004/02/skos/core#prefLabel> "prostriedky na ut\u00ED\u0161enie ka\u0161\u013Ea"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E22\u0E32\u0E23\u0E30\u0E07\u0E31\u0E1A\u0E2D\u0E32\u0E01\u0E32\u0E23\u0E44\u0E2D"@th .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6B62\u54B3\u836F"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00F6ks\u00FCr\u00FCk bast\u0131r\u0131c\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10140> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_6532> .

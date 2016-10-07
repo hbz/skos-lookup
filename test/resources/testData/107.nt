@@ -1,0 +1,44 @@
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7427> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299518348358> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299518348375> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299518348393> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299518348422> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299518348447> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299518348471> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299518348495> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299518348520> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299518348548> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299518348576> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299518348622> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299518348656> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299518348692> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299518349022> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299518349058> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299518349153> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299518349190> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10175_1321792269251> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://purl.org/dc/terms/created> "2011-11-20T20:31:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://purl.org/dc/terms/modified> "2014-07-03T18:19:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2004/02/skos/core#prefLabel> "skladov\u00E1n\u00ED plodin"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2004/02/skos/core#prefLabel> "Erntegutlagerung"@de .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2004/02/skos/core#prefLabel> "crop storage"@en .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0630\u062E\u064A\u0631\u0647\u200C\u0633\u0627\u0632\u064A \u0645\u062D\u0635\u0648\u0644\u0627\u062A \u0632\u0631\u0627\u0639\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stockage des r\u00E9coltes"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092B\u0938\u0932 \u092D\u0923\u094D\u0921\u093E\u0930\u0923"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2004/02/skos/core#prefLabel> "term\u00E9s rakt\u00E1roz\u00E1sa"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2004/02/skos/core#prefLabel> "Immagazzinamento dei raccolti"@it .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4F5C\u7269\u8CAF\u8535"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC791\uBB3C\uC800\uC7A5"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0E99\u0EC0\u0E81\u0EB1\u0E9A\u0EAE\u0EB1\u0E81\u0EAA\u0EB2\u0E9E\u0EB7\u0E94\u0E9C\u0EBB\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2004/02/skos/core#prefLabel> "Magazynowanie ziemiop\u0142od\u00F3w"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2004/02/skos/core#prefLabel> "Armazenamento das colheitas"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0445\u0440\u0430\u043D\u0435\u043D\u0438\u0435 \u0443\u0440\u043E\u0436\u0430\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2004/02/skos/core#prefLabel> "skladovanie plod\u00EDn"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E40\u0E01\u0E47\u0E1A\u0E23\u0E31\u0E01\u0E29\u0E32\u0E1E\u0E37\u0E0A\u0E1C\u0E25"@th .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6536\u83B7\u50A8\u85CF"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00FCr\u00FCn depolama"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10175> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7427> .

@@ -1,0 +1,47 @@
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_330976> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://aims.fao.org/aos/agrontology#measures> <http://aims.fao.org/aos/agrovoc/c_4234> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299486348948> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299486348996> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299486349018> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299486349036> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299486349056> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299486349078> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299486349102> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299486349128> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299486349160> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299486349195> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299486349232> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299486349269> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299486349303> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299486349339> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299486349428> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299486349477> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12111_1321792492231> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1330510429236> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1330510438016> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://purl.org/dc/terms/created> "2011-11-20T20:34:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://purl.org/dc/terms/modified> "2014-07-03T17:52:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2004/02/skos/core#prefLabel> "kontrola sn\u00E1\u0161ky"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2004/02/skos/core#prefLabel> "laying tests"@en .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2004/02/skos/core#prefLabel> "Prueba de puesta"@es .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0622\u0632\u0645\u0648\u0646\u200C\u0647\u0627\u064A \u062A\u062E\u0645\u06AF\u0630\u0627\u0631\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00C9preuve de ponte"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0905\u0902\u0921\u0947 \u0926\u0947\u0928\u0947 \u0915\u093E \u092A\u0930\u0940\u0915\u094D\u0937\u0923"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2004/02/skos/core#prefLabel> "toj\u00E1stermel\u00E9s vizsg\u00E1lata"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2004/02/skos/core#prefLabel> "Test di ovideposizione"@it .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7523\u5375\u691C\u5B9A"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC0B0\uB780\uAC80\uC0AC"@ko .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kontrola nie\u015Bno\u015Bci"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2004/02/skos/core#prefLabel> "Teste de postura"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0438\u0441\u043F\u044B\u0442\u0430\u043D\u0438\u044F \u044F\u0439\u0446\u0435\u043D\u043E\u0441\u043A\u043E\u0441\u0442\u0438"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2004/02/skos/core#prefLabel> "kontrola zn\u00E1\u0161ky"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E17\u0E14\u0E2A\u0E2D\u0E1A\u0E01\u0E32\u0E23\u0E2D\u0E2D\u0E01\u0E44\u0E02\u0E48"@th .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4EA7\u86CB\u6D4B\u9A8C"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2004/02/skos/core#prefLabel> "yumurtlama testi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2004/02/skos/core#prefLabel> "Legeleistungspr\u00FCfung"@de .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2004/02/skos/core#altLabel> "Legeleistungspruefung"@de .
+<http://aims.fao.org/aos/agrovoc/c_12111> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_330976> .

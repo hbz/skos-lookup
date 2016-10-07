@@ -1,0 +1,46 @@
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4099> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299523839716> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299523839735> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299523839754> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299523839773> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299523839794> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299523839816> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299523839892> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299523839923> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299523839952> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299523839984> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299523840018> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299523840056> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299523840092> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299523840130> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299523840170> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299523840209> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299523840251> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299523840296> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl-fc7a9365-28cb-40f3-a970-d11af6245a70> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://purl.org/dc/terms/created> "1981-01-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://purl.org/dc/terms/modified> "2014-07-03T19:37:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2004/02/skos/core#prefLabel> "glomeruly"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glomeruli"@de .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2004/02/skos/core#prefLabel> "glomeruli"@en .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glom\u00E9rulo (animal)"@es .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u06AF\u0644\u0648\u0645\u0631\u0648\u0644\u200C\u0647\u0627"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glom\u00E9rule (animal)"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0917\u094D\u0932\u094B\u092E\u0947\u0930\u0941\u0932\u0940"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2004/02/skos/core#prefLabel> "glomerulus"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glomeruli"@it .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7CF8\u7403\u4F53"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC0AC\uAD6C\uCCB4"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E8A\u0EB1\u0EC9\u0E99\u0E95\u0EAD\u0E87\u0E99\u0EC9\u0EB3\u0E9B\u0EB1\u0E94\u0EAA\u0EB0\u0EA7\u0EB0"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2004/02/skos/core#prefLabel> "K\u0142\u0119buszki nerkowe"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glom\u00E9rulo"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043A\u043B\u0443\u0431\u043E\u0447\u043A\u0438 \u043F\u043E\u0447\u0435\u043A"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2004/02/skos/core#prefLabel> "glomeruly"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E15\u0E32\u0E02\u0E48\u0E32\u0E22\u0E2B\u0E25\u0E2D\u0E14\u0E40\u0E25\u0E37\u0E2D\u0E14\u0E1D\u0E2D\u0E22"@th .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u80BE\u5C0F\u7403"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2004/02/skos/core#prefLabel> "glomer\u00FCl"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11172> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4099> .

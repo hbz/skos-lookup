@@ -1,0 +1,63 @@
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#definition> <http://aims.fao.org/aos/agrovoc/xDef_1328253194178> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#scopeNote> "Y\u00FCrek i\u00E7i katman yang\u0131s\u0131\n"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3517> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Endocarditis> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4152173-0> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/36998> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299512001270> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299512001294> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299512001322> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299512001350> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299512001377> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299512001410> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299512001438> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299512001597> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299512001638> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299512001673> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299512001706> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299512001738> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299512001774> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299512001811> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299512001857> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299512001894> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299512001933> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299512001972> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299512002014> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10597_1321792319482> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_10597_1328257846052> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_6b2c2402> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299512002344> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299512002597> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10597_1321792319609> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://purl.org/dc/terms/created> "2012-02-03T16:30:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://purl.org/dc/terms/modified> "2016-07-11T20:35:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0625\u0644\u062A\u0647\u0627\u0628 \u0627\u0644\u0634\u0641\u0627\u0641"@ar .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#prefLabel> "endokarditida"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#prefLabel> "Endokarditis"@de .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#prefLabel> "endocarditis"@en .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#prefLabel> "Endocard\u00EDtis"@es .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0622\u0646\u062F\u0648\u06A9\u0627\u0631\u062F\u06CC\u062A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#prefLabel> "Endocardite"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0905\u0928\u094D\u0924: \u0939\u0943\u0926\u092F \u0936\u094B\u0927"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#prefLabel> "endokarditisz"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#prefLabel> "Endocardite"@it .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5FC3\u5185\u819C\u708E"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC2EC\uB0B4\uB9C9\uC5FC"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E9C\u0EB0\u0EDC\u0EB1\u0E87\u0EAB\u0EBB\u0EA7\u0EC3\u0E88\u0EC0\u0E9A\u0EB7\u0EC9\u0EAD\u0E87\u0EC3\u0E99\u0EAD\u0EB1\u0E81\u0EC0\u0EAA\u0E9A"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zapalenie wsierdzia"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#prefLabel> "Endocardite"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u044D\u043D\u0434\u043E\u043A\u0430\u0440\u0434\u0438\u0442"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#prefLabel> "endokartit\u00EDda"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E40\u0E22\u0E37\u0E48\u0E2D\u0E1A\u0E38\u0E2B\u0E31\u0E27\u0E43\u0E08\u0E2D\u0E31\u0E01\u0E40\u0E2A\u0E1A"@th .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5FC3\u5185\u819C\u708E"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#prefLabel> "endokardit"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C05\u0C02\u0C24\u0C30\u0C4D\u0C39\u0C43\u0C26\u0C2F \u0C2A\u0C4A\u0C30 \u0C36\u0C4B\u0C27"@te .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#prefLabel> "endocardit\u0103"@mo .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0627\u0644\u062A\u0647\u0627\u0628 \u0622\u0646\u062F\u0648\u06A9\u0627\u0631\u062F"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0627\u0644\u062A\u0647\u0627\u0628 \u062F\u0631\u0648\u0646\u200C\u0634\u0627\u0645\u0647 \u0642\u0644\u0628"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#altLabel> "endokarditis"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10597> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3517> .

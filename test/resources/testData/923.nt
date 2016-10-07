@@ -1,0 +1,92 @@
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1238> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Cananga_odorata> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_53385> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/69912> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://aims.fao.org/aos/agrontology#hasTaxonomicRank> <http://aims.fao.org/aos/agrovoc/c_331243> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299493035356> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299493035375> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299493035399> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299493035421> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299493035443> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299493035470> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299493035499> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299493035529> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299493035558> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299493035589> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299493035624> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299493035660> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299493035701> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299493035741> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299493035922> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299493035969> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299493036017> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299493036067> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299493036126> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1240_1321790173348> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1240_1328260262436> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299493037863> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299493037989> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299493038087> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299493036247> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299493036316> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299493036373> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299493036468> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299493036547> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299493036609> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299493036670> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299493036742> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299493036897> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299493037255> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299493037330> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299493037419> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299493037496> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299493037585> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299493037754> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_15461_1321792865901> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://purl.org/dc/terms/created> "2012-02-03T17:11:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://purl.org/dc/terms/modified> "2013-08-29T17:35:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0643\u0646\u0627\u0646\u0629 \u0639\u0637\u0631\u064A\u0629"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cananga odorata"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cananga odorata"@de .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cananga odorata"@en .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cananga odorata"@es .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u06A9\u0627\u0646\u0627\u0646\u06AF\u0627 \u0627\u0648\u062F\u0648\u0631\u0627\u062A\u0627"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cananga odorata"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u0948\u0928\u0947\u0928\u094D\u0917\u093E \u0913\u0921\u094B\u0930\u093E\u091F\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cananga odorata"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cananga odorata"@it .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30A4\u30E9\u30F3\u30A4\u30E9\u30F3\u30CE\u30AD"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC77C\uB791\uC77C\uB791(\uD559\uBA85)"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cananga odorata"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cananga odorata"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cananga odorata"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cananga odorata"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cananga odorata"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cananga odorata"@th .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4F9D\u5170"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cananga odorata"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C21\u0C3E\u0C32\u0C3F\u0C16\u0C3E\u0C38\u0C4D \u0C1C\u0C2A\u0C3E\u0C28\u0C3F\u0C15\u0C38\u0C4D"@te .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#altLabel> "Alanguil\u00E1n"@es .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#altLabel> "Drzewo kanangowe"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043A\u0430\u043D\u0430\u043D\u0433\u043E\u0432\u043E\u0435 \u0434\u0435\u0440\u0435\u0432\u043E"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0627\u064A\u0644\u0646\u06AF (\u062F\u0631\u062E\u062A)"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#altLabel> "\u092F\u0932\u093E\u0902\u0917 \u092F\u0932\u093E\u0902\u0917 \u0935\u0943\u0915\u094D\u0937"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E01\u0E23\u0E30\u0E14\u0E31\u0E07\u0E07\u0E32\u0E44\u0E17\u0E22 (\u0E15\u0E49\u0E19\u0E44\u0E21\u0E49)"@th .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#altLabel> "Uvaria odorata"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#altLabel> "kananga vo\u0148av\u00E1 (strom)"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#altLabel> "\u4F9D\u5170\u9999"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#altLabel> "Ylang ylang (albero)"@it .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#altLabel> "Ylang ylang (fa)"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#altLabel> "Ilang ilang"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#altLabel> "Jagodlin wonny"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#altLabel> "Ylang ylang (arbre)"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#altLabel> "ylang ylang (tree)"@en .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0438\u043B\u0430\u043D\u0433-\u0438\u043B\u0430\u043D\u0433"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#altLabel> "Ylang ylang (arbol)"@es .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#altLabel> "Ylang Ylang (baum)"@de .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#altLabel> "Kananga (a\u011Fa\u00E7)"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1240> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1238> .

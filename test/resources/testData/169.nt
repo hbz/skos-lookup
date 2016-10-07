@@ -1,0 +1,40 @@
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2843> .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299514006136> .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299514006152> .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299514006168> .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299514006195> .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299514006216> .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299514006238> .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299514006515> .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299514006541> .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299514006566> .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299514006756> .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299514006784> .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299514006814> .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299514006845> .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299514006879> .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299514006914> .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10320_1321792286321> .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://purl.org/dc/terms/created> "2011-11-20T20:31:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://purl.org/dc/terms/modified> "2014-07-03T18:41:21Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2004/02/skos/core#prefLabel> "dehydrovan\u00E1 krmiva"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dehydriertes Futter"@de .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2004/02/skos/core#prefLabel> "dehydrated feeds"@en .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062F\u0627\u0645\u200C\u062E\u0648\u0631\u0627\u0643\u200C\u0647\u0627\u064A \u0622\u0628\u0632\u062F\u0627\u064A\u064A\u200C\u0634\u062F\u0647"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0928\u093F\u0930\u094D\u091C\u0932\u0940\u0915\u0943\u0924 \u092D\u094B\u091C\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2004/02/skos/core#prefLabel> "sz\u00E1raztakarm\u00E1ny"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cibi disidratati"@it .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4E7E\u71E5\u98FC\u6599"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EA7\u0EB1\u0E94\u0E96\u0EB8\u0E94\u0EB4\u0E9A\u0EAD\u0EB2\u0EAB\u0EB2\u0E99\u0EAA\u0EB1\u0E94"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pasza sypka"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ra\u00E7\u00E3o desidratada"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0434\u0435\u0433\u0438\u0434\u0440\u0430\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u0435 \u043A\u043E\u0440\u043C\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2004/02/skos/core#prefLabel> "dehydrovan\u00E9 krmiv\u00E1"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E2D\u0E32\u0E2B\u0E32\u0E23\u0E2A\u0E31\u0E15\u0E27\u0E4C\u0E0A\u0E19\u0E34\u0E14\u0E41\u0E2B\u0E49\u0E07"@th .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8131\u6C34\u9972\u6599"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2004/02/skos/core#prefLabel> "kurutulmu\u015F yem"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10320> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2843> .

@@ -1,0 +1,74 @@
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u00E8\u00E1st SSSR p\u00F8ed r. 1992, pro dokumenty zab\u00FDvaj\u00EDc\u00ED se toutu oblast\u00ED p\u00F8ed zm\u00ECnou statutu, USE ESTONSK\u00C1 SSR"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#scopeNote> "Fuer Dokumente, die von dieser Region vor 1992 handeln, <2672> benutzen"@de .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#scopeNote> "Part of USSR before 1992; for documents dealing with that region before the change of status use <2672>"@en .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#scopeNote> "Parte de la URSS antes de 1992; para los documentos que tratan de esta regi\u00F3n antes del cambio de estatuto use <2672>"@es .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0642\u0633\u0645\u062A\u06CC \u0627\u0632 \u0627\u062A\u062D\u0627\u062F \u062C\u0645\u0627\u0647\u06CC\u0631 \u0634\u0648\u0631\u0648\u06CC \u0642\u0628\u0644 \u0627\u0632 \u0633\u0627\u0644 1992\u061B \u0628\u0631\u0627\u06CC \u0645\u062F\u0627\u0631\u06A9 \u0645\u0631\u0628\u0648\u0637 \u0628\u0647 \u0622\u0646 \u0645\u0646\u0637\u0642\u0647 \u0642\u0628\u0644 \u0627\u0632 \u062A\u063A\u06CC\u06CC\u0631 \u0645\u0648\u0642\u0639\u06CC\u062A \u0628\u0647 \u06A9\u0627\u0631 \u0628\u0631\u06CC\u062F \"\"\u0627\u0633\u062A\u0648\u0646\u06CC(\u062C\u0645\u0647\u0648\u0631\u06CC \u0633\u0648\u0633\u06CC\u0627\u0644\u06CC\u0633\u062A \u0634\u0648\u0631\u0648\u06CC)\"\""@fa .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#scopeNote> "Partie de l'URSS avant 1992; pour les documents traitant de cette r\u00E9gion avant le changement de statut utiliser <2672>"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#scopeNote> "1992 elott a Szovjet Szocialista K\u00F6zt\u00E1rsas\u00E1gok Sz\u00F6vets\u00E9g\u00E9nek tagja; Az \u00E1llam st\u00E1tusz\u00E1nak megv\u00E1ltoz\u00E1sa elott a r\u00E9gi\u00F3val kapcsolatos dokumentumokban szerepelt: <2672>"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#scopeNote> "Parte dell'URSS prima del 1992; per i documenti riguardanti tale nazione prima del cambiamento usare <2672>"@it .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0EAA\u0EC8\u0EA7\u0E99\u0E82\u0EAD\u0E87\u200B\u0EAA\u0EB0\u0EAB\u0EB0\u0E9E\u0EB2\u0E9A\u200B\u0EC2\u0E8A\u0EA7\u0EBD\u0E94 \u0E88\u0EBB\u0E99\u200B\u0EC0\u0E96\u0EB4\u0E87\u200B\u0E9B\u0EB5 1991; \u0EAA\u0EB3\u0EA5\u0EB1\u0E9A\u200B\u0EC3\u0E8A\u0EC9\u200B\u0E81\u0EB1\u0E9A\u200B\u0E9A\u0EB1\u0E99\u0E94\u0EB2\u200B\u0EC0\u0EAD\u0E81\u0EB0\u200B\u0EAA\u0EB2\u0E99 \u0E81\u0EC8\u0EBD\u0EA7\u200B\u0E81\u0EB1\u0E9A \u0E9E\u0EB2\u0E81\u200B\u0E9E\u0EB7\u0EC9\u0E99\u200B\u0E94\u0EB1\u0EC8\u0E87\u200B\u0E81\u0EC8\u0EB2\u0EA7 \u0E81\u0EC8\u0EAD\u0E99\u200B\u0EC0\u0E81\u0EB5\u0E94\u200B\u0E81\u0EB2\u0E99\u200B\u0E9B\u0EC8\u0EBD\u0E99\u200B\u0EC1\u0E9B\u0E87\u200B\u0EA5\u0EB0\u0E9A\u0EAD\u0E9A\u0E81\u0EB2\u0E99\u200B\u0E9B\u0EBB\u0E81\u200B\u0E84\u0EAD\u0E87; \u0EAA\u0EC8\u0EA7\u0E99\u200B\u0E9E\u0EB2\u0E8D\u200B\u0EAB\u0EBC\u0EB1\u0E87\u0E88\u0EB2\u0E81\u200B\u0E99\u0EB1\u0EC9\u0E99 \u200B\u0EC3\u0EAB\u0EC9\u200B\u0EC3\u0E8A\u0EC9 <2672>"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#scopeNote> "Cz\u0119\u015B\u0107 ZSRR przed 1992 rokiem; dla dokument\u00F3w zwi\u0105zanych z tym regionem przed zmian\u0105 statusu u\u017Cywaj <2672>"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#scopeNote> "Regi\u00E3o da URSS antes de 1992; para documentos que tratem daquela regi\u00E3o antes da mudan\u00E7a pol\u00EDtica usar <2672>"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0E40\u0E1B\u0E47\u0E19\u0E2A\u0E48\u0E27\u0E19\u0E2B\u0E19\u0E36\u0E48\u0E07\u0E02\u0E2D\u0E07\u0E42\u0E0B\u0E40\u0E27\u0E35\u0E22\u0E15\u0E01\u0E48\u0E2D\u0E19 \u0E1E.\u0E28. 2535, \u0E43\u0E0A\u0E49\u0E43\u0E19\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23,\u0E02\u0E49\u0E2D\u0E15\u0E01\u0E25\u0E07\u0E2B\u0E25\u0E31\u0E07\u0E40\u0E1B\u0E25\u0E35\u0E48\u0E22\u0E19\u0E2A\u0E16\u0E32\u0E19\u0E20\u0E32\u0E1E \u0E01\u0E48\u0E2D\u0E19\u0E2B\u0E19\u0E49\u0E32\u0E19\u0E31\u0E49\u0E19\u0E43\u0E0A\u0E49 <2672>"@th .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#scopeNote> "1992'ye kadar SSCB'ye ba\u011Fl\u0131d\u0131r; b\u00F6lgeyle ilgili bu tarihteki stat\u00FC de\u011Fi\u015Fiminden \u00F6nceki dok\u00FCmanlar i\u00E7in <2672> kodlu terimi kullan\n"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_36693> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Estonia> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_276> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dewey.info/class/947.98/> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://eurovoc.europa.eu/5619> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Estonia> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/15678> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://zbw.eu/stw/descriptor/17471-4> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.gesis.org/thesoz/concept/10037612> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://sws.geonames.org/453733/> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://aims.fao.org/aos/agrontology#spatiallyIncludes> <http://aims.fao.org/aos/agrovoc/c_3435> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://aims.fao.org/aos/agrontology#isPartOfSubvocabulary> "Geographical country level" .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299522887574> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299522887602> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299522887625> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299522887653> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299522887691> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299522887729> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299522887774> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299522887805> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299522887840> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299522887884> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299522887939> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299522888003> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299522888055> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299522888203> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299522888239> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299522888278> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299522888369> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299522888413> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299522888462> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10672_1321792327963> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_80362940> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://purl.org/dc/terms/created> "2011-11-20T20:32:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://purl.org/dc/terms/modified> "2015-08-18T21:44:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0625\u0633\u062A\u0648\u0646\u064A\u0627"@ar .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#prefLabel> "Estonsko"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#prefLabel> "Estland"@de .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#prefLabel> "Estonia"@en .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#prefLabel> "Estonia"@es .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u0633\u062A\u0648\u0646\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#prefLabel> "Estonie"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u090F\u0938\u094D\u091F\u094B\u0928\u093F\u0906"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00C9sztorsz\u00E1g"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#prefLabel> "Estonia"@it .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30A8\u30B9\u30C8\u30CB\u30A2\u5171\u548C\u56FD"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC5D0\uC2A4\uD1A0\uB2C8\uC544"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EC1\u0EAD\u0EB1\u0E94\u0EAA\u0EB0\u0EC2\u0E95\u0EC0\u0E99\u0E8D"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#prefLabel> "Estonia"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#prefLabel> "Est\u00F3nia"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u044D\u0441\u0442\u043E\u043D\u0438\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#prefLabel> "Est\u00F3nsko"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E40\u0E2D\u0E2A\u0E42\u0E15\u0E40\u0E19\u0E35\u0E22"@th .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7231\u6C99\u5C3C\u4E9A"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#prefLabel> "Estonya"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#prefLabel> "Estonia"@mo .
+<http://aims.fao.org/aos/agrovoc/c_10672> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_36693> .

@@ -1,0 +1,46 @@
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5431> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2004/02/skos/core#relatedMatch> <http://cat.aii.caas.cn/concept/c_33116> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/29754> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299492248273> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299492248289> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299492248312> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299492248339> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299492248371> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299492248409> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299492248454> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299492248490> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299492248528> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299492248571> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299492248756> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299492248793> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299492248971> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299492249050> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299492249119> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299492249200> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299492249289> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299492249359> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://purl.org/dc/terms/created> "1981-01-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://purl.org/dc/terms/modified> "2009-11-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2004/02/skos/core#prefLabel> "virus ne\u0161tovic"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kuhpockenvirus"@de .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cowpox virus"@en .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virus cowpox"@es .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0648\u064A\u0631\u0648\u0633 \u0622\u0628\u0644\u0647 \u06AF\u0627\u0648\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virus cowpox"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u093E\u090A\u092A\u093E\u0901\u0915\u094D\u0938 \u0935\u093F\u0937\u093E\u0923\u0941"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2004/02/skos/core#prefLabel> "teh\u00E9nhiml\u00F5 v\u00EDrus"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virus del vaiolo bovino"@it .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u725B\u75D8\u30A6\u30A4\u30EB\u30B9"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC18C\uB450\uCC3D\uBC14\uC774\uB7EC\uC2A4"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cowpox virus"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wirus ospy krowiej"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2004/02/skos/core#prefLabel> "V\u00EDrus da var\u00EDola bovina"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0432\u0438\u0440\u0443\u0441 \u043E\u0441\u043F\u044B \u043A\u043E\u0440\u043E\u0432"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2004/02/skos/core#prefLabel> "v\u00EDrus kravsk\u00FDch kiahn\u00ED"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cowpox virus"@th .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u725B\u75D8\u75C5\u6BD2"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10147> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5431> .

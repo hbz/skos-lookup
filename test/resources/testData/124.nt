@@ -1,0 +1,40 @@
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5002> .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299513710704> .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299513710735> .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299513710759> .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299513710812> .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299513710863> .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299513710919> .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299513710954> .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299513711025> .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299513711095> .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299513711146> .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299513711221> .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299513711312> .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299513711355> .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299513711452> .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299513711544> .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10207_1321792273414> .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://purl.org/dc/terms/created> "2011-11-20T20:31:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://purl.org/dc/terms/modified> "2013-08-27T22:01:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2004/02/skos/core#prefLabel> "deriv\u00E1ty kurare"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2004/02/skos/core#prefLabel> "Curarederivat"@de .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2004/02/skos/core#prefLabel> "curare derivatives"@en .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2004/02/skos/core#prefLabel> "Derivados del curare"@es .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0645\u0634\u062A\u0642\u0627\u062A \u0643\u0648\u0631\u0627\u0631"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2004/02/skos/core#prefLabel> "D\u00E9riv\u00E9 du curare"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u0941\u0930\u0930 \u0935\u094D\u092F\u0941\u0924\u094D\u092A\u0928\u094D\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2004/02/skos/core#prefLabel> "kur\u00E1re sz\u00E1rmaz\u00E9k"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2004/02/skos/core#prefLabel> "Derivati del curaro"@it .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30AF\u30E9\u30FC\u30EC\u306E\u8A98\u5C0E\u4F53"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pochodne kurary"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2004/02/skos/core#prefLabel> "Derivado de curare"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u043D\u044B\u0435 \u043A\u0443\u0440\u0430\u0440\u0435"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2004/02/skos/core#prefLabel> "deriv\u00E1ty kurare"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7BAD\u6BD2"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2004/02/skos/core#prefLabel> "k\u00FCrar t\u00FCrevi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10207> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5002> .

@@ -1,0 +1,17 @@
+<http://aims.fao.org/aos/agrovoc/c_0bf0de9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_0bf0de9e> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_0bf0de9e> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_513> .
+<http://aims.fao.org/aos/agrovoc/c_0bf0de9e> <http://aims.fao.org/aos/agrontology#hasTaxonomicRank> <http://aims.fao.org/aos/agrovoc/c_331243> .
+<http://aims.fao.org/aos/agrovoc/c_0bf0de9e> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_67d2708a> .
+<http://aims.fao.org/aos/agrovoc/c_0bf0de9e> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_f6cb3eef> .
+<http://aims.fao.org/aos/agrovoc/c_0bf0de9e> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_f2d48fc0> .
+<http://aims.fao.org/aos/agrovoc/c_0bf0de9e> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_23dfa1da> .
+<http://aims.fao.org/aos/agrovoc/c_0bf0de9e> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_0bf0de9e> <http://purl.org/dc/terms/created> "2015-07-02T14:36:35Z"^^<xsd:http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_0bf0de9e> <http://purl.org/dc/terms/modified> "2015-09-22T19:00:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_0bf0de9e> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_0bf0de9e> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antirrhinum majus"@en .
+<http://aims.fao.org/aos/agrovoc/c_0bf0de9e> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antirrhinum majus"@de .
+<http://aims.fao.org/aos/agrovoc/c_0bf0de9e> <http://www.w3.org/2004/02/skos/core#altLabel> "common snapdragon"@en .
+<http://aims.fao.org/aos/agrovoc/c_0bf0de9e> <http://www.w3.org/2004/02/skos/core#altLabel> "Gro\u00DFes L\u00F6wenmaul"@de .
+<http://aims.fao.org/aos/agrovoc/c_0bf0de9e> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_513> .

@@ -1,0 +1,103 @@
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_249> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://aims.fao.org/aos/agrontology#isUsedAs> <http://aims.fao.org/aos/agrovoc/c_3136> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Ethanol> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://aims.fao.org/aos/biotechglossary/c_4066> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_53524> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4125880-0> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/14890> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://eurovoc.europa.eu/890> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://www.eionet.europa.eu/gemet/concept/12017> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/6145> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://aims.fao.org/aos/agrontology#hasProperty> <http://aims.fao.org/aos/agrovoc/c_32364> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://aims.fao.org/aos/agrontology#isPartOfSubvocabulary> "Chemicals" .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299514897653> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299514897669> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299514897685> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299514897804> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299514897825> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299514897886> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299514897908> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299514897933> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299514897959> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299514897989> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299514898019> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299514898050> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299514898083> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299514898118> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299514898156> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299514898195> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299514898235> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299514898278> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299514898324> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10677_1321792328437> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_b94e7d09> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299514898970> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299514899796> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299514900485> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299514900621> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299514899497> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299514899644> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299514898814> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299514899425> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299514898863> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299514899227> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299514899163> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299514899720> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299514898764> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299514899356> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299514899290> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299514899570> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299514899035> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299514898911> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299514899096> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10680_1321792329107> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_08d91203> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://purl.org/dc/terms/created> "2011-11-20T20:32:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://purl.org/dc/terms/modified> "2015-09-18T00:20:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0625\u064A\u062B\u0627\u0646\u0648\u0644"@ar .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#prefLabel> "etanol"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ethanol"@de .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#prefLabel> "ethanol"@en .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#prefLabel> "Et\u00E1nol"@es .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u062A\u0627\u0646\u0648\u0644"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00C9thanol"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0908\u0925\u093E\u0928\u093E\u0901\u0932"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#prefLabel> "etanol"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#prefLabel> "Etanolo"@it .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30A8\u30BF\u30CE\u30FC\u30EB"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC5D0\uD0C4\uC62C"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EC0\u0EAD\u0E97\u0EB2\u0E99\u0EAD\u0EA5"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#prefLabel> "Etanol"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#prefLabel> "Etanol"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u044D\u0442\u0430\u043D\u043E\u043B"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#prefLabel> "etanol"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E40\u0E2D\u0E17\u0E32\u0E19\u0E2D\u0E25"@th .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4E59\u9187"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#prefLabel> "etanol"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#prefLabel> "etanol"@mo .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#altLabel> "etylalkohol"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#altLabel> "Ethylalkohol"@de .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#altLabel> "Aethanol"@de .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#altLabel> "Aethylalkohol"@de .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#altLabel> "ethyl alcohol"@en .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#altLabel> "Alcohol et\u00EDlico"@es .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0627\u062A\u064A\u0644 \u0627\u0644\u0643\u0644"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#altLabel> "Alcool \u00E9thylique"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#altLabel> "\u090F\u0925\u093F\u0932 \u0905\u0932\u094D\u0915\u094B\u0939\u0932"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#altLabel> "etilalkohol"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#altLabel> "Alcol etilico"@it .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#altLabel> "\u30A8\u30C1\u30EB\u30A2\u30EB\u30B3\u30FC\u30EB"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#altLabel> "\uC5D0\uD2F8\uC54C\uCF54\uC62C"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#altLabel> "Alkohol etylowy"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#altLabel> "\u00C1lcool et\u00EDlico"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#altLabel> "\u044D\u0442\u0438\u043B\u043E\u0432\u044B\u0439 \u0441\u043F\u0438\u0440\u0442"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#altLabel> "etylalkohol"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E40\u0E2D\u0E17\u0E34\u0E25\u0E41\u0E2D\u0E25\u0E01\u0E2D\u0E2E\u0E2D\u0E25\u0E4C"@th .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#altLabel> "\u9152\u7CBE"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#altLabel> "etil alkol"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#altLabel> "alcool etilic"@mo .
+<http://aims.fao.org/aos/agrovoc/c_10677> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_249> .

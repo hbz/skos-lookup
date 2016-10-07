@@ -1,0 +1,181 @@
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7260> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_31293> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dewey.info/class/959.1/> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://eurovoc.europa.eu/4966> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Myanmar> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/20520> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://zbw.eu/stw/descriptor/17599-6> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://sws.geonames.org/1327865/> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://aims.fao.org/aos/agrontology#spatiallyIncludes> <http://aims.fao.org/aos/agrovoc/c_29734> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://aims.fao.org/aos/agrontology#isPartOfSubvocabulary> "Geographical country level" .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299520103837> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299520103853> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299520103990> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299520104013> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299520104036> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299520104058> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299520104280> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299520104305> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299520104330> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299520104356> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299520104385> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299520104414> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299520104445> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299520104478> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299520104514> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299520104552> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299520104591> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299520104631> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299520104673> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1155_1321790125426> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1155_1328260208034> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299520108274> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299520105304> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299520106751> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299520106907> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299520108772> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299520105592> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299520106516> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299520107928> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299520110476> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299520107515> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299520109872> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299520106062> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299520106364> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299520110163> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299520107711> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299520105035> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299520108161> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299520106677> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299520107425> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299520109734> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299520105996> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299520108388> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299520105494> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299520106828> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299520109309> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299520105806> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299520107157> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299520109171> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299520107073> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299520105748> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299520106438> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299520107816> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299520108049> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299520106597> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299520109594> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299520107335> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299520105926> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299520109448> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299520107244> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299520105864> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299520106130> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299520110016> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299520107608> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299520106989> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299520105643> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299520108904> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299520105543> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299520108645> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299520105693> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299520109037> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1302701253600> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1302701282296> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1302701312876> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1302701342573> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1302701611200> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1302701640956> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1302783720098> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_14378_1321792740571> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_33099_1321794241267> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1329988589137> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_33098_1321794241101> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://purl.org/dc/terms/created> "2012-02-03T17:10:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://purl.org/dc/terms/modified> "2013-08-28T15:37:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0645\u064A\u0627\u0646\u0645\u0627\u0631"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Myanmar"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Myanmar"@de .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Myanmar"@en .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Myanmar"@es .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0645\u06CC\u0627\u0646\u0645\u0627\u0631"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Myanmar"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092E\u094D\u092F\u093E\u0928\u092E\u093E\u0930"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Myanmar"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Myanmar"@it .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30DF\u30E3\u30F3\u30DE\u30FC\u9023\u90A6"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uBBF8\uC580\uB9C8"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EA1\u0EBD\u0E99\u0EA1\u0EB2"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Myanmar"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Myanmar"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043C\u044C\u044F\u043D\u043C\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Myanmar"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E1E\u0E21\u0E48\u0E32"@th .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7F05\u7538"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Myanmar"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C38\u0C4D\u0C35\u0C47\u0C26\u0C28 \u0C2A\u0C30\u0C3F\u0C36\u0C4D\u0C30\u0C2E"@te .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0625\u062A\u062D\u0627\u062F \u0645\u064A\u0627\u0646\u0645\u0627\u0631"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0628\u0648\u0631\u0645\u0627 \u0627\u0644\u0625\u0634\u062A\u0631\u0627\u0643\u064A\u0629"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0628\u0648\u0631\u0645\u0627"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Barma"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Barmsk\u00FD svaz"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Socialistick\u00E1 republika Barmsk\u00FD svaz"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Sozialistische Republik Birma"@de .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Burma"@de .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Union Myanmar"@de .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Burma"@en .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Union of Myanmar"@en .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Socialist Republic of Burma"@en .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Rep\u00FAblica Socialista de la Uni\u00F3n Birmana"@es .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Uni\u00F3n del Myanmar"@es .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Birmania"@es .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062C\u0645\u0647\u0648\u0631\u064A \u0633\u0648\u0633\u064A\u0627\u0644\u064A\u0633\u062A \u0628\u0631\u0645\u0647"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0645\u062A\u062D\u062F\u0647 \u0645\u064A\u0627\u0646\u0645\u0627\u0631"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0628\u0631\u0645\u0647"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Birmanie"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Union du Myanmar"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "R\u00E9publique socialiste de Birmanie"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "\u092E\u094D\u092F\u093E\u0902\u092E\u093E\u0930 \u0938\u0902\u0927"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0935\u0930\u094D\u092E\u093E \u0915\u093E \u0938\u093E\u092E\u094D\u092F\u0935\u093E\u0926\u0940 \u0917\u0923\u0930\u093E\u091C\u094D\u092F"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "\u092C\u0930\u094D\u092E\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Burmai Uni\u00F3"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Burmai Szocialista K\u00F6zt\u00E1rsas\u00E1g"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Burma"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Unione del Myanmar"@it .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Birmania"@it .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Repubblica Socialista di Birmania"@it .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "\u30D3\u30EB\u30DE\u793E\u4F1A\u4E3B\u7FA9\u5171\u548C\u56FD"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "\u30D3\u30EB\u30DE"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "\uBBF8\uC580\uB9C8\uC5F0\uBC29"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "\uBC84\uB9C8\uC871"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Zwi\u0105zek Myanmar"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Birma"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Socjalistyczna Republika Birmy"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Uni\u00E3o de Myanmar"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Birm\u00E2nia"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Rep\u00FAblica Socialista da Birm\u00E2nia"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0441\u043E\u0446\u0438\u0430\u043B\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0440\u0435\u0441\u043F\u0443\u0431\u043B\u0438\u043A\u0430 \u0431\u0438\u0440\u043C\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0441\u043E\u044E\u0437 \u043C\u044C\u044F\u043D\u043C\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0431\u0438\u0440\u043C\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Barma"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Socialistick\u00E1 republika Barmsk\u00FD zv\u00E4z"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Barmsk\u00FD zv\u00E4z"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E2A\u0E32\u0E18\u0E32\u0E23\u0E13\u0E23\u0E31\u0E10\u0E1B\u0E23\u0E30\u0E0A\u0E32\u0E18\u0E34\u0E1B\u0E44\u0E15\u0E22\u0E1E\u0E21\u0E48\u0E32"@th .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E2A\u0E2B\u0E20\u0E32\u0E1E\u0E1E\u0E21\u0E48\u0E32"@th .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "\u7F05\u7538\u793E\u4F1A\u4E3B\u4E49\u5171\u548C\u56FD"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "\u7F05\u7538\u8054\u76DF"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Republic of the Union of Myanmar"@en .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Rep\u00FAblica de la Uni\u00F3n de Myanmar"@es .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "R\u00E9publique de l'Union du Myanmar"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Repubblica dell'Unione di Myanmar"@it .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0420\u0435\u0441\u043F\u0443\u0431\u043B\u0438\u043A\u0430 \u0421\u043E\u044E\u0437 \u041C\u044C\u044F\u043D\u043C\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "\u7F05\u7538\u8054\u90A6\u5171\u548C\u56FD"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u062A\u062D\u0627\u062F \u0645\u064A\u0627\u0646\u0645\u0627\u0631"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Burma Sosyalist Cumhuriyeti"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Myanmar Birli\u011Fi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Republik der Union von Myanmar"@de .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#altLabel> "Birmanya"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1155> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7260> .

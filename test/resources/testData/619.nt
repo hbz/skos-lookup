@@ -1,0 +1,64 @@
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#scopeNote> "Resultat einer Verletzung durch Feuer, Hitze, Veraetzung, Elektrizitaet; fuer das Symptom der Pflanzenkrankheit mit dem Erscheinungsbild einer Verbrennung <24896> benutzen"@de .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#scopeNote> "Lesions resulting from exposure to fire, heat, caustic, electricity; for the plant disease symptom having the appearance of burn use <24896>"@en .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#scopeNote> "Lesiones resultando de la exposici\u00F3n a fuego, calor, electricidad; para los s\u00EDntoma de enfermedad de plantas de quemadura use <24896>"@es .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u062C\u0631\u0627\u062D\u0627\u062A \u0646\u0627\u0634\u06CC \u0627\u0632 \u062F\u0631 \u0645\u0639\u0631\u0636 \u0622\u062A\u0634 \u0628\u0648\u062F\u0646\u060C \u06AF\u0631\u0645\u0627\u060C \u0633\u0648\u0632\u0634\u200C\u0622\u0648\u0631\u0647\u0627\u060C \u0628\u0631\u0642\u061B \u0628\u0631\u0627\u06CC \u0646\u0634\u0627\u0646\u0647 \u0628\u06CC\u0645\u0627\u0631\u06CC \u06AF\u06CC\u0627\u0647 \u06A9\u0647 \u0638\u0627\u0647\u0631\u06CC \u0634\u0628\u06CC\u0647 \u0628\u0647 \u0633\u0648\u062E\u062A\u06AF\u06CC \u062F\u0627\u0631\u062F \u0628\u0647 \u06A9\u0627\u0631 \u0628\u0631\u06CC\u062F \"\"\u0633\u0648\u062E\u062A\u06AF\u06CC (\u0628\u06CC\u0645\u0627\u0631\u06CC \u06AF\u06CC\u0627\u0647\u06CC)\"\""@fa .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#scopeNote> "L\u00E9sions de tissus occasionn\u00E9es par traitement thermique, \u00E9lectricit\u00E9, produit chimique, etc.; pour les sympt\u00F4mes de maladies des plantes ayant l'apparence de br\u00FBlure utiliser <24896>"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#scopeNote> "Tuz, hos\u00E9g, mar\u00F3 folyad\u00E9k, elektromos \u00E1ram okozta s\u00E9r\u00FCl\u00E9s; \u00C9g\u00E9snyomhoz hasonl\u00F3, n\u00F6v\u00E9nybetegs\u00E9g \u00E1ltal okozott t\u00FCnet: <24896>"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#scopeNote> "Lesioni dei tessuti per effetto del fuoco, del calore, dell'elettricit\u00E0, di prodotti caustici, ecc.; per i sintomi delle malattie delle piante evidenzianti scottature usare <24896>"@it .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0EAE\u0EAD\u0E8D\u0EC1\u0E9C\u0E97\u0EB5\u0EC8\u0EC0\u0E81\u0EB5\u0E94\u0E88\u0EB2\u0E81\u0E81\u0EB2\u0E99\u0E96\u0EB7\u0E81 \u0EC4\u0E9F, \u0E84\u0EA7\u0EB2\u0EA1\u0EAE\u0EC9\u0EAD\u0E99, \u0E81\u0EB2\u0E99\u0EAE\u0EB8\u0E81\u0EAA\u0EB5, \u0EC4\u0E9F\u0E9F\u0EC9\u0EB2. \u0EAA\u0EB3\u0EA5\u0EB1\u0E9A\u0EAD\u0EB2\u0E81\u0EB2\u0E99 \u0E82\u0EAD\u0E87\u0E9E\u0EB0\u0E8D\u0EB2\u0E94\u0EC3\u0E99\u0E9E\u0EB7\u0E94 \u0E97\u0EB5\u0EC8\u0EA1\u0EB5\u0EA5\u0EB1\u0E81\u0EAA\u0EB0\u0E99\u0EB0\u0E84\u0EB7\u0EAE\u0EAD\u0E8D\u0EC4\u0EDD\u0EC9 \u0EC3\u0EAB\u0EC9\u0EC3\u0E8A\u0EC9 <24896>"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#scopeNote> "Uszkodzenia spowodowane przez ogie\u0144, ciep\u0142o, elektryczno\u015B\u0107, itp.; do uszkodze\u0144 ro\u015Blin daj\u0105cy objawy podobne do oparze\u0144 u\u017Cywaj <24896>"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#scopeNote> "Les\u00F5es resultantes da exposi\u00E7\u00E3o ao fogo, calor, subst\u00E2ncias corrosivas, electricidade; para o sintoma de doen\u00E7a das plantas com apar\u00EAncia de queimadura usar <24896>"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0E23\u0E2D\u0E22\u0E41\u0E1C\u0E25\u0E17\u0E35\u0E48\u0E40\u0E01\u0E34\u0E14\u0E08\u0E32\u0E01\u0E44\u0E1F \u0E04\u0E27\u0E32\u0E21\u0E23\u0E49\u0E2D\u0E19 \u0E01\u0E32\u0E23\u0E01\u0E31\u0E14\u0E01\u0E23\u0E48\u0E2D\u0E19,\u0E44\u0E1F\u0E1F\u0E49\u0E32 \u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E2D\u0E32\u0E01\u0E32\u0E23\u0E44\u0E2B\u0E21\u0E49\u0E17\u0E35\u0E48\u0E40\u0E01\u0E34\u0E14\u0E08\u0E32\u0E01\u0E42\u0E23\u0E04\u0E1E\u0E37\u0E0A \u0E0B\u0E36\u0E48\u0E07\u0E40\u0E1B\u0E47\u0E19\u0E1C\u0E25\u0E21\u0E32\u0E08\u0E32\u0E01\u0E01\u0E32\u0E23\u0E15\u0E34\u0E14\u0E40\u0E0A\u0E37\u0E49\u0E2D\u0E43\u0E0A\u0E49 <24896>"@th .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#scopeNote> "Ate\u015Fe, \u0131s\u0131ya, yak\u0131c\u0131 maddelere, elektri\u011Fe maruz kalma sonucu olu\u015Fan lezyonlar; yan\u0131k g\u00F6r\u00FCn\u00FCm\u00FC ta\u015F\u0131yan bitki hastal\u0131\u011F\u0131 i\u00E7in <24896> kodlu terimi kullan\n"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4283> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Burns> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_39889> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299511501913> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299511501928> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299511501944> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299511501962> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299511501980> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299511502002> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299511502027> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299511502052> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299511502081> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299511502107> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299511502349> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299511502380> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299511502668> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299511502700> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299511502735> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299511502770> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299511502807> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299511502844> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299511502886> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1156_1321790126010> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1156_1328260208665> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://purl.org/dc/terms/created> "2012-02-03T17:10:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://purl.org/dc/terms/modified> "2013-08-27T20:13:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062D\u0631\u0648\u0642"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#prefLabel> "sp\u00E1leniny"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verbrennungen"@de .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#prefLabel> "burns"@en .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#prefLabel> "Quemaduras"@es .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0633\u0648\u062E\u062A\u06AF\u06CC\u200C\u0647\u0627"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#prefLabel> "Br\u00FBlure (l\u00E9sion)"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u091B\u093E\u0932\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00E9g\u00E9si seb"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ustioni"@it .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u706B\u50B7"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uD654\uC0C1"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E9A\u0EB2\u0E94\u0EC1\u0E9C\u0EC4\u0E9F\u0EC3\u0EDD\u0EC9"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oparzenie"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#prefLabel> "Queimadura"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043E\u0436\u043E\u0433\u0438"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#prefLabel> "pop\u00E1leniny"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E41\u0E1C\u0E25\u0E44\u0E2B\u0E21\u0E49"@th .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u70E7\u4F24"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#prefLabel> "yan\u0131k"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C21\u0C3F\u0C38\u0C4D\u0C1F\u0C4A\u0C15\u0C3E\u0C02\u0C2C\u0C3E\u0C30\u0C38\u0C4D \u0C15\u0C30\u0C4D\u0C32\u0C4D \u0C38\u0C4A\u0C28\u0C48"@te .
+<http://aims.fao.org/aos/agrovoc/c_1156> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4283> .

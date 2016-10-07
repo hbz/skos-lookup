@@ -1,0 +1,46 @@
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_940> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299511499875> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299511499892> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299511499913> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299511499932> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299511499952> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299511499975> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299511499998> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299511500026> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299511500065> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299511500108> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299511500139> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299511500175> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299511500225> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299511500304> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299511500366> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299511500417> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299511500472> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11789_1321792452598> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_11789_1328259204655> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://purl.org/dc/terms/created> "2012-02-03T16:53:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://purl.org/dc/terms/modified> "2013-08-27T20:12:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0161t\u00EDpnut\u00ED hmyzem"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2004/02/skos/core#prefLabel> "Insektenstich"@de .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2004/02/skos/core#prefLabel> "insect stings"@en .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2004/02/skos/core#prefLabel> "Picaduras de insectos"@es .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0646\u064A\u0634\u200C\u0632\u062F\u06AF\u064A\u200C\u0647\u0627\u064A \u062D\u0634\u0631\u0647"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2004/02/skos/core#prefLabel> "Piq\u00FBre d'insecte"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u0940\u091F \u0921\u0902\u0915 / \u0926\u0902\u0936"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2004/02/skos/core#prefLabel> "rovarcs\u00EDp\u00E9s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2004/02/skos/core#prefLabel> "Punture di insetti"@it .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6606\u866B\u523A\u50B7"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E95\u0EC8\u0EB8\u0EA1\u0E88\u0EB2\u0E81\u0EC1\u0EA1\u0E87\u0EC4\u0EA1\u0EC9\u0E81\u0EB1\u0E94"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u017B\u0105d\u0142o owada"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2004/02/skos/core#prefLabel> "Picada de insecto"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0443\u0436\u0430\u043B\u0435\u043D\u0438\u0435 \u043D\u0430\u0441\u0435\u043A\u043E\u043C\u044B\u043C\u0438"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2004/02/skos/core#prefLabel> "bodnutie hmyzom"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E41\u0E1C\u0E25\u0E08\u0E32\u0E01\u0E01\u0E32\u0E23\u0E16\u0E39\u0E01\u0E41\u0E21\u0E25\u0E07\u0E15\u0E48\u0E2D\u0E22"@th .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6606\u866B\u53EE\u4F24"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2004/02/skos/core#prefLabel> "b\u00F6cek sokmas\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C2A\u0C41\u0C30\u0C41\u0C17\u0C41 \u0C15\u0C3E\u0C1F\u0C4D\u0C32\u0C41"@te .
+<http://aims.fao.org/aos/agrovoc/c_11789> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_940> .

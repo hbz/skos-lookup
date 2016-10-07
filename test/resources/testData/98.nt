@@ -1,0 +1,47 @@
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_16505> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Cream_cheese> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://id.loc.gov/authorities/sh85033805#concept> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/24523> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299487463764> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1326800670497> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299487463796> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299487463814> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299487463833> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299487463853> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299487463875> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299487463899> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299487463924> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299487463952> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299487463983> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299487464016> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299487464050> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299487464084> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299487464119> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299487464156> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10155_1321792266047> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299487463780> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://purl.org/dc/terms/created> "2011-11-20T20:31:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://purl.org/dc/terms/modified> "2015-03-12T18:26:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#prefLabel> "smetanov\u00E9 s\u00FDry"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rahmk\u00E4se"@de .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#prefLabel> "cream cheese"@en .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u067E\u0646\u064A\u0631 \u062E\u0627\u0645\u0647\u200C\u0627\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092E\u0932\u093E\u0908 \u092A\u0928\u0940\u0930"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#prefLabel> "kr\u00E9msajt"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Formaggio alla crema"@it .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30AF\u30EA\u30FC\u30E0\u30C1\u30FC\u30BA"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uD06C\uB9BC\uCE58\uC988"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E84\u0EB5\u0EA1\u0EC0\u0E99\u0EB5\u0E8D"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ser \u015Bmietanowy"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Queijo cremoso"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0441\u043B\u0438\u0432\u043E\u0447\u043D\u044B\u0439 \u0441\u044B\u0440"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#prefLabel> "smotanov\u00FD syr"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E04\u0E23\u0E35\u0E21\u0E0A\u0E35\u0E2A"@th .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7A00\u5976\u6CB9\u5E72\u916A"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#prefLabel> "krem peynir"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#altLabel> "Rahmkaese"@de .
+<http://aims.fao.org/aos/agrovoc/c_10155> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_16505> .

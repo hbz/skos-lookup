@@ -1,0 +1,47 @@
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7826> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/34664> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299488404280> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1315387543578> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299488404320> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299488404341> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299488404360> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299488404381> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299488404404> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299488404427> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299488404453> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299488404681> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299488404711> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299488404743> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299488404777> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299488404826> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299488404867> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299488404905> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299488404946> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10472_1321792304403> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299488404298> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://purl.org/dc/terms/created> "2011-11-20T20:31:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://purl.org/dc/terms/modified> "2015-03-12T18:16:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2004/02/skos/core#prefLabel> "toxicita l\u00E9k\u016F"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arzneimitteltoxizit\u00E4t"@de .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2004/02/skos/core#prefLabel> "drug toxicity"@en .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2004/02/skos/core#prefLabel> "Toxicidad de los medicamentos"@es .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0633\u0645\u064A\u062A \u062F\u0627\u0631\u0648\u064A\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2004/02/skos/core#prefLabel> "Toxicit\u00E9 des m\u00E9dicaments"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0914\u0937\u0927\u093F \u0915\u093E \u0935\u093F\u0937\u0948\u0932\u093E\u092A\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2004/02/skos/core#prefLabel> "gy\u00F3gyszertoxicit\u00E1s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tossicit\u00E0 dei farmaci"@it .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u85AC\u7269\u6BD2\u6027"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC57D\uBB3C\uB3C5\uC131"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E84\u0EA7\u0EB2\u0EA1\u0EC0\u0E9B\u0EB1\u0E99\u0E9E\u0EB4\u0E94\u0E82\u0EAD\u0E87\u0EA2\u0EB2"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2004/02/skos/core#prefLabel> "Toksyczno\u015B\u0107 lek\u00F3w"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2004/02/skos/core#prefLabel> "Toxicidade de drogas"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2004/02/skos/core#prefLabel> "toxicita liekov"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E04\u0E27\u0E32\u0E21\u0E40\u0E1B\u0E47\u0E19\u0E1E\u0E34\u0E29\u0E02\u0E2D\u0E07\u0E22\u0E32"@th .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u836F\u7269\u6BD2\u6027"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2004/02/skos/core#prefLabel> "ila\u00E7 zehirlili\u011Fi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2004/02/skos/core#altLabel> "Arzneimitteltoxizitaet"@de .
+<http://aims.fao.org/aos/agrovoc/c_10472> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7826> .

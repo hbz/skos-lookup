@@ -1,0 +1,57 @@
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_6701> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://aims.fao.org/aos/agrontology#makeUseOf> <http://aims.fao.org/aos/agrovoc/c_544> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299513026948> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299513026964> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1327402068615> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299513027002> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299513027063> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299513027084> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299513027106> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299513027137> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299513027167> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299513027198> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299513027231> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299513027267> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299513027301> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299513027336> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299513027370> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299513027408> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299513027446> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299513027485> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299513027522> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11804_1321792454313> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_11804_1328259228611> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_4a5acba5> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299513026982> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11804_1321792454435> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://purl.org/dc/terms/created> "2012-02-03T16:53:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://purl.org/dc/terms/modified> "2015-09-29T23:18:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062A\u0646\u0645\u064A\u0629 \u0631\u064A\u0641\u064A\u0629 \u0645\u062A\u0643\u0627\u0645\u0644\u0629"@ar .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#prefLabel> "integrovan\u00FD rozvoj venkova"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#prefLabel> "Integrierte l\u00E4ndliche Entwicklung"@de .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#prefLabel> "integrated rural development"@en .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#prefLabel> "Desarrollo rural integrado"@es .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062A\u0648\u0633\u0639\u0647 \u06CC\u06A9\u067E\u0627\u0631\u0686\u0647 \u0631\u0648\u0633\u062A\u0627\u06CC\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#prefLabel> "D\u00E9veloppement rural int\u00E9gr\u00E9"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u090F\u0915\u0940\u0915\u0943\u0924  \u0917\u094D\u0930\u093E\u092E\u0940\u0923 \u0935\u093F\u0915\u093E\u0938"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#prefLabel> "integr\u00E1lt vid\u00E9kfejleszt\u00E9s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sviluppo rurale integrato"@it .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7DCF\u5408\u8FB2\u6751\u958B\u767A"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uB18D\uCD0C\uC885\uD569\uAC1C\uBC1C"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0E99\u0E9E\u0EB1\u0E94\u0E97\u0EB0\u0E99\u0EB2\u0E8A\u0EBB\u0E99\u0E99\u0EB0\u0E9A\u0EBB\u0E94\u0EC1\u0E9A\u0E9A\u0E9B\u0EB0\u0EAA\u0EBB\u0EA1\u0E9B\u0EB0\u0EAA\u0EB2\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zintegrowany rozw\u00F3j obszar\u00F3w wiejskich"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#prefLabel> "Desenvolvimento rural integrado"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043A\u043E\u043C\u043F\u043B\u0435\u043A\u0441\u043D\u043E\u0435 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0441\u0435\u043B\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#prefLabel> "integrovan\u00FD rozvoj vidieka"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E1E\u0E31\u0E12\u0E19\u0E32\u0E0A\u0E19\u0E1A\u0E17\u0E41\u0E1A\u0E1A\u0E1A\u0E39\u0E23\u0E13\u0E32\u0E01\u0E32\u0E23"@th .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u519C\u6751\u6574\u4F53\u53D1\u5C55"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#prefLabel> "b\u00FCt\u00FCnle\u015Ftirilmi\u015F k\u0131rsal kalk\u0131nma"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C38\u0C2E\u0C17\u0C4D\u0C30 \u0C17\u0C4D\u0C30\u0C3E\u0C2E\u0C40\u0C23\u0C3E\u0C2D\u0C3F\u0C35\u0C43\u0C26\u0C4D\u0C27\u0C3F"@te .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#prefLabel> "dezvoltare rural\u0103 integrat\u0103"@mo .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#altLabel> "Integrierte laendliche Entwicklung"@de .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#altLabel> "entegre k\u0131rsal kalk\u0131nma"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11804> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_6701> .

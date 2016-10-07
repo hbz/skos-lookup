@@ -1,0 +1,41 @@
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2004/02/skos/core#related> <http://aims.fao.org/aos/agrovoc/c_3668> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1375> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Gelding> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299518314484> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299518314506> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299518314526> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299518314545> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299518314564> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299518314617> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299518314641> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299518314666> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299518314695> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299518314730> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299518314759> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299518314790> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11112_1321792381985> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1329901137199> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1338992459422> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://purl.org/dc/terms/created> "2011-11-20T20:33:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://purl.org/dc/terms/modified> "2014-07-03T18:19:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2004/02/skos/core#prefLabel> "kastr\u00E1ti"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2004/02/skos/core#prefLabel> "gelding"@en .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u062E\u062A\u0647\u200C\u0643\u0631\u062F\u0646 (\u0627\u0633\u0628)"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0916\u0938\u094D\u0938\u0940 \u0918\u094B\u0921\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2004/02/skos/core#prefLabel> "her\u00E9l\u00E9s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2004/02/skos/core#prefLabel> "Castrone"@it .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u53BB\u52E2\u96C4\u99AC"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uAC70\uC138\uB9D0"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kastracja ogier\u00F3w"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0445\u043E\u043B\u043E\u0449\u0435\u043D\u0438\u0435"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2004/02/skos/core#prefLabel> "kastr\u00E1cia, kastr\u00E1t"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E15\u0E2D\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2004/02/skos/core#prefLabel> "i\u011Fdi\u015F etme"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wallach"@de .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2004/02/skos/core#altLabel> "Kastriertes Tier"@de .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2004/02/skos/core#related> <http://aims.fao.org/aos/agrovoc/c_3668> .
+<http://aims.fao.org/aos/agrovoc/c_11112> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1375> .

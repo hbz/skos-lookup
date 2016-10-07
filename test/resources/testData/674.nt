@@ -1,0 +1,49 @@
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5666> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Ilium> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299523735785> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299523736048> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299523736068> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299523736088> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299523736110> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299523736132> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299523736157> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299523736184> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299523736215> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299523736244> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299523736278> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299523736311> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299523736433> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299523736471> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299523736692> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299523736916> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299523736955> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299523736993> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11706_1321792441699> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_11706_1328259031300> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://purl.org/dc/terms/created> "2012-02-03T16:50:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://purl.org/dc/terms/modified> "2014-07-03T19:35:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#prefLabel> "kost bedern\u00ED"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ilium"@de .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#prefLabel> "ilium"@en .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ili\u00F3n"@es .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u0633\u062A\u062E\u0648\u0627\u0646 \u062A\u0647\u064A\u06AF\u0627\u0647"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ilium"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0907\u0932\u093F\u092F\u092E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#prefLabel> "ilium"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ileo (bacino)"@it .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8178\u9AA8"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC7A5\uACE8"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB0\u0E94\u0EB9\u0E81\u0E81\u0EB0\u0EC2\u0E9E\u0E81"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ko\u015B\u0107 biodrowa"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#prefLabel> "Il\u00EDaco"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043F\u043E\u0434\u0432\u0437\u0434\u043E\u0448\u043D\u0430\u044F \u043A\u043E\u0441\u0442\u044C"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedrov\u00E1 kos\u0165"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E23\u0E30\u0E14\u0E39\u0E01\u0E2A\u0E30\u0E42\u0E1E\u0E01"@th .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u9AC2\u9AA8"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#prefLabel> "ilium"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C35\u0C46\u0C21\u0C32\u0C4D\u0C2A\u0C41\u0C17\u0C3E \u0C09\u0C28\u0C4D\u0C28 \u0C24\u0C41\u0C02\u0C1F\u0C3F \u0C0E\u0C2E\u0C41\u0C15"@te .
+<http://aims.fao.org/aos/agrovoc/c_11706> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5666> .

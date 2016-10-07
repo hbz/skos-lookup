@@ -1,0 +1,166 @@
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#scopeNote> "Omezeno na dezinfekci budov a za\u00F8\u00EDzen\u00ED, pro vodu USE \u00DAPRAVA ODPADN\u00CD VODY, pro p\u00F9du USE STERILIZACE P\u00D9DY"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#scopeNote> "Von Materialien, Produkten, Gebaeuden, Ausstattung; fuer Wasser <34145> benutzen; fuer den Boden <25830> benutzen"@de .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#scopeNote> "Of materials, products, buildings and equipment; for water use <34145>; for soil use <25830>"@en .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#scopeNote> "De materiales, productos, edif\u00EDcios y equipo; para el agua use <34145>; para el suelo use <25830>"@es .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0645\u0631\u0628\u0648\u0637 \u0628\u0647 \u0645\u0648\u0627\u062F\u060C \u0645\u062D\u0635\u0648\u0644\u0627\u062A\u060C\u0633\u0627\u062E\u062A\u0645\u0627\u0646\u200C\u0647\u0627 \u0648 \u062A\u062C\u0647\u06CC\u0632\u0627\u062A\u061B \u0628\u0631\u0627\u06CC \u0622\u0628 \u0628\u0647 \u06A9\u0627\u0631 \u0628\u0631\u06CC\u062F \"\"\u067E\u0627\u06A9\u06CC\u0632\u0647\u200C\u0633\u0627\u0632\u06CC \u0622\u0628\"\"\u061B\u0628\u0631\u0627\u06CC \u062E\u0627\u06A9 \u0628\u0647 \u06A9\u0627\u0631 \u0628\u0631\u06CC\u062F \"\"\u06AF\u0646\u062F\u0632\u062F\u0627\u06CC\u06CC \u062E\u0627\u06A9\"\""@fa .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#scopeNote> "Des mat\u00E9riaux, produits, b\u00E2timents et au mat\u00E9riel; pour l'eau utiliser <34145>; pour le sol utiliser <25830>"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#scopeNote> "Anyagokra, term\u00E9kekre, \u00E9p\u00FCletekre \u00E9s eszk\u00F6z\u00F6kre vonatkoz\u00F3an; V\u00EDz eset\u00E9n: <34145>; Talaj eset\u00E9n: <25830>"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#scopeNote> "Ristretto alla disinfezione di materiali, prodotti, fabbricati e attrezzature; per l'acqua usare <34145>; per il terreno usare <25830>"@it .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0E82\u0EAD\u0E87\u0EA7\u0EB1\u0E94\u0EAA\u0EB0\u0E94\u0EB8, \u0E9C\u0EB0\u0EA5\u0EB4\u0E94\u0E9E\u0EB1\u0E99, \u0EAD\u0EB2\u0E84\u0EB2\u0E99 \u0EC1\u0EA5\u0EB0 \u0EAD\u0EB8\u0E9B\u0EB0\u0E81\u0EAD\u0E99; \u0EAA\u0EB3\u0EA5\u0EB1\u0E9A\u0E99\u0EC9\u0EB3 \u0EC3\u0E8A\u0EC9 <34145>; \u0EAA\u0EB3\u0EA5\u0EB1\u0E9A\u0E94\u0EB4\u0E99 \u0EC3\u0E8A\u0EC9 <25830>"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#scopeNote> "Surowc\u00F3w, produkt\u00F3w, budynk\u00F3w, urz\u0105dze\u0144; do wody u\u017Cywaj <34145>; do gleby u\u017Cywaj <25830>"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#scopeNote> "De materiais, produtos, edif\u00EDcios e equipamento; para \u00E1gua usar <34145>; para solo usar <25830>"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0E01\u0E32\u0E23\u0E06\u0E48\u0E32\u0E40\u0E0A\u0E37\u0E49\u0E2D\u0E42\u0E23\u0E04\u0E02\u0E2D\u0E07\u0E27\u0E31\u0E2A\u0E14\u0E38 \u0E1C\u0E25\u0E34\u0E15\u0E20\u0E31\u0E13\u0E11\u0E4C \u0E2D\u0E32\u0E2B\u0E32\u0E23 \u0E41\u0E25\u0E30\u0E2D\u0E38\u0E1B\u0E01\u0E23\u0E13\u0E4C, \u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E19\u0E49\u0E33\u0E43\u0E0A\u0E49 <34145>, \u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E14\u0E34\u0E19\u0E43\u0E0A\u0E49 <25830>"@th .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#scopeNote> "Malzeme, \u00FCr\u00FCn, bina ve ekipmanlar i\u00E7in kullan; su i\u00E7in  <34145> kodlu terimi; toprak i\u00E7in <25830> kodlu terimi kullan\n"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#related> <http://aims.fao.org/aos/agrovoc/c_1661> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#related> <http://aims.fao.org/aos/agrovoc/c_7402> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#broadMatch> <http://cat.aii.caas.cn/concept/c_58552> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_330834> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://aims.fao.org/aos/agrontology#makeUseOf> <http://aims.fao.org/aos/agrovoc/c_28433> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://aims.fao.org/aos/biotechglossary/c_4371> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/30567> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_49486> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4011511-2> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/95120> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://www.eionet.europa.eu/gemet/concept/2238> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/34020> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://aims.fao.org/aos/asfa/c_5300> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://aims.fao.org/aos/agrontology#hasObjectOfActivity> <http://aims.fao.org/aos/agrovoc/c_2331> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://aims.fao.org/aos/agrontology#usesProcess> <http://aims.fao.org/aos/agrovoc/c_26820> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299518455402> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299518455421> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299518455439> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299518455460> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299518455481> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299518455505> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299518455557> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299518455583> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299518455646> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299518455675> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299518456177> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299518456215> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299518456252> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299518456293> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299518456334> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299518456375> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299518456416> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299518456460> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299518456506> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10397_1321792297638> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_uk_1327331382670> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299518460710> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299518456646> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299518456703> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299518456760> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299518457250> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299518457314> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299518457465> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299518457524> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299518457588> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299518457654> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299518457722> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299518457791> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299518457862> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299518457935> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299518458583> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299518458661> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299518458738> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299518458817> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299518458899> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299518458986> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299518459074> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299518459161> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299518459254> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299518459350> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299518459445> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299518459542> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299518459641> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299518459744> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299518459848> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299518459955> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299518460064> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299518460172> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299518460280> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299518460481> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299518460592> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1318244513153> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1318244536929> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10397_1321792297808> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10397_1321792297973> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_32848_1321794219875> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_35728_1321794586011> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_te_35728_1328258668093> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl-a925ef02-93df-47e5-b236-be76423ece93> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://purl.org/dc/terms/created> "2012-02-03T16:44:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://purl.org/dc/terms/modified> "2015-01-26T20:37:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062A\u0637\u0647\u064A\u0631"@ar .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#prefLabel> "dezinfekce"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#prefLabel> "Desinfektion"@de .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#prefLabel> "disinfection"@en .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#prefLabel> "Desinfecci\u00F3n"@es .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u06AF\u0646\u062F\u0632\u062F\u0627\u06CC\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#prefLabel> "D\u00E9sinfection"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0935\u093F\u0938\u0902\u0915\u094D\u0930\u092E\u0923"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#prefLabel> "fert\u00F5tlen\u00EDt\u00E9s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#prefLabel> "Disinfezione"@it .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6D88\u6BD2"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC18C\uB3C5"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0E99\u0E82\u0EC9\u0EB2\u0EC0\u0E8A\u0EB7\u0EC9\u0EAD"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dezynfekcja"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#prefLabel> "Desinfec\u00E7\u00E3o"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0434\u0435\u0437\u0438\u043D\u0444\u0435\u043A\u0446\u0438\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#prefLabel> "dezinfekcia"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E06\u0E48\u0E32\u0E40\u0E0A\u0E37\u0E49\u0E2D"@th .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6D88\u6BD2"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#prefLabel> "dezenfeksiyon"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0434\u0435\u0437\u0438\u043D\u0444\u0456\u043A\u0443\u0432\u0430\u043D\u043D\u044F"@uk .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0639\u0641\u0648\u0646\u062A\u200C\u0632\u062F\u0627\u06CC\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0643\u0646\u062A\u0631\u0644 \u0628\u0627\u0643\u062A\u0631\u064A\u200C\u0647\u0627 (\u06AF\u0646\u062F\u0632\u062F\u0627\u064A\u064A)"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "\u091C\u0940\u0935\u093E\u0923\u0941 \u0928\u093F\u092F\u0902\u0924\u094D\u0930\u0923 (\u0905\u0938\u0902\u0915\u094D\u0930\u092E\u0923 )"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E01\u0E32\u0E23\u0E04\u0E27\u0E1A\u0E04\u0E38\u0E21\u0E41\u0E1A\u0E04\u0E17\u0E35\u0E40\u0E23\u0E35\u0E22 (\u0E01\u0E32\u0E23\u0E06\u0E48\u0E32\u0E40\u0E0A\u0E37\u0E49\u0E2D)"@th .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "ochrana p\u0159ed bakt\u00E9riemi (dezinfekce)"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E81\u0EB2\u0E99\u0E82\u0EC9\u0EB2\u0EC0\u0E8A\u0EB7\u0EC9\u0EAD\u0E9A\u0EB1\u0E81\u0EC0\u0E95\u0EA3\u0EB5"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "ochrana pred bakt\u00E9riami (dezinfekcia)"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "\u6740\u706D\u7EC6\u83CC"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "Controllo dei batteri (disinfezione)"@it .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "bakt\u00E9rium elleni v\u00E9dekez\u00E9s (fert\u00F5tlen\u00EDt\u00E9s)"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "Luta contra bact\u00E9rias (desinfec\u00E7\u00E3o)"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "Zwalczanie bakterii (dezynfekcja)"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "Lutte antibact\u00E9rie (d\u00E9sinfection)"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "bacteria control (disinfection)"@en .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0431\u043E\u0440\u044C\u0431\u0430 \u0441 \u0431\u0430\u043A\u0442\u0435\u0440\u0438\u044F\u043C\u0438 (\u0434\u0435\u0437\u0438\u043D\u0444\u0435\u043A\u0446\u0438\u044F)"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "Control de bacterias (desinfecci\u00F3n)"@es .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "\u7D30\u83CC\u9664\u53BB"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "Bakterienbekaempfung (desinfektion)"@de .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0643\u0646\u062A\u0631\u0644 \u0642\u0627\u0631\u0686 (\u06AF\u0646\u062F\u0632\u062F\u0627\u064A\u064A)"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0915\u0935\u0915 \u0928\u093F\u092F\u0902\u0924\u094D\u0930\u0923 (\u0905\u0938\u0902\u0915\u094D\u0930\u092E\u0923 )"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E01\u0E32\u0E23\u0E04\u0E27\u0E1A\u0E04\u0E38\u0E21\u0E40\u0E0A\u0E37\u0E49\u0E2D\u0E23\u0E32 (\u0E01\u0E32\u0E23\u0E06\u0E48\u0E32\u0E40\u0E0A\u0E37\u0E49\u0E2D)"@th .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "ochrana p\u0159ed houbami (dezinfekce)"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E81\u0EB2\u0E99\u0E82\u0EC9\u0EB2\u0EC0\u0E8A\u0EB7\u0EC9\u0EAD\u0EA5\u0EB2"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "ochrana pred hubami (dezinfekcia)"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "\u6740\u706D\u771F\u83CC"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "Controllo dei funghi (disinfezione)"@it .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "gomba elleni v\u00E9dekez\u00E9s (fert\u00F5z\u00E9s)"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "Luta contra os fungos (desinfec\u00E7\u00E3o)"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "Walka z grzybami (dezynfekcja)"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "Lutte antichampignon (d\u00E9sinfection)"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "fungus control (disinfection)"@en .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0431\u043E\u0440\u044C\u0431\u0430 \u0441 \u0433\u0440\u0438\u0431\u0430\u043C\u0438 (\u0434\u0435\u0437\u0438\u043D\u0444\u0435\u043A\u0446\u0438\u044F)"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "Control de hongos (desinfecci\u00F3n)"@es .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "\u83CC\u985E\u9632\u9664"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "Pilzbekaempfung (desinfektion)"@de .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "Bakterienbek\u00E4mpfung (desinfektion)"@de .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "Pilzbek\u00E4mpfung (desinfektion)"@de .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "mikropsuzla\u015Ft\u0131rma"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "dezenfekte etme"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "bakteri kontrol\u00FC (dezenfeksiyon)"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "fungus m\u00FCcadelesi (dezenfeksiyon)"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0C36\u0C3F\u0C32\u0C40\u0C02\u0C26\u0C4D\u0C30 \u0C28\u0C3F\u0C2F\u0C02\u0C24\u0C4D\u0C30\u0C23(\u0C38\u0C02\u0C15\u0C4D\u0C30\u0C2E\u0C23 \u0C28\u0C3F\u0C30\u0C4B\u0C27\u0C2E\u0C41)"@te .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0434\u0435\u0437\u0438\u043D\u0444\u0435\u043A\u0446\u0456\u044F"@uk .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#related> <http://aims.fao.org/aos/agrovoc/c_1661> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#related> <http://aims.fao.org/aos/agrovoc/c_7402> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#broadMatch> <http://cat.aii.caas.cn/concept/c_58552> .
+<http://aims.fao.org/aos/agrovoc/c_10397> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_330834> .

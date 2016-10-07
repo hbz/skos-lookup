@@ -1,0 +1,45 @@
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7306> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/22714> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299523747585> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299523747603> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299523747622> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299523747641> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299523747677> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299523747711> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299523747853> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299523747884> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299523747916> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299523747946> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299523747980> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299523748017> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299523748071> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299523748113> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299523748156> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299523748196> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299523748244> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11814_1321792457679> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://purl.org/dc/terms/created> "2011-11-20T20:34:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://purl.org/dc/terms/modified> "2014-07-03T19:35:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2004/02/skos/core#prefLabel> "meziobratlov\u00E9 plot\u00E9nky"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bandscheibe"@de .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2004/02/skos/core#prefLabel> "intervertebral disks"@en .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2004/02/skos/core#prefLabel> "Discos intervertebrales"@es .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062F\u064A\u0633\u0643\u200C\u0647\u0627\u064A \u0628\u064A\u0646\u200C\u0645\u0647\u0631\u0647\u200C\u0627\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0905\u0902\u0924\u0930\u093E\u092E\u0947\u0930\u0942\u0926\u0902\u0921\u0940\u092F \u0921\u093F\u0938\u094D\u0915"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2004/02/skos/core#prefLabel> "csigolyak\u00F6zi porckorong"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dischi intervertebrali"@it .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u690E\u9593\u677F"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uCD94\uAC04\uC6D0\uD310"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u200B\u0EC1\u0E9C\u0EC8\u0E99\u200B\u0EC0\u0E8A\u0EB7\u0EC8\u0EAD\u0EA1\u200B\u0E95\u0ECD\u0EC8\u200B\u0EA5\u0EB0\u200B\u0EAB\u0EC8\u0EA7\u0EB2\u0E87\u0E81\u0EB0\u0E94\u0EB9\u0E81\u200B\u0EAA\u0EB1\u0E99\u0EAB\u0EBC\u0EB1\u0E87"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dysk mi\u0119dzykr\u0119gowy"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2004/02/skos/core#prefLabel> "Discos vertebrais"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043C\u0435\u0436\u043F\u043E\u0437\u0432\u043E\u043D\u043E\u0447\u043D\u044B\u0435 \u0434\u0438\u0441\u043A\u0438"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2004/02/skos/core#prefLabel> "medzistavcov\u00E9 platni\u010Dky"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E2B\u0E21\u0E2D\u0E19\u0E23\u0E2D\u0E07\u0E01\u0E23\u0E30\u0E14\u0E39\u0E01\u0E2A\u0E31\u0E19\u0E2B\u0E25\u0E31\u0E07"@th .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u690E\u95F4\u76D8"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2004/02/skos/core#prefLabel> "intervertebral disk"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11814> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7306> .

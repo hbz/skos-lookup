@@ -1,0 +1,61 @@
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5495> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/17130> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_34921> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://eurovoc.europa.eu/722> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/18870> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://aims.fao.org/aos/agrontology#hasObjectOfActivity> <http://aims.fao.org/aos/agrovoc/c_1031> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299517574284> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299517574304> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299517574322> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299517574342> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299517574362> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299517574386> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299517574411> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299517574444> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299517574480> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299517574511> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299517574542> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299517574577> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299517574634> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299517574678> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299517574713> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299517574749> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299517574800> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299517574841> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299517574879> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1032_1321790054746> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1032_1328260129314> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ms_1331707669706> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ka_42d55183> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1328093973715> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://purl.org/dc/terms/created> "2012-02-03T17:08:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://purl.org/dc/terms/modified> "2014-07-03T18:01:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062A\u0639\u0628\u0626\u0629 \u0641\u064A \u0632\u062C\u0627\u062C\u0627\u062A"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#prefLabel> "pln\u011Bn\u00ED do l\u00E1hv\u00ED"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flaschenabfuellung"@de .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#prefLabel> "bottling"@en .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#prefLabel> "Embotellado"@es .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062F\u0631 \u0628\u0637\u0631\u06CC \u0631\u06CC\u062E\u062A\u0646"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#prefLabel> "Embouteillage"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092C\u094B\u0924\u0932 \u092D\u0930\u0928\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#prefLabel> "palackoz\u00E1s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#prefLabel> "Imbottigliamento"@it .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u74F6\u8A70\u3081\u64CD\u4F5C"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uBCD1\uC870\uB9BC"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0E99\u0E9A\u0EB1\u0E99\u0E88\u0EB8\u0EC1\u0E81\u0EC9\u0EA7"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#prefLabel> "Butelkowanie"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engarrafamento"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0440\u043E\u0437\u043B\u0438\u0432 \u0432 \u0431\u0443\u0442\u044B\u043B\u043A\u0438"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#prefLabel> "plnenie do flia\u0161"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E1A\u0E23\u0E23\u0E08\u0E38\u0E02\u0E27\u0E14"@th .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u74F6\u88C5"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u015Fi\u015Feleme"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C21\u0C3F\u0C2A\u0C4D\u0C32\u0C4A\u0C1F\u0C3E \u0C15\u0C4D\u0C38\u0C4A\u0C21\u0C3E\u0C28\u0C4D \u0C17\u0C4D\u0C30\u0C40\u0C28\u0C4D \u0C35\u0C42\u0C21\u0C48"@te .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pembotolan"@ms .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u10D1\u10DD\u10D7\u10DA\u10D4\u10D1\u10E8\u10D8 \u10E9\u10D0\u10DB\u10DD\u10E1\u10EE\u10DB\u10D0"@ka .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#altLabel> "Flaschenabf\u00FCllung"@de .
+<http://aims.fao.org/aos/agrovoc/c_1032> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5495> .

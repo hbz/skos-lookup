@@ -1,0 +1,60 @@
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC code 3 4 21 7"@de .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#scopeNote> "Kod IUPAC 3 4 21 7"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC code 3 4 21 7"@en .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#scopeNote> "Code IUPAC 3 4 21 7"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC code 3 4 21 7"@th .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#scopeNote> "Codice IUPAC 3 4 21 7"@it .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC k\u00F3d 3 4 21 7"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC kodu 3 4 21 7\n"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#scopeNote> "c\u00F3digo IUPAC 3 4 21 7"@es .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC \u0EA5\u0EB0\u0EAB\u0EB1\u0E94 3 4 21 7"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3729> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Fibrinolysin> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_48889> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299515863884> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299515863903> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299515863929> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299515864138> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299515864163> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299515864188> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299515864215> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299515864729> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299515864764> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299515864801> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299515864838> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299515864878> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299515864924> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299515864966> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299515865018> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299515865064> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299515865117> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299515865190> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10826_1321792347051> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_ac54997a> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://purl.org/dc/terms/created> "2011-11-20T20:32:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://purl.org/dc/terms/modified> "2016-01-15T19:05:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#prefLabel> "fibrinolyzin"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fibrinolysin"@de .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#prefLabel> "fibrinolysin"@en .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fibrinolisina"@es .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0641\u064A\u0628\u0631\u064A\u0646\u0648\u0644\u064A\u0632\u064A\u0646"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fibrinolysine"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092B\u0940\u092C\u094D\u0930\u0940\u0928\u094B\u0932\u0940\u0938\u093F\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#prefLabel> "fibrinolizin"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fibrinolisina"@it .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30D5\u30A3\u30D6\u30EA\u30CE\u30EA\u30B8\u30F3"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC12C\uC720\uC18C\uC6A9\uD574\uC18C"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EC4\u0E9F\u0E9A\u0EA3\u0EB4\u0EC2\u0E99\u0EC4\u0EA5\u0E8A\u0EB5\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fibrynolizyna"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fibrinolizina"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0444\u0438\u0431\u0440\u0438\u043D\u043E\u043B\u0438\u0437\u0438\u043D"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#prefLabel> "fibrinolyz\u00EDn"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E44\u0E1F\u0E1A\u0E23\u0E34\u0E42\u0E19\u0E44\u0E25\u0E0B\u0E34\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7EA4\u7EF4\u86CB\u767D\u6EB6\u9176"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#prefLabel> "fibrinolisin"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#prefLabel> "fibrinolizin\u0103"@mo .
+<http://aims.fao.org/aos/agrovoc/c_10826> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3729> .

@@ -1,0 +1,50 @@
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5431> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#relatedMatch> <http://cat.aii.caas.cn/concept/c_50067> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#relatedMatch> <http://cat.aii.caas.cn/concept/c_41858> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Ectromelia_virus> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/35820> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299492249520> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299492249544> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299492249578> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299492249612> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299492249648> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299492249692> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299492249735> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299492249780> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299492249828> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299492249887> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299492249934> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299492249991> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299492250062> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299492250119> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299492250192> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299492250269> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299492250336> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299492250419> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10535_1321792312666> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://purl.org/dc/terms/created> "2011-11-20T20:31:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://purl.org/dc/terms/modified> "2011-11-20T20:31:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#prefLabel> "virus ektromelie"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ectromeliavirus"@de .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ectromelia virus"@en .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virus ectromelia"@es .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0648\u064A\u0631\u0648\u0633 \u0622\u0628\u0644\u0647 \u0645\u0648\u0634"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virus ectromelia"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u090F\u0915\u094D\u091F\u094D\u0930\u094B\u092E\u0947\u0932\u093F\u0906 \u0935\u093F\u0937\u093E\u0923\u0941"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ectromelia v\u00EDrus"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virus dell'ectromelia"@it .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30A8\u30AF\u30C8\u30ED\u30E1\u30EA\u30A2\u30A6\u30A4\u30EB\u30B9"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC5D1\uD2B8\uB85C\uBA54\uB9AC\uC544\uBC14\uC774\uB7EC\uC2A4"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ectromelia virus"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wirus ospy mysiej"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#prefLabel> "V\u00EDrus da ectromelia"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0432\u0438\u0440\u0443\u0441 \u044D\u043A\u0442\u0440\u043E\u043C\u0435\u043B\u0438\u0438"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ectromelia virus"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ectromelia virus"@th .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5C0F\u9F20\u8131\u811A\u75C5\u75C5\u6BD2"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ectromelia vir\u00FCs\u00FC"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10535> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5431> .

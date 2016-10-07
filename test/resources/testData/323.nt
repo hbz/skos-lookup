@@ -1,0 +1,53 @@
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4779> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_7750> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/106340> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://aims.fao.org/aos/asfa/c_5680> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299524757691> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299524757877> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299524757900> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299524757920> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299524757941> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299524757966> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299524757991> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299524758020> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299524758139> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299524758181> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299524758226> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299524758279> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299524758332> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299524758517> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299524758578> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299524758654> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299524758692> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10702_1321792330994> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_10702_1328257958886> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1327997412098> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10702_1321792331114> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://purl.org/dc/terms/created> "2012-02-03T16:32:38Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://purl.org/dc/terms/modified> "2012-05-24T17:13:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#prefLabel> "odpa\u0159ovac\u00ED n\u00E1dr\u017Ee"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verdunstungsbehaelter"@de .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#prefLabel> "evaporation tanks"@en .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062A\u0627\u0646\u0643\u200C\u0647\u0627\u064A \u062A\u0628\u062E\u064A\u0631"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bac \u00E0 \u00E9vaporation"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0935\u093E\u0937\u094D\u092A\u0940 \u091F\u0948\u0902\u0915"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#prefLabel> "bep\u00E1rl\u00F3 tart\u00E1ly"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vasche di evaporazione"@it .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u84B8\u767A\u8A08"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC99D\uBC1C\uD0F1\uD06C"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EC1\u0E97\u0ECA\u0E87\u0EA5\u0EB0\u0EC0\u0EAB\u0EB5\u0E8D\u0EAD\u0EB2\u0E8D"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aparat wyparny"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tanque de evapora\u00E7\u00E3o"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0438\u0441\u043F\u0430\u0440\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0435 \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u044B"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#prefLabel> "odparovacie n\u00E1dr\u017Ee"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E16\u0E31\u0E07\u0E27\u0E31\u0E14\u0E01\u0E32\u0E23\u0E23\u0E30\u0E40\u0E2B\u0E22\u0E02\u0E2D\u0E07\u0E19\u0E49\u0E33"@th .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u84B8\u53D1\u7BB1"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#prefLabel> "Evaporasyon tank\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C2A\u0C30\u0C3F\u0C36\u0C4B\u0C37\u0C23 \u0C24\u0C4A\u0C1F\u0C4D\u0C1F\u0C46\u0C32\u0C41"@te .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#altLabel> "Verdunstungsbeh\u00E4lter"@de .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#altLabel> "Buharla\u015Ft\u0131rma tank\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10702> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4779> .

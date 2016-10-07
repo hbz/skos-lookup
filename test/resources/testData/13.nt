@@ -1,0 +1,16 @@
+<http://aims.fao.org/aos/agrovoc/c_0422bed9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_0422bed9> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_0422bed9> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_315> .
+<http://aims.fao.org/aos/agrovoc/c_0422bed9> <http://aims.fao.org/aos/agrontology#isPathogenOf> <http://aims.fao.org/aos/agrovoc/c_11456> .
+<http://aims.fao.org/aos/agrovoc/c_0422bed9> <http://aims.fao.org/aos/agrontology#isPathogenOf> <http://aims.fao.org/aos/agrovoc/c_4555> .
+<http://aims.fao.org/aos/agrovoc/c_0422bed9> <http://aims.fao.org/aos/agrontology#isPathogenOf> <http://aims.fao.org/aos/agrovoc/c_7221> .
+<http://aims.fao.org/aos/agrovoc/c_0422bed9> <http://aims.fao.org/aos/agrontology#isPathogenOf> <http://aims.fao.org/aos/agrovoc/c_731> .
+<http://aims.fao.org/aos/agrovoc/c_0422bed9> <http://aims.fao.org/aos/agrontology#isPathogenOf> <http://aims.fao.org/aos/agrovoc/c_7951> .
+<http://aims.fao.org/aos/agrovoc/c_0422bed9> <http://aims.fao.org/aos/agrontology#hasTaxonomicRank> <http://aims.fao.org/aos/agrovoc/c_331243> .
+<http://aims.fao.org/aos/agrovoc/c_0422bed9> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_c0e7de85> .
+<http://aims.fao.org/aos/agrovoc/c_0422bed9> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_0422bed9> <http://purl.org/dc/terms/created> "2015-05-09T13:39:13Z"^^<xsd:http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_0422bed9> <http://purl.org/dc/terms/modified> "2015-09-22T17:38:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_0422bed9> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_0422bed9> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alternaria infectoria"@en .
+<http://aims.fao.org/aos/agrovoc/c_0422bed9> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_315> .

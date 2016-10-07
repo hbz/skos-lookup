@@ -1,0 +1,91 @@
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC code 1 14 18 1"@de .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#scopeNote> "c\u00F3digo IUPAC 1 14 18 1"@es .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#scopeNote> "Code IUPAC 1 14 18 1"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#scopeNote> "Codice IUPAC 1 14 18 1 "@it .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#scopeNote> "Kod IUPAC 1 14 18 1"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#scopeNote> "k\u00F3d IUPAC 1 14 18 1"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC code 1 14 18 1"@en .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC k\u00F3d 1 14 18 1"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC code 1 14 18 1"@th .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC \u0EA5\u0EB0\u0EAB\u0EB1\u0E94 1 14 18 1"@lo .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC kodu 1 14 18 1\n"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5474> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_7987> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/35269> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299515943027> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299515943044> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299515943063> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299515943085> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299515943106> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299515943129> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299515943154> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299515943180> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299515943208> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299515943238> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299515943270> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299515943303> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299515943338> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299515943840> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299515943877> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299515943914> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12643_1321792547252> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299515944481> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299515945829> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299515945512> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299515945667> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299515944228> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299515945010> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299515944357> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299515944760> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299515944685> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299515945740> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299515944842> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299515944926> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299515945578> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299515944545> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299515944408> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299515944621> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12643_1321792547389> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_15061_1321792821506> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://purl.org/dc/terms/created> "2011-11-20T20:40:21Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://purl.org/dc/terms/modified> "2013-08-27T21:13:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#prefLabel> "monofenolmonooxid\u00E1za"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#prefLabel> "Monophenolmonooxygenase"@de .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#prefLabel> "monophenol monooxygenase"@en .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#prefLabel> "Monofenol monoxigenasa"@es .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0645\u0648\u0646\u0648\u0641\u0646\u0648\u0644 \u0645\u0648\u0646\u0648\u0627\u0643\u0633\u064A\u200C\u200C\u0698\u0646\u0627\u0632"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#prefLabel> "Monoph\u00E9nol monooxyg\u00E9nase"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092E\u094B\u0928\u094B\u092B\u093F\u0932\u094B\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#prefLabel> "monofenol-oxigen\u00E1z"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#prefLabel> "Monofenolo monossigenasi"@it .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30E2\u30CE\u30D5\u30A7\u30CE\u30FC\u30EB\u30E2\u30CE\u30AA\u30AD\u30B7\u30B2\u30CA\u30FC\u30BC"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#prefLabel> "Monooksydaza (jedno)fenolowa"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#prefLabel> "Monooxigenase de monofenol"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043C\u043E\u043D\u043E\u0444\u0435\u043D\u043E\u043B\u043C\u043E\u043D\u043E\u043E\u043A\u0441\u0438\u0433\u0435\u043D\u0430\u0437\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#prefLabel> "monofenolmonooxyd\u00E1za"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E42\u0E21\u0E42\u0E19\u0E1F\u0E35\u0E19\u0E2D\u0E25\u0E42\u0E21\u0E42\u0E19\u0E2D\u0E2D\u0E01\u0E0B\u0E34\u0E08\u0E35\u0E40\u0E19\u0E2A"@th .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5355\u915A\u5355\u6C27\u9176"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#prefLabel> "monofenol monooksijenaz"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#altLabel> "tyrozin\u00E1zy"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#altLabel> "Tyrosinase"@de .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#altLabel> "tyrosinase"@en .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#altLabel> "Tiroxinazas"@es .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062A\u064A\u0631\u0648\u0632\u064A\u0646\u0627\u0632\u0647\u0627"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#altLabel> "Tyrosinase"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#altLabel> "\u091F\u093E\u0907\u0930\u094B\u0938\u093E\u0907\u0928\u0947\u0938\u0938\u094D"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#altLabel> "tirozin\u00E1z"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#altLabel> "Tirosinasi"@it .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#altLabel> "\u30C1\u30ED\u30B7\u30CA\u30FC\u30BC"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#altLabel> "Tyrozynaza"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#altLabel> "Tirosinase"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0442\u0438\u0440\u043E\u0437\u0438\u043D\u0430\u0437\u044B"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#altLabel> "tyrozin\u00E1zy"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E44\u0E17\u0E42\u0E23\u0E0B\u0E34\u0E40\u0E19\u0E2A"@th .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#altLabel> "\u916A\u6C28\u9178\u9176"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#altLabel> "monofenol monooksigenaz"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#altLabel> "tirozinaz"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12643> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5474> .

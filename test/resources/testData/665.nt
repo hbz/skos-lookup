@@ -1,0 +1,59 @@
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_967> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Hypotension> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_8833> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/46757> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299510012957> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299510012972> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299510012990> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299510013445> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299510013470> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299510013492> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299510013514> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299510013539> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299510013563> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299510013591> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299510013620> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299510013650> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299510013683> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299510013718> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299510013755> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299510013795> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299510013833> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299510013873> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11690_1321792439223> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_11690_1328259016869> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_7973e757> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11690_1321792439344> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_9ca513f3> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_3ee45441> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://purl.org/dc/terms/created> "2012-02-03T16:50:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://purl.org/dc/terms/modified> "2015-08-18T21:47:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#prefLabel> "hypotenze"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hypotonie"@de .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#prefLabel> "hypotension"@en .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hipotensi\u00F3n arterial"@es .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0643\u0645\u200C\u0641\u0634\u0627\u0631\u064A \u062E\u0648\u0646"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hypotension"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0905\u0932\u094D\u092A \u0924\u0928\u093E\u0935"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#prefLabel> "hipotenzi\u00F3"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ipotensione"@it .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4F4E\u8840\u5727\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC800\uD608\uC555\uC99D"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E84\u0EA7\u0EB2\u0EA1\u0E94\u0EB1\u0E99\u0EC0\u0EA5\u0EB7\u0EAD\u0E94\u0E95\u0EC8\u0EB3\u0E81\u0EA7\u0EC8\u0EB2\u0E9B\u0EBB\u0E81\u0E81\u0EB0\u0E95\u0EB4"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#prefLabel> "Niedoci\u015Bnienie"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hipotens\u00E3o"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0433\u0438\u043F\u043E\u0442\u043E\u043D\u0438\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#prefLabel> "hypotenzia"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E20\u0E32\u0E27\u0E30\u0E04\u0E27\u0E32\u0E21\u0E14\u0E31\u0E19\u0E42\u0E25\u0E2B\u0E34\u0E15\u0E15\u0E48\u0E33\u0E01\u0E27\u0E48\u0E32\u0E1B\u0E01\u0E15\u0E34"@th .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4F4E\u8840\u538B"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#prefLabel> "d\u00FC\u015F\u00FCk tansiyon"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C05\u0C32\u0C4D\u0C2A \u0C24\u0C28\u0C4D\u0C2F\u0C24"@te .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#prefLabel> "hipotensiune"@mo .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#altLabel> "tansiyon d\u00FC\u015F\u00FCkl\u00FC\u011F\u00FC"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#altLabel> "hipotensiune arterial\u0103"@mo .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#altLabel> "hipotonie"@mo .
+<http://aims.fao.org/aos/agrovoc/c_11690> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_967> .

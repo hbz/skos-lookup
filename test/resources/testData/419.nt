@@ -1,0 +1,48 @@
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4783> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_39156> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_39157> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299516762486> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299516762507> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299516762526> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299516762548> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299516762572> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299516762640> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299516762668> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299516762695> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299516762724> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299516762753> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299516762785> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299516762857> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299516762892> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299516762929> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299516762967> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299516763042> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299516763082> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10982_1321792366226> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_10982_1328258561392> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://purl.org/dc/terms/created> "2012-02-03T16:42:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://purl.org/dc/terms/modified> "2013-08-27T21:06:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#prefLabel> "lesnick\u00E1 meteorologie"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forstmeteorologie"@de .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#prefLabel> "forest meteorology"@en .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meteorolog\u00EDa forestal"@es .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0647\u0648\u0627\u0634\u0646\u0627\u0633\u064A \u062C\u0646\u06AF\u0644\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0935\u0928 \u091C\u0932\u0935\u093E\u092F\u0941 \u0936\u093E\u0938\u094D\u0924\u094D\u0930"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#prefLabel> "erd\u00E9szeti meteorol\u00F3gia"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meteorologia forestale"@it .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u68EE\u6797\u6C17\u8C61"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC0B0\uB9BC\uAE30\uC0C1\uD559"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E9B\u0EC8\u0EB2\u0EC4\u0EA1\u0EC9\u0EAD\u0EB8\u0E95\u0EB8\u0EA7\u0EB4\u0E97\u0EB0\u0E8D\u0EB2"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meteorologia le\u015Bna"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meteorologia florestal"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043B\u0435\u0441\u043D\u0430\u044F \u043C\u0435\u0442\u0435\u043E\u0440\u043E\u043B\u043E\u0433\u0438\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#prefLabel> "lesn\u00EDcka meteorol\u00F3gia"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E27\u0E19\u0E2D\u0E38\u0E15\u0E38\u0E19\u0E34\u0E22\u0E21\u0E27\u0E34\u0E17\u0E22\u0E32"@th .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u68EE\u6797\u6C14\u8C61\u5B66"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#prefLabel> "orman meteorolojisi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C05\u0C1F\u0C35\u0C40 \u0C35\u0C3E\u0C24\u0C3E\u0C35\u0C30\u0C23 \u0C36\u0C3E\u0C38\u0C4D\u0C24\u0C4D\u0C30\u0C02"@te .
+<http://aims.fao.org/aos/agrovoc/c_10982> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4783> .

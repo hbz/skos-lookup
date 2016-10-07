@@ -1,0 +1,57 @@
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#scopeNote> "Pro cysty na vaje\u00E8n\u00EDc\u00EDch USE VAJE\u00C8N\u00CDKOV\u00C9 CYSTY"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_8100> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Cystitis> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/41210> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_34068> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/17888> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299511940676> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299511940699> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299511940716> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299511940736> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299511940762> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299511940786> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299511940811> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299511940836> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299511940864> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299511940893> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299511940937> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299511940973> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299511941014> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299511941054> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299511941103> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299511941148> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299511941198> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299511941253> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299511941309> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10254_1321792277711> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_2ad07616> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299511941693> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://purl.org/dc/terms/created> "2011-11-20T20:31:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://purl.org/dc/terms/modified> "2015-10-29T22:22:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0625\u0644\u062A\u0647\u0627\u0628 \u0627\u0644\u0645\u062B\u0627\u0646\u0629"@ar .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#prefLabel> "cystitida"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cystitis"@de .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#prefLabel> "cystitis"@en .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cistitis"@es .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u0644\u062A\u0647\u0627\u0628 \u0645\u062B\u0627\u0646\u0647"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cystite"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0938\u093F\u0938\u094D\u091F\u093E\u0908\u091F\u093F\u0938"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#prefLabel> "cisztitisz"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cistite"@it .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8180\u80F1\u708E"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uBC29\uAD11\uC5FC"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EC2\u0EA5\u0E81\u0E9E\u0EBB\u0E81\u0E87\u0EC8\u0EBD\u0EA7\u0EAD\u0EB1\u0E81\u0EC0\u0EAA\u0E9A"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zapalenie p\u0119cherza moczowego"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cistite"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0446\u0438\u0441\u0442\u0438\u0442"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#prefLabel> "cystit\u00EDda"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E42\u0E23\u0E04\u0E01\u0E23\u0E30\u0E40\u0E1E\u0E32\u0E30\u0E1B\u0E31\u0E2A\u0E2A\u0E32\u0E27\u0E30\u0E2D\u0E31\u0E01\u0E40\u0E2A\u0E1A"@th .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8180\u80F1\u708E"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#prefLabel> "sistit hastal\u0131\u011F\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#prefLabel> "cistit\u0103"@mo .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0633\u06CC\u0633\u062A\u06CC\u062A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10254> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_8100> .

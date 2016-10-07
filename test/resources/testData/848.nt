@@ -1,0 +1,56 @@
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5812> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://aims.fao.org/aos/agrontology#influences> <http://aims.fao.org/aos/agrovoc/c_6527> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Calvin_cycle> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_24752> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/17285> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299511230919> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299511230939> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299511230959> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299511230981> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299511231004> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299511231030> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299511231058> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299511231096> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299511231126> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299511231318> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299511231354> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299511231449> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299511231503> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299511231542> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299511231581> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299511231625> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299511231692> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299511231739> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299511231783> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1220_1321790161028> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1220_1328260249591> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_abe4d0d2> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://purl.org/dc/terms/created> "2012-02-03T17:10:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://purl.org/dc/terms/modified> "2015-08-18T21:46:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062F\u0648\u0631\u0629 \u0643\u0644\u0641\u0646"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calvin\u016Fv cyklus"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calvinzyklus"@de .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#prefLabel> "calvin cycle"@en .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ciclo de Calvin"@es .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0686\u0631\u062E\u0647 \u06A9\u0644\u0648\u06CC\u0646"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cycle de Calvin"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u0948\u0932\u094D\u0935\u093F\u0928 \u091A\u0915\u094D\u0930"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calvin-ciklus"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ciclo di Calvin"@it .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30AB\u30EB\u30D3\u30F3\u56DE\u8DEF"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uCE7C\uBE48\uD68C\uB85C"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EA7\u0EBB\u0E87\u0E88\u0EAD\u0E99\u0EC0\u0E81\u0EA5\u0EA7\u0EB4\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cykl Kelvina"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ciclo de Calvin"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0446\u0438\u043A\u043B \u043A\u0430\u043B\u044C\u0432\u0438\u043D\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calvinov cyklus"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E27\u0E31\u0E0F\u0E08\u0E31\u0E01\u0E23\u0E40\u0E04\u0E25\u0E27\u0E34\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5361\u5C14\u6587\u6C0F\u5FAA\u73AF"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calvin d\u00F6ng\u00FCs\u00FC"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C05\u0C21\u0C35\u0C3F \u0C17\u0C41\u0C32\u0C3E\u0C2C\u0C3F"@te .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#prefLabel> "ciclu Calvin"@mo .
+<http://aims.fao.org/aos/agrovoc/c_1220> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5812> .

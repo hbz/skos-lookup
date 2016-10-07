@@ -1,0 +1,47 @@
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_37637> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_29563> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_36397> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://aims.fao.org/aos/agrontology#causes> <http://aims.fao.org/aos/agrovoc/c_4599> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299492178432> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299492178448> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299492178466> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299492178498> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299492178518> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299492178539> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299492178563> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299492178590> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299492178619> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299492178667> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299492178709> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299492178750> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299492178803> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299492178842> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299492178889> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299492178937> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299492178993> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12394_1321792522273> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://purl.org/dc/terms/created> "2011-11-20T20:35:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://purl.org/dc/terms/modified> "2013-08-27T19:48:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2004/02/skos/core#prefLabel> "virus Markovy choroby"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marek's disease virus"@de .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marek's disease virus"@en .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virus enfermedad de marek"@es .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0648\u06CC\u0631\u0648\u0633 \u0628\u06CC\u0645\u0627\u0631\u06CC \u0645\u0627\u0631\u06A9"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virus maladie de marek"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092E\u0930\u094D\u0915 \u092C\u093F\u092E\u093E\u0930\u0940 \u0935\u093F\u0937\u093E\u0923\u0941"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marek-f\u00E9le betegs\u00E9g v\u00EDrusa"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virus della malattia di Marek"@it .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30DE\u30EC\u30C3\u30AF\u75C5\u30A6\u30A4\u30EB\u30B9"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marek's disease virus"@lo .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wirus choroby Mareka"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2004/02/skos/core#prefLabel> "V\u00EDrus da doenca de Marek"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0432\u0438\u0440\u0443\u0441 \u0431\u043E\u043B\u0435\u0437\u043D\u0438 \u043C\u0430\u0440\u0435\u043A\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2004/02/skos/core#prefLabel> "v\u00EDrus Markovej choroby"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marek's disease virus"@th .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u9A6C\u7ACB\u514B\u6C0F\u75C5\u75C5\u6BD2"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marek hastal\u0131\u011F\u0131 vir\u00FCs\u00FC"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12394> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_37637> .

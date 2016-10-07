@@ -1,0 +1,51 @@
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_868> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_45126> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299510922521> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299510922537> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299510922554> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299510922573> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299510922723> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299510922747> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299510922773> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299510922843> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299510922875> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299510922910> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299510922947> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299510922994> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299510923037> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299510923080> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299510923118> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299510923155> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299510923194> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299510923235> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10055_1321792252141> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_dccfe72f> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10055_1321792252262> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://purl.org/dc/terms/created> "2011-11-20T20:30:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://purl.org/dc/terms/modified> "2015-10-29T22:24:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#prefLabel> "podm\u00EDn\u011Bn\u00E9 reflexy"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bedingter Reflex"@de .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#prefLabel> "conditioned reflexes"@en .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reflejos condicionados"@es .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0628\u0627\u0632\u062A\u0627\u0628\u200C\u0647\u0627\u064A \u0634\u0631\u0637\u064A\u200C\u0634\u062F\u0647"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#prefLabel> "R\u00E9flexe conditionn\u00E9"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0905\u0928\u0941\u0915\u0942\u0932\u093F\u0924 \u092A\u094D\u0930\u0924\u093F\u0935\u0930\u094D\u0924"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#prefLabel> "felt\u00E9teles reflex"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#prefLabel> "Riflessi condizionati"@it .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6761\u4EF6\u53CD\u5C04"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC870\uAC74\uBC18\uC0AC"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0E99\u0EAA\u0EB0\u0E97\u0EC9\u0EAD\u0E99\u0E81\u0EB1\u0E9A\u0EA2\u0EC8\u0EB2\u0E87\u0EA1\u0EB5\u0EC0\u0E87\u0EC8\u0EB7\u0EAD\u0E99\u0EC4\u0E82"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#prefLabel> "Odruch warunkowy"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reflexo condicionado"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0443\u0441\u043B\u043E\u0432\u043D\u044B\u0435 \u0440\u0435\u0444\u043B\u0435\u043A\u0441\u044B"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#prefLabel> "podmienen\u00E9 reflexy"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E15\u0E2D\u0E1A\u0E2A\u0E19\u0E2D\u0E07\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E21\u0E35\u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\u0E02"@th .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6761\u4EF6\u53CD\u5C04"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u015Fartl\u0131 refleks"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#prefLabel> "reflexe condi\u0163ionate"@mo .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#altLabel> "ko\u015Fullu refleks"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10055> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_868> .

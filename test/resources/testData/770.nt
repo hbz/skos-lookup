@@ -1,0 +1,46 @@
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_6160> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Kindergarten> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.gesis.org/thesoz/concept/10041878> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299517257456> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299517257472> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299517257489> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299517257755> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299517257783> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299517257807> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299517257913> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299517257941> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299517257970> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299517258000> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299517258031> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299517258063> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299517258112> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299517258147> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299517258183> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299517258233> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11978_1321792477183> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11978_1321792477305> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://purl.org/dc/terms/created> "2011-11-20T20:34:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://purl.org/dc/terms/modified> "2014-07-03T19:09:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2004/02/skos/core#prefLabel> "mate\u0159sk\u00E1 \u0161kola"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kindergarten"@de .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2004/02/skos/core#prefLabel> "kindergarten"@en .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0643\u0648\u062F\u0643\u0633\u062A\u0627\u0646"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u0940\u0902\u0921\u0930\u0917\u093E\u0930\u094D\u091F\u0947\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00F3voda"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2004/02/skos/core#prefLabel> "Asili infantili"@it .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5E7C\u7A1A\u5712"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC720\uCE58\uC6D0"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EC2\u0EAE\u0E87\u0EAE\u0EBD\u0E99\u0EAD\u0EB0\u0E99\u0EB8\u0E9A\u0EB2\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2004/02/skos/core#prefLabel> "Przedszkole"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jardim de inf\u00E2ncia"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0434\u0435\u0442\u0441\u043A\u0438\u0439 \u0441\u0430\u0434"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2004/02/skos/core#prefLabel> "matersk\u00E1 \u0161kola"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E28\u0E36\u0E01\u0E29\u0E32\u0E23\u0E30\u0E14\u0E31\u0E1A\u0E2D\u0E19\u0E38\u0E1A\u0E32\u0E25"@th .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5E7C\u513F\u56ED"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2004/02/skos/core#prefLabel> "anaokulu"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2004/02/skos/core#altLabel> "anas\u0131n\u0131f\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11978> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_6160> .

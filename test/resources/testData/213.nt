@@ -1,0 +1,62 @@
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#definition> <http://aims.fao.org/aos/agrovoc/xDef_1328253043617> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1971> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_11250> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_27368> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4286941-9> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://id.loc.gov/authorities/sh85039176#concept> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/30184> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299525112786> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299525112834> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299525112854> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299525112879> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299525112905> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299525112931> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299525113057> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299525113087> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299525113117> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299525113149> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299525113183> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299525113219> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299525113264> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299525113456> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299525113488> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299525113522> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299525113557> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299525113627> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299525113678> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10441_1321792300442> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_d19a6c04> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299525114376> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299525113949> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10441_1321792300568> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://purl.org/dc/terms/created> "2011-11-20T20:31:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://purl.org/dc/terms/modified> "2016-07-11T20:35:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0632\u0631\u0627\u0639\u0629 \u062B\u0646\u0627\u0626\u064A\u0629 \u0627\u0644\u0645\u062D\u0635\u0648\u0644"@ar .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#prefLabel> "dvouskliz\u0148ov\u00E9 p\u011Bstov\u00E1n\u00ED"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zweimaliger Anbau"@de .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#prefLabel> "double cropping"@en .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cultivo doble"@es .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u06A9\u0634\u062A \u062F\u0648 \u0645\u062D\u0635\u0648\u0644\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#prefLabel> "Culture double"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0926\u094B\u0939\u0930\u0940 \u092B\u0938\u0932 \u0932\u0947\u0928\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#prefLabel> "kett\u0151s termeszt\u00E9s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coltivazione doppia"@it .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4E8C\u671F\u4F5C"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC774\uAE30\uC791"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0E99\u0E9B\u0EB9\u0E81\u0E9E\u0EB7\u0E94\u0E97\u0EB1\u0E99\u0E8D\u0EB2\u0EAB\u0EB2\u0E99\u0EAA\u0EAD\u0E87\u0EA5\u0EB0\u0E94\u0EB9"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zbi\u00F3r podw\u00F3jny"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cultivo duplo"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0434\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u043E\u0435 \u0432\u043E\u0437\u0434\u0435\u043B\u044B\u0432\u0430\u043D\u0438\u0435"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#prefLabel> "dvojkult\u00FAra"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E1B\u0E25\u0E39\u0E01\u0E1E\u0E37\u0E0A\u0E2A\u0E2D\u0E07\u0E0A\u0E19\u0E34\u0E14\u0E1A\u0E19\u0E1E\u0E37\u0E49\u0E19\u0E17\u0E35\u0E48\u0E40\u0E14\u0E35\u0E22\u0E27\u0E01\u0E31\u0E19\u0E43\u0E19\u0E2B\u0E19\u0E36\u0E48\u0E07\u0E1B\u0E35"@th .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u53CC\u5B63\u683D\u57F9"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#prefLabel> "ikili \u00FCr\u00FCn yeti\u015Ftiricili\u011Fi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#prefLabel> "cultur\u0103 dubl\u0103"@mo .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#altLabel> "double cropping system"@en .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0926\u094B\u0939\u0930\u0940 \u0938\u0938\u094D\u092F \u092A\u094D\u0930\u0923\u093E\u0932\u0940"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#altLabel> "ikinci \u00FCr\u00FCn yeti\u015Ftiricili\u011Fi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10441> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1971> .

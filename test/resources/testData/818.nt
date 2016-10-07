@@ -1,0 +1,43 @@
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2855> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://aims.fao.org/aos/agrontology#hasObjectOfActivity> <http://aims.fao.org/aos/agrovoc/c_26776> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299517716926> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299517716945> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299517716962> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299517716980> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299517716999> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299517717023> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299517717047> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299517717071> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299517717098> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299517717145> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299517717176> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299517717207> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299517717291> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299517717327> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299517717364> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl-f95a1136-fb9a-4125-89d3-63a03d6431cb> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12123_1321792494124> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://purl.org/dc/terms/created> "2011-11-20T20:34:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://purl.org/dc/terms/modified> "2014-07-03T18:10:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2004/02/skos/core#prefLabel> "kynut\u00ED"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aufgehen von Teig"@de .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2004/02/skos/core#prefLabel> "leavening of dough"@en .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0648\u0631\u0622\u0648\u0631\u06CC \u062E\u0645\u064A\u0631"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lev\u00E9e (panification)"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0938\u0928\u093E \u0906\u091F\u093E \u0915\u093E \u0916\u092E\u0940\u0930 \u0909\u0920\u093E\u0928\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2004/02/skos/core#prefLabel> "t\u00E9szta keleszt\u00E9se"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lievitazione dell'impasto"@it .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30D1\u30F3\u751F\u5730\u306B\u52A0\u3048\u308B\u9175\u6BCD"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EC1\u0E9B\u0EC9\u0E87\u0EC2\u0E94"@lo .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zaczynianie (zakwasem dro\u017Cd\u017Cowym) ciasta"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leveda\u00E7\u00E3o (panifica\u00E7\u00E3o)"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2004/02/skos/core#prefLabel> "kysnutie cesta"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E1F\u0E39\u0E02\u0E2D\u0E07\u0E41\u0E1B\u0E49\u0E07\u0E42\u0E14"@th .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u9762\u56E2\u53D1\u9175"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2004/02/skos/core#prefLabel> "hamurun mayalanmas\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2004/02/skos/core#altLabel> "hamurun kabarmas\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12123> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2855> .

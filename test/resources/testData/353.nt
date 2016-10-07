@@ -1,0 +1,56 @@
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5606> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_30136> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_30166> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_30150> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_30155> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_30143> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_30137> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_30167> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/39764> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299492210117> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299492210134> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299492210154> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299492210173> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299492210566> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299492210593> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299492210634> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299492210662> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299492210693> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299492210727> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299492210762> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299492210813> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299492210852> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299492210892> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299492210935> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299492210993> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299492211041> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299492211089> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299492211154> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10781_1321792342358> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://purl.org/dc/terms/created> "2011-11-20T20:32:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://purl.org/dc/terms/modified> "2013-08-27T19:47:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0641\u064A\u0631\u0648\u0633 \u0642\u0644\u0629 \u0627\u0644\u0628\u064A\u0636 \u0627\u0644\u0634\u0627\u0645\u0644 \u0644\u0644\u0642\u0637\u0637"@ar .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#prefLabel> "virus panleukopenie ko\u010Dek"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#prefLabel> "Felines panleukopenievirus"@de .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feline panleukopenia virus"@en .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virus panleucopenia felina"@es .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0648\u06CC\u0631\u0648\u0633 \u067E\u0627\u0646\u200C\u0644\u0648\u06A9\u0648\u067E\u0646\u06CC \u06AF\u0631\u0628\u0647\u200C\u0627\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virus panleucop\u00E9nie f\u00E9line"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092B\u0947\u0932\u0940\u0928 \u092A\u0947\u0928\u0932\u094D\u092F\u0942\u0915\u094B\u092A\u0947\u0928\u093F\u0906 \u0935\u093F\u0937\u093E\u0923\u0941"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#prefLabel> "macsk\u00E1k fert\u00F5z\u00F5 b\u00E9lgyullad\u00E1sa"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#prefLabel> "V\u00EDrus della panleucopenia felina"@it .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30CD\u30B3\u6C4E\u767D\u8840\u7403\u6E1B\u5C11\u75C7\u30A6\u30A4\u30EB\u30B9"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uACE0\uC591\uC774\uBC94\uBC31\uD608\uAD6C\uAC10\uC18C\uC99D\uBC14\uC774\uB7EC\uC2A4"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feline panleukopenia virus"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wirus panleukopenii kot\u00F3w"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#prefLabel> "V\u00EDrus da panleucopenia felina"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0432\u0438\u0440\u0443\u0441 \u043F\u0430\u043D\u043B\u0435\u0439\u043A\u043E\u043F\u0435\u043D\u0438\u0438 \u043A\u043E\u0448\u0435\u043A"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#prefLabel> "v\u00EDrus panleukop\u00E9nie ma\u010Diek"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feline panleukopenia virus"@th .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u732B\u761F\u75C5\u6BD2"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#prefLabel> "kedilerin panl\u00F6kopeni vir\u00FCs\u00FC"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10781> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5606> .

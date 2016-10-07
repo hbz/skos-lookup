@@ -1,0 +1,51 @@
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#related> <http://aims.fao.org/aos/agrovoc/c_4609> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_925> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Marine_biology> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/12124> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/78250> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://www.eionet.europa.eu/gemet/concept/5027> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11931063m> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299517107423> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299517107447> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299517107472> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299517107494> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299517107514> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299517107726> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299517107747> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299517107772> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299517107797> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299517107825> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299517108067> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299517108245> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299517108280> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299517108317> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299517108355> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299517108394> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299517108436> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12399_1321792523037> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://purl.org/dc/terms/created> "2011-11-20T20:35:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://purl.org/dc/terms/modified> "2013-08-27T21:08:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#prefLabel> "biologie mo\u0159e"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meeresbiologie"@de .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#prefLabel> "marine biology"@en .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biolog\u00EDa marina"@es .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0632\u064A\u0633\u062A\u200C\u0634\u0646\u0627\u0633\u064A \u062F\u0631\u064A\u0627\u064A\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biologie marine"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0938\u092E\u0941\u0926\u094D\u0930\u0940 \u091C\u0940\u0935 \u0935\u093F\u091C\u094D\u091E\u093E\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#prefLabel> "tengerbiol\u00F3gia"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biologia marina"@it .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6D77\u6D0B\u751F\u7269\u5B66"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uD574\uC591\uC0DD\uBB3C\uD559"@ko .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biologia morza"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biologia marinha"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0431\u0438\u043E\u043B\u043E\u0433\u0438\u044F \u043C\u043E\u0440\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#prefLabel> "biol\u00F3gia mora"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E0A\u0E35\u0E27\u0E27\u0E34\u0E17\u0E22\u0E32\u0E17\u0E32\u0E07\u0E17\u0E30\u0E40\u0E25"@th .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6D77\u6D0B\u751F\u7269\u5B66"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#prefLabel> "deniz biyolojisi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#related> <http://aims.fao.org/aos/agrovoc/c_4609> .
+<http://aims.fao.org/aos/agrovoc/c_12399> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_925> .

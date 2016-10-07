@@ -1,0 +1,44 @@
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4672> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299486393687> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299486393702> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299486393719> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299486393737> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299486393757> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299486393777> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299486393800> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299486393824> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299486393920> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299486393949> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299486393978> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299486394010> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299486394043> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299486394077> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11912_1321792469238> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1329302727995> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ms_1310460613012> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1329302743509> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://purl.org/dc/terms/created> "2011-11-20T20:34:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://purl.org/dc/terms/modified> "2013-08-27T22:12:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2004/02/skos/core#prefLabel> "k\u00FDta"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2004/02/skos/core#prefLabel> "joints (meat)"@en .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0645\u0641\u0627\u0635\u0644 (\u06AF\u0648\u0634\u062A)"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2004/02/skos/core#prefLabel> "Morceau de viande"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0938\u0902\u0927\u093F (\u092E\u093E\u0902\u0938)"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00EDz\u00FClet"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tranci (carne)"@it .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30ED\u30FC\u30B9\u30C8\u7528\u9AA8\u4ED8\u304D\u8089"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uACB0\uD569\uBD80\uC704\uC721"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2004/02/skos/core#prefLabel> "Podzia\u0142 mi\u0119sa"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pernil"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2004/02/skos/core#prefLabel> "rezne, pl\u00E1tky m\u00E4sa"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E0A\u0E34\u0E49\u0E19\u0E2A\u0E48\u0E27\u0E19 (\u0E40\u0E19\u0E37\u0E49\u0E2D\u0E2A\u0E31\u0E15\u0E27\u0E4C)"@th .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5927\u5757\u8089"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2004/02/skos/core#prefLabel> "pa\u00E7a"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fleischteilst\u00FCck"@de .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2004/02/skos/core#altLabel> "Sendi (daging)"@ms .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2004/02/skos/core#altLabel> "Fleischteilstueck"@de .
+<http://aims.fao.org/aos/agrovoc/c_11912> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4672> .

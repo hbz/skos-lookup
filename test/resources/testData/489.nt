@@ -1,0 +1,51 @@
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#definition> <http://aims.fao.org/aos/agrovoc/xDef_1299486543296> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#definition> <http://aims.fao.org/aos/agrovoc/xDef_1299487373388> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7309> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/34100> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299486542788> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299486542803> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299486542820> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299486542838> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299486542857> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299486542878> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299486542900> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299486542924> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299486542949> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299486542975> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299486543003> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299486543035> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299486543068> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299486543100> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299486543135> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299486543172> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299486543210> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299486543250> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11154_1321792387237> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_0df13c16> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://purl.org/dc/terms/created> "2011-11-20T20:33:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://purl.org/dc/terms/modified> "2016-07-11T20:42:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#prefLabel> "d\u017Ein"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gin"@de .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#prefLabel> "gin (beverage)"@en .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ginebra"@es .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062C\u064A\u0646 (\u0646\u0648\u0634\u064A\u062F\u0646\u064A)"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gin"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u091C\u093F\u0928 (\u0936\u0930\u093E\u092C)"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#prefLabel> "bor\u00F3kap\u00E1linka"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gin (bevanda)"@it .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30B8\u30F3"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC9C4"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EC0\u0EAB\u0EBB\u0EC9\u0EBC\u0EB2\u0EC1\u0E95\u0EC8\u0E87\u0E81\u0EB4\u0EC8\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gin (nap\u00F3j)"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gim"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0434\u0436\u0438\u043D (\u043D\u0430\u043F\u0438\u0442\u043E\u043A)"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#prefLabel> "gin (alkoholick\u00FD n\u00E1poj)"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E40\u0E2B\u0E25\u0E49\u0E32\u0E08\u0E34\u0E19 (\u0E40\u0E04\u0E23\u0E37\u0E48\u0E2D\u0E07\u0E14\u0E37\u0E48\u0E21)"@th .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u675C\u677E\u5B50\u9152"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#prefLabel> "cin (i\u00E7ki)"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#prefLabel> "gin"@mo .
+<http://aims.fao.org/aos/agrovoc/c_11154> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7309> .

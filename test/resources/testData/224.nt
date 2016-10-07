@@ -1,0 +1,91 @@
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1228> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/36134> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_7988> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4113355-9> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/21537> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11931330g> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299491189911> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299491189927> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299491189945> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299491189965> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299491189986> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299491190047> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299491190073> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299491190100> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299491190130> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299491190160> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299491190227> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299491190261> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299491190297> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299491190335> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299491190405> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299491190444> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299491190753> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299491190796> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299491190837> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10467_1321792303345> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299491191167> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299491192076> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299491191749> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299491191909> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299491190985> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299491191677> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299491191055> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299491191446> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299491191382> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299491190932> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299491191241> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299491191592> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299491192421> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299491191524> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299491191837> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299491192521> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299491191301> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299491191111> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10467_1321792303489> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://purl.org/dc/terms/created> "2011-11-20T20:31:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://purl.org/dc/terms/modified> "2013-08-27T19:44:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062C\u0645\u0627\u0644 \u0648\u062D\u064A\u062F\u0629 \u0627\u0644\u0633\u0646\u0627\u0645"@ar .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#prefLabel> "dromed\u00E1\u0159i"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dromedar"@de .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#prefLabel> "dromedaries"@en .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dromedarios"@es .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0634\u062A\u0631\u0647\u0627\u06CC \u06CC\u06A9\u200C\u06A9\u0648\u0647\u0627\u0646\u0647"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dromadaire"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0938\u0935\u093E\u0930\u0940 \u092F\u094B\u0917\u094D\u092F \u090A\u0901\u091F (\u090F\u0915 \u0915\u0942\u092C\u0921\u093C \u0935\u093E\u0932\u093E )"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#prefLabel> "dromed\u00E1r"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dromedari"@it .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30D2\u30C8\u30B3\u30D6\u30E9\u30AF\u30C0"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uB2E8\uBD09\uB099\uD0C0"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EAD\u0EB9\u0E94\u0EDC\u0EAD\u0E81\u0E94\u0EBD\u0EA7"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dromader"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dromed\u00E1rio"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0434\u0440\u043E\u043C\u0430\u0434\u0435\u0440\u044B"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0165avy jednohrb\u00E9"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E2D\u0E39\u0E10\u0E42\u0E2B\u0E19\u0E01\u0E40\u0E14\u0E35\u0E22\u0E27"@th .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5355\u5CF0\u9A7C"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#prefLabel> "tek h\u00F6rg\u00FC\u00E7l\u00FC deve"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#altLabel> "camelus dromedarius"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#altLabel> "Camelus dromedarius"@de .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#altLabel> "Camelus dromedarius"@en .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#altLabel> "Camelus dromedarius"@es .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0643\u0627\u0645\u0644\u0648\u0633 \u062F\u0631\u0648\u0645\u062F\u0627\u0631\u064A\u0648\u0633"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#altLabel> "Camelus dromedarius"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0915\u0948\u092E\u0940\u0932\u0938 \u0921\u094D\u0930\u094B\u092E\u0940\u0921\u0947\u0930\u0940\u0905\u0938"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#altLabel> "Camelus dromedarius"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#altLabel> "Camelus dromedarius"@it .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#altLabel> "\uB2E8\uBD09\uB099\uD0C0(\uD559\uBA85)"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#altLabel> "Camelus dromedarius"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#altLabel> "Camelus dromedarius"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#altLabel> "Wielb\u0142\u0105d jednogarbny"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#altLabel> "Camelus dromedarius"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#altLabel> "Camelus dromedarius"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0432\u0435\u0440\u0431\u043B\u044E\u0434 \u043E\u0434\u043D\u043E\u0433\u043E\u0440\u0431\u044B\u0439"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#altLabel> "Camelus dromedarius"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#altLabel> "Camelus dromedarius"@th .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#altLabel> "hecin devesi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10467> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1228> .

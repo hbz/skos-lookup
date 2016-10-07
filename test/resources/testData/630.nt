@@ -1,0 +1,44 @@
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1087> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://aims.fao.org/aos/agrontology#makeUseOf> <http://aims.fao.org/aos/agrovoc/c_11596> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Hopping> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299487676880> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299487676895> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299487676911> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299487676930> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299487676950> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299487676971> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299487676993> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299487677016> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299487677041> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299487677067> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299487677094> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299487677123> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299487677155> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299487677196> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299487677229> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11595_1321792426915> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_11595_1328258905514> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://purl.org/dc/terms/created> "2012-02-03T16:48:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://purl.org/dc/terms/modified> "2014-07-03T19:49:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2004/02/skos/core#prefLabel> "chmelen\u00ED"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hopfung"@de .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2004/02/skos/core#prefLabel> "hopping"@en .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lupuleo"@es .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2004/02/skos/core#prefLabel> "Houblonnage"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0939\u0949\u092A\u0940\u0902\u0917 (\u092A\u094C\u0927\u093E)"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2004/02/skos/core#prefLabel> "koml\u00F3z\u00E1s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aggiunta del luppolo"@it .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30D3\u30FC\u30EB\u306B\u30DB\u30C3\u30D7\u3067\u82E6\u307F\u3092\u3064\u3051\u308B\u3053\u3068"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uD638\uD504\uC81C\uC870"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chmielenie"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brassadura"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043E\u0445\u043C\u0435\u043B\u0435\u043D\u0438\u0435 \u0441\u0443\u0441\u043B\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2004/02/skos/core#prefLabel> "chmelenie"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u52A0\u5564\u9152\u82B1"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u015Ferbet\u00E7i otuyla muamele"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C2C\u0C40\u0C30\u0C41 \u0C24\u0C2F\u0C3E\u0C30\u0C40\u0C32\u0C4B \u0C12\u0C15 \u0C2E\u0C4A\u0C15\u0C4D\u0C15 \u0C15\u0C3E\u0C37\u0C3E\u0C2F\u0C3E\u0C28\u0C3F \u0C15\u0C32\u0C2A\u0C21\u0C02"@te .
+<http://aims.fao.org/aos/agrovoc/c_11595> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1087> .

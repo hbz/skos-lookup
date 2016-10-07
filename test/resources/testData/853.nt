@@ -1,0 +1,42 @@
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_554> .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299519346829> .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299519346842> .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299519346856> .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299519346873> .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299519346890> .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299519347007> .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299519347027> .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299519347048> .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299519347071> .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299519347095> .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299519347122> .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299519347150> .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299519347178> .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299519347208> .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299519347239> .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299519347272> .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12208_1321792502975> .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://purl.org/dc/terms/created> "2011-11-20T20:35:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://purl.org/dc/terms/modified> "2014-07-03T19:16:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2004/02/skos/core#prefLabel> "pob\u0159e\u017En\u00ED prost\u0159ed\u00ED"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2004/02/skos/core#prefLabel> "Litoralzone"@de .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2004/02/skos/core#prefLabel> "littoral environment"@en .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zona litoral"@es .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0645\u062D\u064A\u0637 \u0632\u064A\u0633\u062A \u0643\u0631\u0627\u0646\u0647\u200C\u0627\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zone littorale (milieu aquatique)"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0935\u0947\u0932\u093E\u0902\u091A\u0932 \u091C\u0940\u0935 \u092A\u0930\u094D\u092F\u093E\u092F\u0935\u0930\u0923"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2004/02/skos/core#prefLabel> "parti k\u00F6rnyezet"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ambiente litorale"@it .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6CBF\u5CB8\u74B0\u5883"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EAA\u0EB0\u0E9E\u0EB2\u0E9A\u0EC1\u0EA7\u0E94\u0EA5\u0EC9\u0EAD\u0EA1\u0E97\u0EB0\u0EA7\u0EB5\u0E9A"@lo .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u015Arodowisko bentosowe"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ambiente litoral"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043B\u0438\u0442\u0442\u043E\u0440\u0430\u043B\u044C"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2004/02/skos/core#prefLabel> "litor\u00E1lne, pobre\u017En\u00E9 prostredie"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6EE8\u6D77\u73AF\u5883"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2004/02/skos/core#prefLabel> "k\u0131y\u0131 ortam\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12208> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_554> .

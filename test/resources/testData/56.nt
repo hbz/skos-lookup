@@ -1,0 +1,102 @@
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#scopeNote> "Sladk\u00E9 zahu\u0161t\u00ECn\u00E9 ml\u00E9ko"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#scopeNote> "Suesse eingedickte Milch"@de .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#scopeNote> "Sweet evaporated milk"@en .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0634\u06CC\u0631 \u0634\u06CC\u0631\u06CC\u0646 \u06A9\u0645\u200C\u0622\u0628 \u0634\u062F\u0647 ."@fa .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u00C9des, sur\u00EDtett tej"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#scopeNote> "Latte dolcificato condensato"@it .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0E99\u0EBB\u0EA1\u0EAB\u0EA7\u0EB2\u0E99\u0E97\u0EB5\u0EC8\u0E99\u0EC9\u0EB3\u0EA5\u0EB0\u0EC0\u0EAB\u0EB5\u0E8D\u0EAD\u0EAD\u0E81\u0EC1\u0EA5\u0EC9\u0EA7"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#scopeNote> "S\u0142odkie mleko zag\u0119szczone"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0E19\u0E21\u0E2B\u0E27\u0E32\u0E19\u0E17\u0E35\u0E48\u0E23\u0E30\u0E40\u0E2B\u0E22\u0E19\u0E49\u0E33\u0E2D\u0E2D\u0E01\u0E41\u0E25\u0E49\u0E27"@th .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#scopeNote> "Buharla\u015Ft\u0131rma yoluyla su oran\u0131 azalt\u0131lm\u0131\u015F s\u00FCt\n"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2737> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Condensed_milk> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/44839> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_33755> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4240772-2> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299487470096> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299487470118> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299487470144> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299487470172> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299487470205> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299487470240> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299487470266> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299487470295> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299487470325> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299487470356> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299487470389> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299487470429> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299487470468> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299487470511> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299487470585> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299487470640> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299487470687> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299487470766> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299487470858> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10054_1321792251991> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299487471359> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299487472705> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299487472357> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299487472533> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299487471102> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299487472788> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299487472269> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299487471186> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299487472033> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299487471662> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299487472620> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299487471037> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299487472189> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299487472119> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299487472438> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299487471485> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299487471283> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299487471578> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_16482_1321793010921> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1327582297589> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://purl.org/dc/terms/created> "2011-11-20T20:43:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://purl.org/dc/terms/modified> "2014-07-03T19:04:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062D\u0644\u064A\u0628 \u0645\u0643\u062B\u0641"@ar .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#prefLabel> "kondenzovan\u00E9 ml\u00E9ko"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kondensmilch"@de .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#prefLabel> "condensed milk"@en .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leche condensada"@es .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0634\u06CC\u0631 \u0686\u06AF\u0627\u0644"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lait concentr\u00E9 sucr\u00E9"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0938\u0902\u0918\u0928\u093F\u0924 \u0926\u0942\u0927"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#prefLabel> "kondenz\u00E1lt tej"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#prefLabel> "Latte condensato"@it .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7DF4\u4E73"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uAC00\uB2F9\uC5F0\uC720"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E99\u0EBB\u0EA1\u0E82\u0EB8\u0EC9\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mleko skondensowane"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leite condensado"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0441\u0433\u0443\u0449\u0435\u043D\u043D\u043E\u0435 \u043C\u043E\u043B\u043E\u043A\u043E \u0441 \u0441\u0430\u0445\u0430\u0440\u043E\u043C"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#prefLabel> "kondenzovan\u00E9 mlieko"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E19\u0E21\u0E02\u0E49\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6D53\u7F29\u4E73"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#prefLabel> "koyula\u015Ft\u0131r\u0131lm\u0131\u015F s\u00FCt"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#altLabel> "konzervovan\u00E9 ml\u00E9ko"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#altLabel> "Dosenmilch"@de .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#altLabel> "canned milk"@en .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#altLabel> "Leche en lata"@es .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0634\u064A\u0631 \u0643\u0646\u0633\u0631\u0648\u0634\u062F\u0647"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0634\u064A\u0631 \u062A\u063A\u0644\u064A\u0638\u200C\u0634\u062F\u0647"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#altLabel> "Lait en bo\u00EEte"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0921\u093F\u092C\u094D\u092C\u093E\u092C\u0902\u0926 \u0926\u0941\u0927"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#altLabel> "konzerv\u00E1lt tej"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#altLabel> "Latte in scatola"@it .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#altLabel> "\u30DF\u30EB\u30AF\u7F36\u8A70"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#altLabel> "\uD1B5\uC870\uB9BC\uC6B0\uC720"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#altLabel> "Mleko zag\u0119szczone"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#altLabel> "Leite em conserva"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043C\u043E\u043B\u043E\u0447\u043D\u044B\u0435 \u043A\u043E\u043D\u0441\u0435\u0440\u0432\u044B"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#altLabel> "konzervovn\u00E9 mlieko"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E19\u0E21\u0E1A\u0E23\u0E23\u0E08\u0E38\u0E01\u0E23\u0E30\u0E1B\u0E4B\u0E2D\u0E07"@th .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#altLabel> "\u7F50\u88C5\u4E73"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#altLabel> "konserve s\u00FCt"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#altLabel> "kondanse s\u00FCt"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10054> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2737> .

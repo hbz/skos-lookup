@@ -1,0 +1,113 @@
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1008> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://aims.fao.org/aos/agrontology#isUsedAs> <http://aims.fao.org/aos/agrovoc/c_3120> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Borassus_aethiopum> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://aims.fao.org/aos/agrontology#hasTaxonomicRank> <http://aims.fao.org/aos/agrovoc/c_331243> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299502284156> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299502284171> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299502284188> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299502284206> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299502284226> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299502284248> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299502284271> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299502284297> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299502284324> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299502284353> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299502284383> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299502284415> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299502284447> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299502284483> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299502284519> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299502284557> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299502284736> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1009_1321790042840> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1009_1328260114765> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299502285794> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299502286971> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299502286405> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299502286569> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299502287085> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299502285584> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299502286323> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299502285646> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299502286089> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299502286012> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299502285863> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299502286166> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299502287209> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299502286243> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299502286485> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299502287305> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299502285936> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299502285725> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299502284815> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299502284956> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299502285007> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299502285055> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299502285108> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299502285160> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299502285216> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299502285272> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299502285330> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299502285459> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299502285520> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1332317017950> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1332317060059> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1332317119268> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://purl.org/dc/terms/created> "2012-02-03T17:08:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://purl.org/dc/terms/modified> "2013-08-28T23:38:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borassus aethiopicum"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borassus aethiopum"@de .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borassus aethiopum"@en .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borassus aethiopum"@es .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0628\u0648\u0631\u0627\u0633\u0648\u0633 \u0627\u062A\u06CC\u0648\u067E\u0648\u0645"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borassus aethiopum"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092C\u094B\u0930\u093E\u0938\u0938 \u090F\u0925\u0940\u0913\u092A\u092E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borassus aethiopum"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borassus aethiopum"@it .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30AA\u30A6\u30AE\u30E4\u30B7"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borassus aethiopum"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borassus aethiopum"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borassus aethiopum"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borassus aethiopum"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borassus aethiopicum"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borassus aethiopum"@th .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u975E\u6D32\u6811\u5934\u6988"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borassus aethiopum"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C21\u0C3F\u0C2A\u0C4D\u0C32\u0C4A\u0C21\u0C38\u0C4D \u0C39\u0C3E\u0C32\u0C4D \u0C2C\u0C4D\u0C30\u0C42\u0C15\u0C48"@te .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "Borassus flabellifer aethiopicum"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "Borassus flabellifer aethiopicum"@de .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "Borassus flabellifer aethiopicum"@en .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "Borassus flabellifer aethiopicum"@es .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "Cibe"@es .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0628\u0648\u0631\u0627\u0633\u0648\u0633 \u0641\u0644\u0627\u0628\u0644\u064A\u0641\u0631 \u0627\u062A\u064A\u0648\u067E\u064A\u0643\u0648\u0645"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "Borassus flabellifer aethiopicum"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "\u092C\u094B\u0930\u093E\u0938\u0938 \u092B\u094D\u0932\u0948\u092C\u0940\u0932\u0940\u092B\u0930 \u090F\u0925\u0940\u0913\u092A\u0940\u0915\u092E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "Borassus flabellifer aethiopicum"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "Borassus flabellifer aethiopicum"@it .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "Borassus flabellifer aethiopicum"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "Borassus flabellifer aethiopicum"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "Palma delep"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "Borassus flabellifer aethiopicum"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "Borassus flabellifer aethiopicum"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043F\u0430\u043B\u044C\u043C\u0430 \u0434\u0435\u043B\u0435\u0431"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "boras"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "Borassus flabellifer aethiopicum"@th .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0646\u062E\u0644 \u0628\u0631\u06AF\u200C\u0628\u0627\u062F\u0628\u0632\u0646\u064A \u0622\u0641\u0631\u064A\u0642\u0627\u064A\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0905\u092B\u094D\u0930\u0940\u0915\u0928 \u092B\u0947\u0928 \u092A\u093E\u092E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "lontar etiopsk\u00FD"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "African fan palm"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "\u975E\u6D32\u6247\u53F6\u6988"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "Borasso"@it .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "Winoda\u0144 abisy\u0144ska"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "Palmeira de leque africana"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "African fan palm"@en .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0431\u043E\u0440\u0430\u0441\u0441\u0443\u0441 \u044D\u0444\u0438\u043E\u043F\u0441\u043A\u0438\u0439"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "\u30A2\u30D5\u30EA\u30AB\u30AA\u30A6\u30AE\u30E4\u30B7"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "\u00C4thiopische Palmyrapalme"@de .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "Aethiopische Palmyrapalme"@de .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#altLabel> "Delebpalme"@de .
+<http://aims.fao.org/aos/agrovoc/c_1009> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1008> .

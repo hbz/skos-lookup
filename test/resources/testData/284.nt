@@ -1,0 +1,84 @@
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4769> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://aims.fao.org/aos/agrontology#includes> <http://aims.fao.org/aos/agrovoc/c_9091> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://aims.fao.org/aos/agrontology#influences> <http://aims.fao.org/aos/agrovoc/c_2568> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/37830> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_32602> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4125217-2> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/8391> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299511221962> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299511221979> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299511221998> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299511222021> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299511222444> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299511222475> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299511222511> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299511222553> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299511222586> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299511222627> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299511222668> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299511222714> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299511222756> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299511222797> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299511222838> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299511222880> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299511222936> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299511222988> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299511223034> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10611_1321792322517> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_10611_1328257866102> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299511223489> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299511224489> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299511224355> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299511223368> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299511224562> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299511223438> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299511223826> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299511224419> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299511224270> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299511224128> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299511223544> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299511223766> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_14495_1321792753670> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://purl.org/dc/terms/created> "2012-02-03T16:31:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://purl.org/dc/terms/modified> "2013-08-27T20:10:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0623\u064A\u0636 \u0637\u0627\u0642\u064A"@ar .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#prefLabel> "energetick\u00FD metabolismus"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#prefLabel> "Energiestoffwechsel"@de .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#prefLabel> "energy metabolism"@en .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metabolismo energ\u00E9tico"@es .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0633\u0648\u062E\u062A \u0648 \u0633\u0627\u0632 \u0627\u0646\u0631\u0698\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#prefLabel> "M\u00E9tabolisme \u00E9nerg\u00E9tique"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u090A\u0930\u094D\u091C\u093E \u0909\u092A\u093E\u091A\u092F\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#prefLabel> "energia metabolizmus"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metabolismo energetico"@it .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30A8\u30CD\u30EB\u30AE\u30FC\u4EE3\u8B1D"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC5D0\uB108\uC9C0\uB300\uC0AC"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0E99\u0E9B\u0EC8\u0EBD\u0E99\u0EC1\u0E9B\u0E87\u0E9E\u0EB0\u0EA5\u0EB1\u0E87\u0E87\u0EB2\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metabolizm energetyczny"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metabolismo energ\u00E9tico"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u043E\u0431\u043C\u0435\u043D"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#prefLabel> "energetick\u00FD metabolizmus"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E40\u0E2D\u0E19\u0E40\u0E19\u0E2D\u0E08\u0E35\u0E40\u0E21\u0E15\u0E32\u0E1A\u0E2D\u0E25\u0E34\u0E0B\u0E36\u0E21"@th .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u80FD\u91CF\u4EE3\u8C22"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#prefLabel> "enerji metabolizmas\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C36\u0C15\u0C4D\u0C24\u0C3F \u0C1A\u0C2F\u0C3E\u0C2A\u0C1A\u0C2F\u0C02"@te .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#altLabel> "specifick\u00E1 dynamick\u00E1 akce"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#altLabel> "Spezifisch Dynamische Wirkung"@de .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#altLabel> "specific dynamic action"@en .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0641\u0639\u0627\u0644\u064A\u062A \u062F\u064A\u0646\u0627\u0645\u064A\u0643 \u0648\u064A\u0698\u0647"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0645\u062A\u0627\u0628\u0648\u0644\u06CC\u0633\u0645 \u0627\u0646\u0631\u0698\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0935\u093F\u0936\u093F\u0937\u094D\u091F \u0917\u0924\u093F\u0915 \u092A\u094D\u0930\u0915\u094D\u0930\u093F\u092F\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#altLabel> "Azione dinamico-specifica"@it .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#altLabel> "\u7279\u7570\u52D5\u7684\u4F5C\u7528"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#altLabel> "Mechanizm dynamiczny w\u0142a\u015Bciwy"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#altLabel> "Ac\u00E7\u00E3o din\u00E2mica espec\u00EDfica"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0161pecifick\u00E1 dynamick\u00E1 akcia"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#altLabel> "\u7279\u522B\u52A8\u529B\u4F5C\u7528"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#altLabel> "spesifik dinamik hareket"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#narrower> <http://aims.fao.org/aos/agrovoc/c_5812> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#narrower> <http://aims.fao.org/aos/agrovoc/c_6527> .
+<http://aims.fao.org/aos/agrovoc/c_10611> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4769> .

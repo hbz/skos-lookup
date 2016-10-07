@@ -1,0 +1,45 @@
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_16367> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Bacterial_flora> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/42955> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_48569> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299492419803> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299492419819> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299492419836> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299492419854> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299492419874> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299492419897> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299492419921> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299492419947> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299492419974> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299492420003> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299492420034> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299492420068> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299492420102> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299492420139> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299492420178> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299492420216> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10916_1321792355917> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://purl.org/dc/terms/created> "2011-11-20T20:32:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://purl.org/dc/terms/modified> "2013-08-27T19:46:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2004/02/skos/core#prefLabel> "bakteri\u00E1ln\u00ED fl\u00F3ra"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bakterielle Flora"@de .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bacterial flora"@en .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flora bacteriana"@es .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0641\u0644\u0648\u0631 \u0628\u0627\u0643\u062A\u0631\u064A\u0627\u064A\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flore bact\u00E9rienne"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u091C\u0940\u0935\u093E\u0923\u0941\u0935\u0940\u092F \u092A\u093E\u0926\u092A"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2004/02/skos/core#prefLabel> "bakt\u00E9riumfl\u00F3ra"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flora batterica"@it .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7D30\u83CC\u76F8"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC138\uADE0\uC0C1"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flora bakteryjna"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flora bacteriana"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0431\u0430\u043A\u0442\u0435\u0440\u0438\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u043B\u043E\u0440\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E41\u0E1A\u0E04\u0E17\u0E35\u0E40\u0E23\u0E35\u0E22\u0E1B\u0E23\u0E30\u0E08\u0E33\u0E16\u0E34\u0E48\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7EC6\u83CC\u7FA4\u843D"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2004/02/skos/core#prefLabel> "bakteriyel flora"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10916> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_16367> .

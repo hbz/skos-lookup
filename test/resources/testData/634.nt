@@ -1,0 +1,63 @@
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#scopeNote> "Intenzivn\u00ED \u00FAhorov\u00FD syst\u00E9m s k\u00F8ovinami jako \u00FAhorovou vegetac\u00ED"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#scopeNote> "Intensives Brachesystem mit Buschwerk als Brachevegetation"@de .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#scopeNote> "Intensive fallow systems with bush as the fallow vegetation"@en .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#scopeNote> "Sistema intensivo de producci\u00F3n de cultivos mediante el uso de vegetaci\u00F3n secundaria como sucesi\u00F3n natural"@es .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0646\u0638\u0627\u0645\u200C\u0647\u0627\u06CC \u0622\u06CC\u0634 \u0645\u062A\u0631\u0627\u06A9\u0645 \u0628\u0627  \u0628\u0648\u062A\u0647\u200C\u0647\u0627 \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u067E\u0648\u0634\u0634 \u06AF\u06CC\u0627\u0647\u06CC \u0622\u06CC\u0634."@fa .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#scopeNote> "Syst\u00E8me intensif de jach\u00E8re avec une v\u00E9g\u00E9tation foresti\u00E8re secondaire entre les deux cultures agricoles"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#scopeNote> "Sistema intensivo di maggese con vegetazione forestale secondaria fra due colture agricole"@it .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0EA5\u0EB0\u0E9A\u0EBB\u0E9A\u0EC4\u0EAE\u0EC8\u0EC0\u0EA5\u0EBB\u0EC8\u0EB2\u0EAE\u0EAD\u0E9A\u0EA7\u0EBD\u0E99\u0EAA\u0EB1\u0EC9\u0E99 \u0E8A\u0EB6\u0EC8\u0E87\u0EA1\u0EB5 \u0E9E\u0EC8\u0EB8\u0EA1\u0EC4\u0EA1\u0EC9\u0EC0\u0E9B\u0EB1\u0E99\u0E9E\u0EB7\u0E94\u0E9B\u0EBB\u0E81\u0E84\u0EB8\u0EA1\u0EAB\u0EBC\u0EB1\u0E81"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#scopeNote> "Intensywny system od\u0142ogowania z porastaj\u0105cymi zaro\u015Blami"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#scopeNote> "Sistema intensivo de pousio com arbustos como vegeta\u00E7\u00E3o espont\u00E2nea"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0E23\u0E30\u0E1A\u0E1A\u0E01\u0E32\u0E23\u0E1B\u0E25\u0E39\u0E01\u0E1E\u0E37\u0E0A\u0E15\u0E32\u0E21\u0E41\u0E1A\u0E1A\u0E1B\u0E23\u0E32\u0E13\u0E35\u0E15\u0E42\u0E14\u0E22\u0E01\u0E32\u0E23\u0E1B\u0E25\u0E39\u0E01\u0E44\u0E21\u0E49\u0E1E\u0E38\u0E48\u0E21\u0E15\u0E32\u0E21\u0E2B\u0E25\u0E31\u0E07\u0E1E\u0E37\u0E0A\u0E1B\u0E25\u0E39\u0E01"@th .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2784> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299525072393> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299525072412> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1325836686198> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299525072460> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299525072493> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299525072521> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299525072551> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299525072577> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299525072603> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299525072630> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299525072675> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299525072731> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299525072770> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299525072819> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299525072875> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299525072962> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299525073024> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299525073079> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1160_1328260211127> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299525072432> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299525073635> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299525073833> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://purl.org/dc/terms/created> "2012-02-03T17:10:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://purl.org/dc/terms/modified> "2015-03-12T18:14:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062F\u063A\u0644 \u0627\u0644\u0623\u0631\u0636 \u0627\u0644\u0645\u0633\u062A\u0631\u064A\u062D\u0629"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#prefLabel> "ke\u0159ov\u00FD \u00FAhor"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geh\u00F6lzbrache"@de .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#prefLabel> "bush fallowing"@en .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barbecho forestal"@es .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0622\u06CC\u0634\u200C\u0628\u0646\u062F\u06CC \u0628\u0648\u062A\u0647\u200C\u0627\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jach\u00E8re foresti\u00E8re"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u091D\u093E\u0921\u093C\u0940 \u0938\u092E\u0947\u0924 \u092A\u0921\u093C\u0924\u0940 \u091B\u094B\u0921\u093C\u0928\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#prefLabel> "Maggese forestale"@it .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u3084\u3076\u72B6\u4F11\u8015"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uCD08\uC0DD\uD734\uD55C"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0E99\u0E9B\u0EB9\u0E81\u0EC4\u0EA1\u0EC9\u0E9E\u0EB8\u0EC8\u0EA1\u0EAB\u0EBC\u0EB1\u0E87\u0E81\u0EB2\u0E99\u0E9B\u0EB9\u0E81\u0E9E\u0EB7\u0E94\u0E97\u0EB1\u0E99\u0E8D\u0EB2\u0EAB\u0EB2\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#prefLabel> "System zaro\u015Blowo-od\u0142ogowy"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pousio com vegeta\u00E7\u00E3o arbustiva"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0437\u0430\u043A\u0443\u0441\u0442\u0430\u0440\u0435\u043D\u043D\u044B\u0439 \u043F\u0430\u0440"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#prefLabel> "typ \u00FAhorovej kultiv\u00E1cie (kr\u00EDkov\u00FD \u00FAhor)"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E17\u0E34\u0E49\u0E07\u0E1E\u0E37\u0E49\u0E19\u0E17\u0E35\u0E48\u0E43\u0E2B\u0E49\u0E1F\u0E37\u0E49\u0E19\u0E15\u0E31\u0E27\u0E14\u0E49\u0E27\u0E22\u0E44\u0E21\u0E49\u0E1E\u0E38\u0E48\u0E21"@th .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u704C\u4E1B\u4F11\u95F2\u5730"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C21\u0C3F\u0C38\u0C4D\u0C1F\u0C3E\u0C30\u0C4D\u0C38\u0C3F\u0C2F\u0C4B \u0C06\u0C28\u0C38\u0C4D"@te .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#altLabel> "Gehoelzbrache"@de .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#altLabel> "Barbecho de vegetaci\u00F3n secundaria"@es .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#altLabel> "Barbecho de maleza"@es .
+<http://aims.fao.org/aos/agrovoc/c_1160> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2784> .

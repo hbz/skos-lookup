@@ -1,0 +1,62 @@
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2052> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://aims.fao.org/aos/agrontology#isUsedAs> <http://aims.fao.org/aos/agrovoc/c_5195> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://aims.fao.org/aos/agrontology#isUsedAs> <http://aims.fao.org/aos/agrovoc/c_1199> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Calcium_cyanamide> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/31094> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_36706> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_36707> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_446> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_36708> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/21106> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://aims.fao.org/aos/agrontology#isPartOfSubvocabulary> "Chemicals" .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299515194507> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299515194860> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299515194879> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299515194897> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299515194917> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299515194939> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299515194964> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299515194991> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299515195021> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299515195051> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299515195083> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299515195117> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299515195152> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299515195190> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299515195229> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299515195270> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299515195314> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299515195438> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299515195482> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1198_1321790147233> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1198_1328260234634> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_f5efbcd0> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://purl.org/dc/terms/created> "2012-02-03T17:10:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://purl.org/dc/terms/modified> "2015-08-18T21:51:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0633\u064A\u0627\u0646\u0627\u0645\u064A\u062F \u0627\u0644\u0643\u0644\u0633\u064A\u0648\u0645"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#prefLabel> "dus\u00EDkat\u00E9 v\u00E1pno"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calciumcyanamid"@de .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#prefLabel> "calcium cyanamide"@en .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cianamida c\u00E1lcica"@es .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u06A9\u0644\u0633\u06CC\u0645 \u0633\u06CC\u0627\u0646\u0627\u0645\u06CC\u062F"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cyanamide calcique"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u0948\u0932\u094D\u0938\u093F\u092F\u092E \u0938\u093E\u0907\u0928\u093E\u092E\u093E\u0907\u0921"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#prefLabel> "kalcium-ci\u00E1namid"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calciocianamide"@it .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u77F3\u7070\u7A92\u7D20"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uCE7C\uC298\uC2DC\uC548\uC544\uBBF8\uB4DC"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EC1\u0E84\u0EA5\u0E8A\u0EBD\u0EA1\u0EC4\u0E8A\u0E8D\u0EB2\u0E99\u0EB2\u0EC4\u0EA1\u0E94"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cyjanamid wapnia"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cianamida c\u00E1lcica"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0446\u0438\u0430\u043D\u0430\u043C\u0438\u0434 \u043A\u0430\u043B\u044C\u0446\u0438\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#prefLabel> "dusikat\u00E9 v\u00E1pno"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E41\u0E04\u0E25\u0E40\u0E0B\u0E35\u0E22\u0E21\u0E44\u0E0B\u0E22\u0E32\u0E19\u0E32\u0E44\u0E21\u0E14\u0E4C"@th .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6C28\u57FA\u6C30\u9499"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#prefLabel> "kalsiyum siyanamid"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C21\u0C3F.\u0C0E\u0C28\u0C4D.\u0C0E \u0C2B\u0C3F\u0C02\u0C17\u0C30\u0C4D \u0C2A\u0C4D\u0C30\u0C3F\u0C02\u0C1F\u0C3F\u0C02\u0C17\u0C4D"@te .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#prefLabel> "cianamid\u0103 de calciu"@mo .
+<http://aims.fao.org/aos/agrovoc/c_1198> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_2052> .

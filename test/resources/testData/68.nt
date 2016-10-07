@@ -1,0 +1,40 @@
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5548> .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Construction_paper> .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://aims.fao.org/aos/asfa/c_4940> .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299487555987> .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299487556003> .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299487556022> .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299487556041> .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299487556061> .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299487556082> .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299487556106> .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299487556132> .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299487556159> .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299487556187> .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299487556218> .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299487556252> .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1319451348445> .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10080_1321792257298> .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1355751333102> .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://purl.org/dc/terms/created> "2011-11-20T20:30:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://purl.org/dc/terms/modified> "2014-07-03T19:03:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2004/02/skos/core#prefLabel> "konstruk\u010Dn\u00ED pap\u00EDr"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2004/02/skos/core#prefLabel> "construction paper"@en .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0643\u0627\u063A\u0630 \u0633\u0627\u062E\u062A\u0645\u0627\u0646"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0928\u093F\u0930\u094D\u092E\u093E\u0923 \u092A\u0947\u092A\u0930"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2004/02/skos/core#prefLabel> "hajtogat\u00F3lap"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carta per costruzioni"@it .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8272\u753B\u7528\u7D19"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2004/02/skos/core#prefLabel> "Papier natronowy"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2004/02/skos/core#prefLabel> "Papel de constru\u00E7\u00E3o"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0441\u0442\u0440\u043E\u0438\u0442\u0435\u043B\u044C\u043D\u0430\u044F \u0431\u0443\u043C\u0430\u0433\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2004/02/skos/core#prefLabel> "kon\u0161truk\u010Dn\u00FD papier"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4F5C\u56FE\u7EB8"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bastelpapier"@de .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2004/02/skos/core#prefLabel> "yap\u0131 ka\u011F\u0131d\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2004/02/skos/core#altLabel> "Tonpapier"@de .
+<http://aims.fao.org/aos/agrovoc/c_10080> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5548> .

@@ -1,0 +1,17 @@
+<http://aims.fao.org/aos/agrovoc/c_07250ae8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_07250ae8> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_07250ae8> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_12240> .
+<http://aims.fao.org/aos/agrovoc/c_07250ae8> <http://aims.fao.org/aos/agrontology#hasTaxonomicRank> <http://aims.fao.org/aos/agrovoc/c_331243> .
+<http://aims.fao.org/aos/agrovoc/c_07250ae8> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_8c51020d> .
+<http://aims.fao.org/aos/agrovoc/c_07250ae8> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_de705c45> .
+<http://aims.fao.org/aos/agrovoc/c_07250ae8> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_210e805b> .
+<http://aims.fao.org/aos/agrovoc/c_07250ae8> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_d57727dc> .
+<http://aims.fao.org/aos/agrovoc/c_07250ae8> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_07250ae8> <http://purl.org/dc/terms/created> "2015-06-29T07:38:34Z"^^<xsd:http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_07250ae8> <http://purl.org/dc/terms/modified> "2015-09-22T18:21:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_07250ae8> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_07250ae8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lonicera xylosteum"@en .
+<http://aims.fao.org/aos/agrovoc/c_07250ae8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lonicera xylosteum"@de .
+<http://aims.fao.org/aos/agrovoc/c_07250ae8> <http://www.w3.org/2004/02/skos/core#altLabel> "fly honeysuckle"@en .
+<http://aims.fao.org/aos/agrovoc/c_07250ae8> <http://www.w3.org/2004/02/skos/core#altLabel> "Rote Heckenkirsche"@de .
+<http://aims.fao.org/aos/agrovoc/c_07250ae8> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_12240> .

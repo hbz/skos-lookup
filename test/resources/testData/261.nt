@@ -1,0 +1,46 @@
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7436> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299512686494> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299512686509> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299512686527> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299512686545> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299512686565> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299512686586> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299512686608> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299512686631> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299512686657> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299512686683> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299512686712> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299512686743> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299512686775> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299512686811> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299512686846> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299512686882> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10569_1321792316894> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_10569_1328257795440> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1332150884965> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://purl.org/dc/terms/created> "2012-02-03T16:29:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://purl.org/dc/terms/modified> "2013-08-27T20:15:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2004/02/skos/core#prefLabel> "elektrick\u00E9 bou\u0159e"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2004/02/skos/core#prefLabel> "electric storms"@en .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tormentas el\u00E9ctricas"@es .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062A\u0648\u0641\u0627\u0646\u200C\u0647\u0627\u064A \u0627\u0644\u0643\u062A\u0631\u064A\u0643\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0935\u093F\u0927\u0941\u0924 \u091D\u0902\u091D\u093E\u0935\u093E\u0924"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2004/02/skos/core#prefLabel> "elektromos vihar"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tempeste elettriche"@it .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u96F7\u96E8"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC804\uAE30\uD3ED\uD48D"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E9E\u0EB0\u0E8D\u0EB8\u0E9F\u0EC9\u0EB2\u0E9C\u0EC8\u0EB2"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wy\u0142adowania elektryczne"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tempestade el\u00E9ctrica"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u044D\u043B\u0435\u043A\u0442\u0440\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0431\u0443\u0440\u0438"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2004/02/skos/core#prefLabel> "elektrick\u00E9 b\u00FArky"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E1E\u0E32\u0E22\u0E38\u0E1D\u0E19\u0E1F\u0E49\u0E32\u0E04\u0E30\u0E19\u0E2D\u0E07"@th .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7535\u66B4"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2004/02/skos/core#prefLabel> "elektrik f\u0131rt\u0131nas\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C35\u0C3F\u0C26\u0C4D\u0C2F\u0C41\u0C24\u0C4D \u0C24\u0C42\u0C2B\u0C3E\u0C28\u0C4D\u0C32\u0C41"@te .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elektrisches Gewitter"@de .
+<http://aims.fao.org/aos/agrovoc/c_10569> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7436> .

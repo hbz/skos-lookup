@@ -1,0 +1,64 @@
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1060> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4147681-5> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Brassica_chinensis> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://aims.fao.org/aos/agrontology#produces> <http://aims.fao.org/aos/agrovoc/c_9804> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://aims.fao.org/aos/agrontology#hasTaxonomicRank> <http://aims.fao.org/aos/agrovoc/c_1423211760123> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299498581869> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299498581886> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299498582308> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299498582331> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299498582353> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299498582383> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299498582411> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299498582438> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299498582465> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299498582493> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299498582532> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299498582566> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299498582601> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299498582637> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299498582679> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299498582720> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299498582761> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299498582807> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299498582854> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1063_1321790071285> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1063_1328260148957> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299498583246> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299498582962> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299498583093> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299498583020> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299498583176> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://purl.org/dc/terms/created> "2012-02-03T17:09:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://purl.org/dc/terms/modified> "2015-02-06T16:50:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0643\u0631\u0646\u0628 \u0635\u064A\u0646\u064A"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brassica chinensis"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brassica chinensis"@de .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brassica chinensis"@en .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brassica chinensis"@es .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0628\u0631\u0627\u0633\u06CC\u06A9\u0627 \u06A9\u06CC\u0646\u0627\u0646\u0633\u06CC\u0633"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brassica chinensis"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092C\u094D\u0930\u0938\u093F\u0915\u093E \u091A\u093E\u0907\u0928\u0947\u0928\u094D\u0938\u093F\u0938"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brassica chinensis"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brassica chinensis"@it .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30CF\u30AF\u30B5\u30A4"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uBE0C\uB77C\uC2DC\uCE74\uD0A4\uB128\uC2DC\uC2A4"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brassica chinensis"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brassica chinensis"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brassica chinensis"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brassica chinensis"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brassica chinensis"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brassica chinensis"@th .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5C0F\u767D\u83DC"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brassica chinensis"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C21\u0C48\u0C30\u0C46\u0C1F\u0C4D \u0C2E\u0C3F\u0C16\u0C4D\u0C25\u0C3F\u0C38\u0C4D \u0C2A\u0C30\u0C48\u0C28\u0C3F"@te .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0628\u0631\u0627\u0633\u06CC\u06A9\u0627\u06CC \u067E\u06A9\u0646\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#altLabel> "Kapusta chi\u0144ska"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#altLabel> "Kapusta peki\u0144ska"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043A\u0430\u043F\u0443\u0441\u0442\u0430 \u043A\u0438\u0442\u0430\u0439\u0441\u043A\u0430\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043A\u0430\u043F\u0443\u0441\u0442\u0430 \u043F\u0435\u043A\u0438\u043D\u0441\u043A\u0430\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1063> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1060> .

@@ -1,0 +1,48 @@
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5631> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/80470> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://www.eionet.europa.eu/gemet/concept/4054> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299516865610> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299516865624> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299516865640> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299516865656> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299516865674> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299516865694> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299516865715> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299516865737> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299516865760> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299516865786> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299516866112> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299516866140> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299516866169> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299516866199> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299516866324> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299516866355> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11634_1321792432762> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_11634_1328258949956> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_f9a96207> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://purl.org/dc/terms/created> "2012-02-03T16:49:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://purl.org/dc/terms/modified> "2015-08-18T21:51:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#prefLabel> "patologie \u010Dlov\u011Bka"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#prefLabel> "Humanpathologie"@de .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#prefLabel> "human pathology"@en .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0622\u0633\u064A\u0628\u200C\u0634\u0646\u0627\u0633\u064A \u0627\u0646\u0633\u0627\u0646\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pathologie humaine"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092E\u093E\u0928\u0935 \u0930\u094B\u0917 \u0935\u093F\u091C\u094D\u091E\u093E\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#prefLabel> "hum\u00E1npatol\u00F3gia"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#prefLabel> "Patologia umana"@it .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30D2\u30C8\u75C5\u7406\u5B66"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC778\uCCB4\uBCD1\uB9AC\uD559"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E9E\u0EB0\u0E8D\u0EB2\u0E94\u0EA7\u0EB4\u0E97\u0EB0\u0E8D\u0EB2\u0E84\u0EBB\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#prefLabel> "Patologia cz\u0142owieka"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#prefLabel> "Patologia humana"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#prefLabel> "patol\u00F3gia \u010Dloveka"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E1E\u0E22\u0E32\u0E18\u0E34\u0E27\u0E34\u0E17\u0E22\u0E32\u0E02\u0E2D\u0E07\u0E04\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u533B\u5B66\u75C5\u7406\u5B66"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#prefLabel> "insan patolojisi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C2E\u0C3E\u0C28\u0C35 \u0C30\u0C4B\u0C17\u0C32\u0C15\u0C4D\u0C37\u0C23 \u0C36\u0C3E\u0C38\u0C4D\u0C24\u0C4D\u0C30\u0C02"@te .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#prefLabel> "patologie uman\u0103"@mo .
+<http://aims.fao.org/aos/agrovoc/c_11634> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5631> .

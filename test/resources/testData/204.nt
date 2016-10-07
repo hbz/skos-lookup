@@ -1,0 +1,44 @@
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2004/02/skos/core#definition> <http://aims.fao.org/aos/agrovoc/xDef_1328252936895> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2004/02/skos/core#related> <http://aims.fao.org/aos/agrovoc/c_8058> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_8061> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299525905227> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299525905245> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299525905263> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299525905403> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299525905426> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299525905448> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299525905475> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299525905513> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299525905774> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299525905810> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299525905862> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299525905914> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299525905960> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299525906013> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299525906057> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299525906145> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10396_1321792297510> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://purl.org/dc/terms/created> "2011-11-20T20:31:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://purl.org/dc/terms/modified> "2015-03-12T18:27:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2004/02/skos/core#prefLabel> "skryt\u00E1 nezam\u011Bstnanost"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2004/02/skos/core#prefLabel> "verdeckte Arbeitslosigkeit"@de .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2004/02/skos/core#prefLabel> "disguised unemployment"@en .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0628\u064A\u0643\u0627\u0631\u064A \u067E\u0646\u0647\u0627\u0646"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0938\u094D\u0935\u093E\u0901\u0917\u093F\u0924 \u092C\u0947\u0930\u094B\u091C\u0917\u093E\u0930\u0940"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2004/02/skos/core#prefLabel> "rejtett munkan\u00E9lk\u00FClis\u00E9g"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2004/02/skos/core#prefLabel> "Disoccupazione nascosta"@it .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u507D\u88C5\u5931\u696D"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC704\uC7A5\uC2E4\uC5C5"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0E99\u0EA7\u0EC8\u0EB2\u0E87\u0E87\u0EB2\u0E99\u0EAD\u0EB3\u0E9E\u0EB2\u0E87"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bezrobocie utajone"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2004/02/skos/core#prefLabel> "Desemprego disfar\u00E7ado"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0441\u043A\u0440\u044B\u0442\u0430\u044F \u0431\u0435\u0437\u0440\u0430\u0431\u043E\u0442\u0438\u0446\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2004/02/skos/core#prefLabel> "skryt\u00E1 nezamestnanos\u0165"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E27\u0E48\u0E32\u0E07\u0E07\u0E32\u0E19\u0E41\u0E1D\u0E07"@th .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6F5C\u5728\u5931\u4E1A"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2004/02/skos/core#prefLabel> "gizli i\u015Fsizlik"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10396> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_8061> .

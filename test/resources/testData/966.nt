@@ -1,0 +1,65 @@
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#scopeNote> "rostlin"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#scopeNote> "Von Pflanzen"@de .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#scopeNote> "Of plants"@en .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#scopeNote> "De plantas"@es .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0645\u0631\u0628\u0648\u0637 \u0628\u0647 \u06AF\u06CC\u0627\u0647\u0627\u0646."@fa .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#scopeNote> "Des plantes"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#scopeNote> "N\u00F6v\u00E9nyekre vonatkoz\u00F3an"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#scopeNote> "Delle piante"@it .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0E82\u0EAD\u0E87\u0E9E\u0EB7\u0E94"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#scopeNote> "Das plantas"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0E42\u0E23\u0E04\u0E41\u0E04\u0E07\u0E40\u0E01\u0E2D\u0E23\u0E4C\u0E02\u0E2D\u0E07\u0E1E\u0E37\u0E0A"@th .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#scopeNote> "Bitkilerde\n"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5962> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4174065-8> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_188> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299512036306> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299512036459> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299512036479> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299512036497> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299512036516> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299512036539> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299512036561> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299512036585> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299512036611> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299512036638> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299512036668> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299512036698> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299512036731> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299512036764> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299512036798> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299512036836> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299512036874> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299512036915> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299512036957> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1251_1321790179331> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1251_1328260269526> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://purl.org/dc/terms/created> "2012-02-03T17:11:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://purl.org/dc/terms/modified> "2013-08-27T20:03:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0642\u0631\u062D"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#prefLabel> "rakovina rostlin"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#prefLabel> "Krebs"@de .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#prefLabel> "cankers"@en .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#prefLabel> "Necrosis cancerosa"@es .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0634\u0627\u0646\u06A9\u0631\u0647\u0627"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chancre"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u0948\u0902\u0915\u0930 \u0930\u094B\u0917"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#prefLabel> "k\u00E9regelhal\u00E1s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cancri"@it .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u304C\u3093\u3057\u3085\u75C5"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uBD80\uB780\uBCD1"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E9E\u0EB0\u0E8D\u0EB2\u0E94\u0EC1\u0E84\u0ECA\u0E87\u0EC0\u0E81\u0EB5"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rak ro\u015Blinny"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cancro"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0440\u0430\u043A \u0440\u0430\u0441\u0442\u0435\u043D\u0438\u0439"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#prefLabel> "rakoviny rastl\u00EDn"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E42\u0E23\u0E04\u0E41\u0E04\u0E07\u0E40\u0E01\u0E2D\u0E23\u0E4C"@th .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u764C\u80BF"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#prefLabel> "pamuk\u00E7uk"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C21\u0C4A\u0C32\u0C4A\u0C2E\u0C48\u0C1F\u0C4D"@te .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#narrower> <http://aims.fao.org/aos/agrovoc/c_36836> .
+<http://aims.fao.org/aos/agrovoc/c_1251> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5962> .

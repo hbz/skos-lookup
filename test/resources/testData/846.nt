@@ -1,0 +1,103 @@
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#scopeNote> "\u0627\u06CC\u0648\u067E\u0627\u06A9 \u0634\u0645\u0627\u0631\u0647 12 11 13 1"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#scopeNote> "k\u00F3d IUPAC 1 13 11 12"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#scopeNote> "C\u00F3digo IUPAC 1 13 11 12"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#scopeNote> "Kod IUPAC 1 13 11 12"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#scopeNote> "c\u00F3digo IUPAC 1 13 11 12"@es .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#scopeNote> "Codice IUPAC 1 13 11 12"@it .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC code 1 13 11 12"@en .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#scopeNote> "Code IUPAC 1 13 11 12"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC \u0EA5\u0EB0\u0EAB\u0EB1\u0E94 1 13 11 12"@lo .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC k\u00F3d 1 13 11 12"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC code 1 13 11 12"@de .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC code 1 13 11 12"@th .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#scopeNote> "IUPAC kodu 1 13 11 12\n"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5474> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Lipoxygenase> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/22606> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299515940248> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299515940265> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299515940284> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299515940304> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299515940326> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299515940667> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299515940803> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299515940830> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299515940857> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299515940887> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299515940920> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299515940952> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299515940987> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299515941023> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299515941062> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299515941102> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299515941144> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299515941190> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299515941233> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12199_1321792501845> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_39c3ad06> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299515941899> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299515942690> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299515942404> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299515942543> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299515941734> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299515942334> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299515941788> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299515942141> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299515942078> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299515942616> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299515941358> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299515941956> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299515942268> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299515942204> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299515942473> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299515942016> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299515941844> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12198_1321792501698> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_ea57d9bc> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://purl.org/dc/terms/created> "2011-11-20T20:35:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://purl.org/dc/terms/modified> "2016-01-15T19:12:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0644\u064A\u0628\u0648\u0643\u0633\u064A\u062C\u064A\u0646\u0627\u0632"@ar .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#prefLabel> "lipoxygen\u00E1za"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lipoxygenase"@de .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#prefLabel> "lipoxygenase"@en .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lipoxigenasa"@es .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0644\u06CC\u067E\u0648\u0627\u06A9\u0633\u06CC\u0698\u0646\u0627\u0632"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lipoxyg\u00E9nase"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0932\u093E\u0908\u092A\u093E\u0901\u0915\u094D\u0938\u0940\u091C\u093F\u0928\u0947\u091C"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#prefLabel> "lipoxigen\u00E1z"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lipossigenasi"@it .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30EA\u30DD\u30AD\u30B7\u30B2\u30CA\u30FC\u30BC"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uB9AC\uD3ED\uC2DC\uAC8C\uB098\uC81C"@ko .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EC4\u0EA5\u0E9B\u0ECB\u0EAD\u0E81\u0E8A\u0EB5\u0E88\u0EB5\u0EC0\u0E99\u0E8A"@lo .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lipoksygenaza"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lipoxigenase"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043B\u0438\u043F\u043E\u043A\u0441\u0438\u0433\u0435\u043D\u0430\u0437\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#prefLabel> "lipoxygen\u00E1za"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E44\u0E25\u0E1E\u0E2D\u0E01\u0E0B\u0E35\u0E08\u0E35\u0E40\u0E19\u0E2A"@th .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8102\u80AA\u6C27\u5408\u9176"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#prefLabel> "lipoksigenaz"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#prefLabel> "lipoxigenaz\u0103"@mo .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#altLabel> "lipoxid\u00E1za"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#altLabel> "Lipoxidase"@de .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#altLabel> "lipoxidase"@en .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#altLabel> "Lipoxidasa"@es .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0644\u064A\u067E\u0648\u0643\u0633\u064A\u062F\u0627\u0632"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#altLabel> "Lipoxydase"@fr .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0932\u093E\u0908\u092A\u093E\u0901\u0915\u094D\u0938\u0940\u0921\u0947\u091C"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#altLabel> "lipoxid\u00E1z"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#altLabel> "Lipossidasi"@it .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#altLabel> "\u30EA\u30DD\u30AD\u30B7\u30C0\u30FC\u30BC"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#altLabel> "\uC9C0\uBC29\uC0B0\uD654\uD6A8\uC18C"@ko .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0EC4\u0EA5\u0E9B\u0ECB\u0EAD\u0E81\u0E8A\u0EB4\u0EC0\u0E94\u0E8A"@lo .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#altLabel> "Lipoksydaza"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#altLabel> "Lipox\u00EDdase"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043B\u0438\u043F\u043E\u043A\u0441\u0438\u0434\u0430\u0437\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#altLabel> "lipoxid\u00E1za"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E44\u0E25\u0E42\u0E1B\u0E0B\u0E34\u0E40\u0E14\u0E2A"@th .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#altLabel> "lipoksidaz"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#altLabel> "lipoxidaz\u0103"@mo .
+<http://aims.fao.org/aos/agrovoc/c_12199> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_5474> .

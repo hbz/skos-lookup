@@ -1,0 +1,57 @@
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3802> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Humoral_immunity> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_44660> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/10233> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299511099946> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299511099968> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1311932136752> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299511100019> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299511100052> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299511100087> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299511100133> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299511100168> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299511100198> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299511100230> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299511100278> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299511100344> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299511100878> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299511100913> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299511100949> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299511100988> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299511101049> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299511101101> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299511101161> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11639_1321792433360> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_11639_1328258959844> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_104e56dd> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299511099989> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://purl.org/dc/terms/created> "2012-02-03T16:49:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://purl.org/dc/terms/modified> "2015-11-27T22:04:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0645\u0646\u0627\u0639\u0629 \u062E\u0644\u0637\u064A\u0629"@ar .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#prefLabel> "humor\u00E1ln\u00ED imunita"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#prefLabel> "Humorale Immunit\u00E4t"@de .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#prefLabel> "humoral immunity"@en .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inmunidad humoral"@es .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u06CC\u0645\u0646\u06CC \u0647\u0648\u0645\u0648\u0631\u0627\u0644"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#prefLabel> "Immunit\u00E9 humorale"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0939\u094D\u092F\u0942\u092E\u094B\u0930\u0932 \u092A\u094D\u0930\u0924\u093F\u0930\u0915\u094D\u0937\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#prefLabel> "humor\u00E1lis immunit\u00E1s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#prefLabel> "Immunit\u00E0 umorale"@it .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4F53\u6DB2\u6027\u514D\u75AB"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uCCB4\uC561\uBA74\uC5ED"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E9E\u0EB9\u0EA1\u0E84\u0EC9\u0EB8\u0EA1\u0E81\u0EB1\u0E99\u0E88\u0EB2\u0E81\u0EC2\u0EAE\u0EC2\u0EA1\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#prefLabel> "Odporno\u015B\u0107 humoralna"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#prefLabel> "Imunidade humoral"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0433\u0443\u043C\u043E\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0438\u043C\u043C\u0443\u043D\u0438\u0442\u0435\u0442"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#prefLabel> "humor\u00E1lna imunita"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E20\u0E39\u0E21\u0E34\u0E04\u0E38\u0E49\u0E21\u0E01\u0E31\u0E19\u0E2E\u0E2D\u0E23\u0E4C\u0E42\u0E21\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4F53\u6DB2\u514D\u75AB"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#prefLabel> "humoral ba\u011F\u0131\u015F\u0131kl\u0131k"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C0E\u0C2E\u0C41\u0C15 \u0C1C\u0C28\u0C3F\u0C24 \u0C38\u0C4D\u0C35\u0C40\u0C2F \u0C30\u0C15\u0C4D\u0C37\u0C23 \u0C36\u0C15\u0C4D\u0C24\u0C3F"@te .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#prefLabel> "imunitate humoral\u0103"@mo .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#altLabel> "Humorale Immunitaet"@de .
+<http://aims.fao.org/aos/agrovoc/c_11639> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3802> .

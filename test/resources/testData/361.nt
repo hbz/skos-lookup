@@ -1,0 +1,91 @@
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#broadMatch> <http://cat.aii.caas.cn/concept/c_38253> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_107> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Actinidia_chinensis> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_30838> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_44541> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_58194> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_5267> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/3213> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://aims.fao.org/aos/agrontology#hasTaxonomicRank> <http://aims.fao.org/aos/agrovoc/c_331243> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299498925752> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299498925767> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299498925790> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299498925818> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299498925840> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299498925863> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299498925885> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299498925909> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299498925935> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299498925972> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299498926001> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299498926035> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299498926067> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299498926112> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299498926154> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299498926193> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299498926239> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299498926302> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299498926350> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_108_1321789478278> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299498926833> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299498927097> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299498928433> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299498928103> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299498928261> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299498926750> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299498928026> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299498926914> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299498927786> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299498927687> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299498927199> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299498927941> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299498927852> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299498928176> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299498927289> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299498927019> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299498927424> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://purl.org/dc/terms/created> "2011-11-20T19:44:38Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://purl.org/dc/terms/modified> "2013-08-28T23:38:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0623\u0643\u062A\u064A\u0646\u064A\u062F\u064A\u0627 \u0635\u064A\u0646\u064A\u0629"@ar .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#prefLabel> "Actinidia chinensis"@cs .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#prefLabel> "Actinidia chinensis"@de .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#prefLabel> "Actinidia chinensis"@en .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#prefLabel> "Actinidia chinensis"@es .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u06A9\u062A\u06CC\u0646\u06CC\u062F\u06CC\u0627 \u06A9\u06CC\u0646\u0627\u0646\u0633\u06CC\u0633"@fa .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#prefLabel> "Actinidia chinensis"@fr .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u090F\u0915\u094D\u091F\u0940\u0928\u0940\u0921\u093F\u092F\u093E \u091A\u093E\u0907\u0928\u0947\u0928\u094D\u0938\u093F\u0938 (\u0915\u0940\u0935\u0940\u092B\u0932)"@hi .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#prefLabel> "Actinidia chinensis"@hu .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#prefLabel> "Actinidia chinensis"@it .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30AD\u30A6\u30A4\u30D5\u30EB\u30FC\u30C4"@ja .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC591\uB2E4\uB798"@ko .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#prefLabel> "Actinidia chinensis"@lo .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#prefLabel> "Actinidia chinensis"@pl .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#prefLabel> "Actinidia chinensis"@pt .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#prefLabel> "Actinidia chinensis"@ru .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#prefLabel> "Actinidia chinensis"@sk .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#prefLabel> "Actinidia chinensis"@th .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4E2D\u534E\u7315\u7334\u6843"@zh .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#prefLabel> "Actinidia chinensis"@tr .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0623\u0643\u064A\u062A\u064A\u0646\u064A\u062F\u0627 \u0635\u064A\u0646\u064A\u0629"@ar .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#altLabel> "Actinidia sinensis"@cs .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#altLabel> "Actinidia sinensis"@de .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#altLabel> "Actinidia sinensis"@en .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#altLabel> "Actinidia sinensis"@es .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0627\u0643\u062A\u064A\u0646\u064A\u062F\u064A\u0627 \u0633\u064A\u0646\u0627\u0646\u0633\u064A\u0633"@fa .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#altLabel> "Actinidia sinensis"@fr .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#altLabel> "\u090F\u0915\u094D\u091F\u0940\u0928\u0940\u0921\u093F\u092F\u093E \u0938\u093F\u0928\u0947\u0928\u0938\u093F\u0938"@hi .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#altLabel> "Actinidia sinensis"@hu .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#altLabel> "Actinidia sinensis"@it .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#altLabel> "Actinidia sinensis"@lo .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#altLabel> "Actinidia sinensis"@pl .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#altLabel> "Actinidia sinensis"@pt .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#altLabel> "Actinidia sinensis"@ru .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#altLabel> "Actinidia sinensis"@sk .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#altLabel> "Actinidia sinensis"@th .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#altLabel> "actinidia sinensis"@zh .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#broadMatch> <http://cat.aii.caas.cn/concept/c_38253> .
+<http://aims.fao.org/aos/agrovoc/c_108> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_107> .

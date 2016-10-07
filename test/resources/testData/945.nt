@@ -1,0 +1,43 @@
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3485> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://aims.fao.org/aos/agrontology#includes> <http://aims.fao.org/aos/agrovoc/c_34919> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299517457931> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299517457946> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299517457963> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299517457983> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299517458003> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299517458048> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299517458070> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299517458093> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299517458119> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299517458146> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299517458174> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299517458203> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299517458428> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299517458463> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12464_1321792530700> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_uk_1330775530133> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ms_1310540429177> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://purl.org/dc/terms/created> "2011-11-20T20:35:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://purl.org/dc/terms/modified> "2014-07-03T19:09:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2004/02/skos/core#prefLabel> "mechanick\u00E1 manipulace"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mechanische Handhabung"@de .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2004/02/skos/core#prefLabel> "mechanical handling"@en .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062C\u0627\u0628\u062C\u0627\u064A\u064A \u0645\u0643\u0627\u0646\u064A\u0643\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092F\u093E\u0902\u0924\u094D\u0930\u093F\u0915\u0940\u092F \u0915\u093E\u0930\u094D\u092F \u0922\u0902\u0917"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2004/02/skos/core#prefLabel> "g\u00E9pi kezel\u00E9s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2004/02/skos/core#prefLabel> "Movimentazione meccanica"@it .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6A5F\u68B0\u904B\u642C"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2004/02/skos/core#prefLabel> "Transport mechaniczny"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2004/02/skos/core#prefLabel> "Movimenta\u00E7\u00E3o mec\u00E2nica"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043C\u0435\u0445\u0430\u043D\u0438\u0437\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u043E\u0435 \u043F\u0435\u0440\u0435\u043C\u0435\u0449\u0435\u043D\u0438\u0435 \u0433\u0440\u0443\u0437\u043E\u0432"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2004/02/skos/core#prefLabel> "mechanick\u00E1 manipul\u00E1cia"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E25\u0E33\u0E40\u0E25\u0E35\u0E22\u0E07\u0E42\u0E14\u0E22\u0E27\u0E34\u0E18\u0E35\u0E01\u0E25"@th .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u673A\u68B0\u88C5\u5378"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2004/02/skos/core#prefLabel> "mekanik i\u015Flem"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043C\u0435\u0445\u0430\u043D\u0456\u0437\u043E\u0432\u0430\u043D\u0435 \u043F\u0435\u0440\u0435\u043C\u0456\u0449\u0435\u043D\u043D\u044F \u0432\u0430\u043D\u0442\u0430\u0436\u0456\u0432"@uk .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2004/02/skos/core#altLabel> "Pengendalian mekanikal"@ms .
+<http://aims.fao.org/aos/agrovoc/c_12464> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_3485> .

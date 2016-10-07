@@ -1,0 +1,21 @@
+<http://aims.fao.org/aos/agrovoc/c_05c08c04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_05c08c04> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_05c08c04> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_12240> .
+<http://aims.fao.org/aos/agrovoc/c_05c08c04> <http://aims.fao.org/aos/agrontology#hasTaxonomicRank> <http://aims.fao.org/aos/agrovoc/c_331243> .
+<http://aims.fao.org/aos/agrovoc/c_05c08c04> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_cb1bd6ab> .
+<http://aims.fao.org/aos/agrovoc/c_05c08c04> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_01b65166> .
+<http://aims.fao.org/aos/agrovoc/c_05c08c04> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_5909deec> .
+<http://aims.fao.org/aos/agrovoc/c_05c08c04> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_ea701885> .
+<http://aims.fao.org/aos/agrovoc/c_05c08c04> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_3b0c4ea2> .
+<http://aims.fao.org/aos/agrovoc/c_05c08c04> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_dd804ec7> .
+<http://aims.fao.org/aos/agrovoc/c_05c08c04> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_05c08c04> <http://purl.org/dc/terms/created> "2015-06-29T07:20:44Z"^^<xsd:http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_05c08c04> <http://purl.org/dc/terms/modified> "2015-09-22T18:21:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_05c08c04> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_05c08c04> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lonicera periclymenum"@en .
+<http://aims.fao.org/aos/agrovoc/c_05c08c04> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lonicera periclymenum"@de .
+<http://aims.fao.org/aos/agrovoc/c_05c08c04> <http://www.w3.org/2004/02/skos/core#altLabel> "common honeysuckle"@en .
+<http://aims.fao.org/aos/agrovoc/c_05c08c04> <http://www.w3.org/2004/02/skos/core#altLabel> "European honeysuckle"@en .
+<http://aims.fao.org/aos/agrovoc/c_05c08c04> <http://www.w3.org/2004/02/skos/core#altLabel> "Waldgei\u00DFblatt"@de .
+<http://aims.fao.org/aos/agrovoc/c_05c08c04> <http://www.w3.org/2004/02/skos/core#altLabel> "Wildes Gei\u00DFblatt"@de .
+<http://aims.fao.org/aos/agrovoc/c_05c08c04> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_12240> .

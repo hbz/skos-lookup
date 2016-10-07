@@ -1,0 +1,52 @@
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7171> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://aims.fao.org/aos/agrontology#influences> <http://aims.fao.org/aos/agrovoc/c_2410> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://aims.fao.org/aos/asfa/c_5403> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299518534528> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299518534544> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299518534561> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299518534579> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299518534599> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299518534623> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299518534646> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299518534670> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299518534695> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299518534723> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299518534752> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299518534783> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299518534816> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299518534850> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299518534885> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299518534923> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299518534961> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299518535001> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10483_1321796245492> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1328087830368> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1336132094574> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://purl.org/dc/terms/created> "2011-11-20T21:37:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://purl.org/dc/terms/modified> "2014-07-03T18:02:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#prefLabel> "zpev\u0148ov\u00E1n\u00ED dun"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duenenfixierung"@de .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#prefLabel> "dune fixation"@en .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fijaci\u00F3n de dunas"@es .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062A\u062B\u0628\u064A\u062A \u062A\u0644\u0645\u0627\u0633\u0647"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fixation des dunes"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u091F\u0940\u0932\u093E \u0938\u094D\u0925\u093F\u0930\u0940\u0915\u0930\u0923"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#prefLabel> "d\u00FBne megk\u00F6t\u00E9se"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fissazione delle dune"@it .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7802\u4E18\u56FA\u5B9A"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC0AC\uAD6C\uACE0\uC815"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0E99\u0E88\u0EB3\u0E81\u0EB1\u0E94\u0E9E\u0EB7\u0EC9\u0E99\u0E97\u0EB5\u0EC8\u0EC2\u0E99\u0E99\u0E8A\u0EB2\u0E8D"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#prefLabel> "Utrwalanie wydm"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fixa\u00E7\u00E3o de duna"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0437\u0430\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u0438\u0435 \u043F\u0435\u0441\u043A\u043E\u0432"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#prefLabel> "spev\u0148ovanie d\u00FAn"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E08\u0E33\u0E01\u0E31\u0E14\u0E1E\u0E37\u0E49\u0E19\u0E17\u0E35\u0E48\u0E40\u0E19\u0E34\u0E19\u0E17\u0E23\u0E32\u0E22"@th .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6C99\u4E18\u56FA\u5B9A"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#prefLabel> "kumul stabilizasyonu"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#altLabel> "D\u00FCnenfixierung"@de .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#altLabel> "kumul duraylama"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10483> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7171> .

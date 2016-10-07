@@ -1,0 +1,16 @@
+<http://aims.fao.org/aos/agrovoc/c_10b87fa7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10b87fa7> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10b87fa7> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_427> .
+<http://aims.fao.org/aos/agrovoc/c_10b87fa7> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_abcb4686> .
+<http://aims.fao.org/aos/agrovoc/c_10b87fa7> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1c10538f> .
+<http://aims.fao.org/aos/agrovoc/c_10b87fa7> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_646fe2b8> .
+<http://aims.fao.org/aos/agrovoc/c_10b87fa7> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_c5da3208> .
+<http://aims.fao.org/aos/agrovoc/c_10b87fa7> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10b87fa7> <http://purl.org/dc/terms/created> "2015-04-27T12:45:52Z"^^<xsd:http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10b87fa7> <http://purl.org/dc/terms/modified> "2015-05-06T22:26:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10b87fa7> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10b87fa7> <http://www.w3.org/2004/02/skos/core#prefLabel> "human-wildlife relations"@en .
+<http://aims.fao.org/aos/agrovoc/c_10b87fa7> <http://www.w3.org/2004/02/skos/core#prefLabel> "vztahy \u010Dlov\u011Bka a voln\u011B \u017Eij\u00EDc\u00EDch zv\u00ED\u0159at"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10b87fa7> <http://www.w3.org/2004/02/skos/core#altLabel> "human-wildlife conflicts"@en .
+<http://aims.fao.org/aos/agrovoc/c_10b87fa7> <http://www.w3.org/2004/02/skos/core#altLabel> "konflikty mezi \u010Dlov\u011Bkem a voln\u011B \u017Eij\u00EDc\u00EDmi zv\u00ED\u0159aty"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10b87fa7> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_427> .

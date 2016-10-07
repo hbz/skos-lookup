@@ -1,0 +1,13 @@
+<http://aims.fao.org/aos/agrovoc/c_016fddeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_016fddeb> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_016fddeb> <http://www.w3.org/2004/02/skos/core#definition> <http://aims.fao.org/aos/agrovoc/xDef_9f39e333> .
+<http://aims.fao.org/aos/agrovoc/c_016fddeb> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_32749> .
+<http://aims.fao.org/aos/agrovoc/c_016fddeb> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_6d07a3e4> .
+<http://aims.fao.org/aos/agrovoc/c_016fddeb> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_8c4ed6d2> .
+<http://aims.fao.org/aos/agrovoc/c_016fddeb> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_016fddeb> <http://purl.org/dc/terms/created> "2016-01-14T11:04:59Z"^^<xsd:http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_016fddeb> <http://purl.org/dc/terms/modified> "2016-01-15T19:16:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_016fddeb> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_016fddeb> <http://www.w3.org/2004/02/skos/core#prefLabel> "C katman\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_016fddeb> <http://www.w3.org/2004/02/skos/core#altLabel> "C horizonu"@tr .
+<http://aims.fao.org/aos/agrovoc/c_016fddeb> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_32749> .

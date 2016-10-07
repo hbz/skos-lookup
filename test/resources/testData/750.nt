@@ -1,0 +1,61 @@
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1191> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://aims.fao.org/aos/agrontology#hasTaxonomicRank> <http://aims.fao.org/aos/agrovoc/c_331243> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299499242712> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299499242729> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299499242746> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299499242766> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299499242788> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299499242813> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299499242839> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299499242866> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299499242896> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299499242930> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299499242964> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299499242999> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299499243042> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299499243081> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299499243123> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299499243165> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299499243207> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299499243252> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1193_1321790144584> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299499243629> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299499243682> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299499243783> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299499243889> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299499243945> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299499244002> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299499244062> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://purl.org/dc/terms/created> "2011-11-20T19:55:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://purl.org/dc/terms/modified> "2013-08-28T22:52:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0643\u0627\u0644\u0627\u062A\u064A\u0627 \u0635\u0641\u0631\u0627\u0621"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calathea lutea"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calathea lutea"@de .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calathea lutea"@en .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calathea lutea"@es .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u06A9\u0627\u0644\u0627\u062A\u0626\u0627 \u0644\u0648\u062A\u0626\u0627"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calathea lutea"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u0948\u0932\u093E\u0925\u0940 \u0932\u0942\u091F\u0940\u092F\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calathea lutea"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calathea lutea"@it .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30AB\u30E9\u30C6\u30A2\u3000\u30EB\u30C6\u30A2"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calathea lutea"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calathea lutea"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calathea lutea"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calathea lutea"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calathea lutea"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calathea lutea"@th .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u91D1\u9EC4\u8096\u7AF9\u828B"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calathea lutea"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0915\u093E\u090A\u0938\u0942 (\u0915\u094D\u0935\u093E\u0938\u0942)"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#altLabel> "ler\u00E9n"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#altLabel> "Cauassu"@it .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#altLabel> "Cauassu"@en .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043A\u0430\u043B\u0430\u0442\u0435\u044F \u0436\u0435\u043B\u0442\u0430\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#altLabel> "Cauassu"@es .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#altLabel> "\u30AB\u30E9\u30C6\u30A2"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1193> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1191> .

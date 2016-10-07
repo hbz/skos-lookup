@@ -1,0 +1,44 @@
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_432> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/24201> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/9252> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299523443785> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299523443803> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299523443821> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299523443840> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299523443861> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299523443883> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299523444184> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299523444212> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299523444260> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299523444291> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299523444440> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299523444473> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299523444509> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299523444544> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1320397538133> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_12241_1321792506036> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1320397579225> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://purl.org/dc/terms/created> "2011-11-20T20:35:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://purl.org/dc/terms/modified> "2014-07-03T19:32:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2004/02/skos/core#prefLabel> "voln\u00E9 ust\u00E1jen\u00ED"@cs .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2004/02/skos/core#prefLabel> "loose housing"@en .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0645\u062D\u0644 \u0646\u06AF\u0647\u062F\u0627\u0631\u064A \u0628\u0627\u0632 (\u062C\u0627\u0646\u0648\u0631)"@fa .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0928\u093F\u0930\u094D\u092C\u0928\u094D\u0927\u093F\u0924 \u092C\u093E\u095C\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2004/02/skos/core#prefLabel> "k\u00F6tetlen tart\u00E1s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stabulazione libera"@it .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30EB\u30FC\u30B9\u30CF\u30A6\u30B8\u30F3\u30B0"@ja .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uAC1C\uBC29\uC2DD\uC6B0\uC0AC"@ko .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2004/02/skos/core#prefLabel> "Budynki wolnostanowiskowe"@pl .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2004/02/skos/core#prefLabel> "Estabula\u00E7\u00E3o livre"@pt .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043F\u043E\u043C\u0435\u0449\u0435\u043D\u0438\u044F \u0434\u043B\u044F \u0431\u0435\u0441\u043F\u0440\u0438\u0432\u044F\u0437\u043D\u043E\u0433\u043E \u0441\u043E\u0434\u0435\u0440\u0436\u0430\u043D\u0438\u044F \u0441\u043A\u043E\u0442\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2004/02/skos/core#prefLabel> "vo\u013En\u00E9 ustajnenie"@sk .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E42\u0E23\u0E07\u0E40\u0E23\u0E37\u0E2D\u0E19\u0E17\u0E35\u0E48\u0E1B\u0E25\u0E48\u0E2D\u0E22\u0E43\u0E2B\u0E49\u0E2A\u0E31\u0E15\u0E27\u0E4C\u0E40\u0E14\u0E34\u0E19\u0E44\u0E14\u0E49"@th .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6563\u517B\u5708\u820D"@zh .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laufstallhaltung"@de .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2004/02/skos/core#prefLabel> "serbest ah\u0131r sistemi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2004/02/skos/core#altLabel> "Freilandhaltung"@de .
+<http://aims.fao.org/aos/agrovoc/c_12241> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_432> .

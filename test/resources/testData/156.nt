@@ -1,0 +1,37 @@
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4952> .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/9026> .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299509837794> .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299509838059> .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299509838079> .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299509838102> .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299509838123> .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299509838145> .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299509838168> .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299509838194> .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299509838220> .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299509838259> .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299509838290> .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299509838323> .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299509838357> .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10277_1321792280681> .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://purl.org/dc/terms/created> "2011-11-20T20:31:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://purl.org/dc/terms/modified> "2014-07-03T17:07:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2004/02/skos/core#prefLabel> "plemenice"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2004/02/skos/core#prefLabel> "Muttertier"@de .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2004/02/skos/core#prefLabel> "dams (mothers)"@en .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0645\u0627\u062F\u0631\u0647\u0627 (\u062C\u0627\u0646\u0648\u0631)"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092A\u094D\u0930\u091C\u0928\u0928\u0940 / \u092E\u093E\u0924\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2004/02/skos/core#prefLabel> "anya\u00E1llat"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2004/02/skos/core#prefLabel> "Riproduttrici (in particolare nei quadrupedi)"@it .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u96CC\u89AA"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EC1\u0EA1\u0EC8\u0E9E\u0EB1\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2004/02/skos/core#prefLabel> "F\u00EAmea (como m\u00E3e)"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0441\u0430\u043C\u043A\u0438 (\u043C\u0430\u0442\u0435\u0440\u0438)"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2004/02/skos/core#prefLabel> "plemenice (matky)"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E41\u0E21\u0E48\u0E1E\u0E31\u0E19\u0E18\u0E38\u0E4C (\u0E41\u0E21\u0E48)"@th .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2004/02/skos/core#prefLabel> "ana hayvan"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10277> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_4952> .

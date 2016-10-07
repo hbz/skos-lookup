@@ -1,0 +1,47 @@
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1070> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://aims.fao.org/aos/agrontology#isPartOfSubvocabulary> "Geographical below country level" .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299521194678> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299521194695> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299521194714> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299521194732> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299521194839> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299521194996> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299521195024> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299521195048> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299521195075> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299521195104> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299521195134> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299521195166> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299521195198> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299521195233> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299521195271> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299521195310> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299521195349> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299521195440> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_100_1321789474130> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://purl.org/dc/terms/created> "2011-11-20T19:44:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://purl.org/dc/terms/modified> "2011-11-20T19:44:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0623\u0643\u0631\u064A (\u0628\u0631\u0627\u0632\u064A\u0644)"@ar .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acre (Braz\u00EDlie)"@cs .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acre"@de .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acre (Brazil)"@en .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acre (Brasil)"@es .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0622\u06A9\u0631\u0647 (\u0628\u0631\u0632\u06CC\u0644)"@fa .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acre (Br\u00E9sil)"@fr .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u090F\u0915\u0930\u0947 (\u092C\u094D\u0930\u093E\u091C\u0940\u0932)"@hi .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acre (Braz\u00EDlia)"@hu .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acre (Brasile)"@it .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30A2\u30AF\u30EC\u5DDE"@ja .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EAD\u0EB2\u0E81\u0EB0\u0EC0\u0EA3\u0EB4 (\u0E9A\u0EB0\u0EA3\u0EB2\u0E8A\u0EB4\u0E99)"@lo .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acre (Brazylia)"@pl .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acre (Brasil)"@pt .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0430\u043A\u0440\u0438 (\u0431\u0440\u0430\u0437\u0438\u043B\u0438\u044F)"@ru .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acre (Braz\u00EDlia)"@sk .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E40\u0E2D\u0E40\u0E04\u0E2D\u0E23\u0E4C (\u0E1A\u0E23\u0E32\u0E0B\u0E34\u0E25)"@th .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u963F\u514B\u91CC\u5DDE"@zh .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Akre (Brezilya)"@tr .
+<http://aims.fao.org/aos/agrovoc/c_100> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1070> .

@@ -1,0 +1,115 @@
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7715> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://aims.fao.org/aos/agrontology#makeUseOf> <http://aims.fao.org/aos/agrovoc/c_7714> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299519087571> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299519087586> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299519087603> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299519087621> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299519087641> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299519087663> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299519087686> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299519087712> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299519087739> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299519087768> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299519087797> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299519087828> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299519087861> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299519087894> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299519087930> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299519087967> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299519088006> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299519088048> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10369_1321792294284> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299519088743> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299519090026> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299519089355> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299519091152> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1316505506727> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1316505560245> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1327310563691> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299519089151> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299519090813> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299519089217> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299519090927> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299519088536> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299519089427> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299519089087> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299519090694> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299519088616> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299519089505> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299519088910> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299519090324> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299519088857> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299519090209> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299519089285> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299519091040> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299519088484> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299519089025> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299519090537> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299519088967> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299519090434> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299519088693> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299519089583> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299519088798> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299519090128> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_36039_1321794628907> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_36039_1321794629104> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://purl.org/dc/terms/created> "2011-11-20T21:10:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://purl.org/dc/terms/modified> "2014-07-03T18:19:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0645\u0639\u0627\u0644\u062C\u0629 \u0628\u0627\u0644\u062D\u0645\u064A\u0629"@ar .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#prefLabel> "l\u00E9\u010Dba stravou"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#prefLabel> "Behandlung durch Diaet"@de .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#prefLabel> "diet treatment"@en .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tratamiento por dieta"@es .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062F\u0631\u0645\u0627\u0646 \u0631\u0698\u06CC\u0645\u06CC"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#prefLabel> "Traitement par r\u00E9gime alimentaire"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0906\u0939\u093E\u0930 \u0909\u092A\u091A\u093E\u0930"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#prefLabel> "di\u00E9t\u00E1s kezel\u00E9s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trattamento dietetico"@it .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u98DF\u990C\u7642\u6CD5"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC2DD\uC774\uCC98\uB9AC"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0E99\u0E9A\u0EB3\u0E9A\u0EB1\u0E94\u0E97\u0EB2\u0E87\u0EAD\u0EB2\u0EAB\u0EB2\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leczenie diet\u0105"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tratamento por dieta"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#prefLabel> "lie\u010Dba stravou"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E23\u0E31\u0E01\u0E29\u0E32\u0E42\u0E23\u0E04\u0E42\u0E14\u0E22\u0E43\u0E0A\u0E49\u0E2D\u0E32\u0E2B\u0E32\u0E23"@th .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u98DF\u7269\u7597\u6CD5"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#prefLabel> "diyet muamelesi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "l\u00E9\u010Dba dietou"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "nutri\u010Dn\u00ED terapie"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "Diaettherapie"@de .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "Ernaehrungstherapie"@de .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "Behandlung durch Di\u00E4t"@de .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "Di\u00E4ttherapie"@de .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "Ern\u00E4hrungstherapie"@de .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "diet therapy"@en .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "nutritional therapy"@en .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "Terapia diet\u00E9tica"@es .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "Terapia nutricional"@es .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0631\u0698\u064A\u0645\u200C\u062F\u0631\u0645\u0627\u0646\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062F\u0631\u0645\u0627\u0646 \u062A\u063A\u0630\u064A\u0647\u200C\u0627\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "Th\u00E9rapeutique r\u00E9gime alimentaire"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "Th\u00E9rapeutique nutritionnelle"@fr .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0906\u0939\u093E\u0930 \u091A\u093F\u0915\u093F\u0924\u094D\u0938\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "\u092A\u094B\u0937\u0923 \u091A\u093F\u0915\u093F\u0924\u094D\u0938\u093E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "di\u00E9t\u00E1s ter\u00E1pia"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "t\u00E1pl\u00E1lkoz\u00E1si ter\u00E1pia"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "Terapia dietetica"@it .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "Terapia nutrizionale"@it .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "\u98DF\u990C\u7642\u6CD5\u3001\u98DF\u4E8B\u7642\u6CD5"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "\u6804\u990A\u6027\u6CBB\u7642\u3001\u98DF\u990C\u6CBB\u7642\u3001\u6804\u990A\u7642\u6CD5"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "\uC2DD\uC774\uC694\uBC95\uCE58\uB8CC"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "Terapia diet\u0105"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "Terapia \u017Cywieniem"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "Terapia diet\u00E9tica"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "Terap\u00EAutica nutricional"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E42\u0E20\u0E0A\u0E19\u0E1A\u0E33\u0E1A\u0E31\u0E14"@th .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E2A\u0E32\u0E23\u0E2D\u0E32\u0E2B\u0E32\u0E23\u0E1A\u0E33\u0E1A\u0E31\u0E14"@th .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "\u81B3\u98DF\u7597\u6CD5"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "\u8425\u517B\u7597\u6CD5"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "diyet terapisi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#altLabel> "diyet tedavisi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10369> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7715> .

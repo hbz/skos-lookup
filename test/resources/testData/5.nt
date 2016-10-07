@@ -1,0 +1,6 @@
+<http://aims.fao.org/aos/agrontology#isSpatiallyIncludedIn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://aims.fao.org/aos/agrontology#isSpatiallyIncludedIn> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://aims.fao.org/aos/agrontology#isPartOf> .
+<http://aims.fao.org/aos/agrontology#isSpatiallyIncludedIn> <http://www.w3.org/2000/01/rdf-schema#domain> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrontology#isSpatiallyIncludedIn> <http://www.w3.org/2002/07/owl#inverseOf> <http://aims.fao.org/aos/agrontology#spatiallyIncludes> .
+<http://aims.fao.org/aos/agrontology#isSpatiallyIncludedIn> <http://www.w3.org/2000/01/rdf-schema#label> "Is spatially included in"@en .
+<http://aims.fao.org/aos/agrontology#isSpatiallyIncludedIn> <http://www.w3.org/2000/01/rdf-schema#comment> "Y <isSpatiallyIncludedIn> X. Part X is an inalienable part of Y. E.g. \"Congo\" <isSpatiallyIncludedIn> \"Africa\"; \"Southeast Asia\" <isSpatiallyIncludedIn> \"Asia\"; \"hand\" <isSpatiallyIncludedIn> \"arm\"."@en .

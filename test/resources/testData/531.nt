@@ -1,0 +1,46 @@
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1320> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Grand_Cayman> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://aims.fao.org/aos/agrontology#isPartOfSubvocabulary> "Geographical below country level" .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299520985382> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299520985423> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299520985470> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299520985505> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299520985527> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299520985553> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299520985582> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299520985708> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299520985753> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299520985806> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299520985899> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299520985936> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299520986099> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299520986380> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299520986422> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299520986467> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299520986521> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11251_1321792396439> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://purl.org/dc/terms/created> "2011-11-20T20:33:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://purl.org/dc/terms/modified> "2013-08-29T23:02:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0643\u0627\u064A\u0645\u0627\u0646 \u0627\u0644\u0643\u0628\u064A\u0631"@ar .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2004/02/skos/core#prefLabel> "Velk\u00FD Kajmansk\u00FD ostrov"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grand Cayman"@de .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grand Cayman"@en .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gran Caim\u00E1n"@es .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u06AF\u0631\u0627\u0646\u062F \u0643\u064A\u0645\u0646"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grande Ca\u00EFmane"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0917\u094D\u0930\u0948\u0921\u0902 \u0915\u0947\u092E\u0948\u0928"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nagy Kajm\u00E1n"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grande Cayman"@it .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30B0\u30E9\u30F3\u30C9\u3000\u30B1\u30A4\u30DE\u30F3"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uADF8\uB79C\uB4DC\uCF00\uC774\uB9E8"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kajman Wielki"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grande Cayman"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0431\u043E\u043B\u044C\u0448\u043E\u0439 \u043A\u0430\u0439\u043C\u0430\u043D"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grand Cayman"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E41\u0E01\u0E23\u0E19\u0E14\u0E4C\u0E40\u0E04\u0E22\u0E4C\u0E41\u0E21\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grand Cayman"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11251> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_1320> .

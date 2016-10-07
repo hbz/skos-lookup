@@ -1,0 +1,48 @@
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7715> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://id.loc.gov/authorities/sh85049386#concept> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/40688> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299519091316> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299519091346> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299519091369> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299519091389> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299519091410> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299519091432> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299519091456> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299519091482> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299519091518> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299519091551> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299519091583> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299519091616> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299519091650> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299519091699> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299519091743> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299519091785> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10932_1321792357609> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_10932_1328258460495> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1326967157155> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://purl.org/dc/terms/created> "2012-02-03T16:41:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://purl.org/dc/terms/modified> "2014-07-03T18:19:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#prefLabel> "l\u00E9\u010Dba tekutinami"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fluessigkeitstherapie"@de .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#prefLabel> "fluid therapy"@en .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#prefLabel> "Terapia de l\u00EDquidos"@es .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0645\u0627\u064A\u0639\u200C\u062F\u0631\u0645\u0627\u0646\u064A"@fa .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0926\u094D\u0930\u0935 \u0909\u092A\u091A\u093E\u0930"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#prefLabel> "folyad\u00E9kter\u00E1pia"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#prefLabel> "Terapia fluida"@it .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8F38\u6DB2\u6CBB\u7642"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC218\uC561"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leczenie p\u0142ynami"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#prefLabel> "Terapia l\u00EDquida"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0436\u0438\u0434\u043A\u043E\u0441\u0442\u043D\u0430\u044F \u0442\u0435\u0440\u0430\u043F\u0438\u044F"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#prefLabel> "lie\u010Dba tekutinami"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E01\u0E32\u0E23\u0E43\u0E2B\u0E49\u0E2D\u0E32\u0E2B\u0E32\u0E23\u0E40\u0E2B\u0E25\u0E27"@th .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6DB2\u4F53\u7597\u6CD5"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#prefLabel> "s\u0131v\u0131 tedavisi"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C26\u0C4D\u0C30\u0C35 \u0C1A\u0C3F\u0C15\u0C3F\u0C24\u0C4D\u0C38"@te .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#altLabel> "Fl\u00FCssigkeitstherapie"@de .
+<http://aims.fao.org/aos/agrovoc/c_10932> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_7715> .

@@ -1,0 +1,37 @@
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_473> .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Eland> .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299491001941> .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299491001957> .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299491001973> .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299491002018> .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299491002043> .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299491002067> .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299491002092> .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299491002121> .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299491002150> .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299491002204> .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299491002251> .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299491002306> .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299491002383> .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299491002440> .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://purl.org/dc/terms/created> "1981-01-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://purl.org/dc/terms/modified> "2013-08-29T17:43:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2004/02/skos/core#prefLabel> "antilopa los\u00ED"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elenantilope"@de .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2004/02/skos/core#prefLabel> "eland"@en .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0907\u0932\u0948\u0923\u094D\u0921"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2004/02/skos/core#prefLabel> "j\u00E1vorantilop"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eland"@it .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30A4\u30E9\u30F3\u30C9"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uD070\uC601\uC591"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EA1\u0EB1\u0EC8\u0E87"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eland"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0430\u043D\u0442\u0438\u043B\u043E\u043F\u0430 \u043A\u0430\u043D\u043D\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2004/02/skos/core#prefLabel> "taurotragus losovit\u00FD"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E2D\u0E35\u0E41\u0E25\u0E19\u0E14\u0E4C"@th .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u975E\u6D32\u65CB\u89D2\u5927\u7F9A\u7F8A"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10565> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_473> .

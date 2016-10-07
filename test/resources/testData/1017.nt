@@ -1,0 +1,150 @@
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#editorialNote> "The name of Capo Verde has changed into the Republic of Cabo Verde (formal name) / Cabo Verde (short name) since 29 October 2013. Source: FAOTerm."@en .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_8355> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Cape_Verde> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_13043> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://dewey.info/class/966.58/> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://eurovoc.europa.eu/5108> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Cape_Verde> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/13621> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://zbw.eu/stw/descriptor/17707-1> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://sws.geonames.org/3374766/> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://aims.fao.org/aos/agrontology#isPartOfSubvocabulary> "Geographical country level" .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299520813075> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299520813092> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299520813109> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299520813128> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299520813149> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299520813216> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299520813239> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299520813264> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299520813290> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299520813319> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299520813348> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299520813381> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299520813415> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299520813450> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299520813488> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299520813527> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299520813568> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299520813751> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299520813794> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1267_1321790188788> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_1267_1328260279367> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299520813970> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299520815509> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299520814262> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299520815808> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299520815220> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299520817045> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299520814937> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299520816571> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299520815075> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299520816819> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299520813915> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299520815375> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299520814871> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299520816462> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299520814101> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299520815588> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299520814685> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299520816168> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299520814505> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299520816076> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299520815148> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299520815296> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299520814806> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299520816365> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299520814744> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299520816266> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299520815006> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299520816688> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299520815897> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299520814182> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299520815671> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299520814377> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299520815985> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_1267_1321790189370> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_9588_1321792201671> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_9588_1321792201826> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_9588_1321792201980> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_13822_1321792671711> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_13822_1321792671867> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl-c08bafe7-b19f-4927-99cd-6cf1f3462480> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl-1da99cda-3e4f-4b8c-8748-105ad95c366c> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl-36d1520b-4689-47f7-9cb2-268466524959> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl-5c5b4cd5-f854-405d-86d7-5494cd94397f> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl-0f0dc370-b357-4f68-9b7a-18ee9c8a2676> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl-c00b9a1e-2bd9-407f-a914-8945edf72b57> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://purl.org/dc/terms/created> "2012-02-03T17:11:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://purl.org/dc/terms/modified> "2013-10-31T23:13:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u0644\u0631\u0623\u0633 \u0627\u0644\u0623\u062E\u0636\u0631"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kapverdy"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kap Verde"@de .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cabo Verde"@en .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cabo Verde"@es .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u06A9\u06CC\u067E\u200C\u0648\u0631\u062F"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cabo Verde"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0915\u0947\u092A \u0935\u0947\u0930\u094D\u0921\u0940"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#prefLabel> "Z\u00F6ld-fok"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#prefLabel> "Capo Verde"@it .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30AB\u30FC\u30DC\u30F4\u30A7\u30EB\u30C7\u5171\u548C\u56FD"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uCE74\uBCF4\uBCA0\uB974\uB370"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB1\u0E9A\u0EC1\u0EA7\u0E81"@lo .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zielony Przyl\u0105dek"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cabo Verde"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043A\u0430\u0431\u043E-\u0432\u0435\u0440\u0434\u0435"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kapverdy"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E40\u0E04\u0E1B\u0E40\u0E27\u0E34\u0E23\u0E4C\u0E14"@th .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4F5B\u5F97\u89D2"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kapo Verde"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C26\u0C47\u0C36\u0C40\u0C2F \u0C35\u0C30\u0C4D\u0C24\u0C15\u0C02"@te .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062C\u0632\u0631 \u0627\u0644\u0631\u0623\u0633 \u0627\u0644\u0623\u062E\u0636\u0631"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0631\u0623\u0633 \u0627\u0644\u0623\u062E\u0636\u0631"@ar .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Kapverdsk\u00E9 ostrovy"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Kapverdsk\u00E1 republika"@cs .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Kapverdische Inseln"@de .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Republik Kap Verde"@de .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Cape Verde Islands"@en .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Republic of Cape Verde"@en .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Islas de Cabo Verde"@es .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Rep\u00FAblica de Cabo Verde"@es .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062C\u0632\u0627\u064A\u0631 \u0643\u064A\u067E\u200C\u0648\u0631\u062F"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "\u062C\u0645\u0647\u0648\u0631\u064A \u0643\u064A\u067E\u200C\u0648\u0631\u062F"@fa .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "\u00CEles du Cap Vert"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "R\u00E9publique du Cap Vert"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0915\u0947\u092A \u0935\u0947\u0930\u094D\u0921\u0940 \u0926\u094D\u0935\u0940\u092A"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0915\u0947\u092A \u0935\u0930\u094D\u0921\u0940 \u0917\u0923\u0930\u093E\u091C\u094D\u092F"@hi .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Z\u00F6ld-foki-szigetek"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Cape Verde K\u00F6zt\u00E1rsas\u00E1g"@hu .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Isole di Capo Verde"@it .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Repubblica di Capo Verde"@it .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "\u30AB\u30DD\u30D9\u30EB\u30C7\u8AF8\u5CF6"@ja .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "\uCE74\uBCF4\uBCA0\uB974\uB370\uACF5\uD654\uAD6D"@ko .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Wyspy Zielonego Przyl\u0105dka"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Republika Zielonego Przyl\u0105dka"@pl .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Ilhas de Cabo Verde"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Rep\u00FAblica de Cabo Verde"@pt .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043E\u0441\u0442\u0440\u043E\u0432\u0430 \u0437\u0435\u043B\u0435\u043D\u043E\u0433\u043E \u043C\u044B\u0441\u0430"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0440\u0435\u0441\u043F\u0443\u0431\u043B\u0438\u043A\u0430 \u043A\u0430\u0431\u043E-\u0432\u0435\u0440\u0434\u0435"@ru .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Kapverdsk\u00E1 republika"@sk .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E40\u0E01\u0E32\u0E30\u0E40\u0E04\u0E1B\u0E40\u0E27\u0E34\u0E23\u0E4C\u0E14"@th .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0E2A\u0E32\u0E18\u0E32\u0E23\u0E13\u0E23\u0E31\u0E10\u0E40\u0E04\u0E1B\u0E40\u0E27\u0E34\u0E23\u0E4C\u0E14"@th .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "\u4F5B\u5F97\u89D2\u7FA4\u5C9B"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "\u4F5B\u5F97\u89D2\u5171\u548C\u56FD"@zh .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Ye\u015Fil Burun"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Kapo Verde Adalar\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Cabo Verde Adalar\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Ye\u015Fil Burun Adalar\u0131"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Kapo Verde Cumhuriyeti"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Cabo Verde Cumhuriyeti"@tr .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Cape Verde"@en .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Republic of Cabo Verde"@en .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Cap Vert"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "R\u00E9publique de Cabo Verde"@fr .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0627\u0644\u0623\u062E\u0636\u0631 \u0627\u0644\u0631\u0623\u0633 \u062C\u0645\u0647\u0648\u0631\u064A\u0629 "@ar .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#altLabel> "Cabo Verde"@de .
+<http://aims.fao.org/aos/agrovoc/c_1267> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_8355> .

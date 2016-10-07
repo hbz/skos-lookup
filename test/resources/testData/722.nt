@@ -1,0 +1,64 @@
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_6422> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/resource/Ionizing_radiation> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://cat.aii.caas.cn/concept/c_9400> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4027633-8> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/28990> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://eurovoc.europa.eu/5287> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://www.eionet.europa.eu/gemet/concept/4491> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://id.loc.gov/authorities/sh85067827#concept> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/36201> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://aims.fao.org/aos/asfa/c_6724> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://aims.fao.org/aos/agrontology#hasProperty> <http://aims.fao.org/aos/agrovoc/c_25736> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ar_1299512855912> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299512855938> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299512855959> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299512855983> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_es_1299512856262> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fa_1299512856288> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_fr_1299512856314> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299512856352> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299512856387> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299512856418> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299512856451> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299512856483> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299512856520> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299512856566> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299512856625> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299512856723> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299512856790> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299512856868> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299512856966> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11828_1321792459732> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_11828_1328259301694> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_mo_f3a9fd71> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_11828_1321792459855> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://purl.org/dc/terms/created> "2012-02-03T16:55:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://purl.org/dc/terms/modified> "2015-11-10T17:06:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0625\u0634\u0639\u0627\u0639 \u0645\u0624\u064A\u0646"@ar .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#prefLabel> "ioniza\u010Dn\u00ED z\u00E1\u0159en\u00ED"@cs .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ionisierende Strahlung"@de .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#prefLabel> "ionizing radiation"@en .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radiaci\u00F3n ionizante"@es .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062A\u0627\u0628\u0634 \u06CC\u0648\u0646\u200C\u0633\u0627\u0632"@fa .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radiation ionisante"@fr .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0906\u092F\u0928\u0940\u0915\u093E\u0930\u0915 \u0935\u093F\u0915\u0930\u0923"@hi .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#prefLabel> "ioniz\u00E1ci\u00F3s sug\u00E1rz\u00E1s"@hu .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radiazione ionizzante"@it .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u96FB\u96E2\u653E\u5C04\u7DDA"@ja .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uC774\uC628\uD654\uBC29\uC0AC\uC120"@ko .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E81\u0EB2\u0E99\u0EC1\u0E9C\u0EC8\u0EA5\u0EB1\u0E87\u0EAA\u0EB5\u0EC4\u0EAD\u0EAD\u0EAD\u0E99"@lo .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#prefLabel> "Promieniowanie jonizuj\u0105ce"@pl .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radia\u00E7\u00E3o ionizante"@pt .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0438\u043E\u043D\u0438\u0437\u0438\u0440\u0443\u044E\u0449\u0435\u0435 \u0438\u0437\u043B\u0443\u0447\u0435\u043D\u0438\u0435"@ru .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#prefLabel> "ioniza\u010Dn\u00E9 \u017Eiarenie"@sk .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E23\u0E31\u0E07\u0E2A\u0E35\u0E01\u0E48\u0E2D\u0E44\u0E2D\u0E2D\u0E2D\u0E19"@th .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7535\u79BB\u8F90\u5C04"@zh .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#prefLabel> "iyonla\u015Ft\u0131r\u0131c\u0131 radyasyon"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C05\u0C2F\u0C28\u0C40\u0C15\u0C30\u0C23 \u0C35\u0C3F\u0C15\u0C3F\u0C30\u0C23\u0C02"@te .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#prefLabel> "radia\u0163ie ionizant\u0103"@mo .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#altLabel> "iyonla\u015Ft\u0131r\u0131c\u0131 \u0131\u015F\u0131ma"@tr .
+<http://aims.fao.org/aos/agrovoc/c_11828> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_6422> .

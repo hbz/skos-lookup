@@ -1,0 +1,44 @@
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2004/02/skos/core#inScheme> <http://aims.fao.org/aos/agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_330979> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_cs_1299525047764> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_de_1299525047782> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_en_1299525047799> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hi_1299525047818> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_hu_1299525047841> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_it_1299525047864> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ja_1299525047889> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ko_1299525047915> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_lo_1299525047945> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pl_1299525048255> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_pt_1299525048285> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_ru_1299525048313> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_sk_1299525048343> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_th_1299525048375> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_zh_1299525048408> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_tr_10145_1321792265155> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_te_10145_1328257762757> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://aims.fao.org/aos/agrovoc/xl_uk_1371123328791> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://purl.org/dc/terms/created> "2012-02-03T16:29:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://purl.org/dc/terms/modified> "2014-07-03T19:47:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://rdfs.org/ns/void#inDataset> <http://aims.fao.org/aos/agrovoc/void.ttl#Agrovoc> .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2004/02/skos/core#prefLabel> "vzd\u011Bl\u00E1vac\u00ED kurzy"@cs .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schulung"@de .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2004/02/skos/core#prefLabel> "educational courses"@en .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0936\u0948\u0915\u094D\u0937\u093F\u0915 \u092A\u093E\u0920\u094D\u092F\u0915\u094D\u0930\u092E"@hi .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2004/02/skos/core#prefLabel> "tov\u00E1bbk\u00E9pz\u0151 tanfolyam"@hu .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2004/02/skos/core#prefLabel> "Corsi di istruzione"@it .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6559\u80B2\u8AB2\u7A0B"@ja .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uAD50\uC721\uACFC\uC815"@ko .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0EAB\u0EBC\u0EB1\u0E81\u0EAA\u0EB9\u0E94\u0E81\u0EB2\u0E99\u0EAA\u0EB6\u0E81\u0EAA\u0EB2"@lo .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kurs edukacyjny"@pl .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ac\u00E7\u00E3o de forma\u00E7\u00E3o"@pt .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0435 \u043A\u0443\u0440\u0441\u044B"@ru .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2004/02/skos/core#prefLabel> "vzdel\u00E1vacie kurzy"@sk .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E2B\u0E25\u0E31\u0E01\u0E2A\u0E39\u0E15\u0E23\u0E01\u0E32\u0E23\u0E28\u0E36\u0E01\u0E29\u0E32"@th .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5B66\u4E60\u8BFE\u7A0B"@zh .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2004/02/skos/core#prefLabel> "e\u011Fitici kurs"@tr .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C35\u0C3F\u0C26\u0C4D\u0C2F\u0C3E \u0C2A\u0C3E\u0C20\u0C3E\u0C35\u0C33\u0C41\u0C32\u0C41"@te .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043E\u0441\u0432\u0456\u0442\u043D\u0456 \u043A\u0443\u0440\u0441\u0438"@uk .
+<http://aims.fao.org/aos/agrovoc/c_10145> <http://www.w3.org/2004/02/skos/core#broader> <http://aims.fao.org/aos/agrovoc/c_330979> .
