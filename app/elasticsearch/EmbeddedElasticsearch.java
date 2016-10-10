@@ -44,7 +44,6 @@ class EmbeddedElasticsearch {
 
 	private String indexSettings;
 	private String jsonldContext;
-	private String index;
 	private Node node;
 	private Client client;
 
@@ -58,15 +57,10 @@ class EmbeddedElasticsearch {
 				.put("path.home", conf.getString("index.location"))
 				.put("http.port", conf.getString("index.http_port"))
 				.put("transport.tcp.port", conf.getString("index.tcp_port")).build();
-		index = conf.getString("index.name");
 		node = new ConfigurableNode(NodeBuilder.nodeBuilder().settings(mySettings)
 				.local(true).getSettings().build(), Arrays.asList(BundlePlugin.class))
 						.start();
 		client = node.client();
-	}
-
-	public String getIndex() {
-		return index;
 	}
 
 	public Node getNode() {

@@ -24,6 +24,7 @@ import java.io.InputStream;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
@@ -64,22 +65,23 @@ public class MyElasticsearch {
 	/**
 	 * @param dir indexes a directory with files in RDF-Ntriple format. Files are
 	 *          converted to JSONLD.
+	 * @param index the index to put data into
 	 */
-	public void indexDirectory(final File dir) {
+	public void indexDirectory(final File dir, String index) {
 		try {
 			BulkRequestBuilder indexBulk = es.getClient().prepareBulk();
 			int i = 0;
 			for (File file : dir.listFiles()) {
-				prepareIndexing(indexBulk, "" + i++, file);
+				prepareIndexing(indexBulk, "" + i++, file, index);
 			}
-			executeIndexing(indexBulk);
+			executeIndexing(indexBulk, index);
 		} catch (Exception e) {
 			throw new RuntimeException(e);
 		}
 	}
 
 	private void prepareIndexing(BulkRequestBuilder internalIndexBulk, String id,
-			File file) {
+			File file, String index) {
 		try (InputStream filein = new FileInputStream(file);
 				InputStream contextIn = new FileInputStream(es.getJsonldContext())) {
 			String ld = RdfUtils.readRdfToString(filein, RDFFormat.NTRIPLES,
@@ -94,19 +96,20 @@ public class MyElasticsearch {
 			JsonLdOptions options = new JsonLdOptions();
 			Object compact = JsonLdProcessor.compact(jsonObject, context, options);
 			String source = JsonUtils.toPrettyString(compact);
-			internalIndexBulk.add(es.getClient()
-					.prepareIndex(es.getIndex(), "concept", id).setSource(source));
+			internalIndexBulk.add(
+					es.getClient().prepareIndex(index, "concept", id).setSource(source));
 
 		} catch (Exception e) {
 			play.Logger.warn("", e);
 		}
 	}
 
-	private void executeIndexing(BulkRequestBuilder indexBulk) {
+	private static void executeIndexing(BulkRequestBuilder indexBulk,
+			String index) {
 
 		List<String> result = new ArrayList<>();
 		try {
-			play.Logger.debug("Start building internal Index " + es.getIndex());
+			play.Logger.debug("Start building Index " + index);
 			BulkResponse bulkResponse = indexBulk.execute().actionGet();
 			if (bulkResponse.hasFailures()) {
 				result.add(bulkResponse.buildFailureMessage());
@@ -127,18 +130,20 @@ public class MyElasticsearch {
 
 	/**
 	 * Delete index and apply settings
+	 * 
+	 * @param index name of the index
 	 */
-	public void init() {
+	public void init(String index) {
 		try {
 			es.getClient().admin().cluster().prepareHealth().setWaitForYellowStatus()
 					.execute().actionGet();
-			if (es.getClient().admin().indices().prepareExists(es.getIndex())
-					.execute().actionGet().isExists()) {
-				es.getClient().admin().indices()
-						.delete(new DeleteIndexRequest(es.getIndex())).actionGet();
+			if (es.getClient().admin().indices().prepareExists(index).execute()
+					.actionGet().isExists()) {
+				es.getClient().admin().indices().delete(new DeleteIndexRequest(index))
+						.actionGet();
 			}
 			CreateIndexRequestBuilder cirb =
-					es.getClient().admin().indices().prepareCreate(es.getIndex());
+					es.getClient().admin().indices().prepareCreate(index);
 			if (es.getIndexSettings() != null) {
 				String settingsMappings = Files.lines(Paths.get(es.getIndexSettings()))
 						.collect(Collectors.joining());
@@ -154,40 +159,46 @@ public class MyElasticsearch {
 	}
 
 	/**
+	 * @param index name of the index
 	 * @param q an elasticsearch query string
 	 * @param from show results from this index
 	 * @param until show results until this index
 	 * @return a SearchHits object containing all hits
 	 */
-	public SearchHits query(String q, int from, int until) {
+	public SearchHits query(String index, String q, int from, int until) {
 		es.getClient().admin().indices().refresh(new RefreshRequest()).actionGet();
-		play.Logger.debug("Search for " + q);
 		QueryBuilder query = QueryBuilders.queryStringQuery(q);
-		SearchHits hits = query(query, from, until);
+		SearchHits hits = query(index, query, from, until);
 		return hits;
 	}
 
-	private SearchHits query(QueryBuilder query, int from, int until) {
+	private SearchHits query(String index, QueryBuilder query, int from,
+			int until) {
 		es.getClient().admin().indices().refresh(new RefreshRequest()).actionGet();
 		SearchResponse response =
-				es.getClient().prepareSearch(es.getIndex()).setQuery(query)
-						.setFrom(from).setSize(until - from).execute().actionGet();
+				es.getClient().prepareSearch(index).setQuery(query).setFrom(from)
+						.setSize(until - from).execute().actionGet();
 		return response.getHits();
 	}
 
 	/**
+	 * @param index name of the index
 	 * @param q a string to query the field prefLabel.{@parameter lang}
 	 * @param lang the language to get autocompletion for
 	 * @param from this index
 	 * @param until this index
 	 * @return a SearchHits object containing all suggestions
 	 */
-	public SearchHits autocompleteQuery(String q, String lang, int from,
-			int until) {
+	public SearchHits autocompleteQuery(String index, String q, String lang,
+			int from, int until) {
 		es.getClient().admin().indices().refresh(new RefreshRequest()).actionGet();
-		play.Logger.debug("Search for " + q);
 		QueryBuilder query = QueryBuilders.matchQuery("prefLabel." + lang, q);
-		SearchHits hits = query(query, from, until);
+		SearchHits hits = query(index, query, from, until);
 		return hits;
+	}
+
+	public List<String> getIndexList() {
+		return Arrays.asList(es.getClient().admin().cluster().prepareState()
+				.execute().actionGet().getState().getMetaData().concreteAllIndices());
 	}
 }

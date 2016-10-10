@@ -63,13 +63,14 @@ public class SkosToElasticsearch extends Controller {
 	 * @param dataDirectory a path to a directory with .nt files. The routine will
 	 *          index each nt file under an arbitrary id, as one elasticsearch
 	 *          document.
+	 * @param index the index to initialize
 	 * @return ok http 200
 	 */
-	public CompletionStage<Result> init(String dataDirectory) {
+	public CompletionStage<Result> init(String dataDirectory, String index) {
 		CompletableFuture<Result> future = new CompletableFuture<>();
 		try {
-			es.init();
-			es.indexDirectory(new File(dataDirectory));
+			es.init(index);
+			es.indexDirectory(new File(dataDirectory), index);
 			future.complete(ok());
 			return future;
 		} catch (Exception e) {
@@ -83,7 +84,7 @@ public class SkosToElasticsearch extends Controller {
 	 */
 	public CompletionStage<Result> autocompleteExample() {
 		CompletableFuture<Result> future = new CompletableFuture<>();
-		future.complete(ok(autocomplete.render()));
+		future.complete(ok(autocomplete.render(es.getIndexList())));
 		return future;
 
 	}
@@ -91,15 +92,17 @@ public class SkosToElasticsearch extends Controller {
 	/**
 	 * @param q performs a matchQuery against prefLabel.{@paramref lang}
 	 * @param lang a language for autocomplete
+	 * @param index the index to get autocomplete suggestions from
 	 * @return a list of (label, value)-pairs wrapped in a jsonp callback. If no
 	 *         callback has been passed, the list is returned anyway
 	 */
-	public CompletionStage<Result> autocomplete(String q, String lang) {
+	public CompletionStage<Result> autocomplete(String q, String lang,
+			String index) {
 		CompletableFuture<Result> future = new CompletableFuture<>();
 		final String[] callback =
 				request() == null || request().queryString() == null ? null
 						: request().queryString().get("callback");
-		SearchHits hits = es.autocompleteQuery(q, lang, 0, 10);
+		SearchHits hits = es.autocompleteQuery(index, q, lang, 0, 10);
 		List<Map<String, String>> result = new ArrayList<>();
 		hits.forEach((hit) -> {
 			Map<String, Object> h = hit.getSource();
@@ -118,7 +121,8 @@ public class SkosToElasticsearch extends Controller {
 	}
 
 	private static String getId(Map<String, Object> h) {
-		return ((String) h.get("id")).split(":")[1];
+
+		return (String) h.get("id");
 	}
 
 	private static String getLabel(Map<String, Object> h, String lang) {
@@ -129,12 +133,14 @@ public class SkosToElasticsearch extends Controller {
 
 	/**
 	 * @param q the q string will passed to elasticsearch as a queryStringQuery
+	 * @param index the index to search in
 	 * @return an array of documents
 	 */
-	public CompletionStage<Result> search(String q) {
+	public CompletionStage<Result> search(String q, String index) {
 		response().setHeader("content-type", "application/json");
+		q = org.apache.lucene.queryparser.classic.QueryParser.escape(q);
 		CompletableFuture<Result> future = new CompletableFuture<>();
-		SearchHits hits = es.query(q, 0, 10);
+		SearchHits hits = es.query(index, q, 0, 10);
 		List<SearchHit> list = Arrays.asList(hits.getHits());
 		List<Map<String, Object>> hitMap = new ArrayList<>();
 		for (SearchHit hit : list) {

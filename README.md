@@ -29,11 +29,11 @@ Useful to support your users when filling forms.
 
 ##Add sample data to index
 
-	curl -XPOST localhost:9000/init?dataDirectory=/tmp/skos-lookup/test/resources/testData
+	curl -XPOST localhost:9000/init?dataDirectory=/tmp/skos-lookup/test/resources/testData&index=agrovoc_test
 	
 ##Perform sample query
 
-	curl -XGET 'localhost:9000/autocomplete?lang=de&q=Erdnus&callback=mycallback'
+	curl -XGET 'localhost:9000/autocomplete?lang=de&q=Erdnus&callback=mycallback&index=agrovoc_test'
 	
 Response
 	
@@ -49,12 +49,18 @@ Response
 **Attention** This will create >32000 files under /tmp/skos-split. **This can take hours!**
 
 	cd test/resources
+	editor split.sh #uncomment lines on bottom to create ddc or agrovoc data directory
 	./split.sh
 	
 Indexing should not take longer than 2min.
 	
 	curl -XPOST localhost:9000/init?dataDirectory=/tmp/skos-split
+
+or
 	
+	curl -XPOST localhost:9000/init?dataDirectory=/tmp/ddc-split
+
+		
 		
 #LICENSE
 

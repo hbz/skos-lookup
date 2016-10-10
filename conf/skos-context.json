@@ -12,6 +12,10 @@
     "xmlSchema":"http://www.w3.org/2001/XMLSchema#",
     "rdfschema":"http://www.w3.org/2000/01/rdf-schema#",
 	"owl":"http://www.w3.org/2002/07/owl#",
+	"cc":"http://creativecommons.org/ns#",
+	"ddc":"http://dewey.info",
+	"w3":"http://www.w3.org/1999/xhtml/vocab#",
+	
     "id": "@id",
     
     "type": "@type",

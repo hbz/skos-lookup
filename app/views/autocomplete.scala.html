@@ -1,3 +1,5 @@
+@(indices:List[String])
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -21,7 +23,6 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10">
 </head>
 <body>
-
 	<form method="GET" class="form-inline" action="/search">
 		<input class="ui-autocomplete-input agrovoc-autocomplete"
 			name="q" id="agrovocInput1" style="width: 300px"
@@ -29,6 +30,11 @@
 		<select name="lang" id="lang-select" class="input-widget">
 			<option value="de" selected>Deutsch</option>
 			<option value="en">Englisch</option>
+		</select>
+		<select name="index" id="index-select" class="input-widget">
+			@for(i <- indices){
+				<option value="@i">@i</option>
+			}	
 		</select>
 		<button type="submit" class="btn">Search</button>
 	</form>
@@ -46,12 +52,14 @@
 					.autocomplete({
 			            source : function(request, response) {
 			            	lang=$('#lang-select').find(":selected").attr('value');
+			            	index=$('#index-select').find(":selected").attr('value');
 			                $.ajax({
 			                    url : "/autocomplete",
 			                    dataType : "jsonp",
 			                    data : {
 			                        q : request.term,
-			                        lang :  lang
+			                        lang :  lang,
+			                        index : index
 			                    },
 			                    success : function(data) {
 			                        response(data);
