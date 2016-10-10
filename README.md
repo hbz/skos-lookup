@@ -44,7 +44,7 @@ Response
 
 	firefox http://localhost:9000/example
 
-#Add Agrovoc data
+#Add skos data
 
 **Attention** This will create >32000 files under /tmp/skos-split. **This can take hours!**
 
