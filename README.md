@@ -1,10 +1,12 @@
+[![Travis Ci](https://travis-ci.org/hbz/skos-lookup.svg?branch=master)](https://travis-ci.org/hbz/skos-lookup)
 #About
 
 A webservice to lookup SKOS concepts from an elasticsearch index.
 - Start service. 
 - Upload a list of Ntriple files each representing one SKOS Concept. 
 - Perform autocompletion lookup over the SKOS Vocabular
-- get back a URI for a particular SKOS Concept.
+- get back an URI for a particular SKOS Concept.
+
 Useful to support your users when filling forms.
 
 #Usage

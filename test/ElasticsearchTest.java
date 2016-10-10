@@ -9,7 +9,7 @@ import org.junit.Test;
 import elasticsearch.MyElasticsearch;
 
 @SuppressWarnings("javadoc")
-public class ApplicationTest {
+public class ElasticsearchTest {
 	MyElasticsearch es;
 
 	@Before

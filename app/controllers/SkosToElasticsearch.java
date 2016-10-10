@@ -1,8 +1,8 @@
 /*Copyright (c) 2016 "hbz"
 
-This file is part of agrovoc-lookup.
+This file is part of skos-lookup.
 
-agrovoc-lookup is free software: you can redistribute it and/or modify
+skos-lookup is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as
 published by the Free Software Foundation, either version 3 of the
 License, or (at your option) any later version.
@@ -27,12 +27,15 @@ import java.util.Map;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.CompletionStage;
 
+import javax.inject.Inject;
+
 import org.elasticsearch.search.SearchHit;
 import org.elasticsearch.search.SearchHits;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import elasticsearch.MyElasticsearch;
+import play.inject.ApplicationLifecycle;
 import play.mvc.Controller;
 import play.mvc.Result;
 import views.html.autocomplete;
@@ -47,6 +50,14 @@ public class SkosToElasticsearch extends Controller {
 	 * Elasticsearchinterface
 	 */
 	public final static MyElasticsearch es = new MyElasticsearch();
+
+	@Inject
+	public SkosToElasticsearch(ApplicationLifecycle lifecycle) {
+		lifecycle.addStopHook(() -> {
+			es.stopElasticSearch();
+			return CompletableFuture.completedFuture(null);
+		});
+	}
 
 	/**
 	 * @param dataDirectory a path to a directory with .nt files. The routine will
