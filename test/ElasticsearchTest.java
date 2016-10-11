@@ -26,14 +26,14 @@ public class ElasticsearchTest {
 		play.Logger.debug("Total Hits " + hits.totalHits());
 		play.Logger.debug("HIT " + hits.getHits()[0].getSource().get("id"));
 		Assert.assertTrue(1 == hits.totalHits());
-		Assert.assertTrue(
-				"agrovoc:c_11368".equals(hits.getHits()[0].getSource().get("id")));
+		Assert.assertTrue("http://aims.fao.org/aos/agrovoc/c_11368"
+				.equals(hits.getHits()[0].getSource().get("id")));
 		hits = es.autocompleteQuery(index, "groundnuts", "en", 0, 10);
 		play.Logger.debug("Total Hits " + hits.totalHits());
 		play.Logger.debug("HIT " + hits.getHits()[0].getSource().get("id"));
 		Assert.assertTrue(1 == hits.totalHits());
-		Assert.assertTrue(
-				"agrovoc:c_11368".equals(hits.getHits()[0].getSource().get("id")));
+		Assert.assertTrue("http://aims.fao.org/aos/agrovoc/c_11368"
+				.equals(hits.getHits()[0].getSource().get("id")));
 	}
 
 	@After

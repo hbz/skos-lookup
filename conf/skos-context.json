@@ -8,7 +8,6 @@
     "agrontology":"http://aims.fao.org/aos/agrontology#",
     "uniroma":"http://art.uniroma2.it/ontologies/vocbench#",
     "skos-xl":"http://www.w3.org/2008/05/skos-xl#",
-    "agrovoc":"http://aims.fao.org/aos/agrovoc/",
     "xmlSchema":"http://www.w3.org/2001/XMLSchema#",
     "rdfschema":"http://www.w3.org/2000/01/rdf-schema#",
 	"owl":"http://www.w3.org/2002/07/owl#",
