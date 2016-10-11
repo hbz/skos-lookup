@@ -1,0 +1,157 @@
+#!/bin/sh
+#
+# /etc/init.d/regal-api 
+# Modified by Jan Schnasse schnasse@gmx.de
+#
+# Written by Miquel van Smoorenburg <miquels@cistron.nl>.
+# Modified for Debian GNU/Linux by Ian Murdock <imurdock@gnu.ai.mit.edu>.
+# Modified for Tomcat by Stefan Gybas <sgybas@debian.org>.
+# Modified for Tomcat6 by Thierry Carrez <thierry.carrez@ubuntu.com>.
+# Additional improvements by Jason Brittain <jason.brittain@mulesoft.com>.
+#
+# Originally from Ubuntu
+# Tweaked for tomcat7 by Christopher Bayliss <christopher.bayliss@glasgow.ac.uk>.
+#
+### BEGIN INIT INFO
+# Provides: tomcat7
+# Required-Start: $local_fs $remote_fs $network
+# Required-Stop: $local_fs $remote_fs $network
+# Should-Start: $named
+# Should-Stop: $named
+# Default-Start: 2 3 4 5
+# Default-Stop: 0 1 6
+# Short-Description: Start Tomcat.
+# Description: Start the Tomcat servlet engine.
+### END INIT INFO
+ 
+set -e
+
+#Variables can be overwritten with $DEFAULT 
+PATH=/bin:/usr/bin:/sbin:/usr/sbin
+NAME=skos-lookup
+DESC="skos-lookup to support autocompletion"
+JAVA_HOME=/opt/java
+HOME="/opt/skos-lookup"
+USER="cpt"
+GROUP="cpt"
+SECRET=`uuidgen`
+PORT=9000
+
+#Variables in accordance to standard play 2.2.x layout 
+DEFAULT=/etc/default/$NAME
+PID="$HOME/RUNNING_PID"
+BIN="$HOME/bin/$NAME"
+
+if [ `id -u` -ne 0 ]; then
+echo "You need root privileges to run this script"
+exit 1
+fi
+
+if [ -r /etc/default/locale ]; then
+. /etc/default/locale
+export LANG
+fi
+ 
+. /lib/lsb/init-functions
+ 
+if [ -r /etc/default/rcS ]; then
+. /etc/default/rcS
+fi  
+
+# End of variables that can be overwritten in $DEFAULT
+ 
+# overwrite settings from default file
+if [ -f "$DEFAULT" ]; then
+. "$DEFAULT"
+fi
+   
+app_start() {
+	set +e
+	start-stop-daemon --start -b -u "$USER" -g "$GROUP" \
+		-c "$USER" -p "$PID" \
+		-x /bin/bash -- -c "$BIN -Dconfig.file=$HOME/conf/application.conf -Dapplication.secret=$SECRET -Dhttp.port=$PORT"
+	status="$?"
+	set +a -e
+	return $status
+}
+ 
+case "$1" in
+start)
+	if [ -z "$JAVA_HOME" ]; then
+		log_failure_msg "no JDK found - please set JAVA_HOME"
+		exit 1
+	fi
+	 
+	if [ ! -d "$HOME/conf" ]; then
+		log_failure_msg "invalid HOME: $HOME"
+		exit 1
+	fi
+	 
+	log_daemon_msg "Starting $DESC" "$NAME"
+	if start-stop-daemon --test --start --pidfile "$PID" \
+	--user $USER --exec "$JAVA_HOME/bin/java" \
+	>/dev/null; then
+		app_start
+		app_start_status="$?"
+	    	sleep 5  
+		if [ $app_start_status -ne 0 ] ; then
+			if [ -f "$PID" ]; then
+				rm -f "$PID"
+			fi
+			log_end_msg 1
+		else
+			log_end_msg 0
+		fi
+		log_end_msg 0
+	else
+		log_progress_msg "(already running)"
+		log_end_msg 0
+	fi
+;;
+stop)
+	log_daemon_msg "Stopping $DESC" "$NAME"
+	set +e
+	if [ -f "$PID" ]; then
+		start-stop-daemon --stop --pidfile "$PID" \
+		--user "$USER" \
+		--retry=TERM/20/KILL/5 >/dev/null
+	if [ $? -eq 1 ]; then
+		log_progress_msg "$DESC is not running but pid file exists, cleaning up"
+	elif [ $? -eq 3 ]; then
+		PID="`cat $PID`"
+		log_failure_msg "Failed to stop $NAME (pid $PID)"
+		exit 1
+	fi
+		rm -f "$PID"
+	else
+		log_progress_msg "(not running)"
+	fi
+		log_end_msg 0
+	set -e
+;;
+status)
+	set +e
+	start-stop-daemon --test --start --pidfile "$PID" \
+	--user $USER --exec "$JAVA_HOME/bin/java" \
+	>/dev/null 2>&1
+	if [ "$?" = "0" ]; then
+	 
+		if [ -f "$PID" ]; then
+			log_success_msg "$DESC is not running, but pid file exists."
+			exit 1
+		else
+			log_success_msg "$DESC is not running."
+			exit 3
+		fi
+	else
+		log_success_msg "$DESC is running with pid `cat $PID`"
+	fi
+		set -e
+	;;
+*)
+	log_success_msg "Usage: $0 {start|stop|restart|status}"
+	exit 1
+;;
+esac
+ 
+exit 0 

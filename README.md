@@ -11,6 +11,10 @@ Useful to support your users when filling forms.
 
 #Usage
 
+##Java 8
+
+	echo $JAVA_HOME //check if java 8 is configured
+
 ##Download Activator
 
 	wget http://downloads.typesafe.com/typesafe-activator/1.3.2/typesafe-activator-1.3.2-minimal.zip
@@ -61,7 +65,53 @@ or
 	curl -XPOST localhost:9000/init?dataDirectory=/tmp/ddc-split
 
 		
-		
+#Install on Ubuntu
+
+	cd /tmp/skos-lookup
+	/opt/activator-1.3.2-minimal/activator dist
+	cp target/universal/skos-lookup-1.0-SNAPSHOT.zip  /tmp
+	cd /tmp
+	unzip skos-lookup-1.0-SNAPSHOT.zip
+	mv skos-lookup-1.0-SNAPSHOT /opt/skos-lookup
+
+edit startscript
+
+	sudo cp /tmp/skos-lookup/install/skos-lookup.tmpl /etc/init.d/skos-lookup
+	sudo chmod u+x /etc/init.d/skos-lookup
+	sudo editor /etc/init.d/skos-lookup
+
+set the following vars
+
+	JAVA_HOME=/opt/java
+	HOME="/opt/skos-lookup"
+	USER="user to run skos-lookup"
+	GROUP="user to run skos-lookup"
+	SECRET=`uuidgen` # generate a secret e.g. using uuidgen
+	PORT=9000
+
+include into system start and shutdown
+
+	sudo update-rc.d skos-lookup defaults 99 20
+	
+start
+
+	sudo service skos-lookup start
+
+#Update
+	rm -rf /tmp/skos-lookup
+	cd /tmp
+	git clone https://github.com/hbz/skos-lookup
+	cd /tmp/skos-lookup
+	/opt/activator-1.3.2-minimal/activator dist
+	cp target/universal/skos-lookup-1.0-SNAPSHOT.zip  /tmp
+	cd /tmp
+	unzip skos-lookup-1.0-SNAPSHOT.zip
+	cp /opt/skos-lookup/conf/application.conf /tmp/skos-lookup-1.0-SNAPSHOT/conf
+	sudo service skos-lookup stop
+	rm -rf /opt/skos-lookup/*
+	mv /tmp/skos-lookup-1.0-SNAPSHOT/* /opt/skos-lookup/
+	sudo service skos-lookup start
+
 #LICENSE
 
 GNU AFFERO GENERAL PUBLIC LICENSE
