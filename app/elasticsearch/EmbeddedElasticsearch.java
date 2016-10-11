@@ -49,8 +49,8 @@ class EmbeddedElasticsearch {
 
 	@SuppressWarnings("resource")
 	protected EmbeddedElasticsearch() {
-		indexSettings = "conf/skos-settings.json";
-		jsonldContext = "conf/skos-context.json";
+		indexSettings = "skos-settings.json";
+		jsonldContext = "skos-context.json";
 		Config conf = ConfigFactory.load();
 		Settings mySettings = Settings.settingsBuilder()
 				.put("network.host", conf.getString("index.host"))

@@ -21,6 +21,7 @@ import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
@@ -44,7 +45,9 @@ import com.github.jsonldjava.core.JsonLdOptions;
 import com.github.jsonldjava.core.JsonLdProcessor;
 import com.github.jsonldjava.utils.JsonUtils;
 import com.google.common.base.Charsets;
+import com.google.common.io.CharStreams;
 
+import play.Play;
 import services.RdfUtils;
 
 /**
@@ -83,7 +86,8 @@ public class MyElasticsearch {
 	private void prepareIndexing(BulkRequestBuilder internalIndexBulk, String id,
 			File file, String index) {
 		try (InputStream filein = new FileInputStream(file);
-				InputStream contextIn = new FileInputStream(es.getJsonldContext())) {
+				InputStream contextIn =
+						play.Environment.simple().resourceAsStream(es.getJsonldContext())) {
 			String ld = RdfUtils.readRdfToString(filein, RDFFormat.NTRIPLES,
 					RDFFormat.JSONLD, "");
 			ld = ld.substring(1, ld.length() - 1);
@@ -134,7 +138,8 @@ public class MyElasticsearch {
 	 * @param index name of the index
 	 */
 	public void init(String index) {
-		try {
+		try (InputStream settingsIn =
+				play.Environment.simple().resourceAsStream(es.getIndexSettings())) {
 			es.getClient().admin().cluster().prepareHealth().setWaitForYellowStatus()
 					.execute().actionGet();
 			if (es.getClient().admin().indices().prepareExists(index).execute()
@@ -144,9 +149,10 @@ public class MyElasticsearch {
 			}
 			CreateIndexRequestBuilder cirb =
 					es.getClient().admin().indices().prepareCreate(index);
+
 			if (es.getIndexSettings() != null) {
-				String settingsMappings = Files.lines(Paths.get(es.getIndexSettings()))
-						.collect(Collectors.joining());
+				String settingsMappings =
+						CharStreams.toString(new InputStreamReader(settingsIn, "UTF-8"));
 				cirb.setSource(settingsMappings);
 			}
 			cirb.execute().actionGet();

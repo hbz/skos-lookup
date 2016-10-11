@@ -33,6 +33,8 @@ import org.elasticsearch.search.SearchHit;
 import org.elasticsearch.search.SearchHits;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.typesafe.config.Config;
+import com.typesafe.config.ConfigFactory;
 
 import elasticsearch.MyElasticsearch;
 import play.inject.ApplicationLifecycle;
@@ -84,7 +86,8 @@ public class SkosToElasticsearch extends Controller {
 	 */
 	public CompletionStage<Result> autocompleteExample() {
 		CompletableFuture<Result> future = new CompletableFuture<>();
-		future.complete(ok(autocomplete.render(es.getIndexList())));
+		Config conf = ConfigFactory.load();
+		future.complete(ok(autocomplete.render(es.getIndexList(), conf)));
 		return future;
 
 	}

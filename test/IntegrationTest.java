@@ -14,7 +14,7 @@ public class IntegrationTest {
 	public void test() {
 		running(testServer(3333, fakeApplication(inMemoryDatabase())), HTMLUNIT,
 				browser -> {
-					browser.goTo("http://localhost:3333/example");
+					browser.goTo("http://localhost:3333/tools/skos-lookup/example");
 					assertTrue(browser.pageSource().contains("Search"));
 				});
 	}
