@@ -33,11 +33,11 @@ Useful to support your users when filling forms.
 
 ##Add sample data to index
 
-	curl -XPOST localhost:9000/init?dataDirectory=/tmp/skos-lookup/test/resources/testData&index=agrovoc_test
+	curl -XPOST localhost:9000/tools/skos-lookup/init?dataDirectory=/tmp/skos-lookup/test/resources/testData&index=agrovoc_test
 	
 ##Perform sample query
 
-	curl -XGET 'localhost:9000/autocomplete?lang=de&q=Erdnus&callback=mycallback&index=agrovoc_test'
+	curl -XGET 'localhost:9000/tools/skos-lookup/autocomplete?lang=de&q=Erdnus&callback=mycallback&index=agrovoc_test'
 	
 Response
 	
@@ -46,7 +46,7 @@ Response
 	
 ##Example UI with jQuery autocomplete
 
-	firefox http://localhost:9000/example
+	firefox http://localhost:9000/tools/skos-lookup/example
 
 #Add skos data
 
@@ -58,11 +58,11 @@ Response
 	
 Indexing should not take longer than 2min.
 	
-	curl -XPOST localhost:9000/init?dataDirectory=/tmp/skos-split
+	curl -XPOST localhost:9000/tools/skos-lookup/init?dataDirectory=/tmp/skos-split
 
 or
 	
-	curl -XPOST localhost:9000/init?dataDirectory=/tmp/ddc-split
+	curl -XPOST localhost:9000/tools/skos-lookup/init?dataDirectory=/tmp/ddc-split
 
 		
 #Install on Ubuntu
@@ -107,6 +107,7 @@ start
 	cd /tmp
 	unzip skos-lookup-1.0-SNAPSHOT.zip
 	cp /opt/skos-lookup/conf/application.conf /tmp/skos-lookup-1.0-SNAPSHOT/conf
+	cp -r /opt/skos-lookup/data /tmp/skos-lookup-1.0-SNAPSHOT
 	sudo service skos-lookup stop
 	rm -rf /opt/skos-lookup/*
 	mv /tmp/skos-lookup-1.0-SNAPSHOT/* /opt/skos-lookup/

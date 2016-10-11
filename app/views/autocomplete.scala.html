@@ -23,7 +23,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10">
 </head>
 <body>
-	<form method="GET" class="form-inline" action="/search">
+	<form method="GET" class="form-inline" action="@play.api.Play.configuration.getString("application.context").getOrElse("")/search">
 		<input class="ui-autocomplete-input agrovoc-autocomplete"
 			name="q" id="agrovocInput1" style="width: 300px"
 			autocomplete="off" type="text">
@@ -54,7 +54,7 @@
 			            	lang=$('#lang-select').find(":selected").attr('value');
 			            	index=$('#index-select').find(":selected").attr('value');
 			                $.ajax({
-			                    url : "/autocomplete",
+			                    url : "@play.api.Play.configuration.getString("application.context").getOrElse("")/autocomplete",
 			                    dataType : "jsonp",
 			                    data : {
 			                        q : request.term,
