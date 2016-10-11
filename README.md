@@ -58,11 +58,11 @@ Response
 	
 Indexing should not take longer than 2min.
 	
-	curl -XPOST localhost:9000/tools/skos-lookup/init?dataDirectory=/tmp/skos-split
+	curl -XPOST "localhost:9000/tools/skos-lookup/init?dataDirectory=/tmp/skos-split&index=agrovoc"
 
 or
 	
-	curl -XPOST localhost:9000/tools/skos-lookup/init?dataDirectory=/tmp/ddc-split
+	curl -XPOST "localhost:9000/tools/skos-lookup/init?dataDirectory=/tmp/ddc-split&index=ddc"
 
 		
 #Install on Ubuntu
