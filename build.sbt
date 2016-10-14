@@ -11,8 +11,7 @@ libraryDependencies ++= Seq(
   cache,
   javaWs,
   "org.elasticsearch" % "elasticsearch" % "2.3.4",
-  "org.openrdf.sesame" % "sesame-runtime" % "2.7.10",
-  "com.github.jsonld-java" % "jsonld-java-sesame" % "0.5.1" ,
+  "org.eclipse.rdf4j" % "rdf4j-runtime" % "2.0.1",
   "com.github.jsonld-java" % "jsonld-java" % "0.8.3",
   "org.xbib.elasticsearch.plugin" % "elasticsearch-plugin-bundle" % "2.3.2.0"
 )

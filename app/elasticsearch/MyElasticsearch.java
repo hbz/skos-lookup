@@ -22,13 +22,10 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
-import java.util.stream.Collectors;
 
 import org.elasticsearch.action.admin.indices.create.CreateIndexRequestBuilder;
 import org.elasticsearch.action.admin.indices.delete.DeleteIndexRequest;
@@ -39,7 +36,7 @@ import org.elasticsearch.action.search.SearchResponse;
 import org.elasticsearch.index.query.QueryBuilder;
 import org.elasticsearch.index.query.QueryBuilders;
 import org.elasticsearch.search.SearchHits;
-import org.openrdf.rio.RDFFormat;
+import org.eclipse.rdf4j.rio.RDFFormat;
 
 import com.github.jsonldjava.core.JsonLdOptions;
 import com.github.jsonldjava.core.JsonLdProcessor;
@@ -47,7 +44,6 @@ import com.github.jsonldjava.utils.JsonUtils;
 import com.google.common.base.Charsets;
 import com.google.common.io.CharStreams;
 
-import play.Play;
 import services.RdfUtils;
 
 /**
@@ -203,6 +199,9 @@ public class MyElasticsearch {
 		return hits;
 	}
 
+	/**
+	 * @return a list of available elasticsearch indices
+	 */
 	public List<String> getIndexList() {
 		return Arrays.asList(es.getClient().admin().cluster().prepareState()
 				.execute().actionGet().getState().getMetaData().concreteAllIndices());

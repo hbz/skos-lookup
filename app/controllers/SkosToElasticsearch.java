@@ -29,6 +29,7 @@ import java.util.concurrent.CompletionStage;
 
 import javax.inject.Inject;
 
+import org.apache.lucene.queryparser.classic.QueryParserBase;
 import org.elasticsearch.search.SearchHit;
 import org.elasticsearch.search.SearchHits;
 
@@ -53,6 +54,9 @@ public class SkosToElasticsearch extends Controller {
 	 */
 	public final static MyElasticsearch es = new MyElasticsearch();
 
+	/**
+	 * @param lifecycle parameter to hook into application management
+	 */
 	@Inject
 	public SkosToElasticsearch(ApplicationLifecycle lifecycle) {
 		lifecycle.addStopHook(() -> {
@@ -141,9 +145,9 @@ public class SkosToElasticsearch extends Controller {
 	 */
 	public CompletionStage<Result> search(String q, String index) {
 		response().setHeader("content-type", "application/json");
-		q = org.apache.lucene.queryparser.classic.QueryParser.escape(q);
+		String escaped_q = QueryParserBase.escape(q);
 		CompletableFuture<Result> future = new CompletableFuture<>();
-		SearchHits hits = es.query(index, q, 0, 10);
+		SearchHits hits = es.query(index, escaped_q, 0, 10);
 		List<SearchHit> list = Arrays.asList(hits.getHits());
 		List<Map<String, Object>> hitMap = new ArrayList<>();
 		for (SearchHit hit : list) {
