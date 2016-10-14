@@ -1,0 +1,35 @@
+@* Copyright 2015 Jan Schnasse, hbz. Licensed under the GNU Affero General Public License *@
+@(indices:List[String],configuration:com.typesafe.config.Config)
+
+@main("Skos-Lookup") {
+Upload a Turtle Rdf Skos File
+@helper.form(action = routes.SkosToElasticsearch.init, 'enctype -> "multipart/form-data") {
+    <label class="form-control-label" for="file">File</label>
+    <input id="file" type="file" name="data">
+    <label class="form-control-label" for="format">Format</label>
+    <fieldset id="format"> 
+       <input type="radio" id="rdf-format" name="format" value="TURTLE">
+       <label for="rdf-format">Turtle</label>
+       <input type="radio" id="json-format" name="format" value="NTRIPLES">
+       <label for="json-format">Ntriples</label>
+       <input type="radio" id="rdf-xml-format" name="format" value="RDFXML" selected>
+       <label for="rdf-xml-format">Rdf-Xml</label>
+    </fieldset>
+    <fieldset id="compression"> 
+       <input type="radio" id="gzip" name="compression" value="gzip" selected>
+       <label for="rdf-format">gzip</label>
+       <input type="radio" id="raw" name="compression" value="raw">
+       <label for="json-format">raw</label>
+    </fieldset>
+    <select name="index" id="index-select" class="input-widget">
+			@for(i <- indices){
+				<option value="@i">@i</option>
+			}	
+		</select>
+    <p>
+        <input type="submit" name="Upload" value="Upload">
+    </p>
+    
+}
+
+}

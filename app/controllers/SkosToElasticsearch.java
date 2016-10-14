@@ -18,9 +18,11 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 package controllers;
 
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.StringWriter;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collection;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -30,18 +32,25 @@ import java.util.concurrent.CompletionStage;
 import javax.inject.Inject;
 
 import org.apache.lucene.queryparser.classic.QueryParserBase;
+import org.eclipse.rdf4j.rio.RDFFormat;
 import org.elasticsearch.search.SearchHit;
 import org.elasticsearch.search.SearchHits;
 
+import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.typesafe.config.Config;
 import com.typesafe.config.ConfigFactory;
 
 import elasticsearch.MyElasticsearch;
+import play.data.DynamicForm;
+import play.data.Form;
 import play.inject.ApplicationLifecycle;
 import play.mvc.Controller;
 import play.mvc.Result;
+import play.mvc.Http.MultipartFormData;
+import play.mvc.Http.MultipartFormData.FilePart;
 import views.html.autocomplete;
+import views.html.upload;
 
 /**
  * @author Jan Schnasse
@@ -72,12 +81,42 @@ public class SkosToElasticsearch extends Controller {
 	 * @param index the index to initialize
 	 * @return ok http 200
 	 */
-	public CompletionStage<Result> init(String dataDirectory, String index) {
+	public CompletionStage<Result> init() {
 		CompletableFuture<Result> future = new CompletableFuture<>();
 		try {
-			es.init(index);
-			es.indexDirectory(new File(dataDirectory), index);
-			future.complete(ok());
+
+			MultipartFormData body = request().body().asMultipartFormData();
+			DynamicForm requestData = Form.form().bindFromRequest();
+			String format = requestData.get("format");
+			play.Logger.debug(format);
+			FilePart data = body.getFile("data");
+			String index = requestData.get("index");
+			String compression = requestData.get("compression");
+			if (data != null) {
+				File file = (File) data.getFile();
+				try (FileInputStream uploadData = new FileInputStream(file)) {
+
+					RDFFormat f = RDFFormat.RDFXML;
+					if ("TURTLE".equals(format)) {
+						f = RDFFormat.TURTLE;
+					} else if ("NTRIPLES".equals(format)) {
+						f = RDFFormat.NTRIPLES;
+					} else if ("RDFXML".equals(format)) {
+						f = RDFFormat.RDFXML;
+					}
+					es.init(index);
+					if ("gzip".equals(compression)) {
+						es.indexZippedFile(uploadData, index, f);
+					} else {
+						es.indexFile(uploadData, index, f);
+					}
+					flash("info", "File uploaded");
+					future.complete(ok());
+				}
+			} else {
+				flash("error", "Missing file");
+				future.complete(redirect("/example"));
+			}
 			return future;
 		} catch (Exception e) {
 			throw new RuntimeException(e);
@@ -172,4 +211,13 @@ public class SkosToElasticsearch extends Controller {
 		}
 	}
 
+	/**
+	 * @return a simple upload form for rdf files
+	 */
+	public CompletionStage<Result> upload() {
+		CompletableFuture<Result> future = new CompletableFuture<>();
+		Config conf = ConfigFactory.load();
+		future.complete(ok(upload.render(es.getIndexList(), conf)));
+		return future;
+	}
 }

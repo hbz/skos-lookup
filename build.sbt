@@ -13,9 +13,9 @@ libraryDependencies ++= Seq(
   "org.elasticsearch" % "elasticsearch" % "2.3.4",
   "org.eclipse.rdf4j" % "rdf4j-runtime" % "2.0.1",
   "com.github.jsonld-java" % "jsonld-java" % "0.8.3",
-  "org.xbib.elasticsearch.plugin" % "elasticsearch-plugin-bundle" % "2.3.2.0"
+  "org.xbib.elasticsearch.plugin" % "elasticsearch-plugin-bundle" % "2.3.2.0",
+  "net.java.dev.jna" % "jna" % "4.1.0"
 )
-
 
 EclipseKeys.preTasks := Seq(compile in Compile)
 EclipseKeys.projectFlavor := EclipseProjectFlavor.Java           // Java project. Don't expect Scala IDE

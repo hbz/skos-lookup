@@ -3,11 +3,10 @@
 
 A webservice to lookup SKOS concepts from an elasticsearch index.
 - Start service. 
-- Upload a list of Ntriple files each representing one SKOS Concept. 
+- Upload a SKOS file. 
 - Perform autocompletion lookup over the SKOS Vocabular
 - get back an URI for a particular SKOS Concept.
 
-Useful to support your users when filling forms.
 
 #Usage
 
@@ -29,11 +28,14 @@ Useful to support your users when filling forms.
 
 ##Run
 
+	# in order to support uploading larger skos files
+	export _JAVA_OPTIONS="-Xmx1024g" 
+	#now run in develop mode
 	/opt/activator-1.3.2-minimal/activator run
 
 ##Add sample data to index
-
-	curl -XPOST localhost:9000/tools/skos-lookup/init?dataDirectory=/tmp/skos-lookup/test/resources/testData&index=agrovoc_test
+	
+	curl -i -X POST -H "Content-Type: multipart/form-data" localhost:9000/tools/skos-lookup/init -F "data=@/tmp/skos-lookup/test/resources/agrovoc_2016-07-15_lod.nt.gz" -F"index=agrovoc_test" -F"compression=gzip" -F"format=NTRIPLES"
 	
 ##Perform sample query
 
@@ -47,24 +49,11 @@ Response
 ##Example UI with jQuery autocomplete
 
 	firefox http://localhost:9000/tools/skos-lookup/example
-
-#Add skos data
-
-**Attention** This will create >32000 files under /tmp/skos-split. **This can take hours!**
-
-	cd test/resources
-	editor split.sh #uncomment lines on bottom to create ddc or agrovoc data directory
-	./split.sh
 	
-Indexing should not take longer than 2min.
-	
-	curl -XPOST "localhost:9000/tools/skos-lookup/init?dataDirectory=/tmp/skos-split&index=agrovoc"
+##Example UI with upload form
 
-or
-	
-	curl -XPOST "localhost:9000/tools/skos-lookup/init?dataDirectory=/tmp/ddc-split&index=ddc"
+	firefox http://localhost:9000/tools/skos-lookup/init
 
-		
 #Install on Ubuntu
 
 	cd /tmp/skos-lookup

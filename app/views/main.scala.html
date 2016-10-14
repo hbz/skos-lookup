@@ -1,0 +1,66 @@
+@* Copyright 2016 Jan Schnasse, hbz. Licensed under the GNU Affero General Public License *@
+@(title: String)(content: Html) 
+
+@context=@{play.api.Play.configuration.getString("application.context").getOrElse("")}
+
+@import play.api.Play.current
+
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="shortcut icon" href="/public/images/favicon.ico"
+	type="image/x-icon" />
+<link rel="stylesheet" media="screen"
+	href="@controllers.routes.Assets.versioned("stylesheets/main.css")">
+<link rel="stylesheet" media="screen"
+	href="@controllers.routes.Assets.versioned("stylesheets/bootstrap.min.css")">
+<link rel="stylesheet" media="screen"
+	href="@controllers.routes.Assets.versioned("stylesheets/octicons.css")">
+<link rel="shortcut icon" type="image/png"
+	href="@controllers.routes.Assets.versioned("images/favicon.png")">
+<link rel="stylesheet" href="@controllers.routes.Assets.versioned("stylesheets/font-awesome.min.css")">
+<link rel="stylesheet" href="@controllers.routes.Assets.versioned("stylesheets/dataTables.bootstrap.css")">
+<link rel="stylesheet" href="@controllers.routes.Assets.versioned("stylesheets/jquery-ui.css")">
+<script src="@controllers.routes.Assets.versioned("javascripts/jquery-1.10.2.min.js")"></script>
+<script src="@controllers.routes.Assets.versioned("javascripts/jquery-ui.min.js")"></script>
+<script src="@controllers.routes.Assets.versioned("javascripts/bootstrap.min.js")"></script>
+<script src="@controllers.routes.Assets.versioned("javascripts/jquery.dataTables.min.js")"></script>
+<script src="@controllers.routes.Assets.versioned("javascripts/markdown/markdown.js")"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10">
+</head>
+<body>
+	<nav class="navbar navbar-inverse navbar-fixed-top">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed"
+					data-toggle="collapse" data-target="#navbar" aria-expanded="false"
+					aria-controls="navbar">
+					<span class="sr-only">Toggle navigation</span> <span
+						class="icon-bar"></span> <span class="icon-bar"></span> <span
+						class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand"
+					href="@play.api.Play.configuration.getString("application.context").getOrElse("")">@title</a>
+			</div>
+			<div id="navbar" class="collapse navbar-collapse">
+				<ul class="nav navbar-nav">
+					<li class="dropdown"><a class="dropdown-toggle"
+						aria-expanded="false" arai-haspopup="true" role="button"
+						data-toggle="dropdown" href="#"> Show <span class="caret"></span></a>
+						<ul class="dropdown-menu">
+							<li><a href="@context/example">Example Autocomplete</a></li>
+							<li><a href="@context/init">Upload</a></li>
+						</ul></li>
+					
+				</ul>
+			</div>
+			<!--/.nav-collapse -->
+		</div>
+	</nav>
+	<div class="jumbotron"></div>
+	
+		<div class="starter-templatepanel-group">@content</div>
+
+</body>
+</html>

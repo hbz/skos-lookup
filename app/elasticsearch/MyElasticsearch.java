@@ -24,19 +24,22 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collection;
 import java.util.List;
 import java.util.Map;
 
+import org.eclipse.rdf4j.model.Statement;
+import org.eclipse.rdf4j.rio.RDFFormat;
 import org.elasticsearch.action.admin.indices.create.CreateIndexRequestBuilder;
 import org.elasticsearch.action.admin.indices.delete.DeleteIndexRequest;
 import org.elasticsearch.action.admin.indices.refresh.RefreshRequest;
 import org.elasticsearch.action.bulk.BulkRequestBuilder;
 import org.elasticsearch.action.bulk.BulkResponse;
+import org.elasticsearch.action.count.CountResponse;
 import org.elasticsearch.action.search.SearchResponse;
 import org.elasticsearch.index.query.QueryBuilder;
 import org.elasticsearch.index.query.QueryBuilders;
 import org.elasticsearch.search.SearchHits;
-import org.eclipse.rdf4j.rio.RDFFormat;
 
 import com.github.jsonldjava.core.JsonLdOptions;
 import com.github.jsonldjava.core.JsonLdProcessor;
@@ -79,6 +82,72 @@ public class MyElasticsearch {
 		}
 	}
 
+	public void indexZippedFile(final InputStream gzipDataAsInputStream,
+			String index, RDFFormat f) {
+		try {
+			MyTripleStore ts = new MyTripleStore();
+			ts.loadZippedFile(gzipDataAsInputStream, f);
+			index(index, ts);
+		} catch (Exception e) {
+			throw new RuntimeException(e);
+		}
+	}
+
+	public void indexFile(final InputStream gzipDataAsInputStream, String index,
+			RDFFormat f) {
+		try {
+			MyTripleStore ts = new MyTripleStore();
+			ts.loadFile(gzipDataAsInputStream, f);
+			index(index, ts);
+		} catch (Exception e) {
+			throw new RuntimeException(e);
+		}
+	}
+
+	private void index(String index, MyTripleStore ts) {
+		long i = 0;
+		BulkRequestBuilder indexBulk = es.getClient().prepareBulk();
+		for (String c : ts.getAllConcepts()) {
+			Collection<Statement> statements = ts.getConcept(c);
+
+			String source = getJsonLdString(statements);
+			indexBulk.add(es.getClient()
+					.prepareIndex(index, "concept", index + ":" + i++).setSource(source));
+
+			if (i % 1024 == 0) {
+				play.Logger.debug(
+						"Add concepts " + index + " from " + (i - 1024) + " to " + i);
+				executeIndexing(indexBulk, index);
+				indexBulk = es.getClient().prepareBulk();
+			}
+		}
+		if (i % 1024 != 0) {
+			play.Logger
+					.debug("Add concepts " + index + " from " + (i - 1024) + " to " + i);
+			executeIndexing(indexBulk, index);
+		}
+	}
+
+	private String getJsonLdString(Collection<Statement> statements) {
+		try (InputStream contextIn =
+				play.Environment.simple().resourceAsStream(es.getJsonldContext())) {
+			String ld = RdfUtils.graphToString(statements, RDFFormat.JSONLD);
+			ld = ld.substring(1, ld.length() - 1);
+			InputStream inputStream =
+					new ByteArrayInputStream(ld.getBytes(Charsets.UTF_8));
+			Object jsonObject = JsonUtils.fromInputStream(inputStream);
+			@SuppressWarnings({ "unchecked" })
+			Map<String, Object> context =
+					(Map<String, Object>) JsonUtils.fromInputStream(contextIn);
+			JsonLdOptions options = new JsonLdOptions();
+			Object compact = JsonLdProcessor.compact(jsonObject, context, options);
+			String source = JsonUtils.toPrettyString(compact);
+			return source;
+		} catch (Exception e) {
+			throw new RuntimeException(e);
+		}
+	}
+
 	private void prepareIndexing(BulkRequestBuilder internalIndexBulk, String id,
 			File file, String index) {
 		try (InputStream filein = new FileInputStream(file);
@@ -106,14 +175,11 @@ public class MyElasticsearch {
 
 	private static void executeIndexing(BulkRequestBuilder indexBulk,
 			String index) {
-
 		List<String> result = new ArrayList<>();
 		try {
-			play.Logger.debug("Start building Index " + index);
 			BulkResponse bulkResponse = indexBulk.execute().actionGet();
 			if (bulkResponse.hasFailures()) {
 				result.add(bulkResponse.buildFailureMessage());
-				play.Logger.debug("FAIL: " + bulkResponse.buildFailureMessage());
 			}
 		} catch (Exception e) {
 			play.Logger.warn("", e);
@@ -205,5 +271,11 @@ public class MyElasticsearch {
 	public List<String> getIndexList() {
 		return Arrays.asList(es.getClient().admin().cluster().prepareState()
 				.execute().actionGet().getState().getMetaData().concreteAllIndices());
+	}
+
+	public long getSize(String index) {
+		final CountResponse response =
+				es.getClient().prepareCount(index).execute().actionGet();
+		return response.getCount();
 	}
 }
