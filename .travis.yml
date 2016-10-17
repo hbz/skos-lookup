@@ -9,4 +9,4 @@ before_script:
   - unzip typesafe-activator-${ACTIVATOR_VERSION}-minimal.zip
 script:
   - export _JAVA_OPTIONS="-Xmx1g" 
-  - ./activator-${ACTIVATOR_VERSION}-minimal/bin/activator test
+  - travis_wait ./activator-${ACTIVATOR_VERSION}-minimal/bin/activator test
