@@ -8,6 +8,8 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.zip.GZIPInputStream;
 
+import org.eclipse.rdf4j.model.IRI;
+import org.eclipse.rdf4j.model.Resource;
 import org.eclipse.rdf4j.model.Statement;
 import org.eclipse.rdf4j.model.Value;
 import org.eclipse.rdf4j.model.ValueFactory;
@@ -16,8 +18,12 @@ import org.eclipse.rdf4j.query.BindingSet;
 import org.eclipse.rdf4j.query.QueryLanguage;
 import org.eclipse.rdf4j.query.TupleQuery;
 import org.eclipse.rdf4j.query.TupleQueryResult;
+import org.eclipse.rdf4j.query.Update;
 import org.eclipse.rdf4j.repository.Repository;
 import org.eclipse.rdf4j.repository.RepositoryConnection;
+import org.eclipse.rdf4j.repository.event.RepositoryConnectionListener;
+import org.eclipse.rdf4j.repository.event.base.NotifyingRepositoryConnectionWrapper;
+import org.eclipse.rdf4j.repository.event.base.RepositoryConnectionListenerAdapter;
 import org.eclipse.rdf4j.repository.sail.SailRepository;
 import org.eclipse.rdf4j.rio.RDFFormat;
 import org.eclipse.rdf4j.sail.memory.MemoryStore;
@@ -53,8 +59,24 @@ public class MyTripleStore {
 	 */
 	public void loadZippedFile(InputStream in, RDFFormat format) {
 		play.Logger.info("Load zip file of format " + format);
-		try (RepositoryConnection con = repo.getConnection()) {
-			con.add(new GZIPInputStream(in), "", format);
+		try (NotifyingRepositoryConnectionWrapper con =
+				new NotifyingRepositoryConnectionWrapper(repo, repo.getConnection());
+				InputStream gzipIn = new GZIPInputStream(in)) {
+			RepositoryConnectionListenerAdapter myListener =
+					new RepositoryConnectionListenerAdapter() {
+						private long count = 0;
+
+						@Override
+						public void add(RepositoryConnection arg0, Resource arg1, IRI arg2,
+								Value arg3, Resource... arg4) {
+							count++;
+							if (count % 10000 == 0)
+								play.Logger.info("Add statement number " + count + "\n" + arg1
+										+ " " + arg2 + " " + arg3);
+						}
+					};
+			con.addRepositoryConnectionListener(myListener);
+			con.add(gzipIn, "", format);
 		} catch (Exception e) {
 			throw new RuntimeException(e);
 		}
