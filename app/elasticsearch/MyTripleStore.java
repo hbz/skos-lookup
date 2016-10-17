@@ -70,7 +70,7 @@ public class MyTripleStore {
 						public void add(RepositoryConnection arg0, Resource arg1, IRI arg2,
 								Value arg3, Resource... arg4) {
 							count++;
-							if (count % 10000 == 0)
+							if (count % 100000 == 0)
 								play.Logger.info("Add statement number " + count + "\n" + arg1
 										+ " " + arg2 + " " + arg3);
 						}
