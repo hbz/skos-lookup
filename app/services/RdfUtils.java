@@ -21,9 +21,7 @@ import java.io.InputStream;
 import java.io.StringWriter;
 import java.util.Collection;
 
-import org.eclipse.rdf4j.model.Graph;
 import org.eclipse.rdf4j.model.Statement;
-import org.eclipse.rdf4j.model.impl.TreeModel;
 import org.eclipse.rdf4j.rio.RDFFormat;
 import org.eclipse.rdf4j.rio.RDFHandlerException;
 import org.eclipse.rdf4j.rio.RDFParser;
