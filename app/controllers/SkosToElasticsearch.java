@@ -22,7 +22,6 @@ import java.io.FileInputStream;
 import java.io.StringWriter;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collection;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -36,7 +35,6 @@ import org.eclipse.rdf4j.rio.RDFFormat;
 import org.elasticsearch.search.SearchHit;
 import org.elasticsearch.search.SearchHits;
 
-import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.typesafe.config.Config;
 import com.typesafe.config.ConfigFactory;
@@ -75,20 +73,20 @@ public class SkosToElasticsearch extends Controller {
 	}
 
 	/**
-	 * @param dataDirectory a path to a directory with .nt files. The routine will
-	 *          index each nt file under an arbitrary id, as one elasticsearch
-	 *          document.
-	 * @param index the index to initialize
-	 * @return ok http 200
+	 * Requires http-post data with -Fdata=binary file data -Findex=name of the
+	 * index -Fcompression=<raw|gzip> -Fformat=<TURTLE|NTRIPLES|RDFXML>
+	 * 
+	 * @return http 200 if everything has been imported
 	 */
 	public CompletionStage<Result> init() {
 		CompletableFuture<Result> future = new CompletableFuture<>();
 		try {
-
+			@SuppressWarnings("rawtypes")
 			MultipartFormData body = request().body().asMultipartFormData();
 			DynamicForm requestData = Form.form().bindFromRequest();
 			String format = requestData.get("format");
 			play.Logger.debug(format);
+			@SuppressWarnings("rawtypes")
 			FilePart data = body.getFile("data");
 			String index = requestData.get("index");
 			String compression = requestData.get("compression");

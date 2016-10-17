@@ -29,6 +29,10 @@ import org.eclipse.rdf4j.sail.memory.MemoryStore;
 public class MyTripleStore {
 	Repository repo;
 
+	/**
+	 * Creates an inmemory triple store
+	 * 
+	 */
 	public MyTripleStore() {
 		repo = new SailRepository(new MemoryStore());
 		repo.initialize();
@@ -43,6 +47,10 @@ public class MyTripleStore {
 		repo.initialize();
 	}
 
+	/**
+	 * @param in gzip compressed data on an inputstream
+	 * @param format the format of the streamed data
+	 */
 	public void loadZippedFile(InputStream in, RDFFormat format) {
 		play.Logger.info("Load zip file of format " + format);
 		try (RepositoryConnection con = repo.getConnection()) {
@@ -52,6 +60,10 @@ public class MyTripleStore {
 		}
 	}
 
+	/**
+	 * @param in rdf data on an input stream
+	 * @param format the rdf-format
+	 */
 	public void loadFile(InputStream in, RDFFormat format) {
 		try (RepositoryConnection con = repo.getConnection()) {
 			con.add(in, "", format);
@@ -60,6 +72,10 @@ public class MyTripleStore {
 		}
 	}
 
+	/**
+	 * @param concept an URI of a SKOS concept
+	 * @return all statements with concept as rdf-subject
+	 */
 	public Collection<Statement> getConcept(String concept) {
 		try (RepositoryConnection con = repo.getConnection()) {
 			ValueFactory v = SimpleValueFactory.getInstance();
@@ -83,6 +99,9 @@ public class MyTripleStore {
 		}
 	}
 
+	/**
+	 * @return all concept URIs in the store
+	 */
 	public Set<String> getAllConcepts() {
 		play.Logger.info("Query for all concepts!");
 		try (RepositoryConnection con = repo.getConnection()) {

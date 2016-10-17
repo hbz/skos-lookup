@@ -22,21 +22,27 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
 import java.util.Map;
+import java.util.concurrent.TimeUnit;
 
 import org.eclipse.rdf4j.model.Statement;
 import org.eclipse.rdf4j.rio.RDFFormat;
+import org.elasticsearch.ExceptionsHelper;
 import org.elasticsearch.action.admin.indices.create.CreateIndexRequestBuilder;
 import org.elasticsearch.action.admin.indices.delete.DeleteIndexRequest;
 import org.elasticsearch.action.admin.indices.refresh.RefreshRequest;
-import org.elasticsearch.action.bulk.BulkRequestBuilder;
+import org.elasticsearch.action.bulk.BackoffPolicy;
+import org.elasticsearch.action.bulk.BulkItemResponse;
+import org.elasticsearch.action.bulk.BulkProcessor;
+import org.elasticsearch.action.bulk.BulkRequest;
 import org.elasticsearch.action.bulk.BulkResponse;
 import org.elasticsearch.action.count.CountResponse;
+import org.elasticsearch.action.index.IndexRequest;
 import org.elasticsearch.action.search.SearchResponse;
+import org.elasticsearch.common.unit.TimeValue;
 import org.elasticsearch.index.query.QueryBuilder;
 import org.elasticsearch.index.query.QueryBuilders;
 import org.elasticsearch.search.SearchHits;
@@ -70,18 +76,28 @@ public class MyElasticsearch {
 	 * @param index the index to put data into
 	 */
 	public void indexDirectory(final File dir, String index) {
-		try {
-			BulkRequestBuilder indexBulk = es.getClient().prepareBulk();
-			int i = 0;
+		try (BulkProcessor bulkProcessor = getBulkProcessor()) {
+			long i = 1;
 			for (File file : dir.listFiles()) {
-				prepareIndexing(indexBulk, "" + i++, file, index);
+				String id = index + ":" + i;
+				String source = getJsonLdString(file);
+				bulkProcessor
+						.add(new IndexRequest(index, "concept", id).source(source));
+				i++;
 			}
-			executeIndexing(indexBulk, index);
+			bulkProcessor.awaitClose(30L, TimeUnit.SECONDS);
+			bulkProcessor.close();
 		} catch (Exception e) {
 			throw new RuntimeException(e);
 		}
 	}
 
+	/**
+	 * @param gzipDataAsInputStream an gzip compressed inputstream with rdf data
+	 *          in Format f
+	 * @param index the name of the index to add data to
+	 * @param f the RDFFormat of the inputstream
+	 */
 	public void indexZippedFile(final InputStream gzipDataAsInputStream,
 			String index, RDFFormat f) {
 		try {
@@ -93,11 +109,15 @@ public class MyElasticsearch {
 		}
 	}
 
-	public void indexFile(final InputStream gzipDataAsInputStream, String index,
-			RDFFormat f) {
+	/**
+	 * @param in nputstream with rdf data in Format f
+	 * @param index the name of the index to add data to
+	 * @param f the RDFFormat of the inputstream
+	 */
+	public void indexFile(final InputStream in, String index, RDFFormat f) {
 		try {
 			MyTripleStore ts = new MyTripleStore();
-			ts.loadFile(gzipDataAsInputStream, f);
+			ts.loadFile(in, f);
 			index(index, ts);
 		} catch (Exception e) {
 			throw new RuntimeException(e);
@@ -105,27 +125,56 @@ public class MyElasticsearch {
 	}
 
 	private void index(String index, MyTripleStore ts) {
-		long i = 0;
-		BulkRequestBuilder indexBulk = es.getClient().prepareBulk();
-		for (String c : ts.getAllConcepts()) {
-			Collection<Statement> statements = ts.getConcept(c);
-
-			String source = getJsonLdString(statements);
-			indexBulk.add(es.getClient()
-					.prepareIndex(index, "concept", index + ":" + i++).setSource(source));
-
-			if (i % 1024 == 0) {
-				play.Logger.debug(
-						"Add concepts " + index + " from " + (i - 1024) + " to " + i);
-				executeIndexing(indexBulk, index);
-				indexBulk = es.getClient().prepareBulk();
+		try (BulkProcessor bulkProcessor = getBulkProcessor()) {
+			long i = 1;
+			for (String c : ts.getAllConcepts()) {
+				Collection<Statement> statements = ts.getConcept(c);
+				String id = index + ":" + i;
+				String source = getJsonLdString(statements);
+				bulkProcessor
+						.add(new IndexRequest(index, "concept", id).source(source));
+				i++;
 			}
+			bulkProcessor.awaitClose(30L, TimeUnit.SECONDS);
+			bulkProcessor.close();
+		} catch (Exception e) {
+			throw new RuntimeException(e);
 		}
-		if (i % 1024 != 0) {
-			play.Logger
-					.debug("Add concepts " + index + " from " + (i - 1024) + " to " + i);
-			executeIndexing(indexBulk, index);
-		}
+	}
+
+	private BulkProcessor getBulkProcessor() {
+		return BulkProcessor.builder(es.getClient(), new BulkProcessor.Listener() {
+			@Override
+			public void beforeBulk(long executionId, BulkRequest request) {
+				play.Logger.info("Going to execute new bulk composed of {} actions",
+						request.numberOfActions());
+			}
+
+			@Override
+			public void afterBulk(long executionId, BulkRequest request,
+					BulkResponse response) {
+				for (BulkItemResponse bulkItemResponse : response.getItems()) {
+					if (bulkItemResponse.isFailed()) {
+						BulkItemResponse.Failure failure = bulkItemResponse.getFailure();
+						Throwable rootCause =
+								ExceptionsHelper.unwrapCause(failure.getCause());
+						play.Logger.error("", rootCause);
+						play.Logger.error("", bulkItemResponse.getFailure());
+					}
+				}
+				play.Logger.info("Executed bulk composed of {} actions",
+						request.numberOfActions());
+			}
+
+			@Override
+			public void afterBulk(long executionId, BulkRequest request,
+					Throwable failure) {
+				play.Logger.warn("Error executing bulk", failure);
+			}
+		}).setBulkActions(1024)
+				.setBackoffPolicy(
+						BackoffPolicy.exponentialBackoff(TimeValue.timeValueMillis(100), 3))
+				.build();
 	}
 
 	private String getJsonLdString(Collection<Statement> statements) {
@@ -148,8 +197,7 @@ public class MyElasticsearch {
 		}
 	}
 
-	private void prepareIndexing(BulkRequestBuilder internalIndexBulk, String id,
-			File file, String index) {
+	private String getJsonLdString(File file) {
 		try (InputStream filein = new FileInputStream(file);
 				InputStream contextIn =
 						play.Environment.simple().resourceAsStream(es.getJsonldContext())) {
@@ -165,24 +213,9 @@ public class MyElasticsearch {
 			JsonLdOptions options = new JsonLdOptions();
 			Object compact = JsonLdProcessor.compact(jsonObject, context, options);
 			String source = JsonUtils.toPrettyString(compact);
-			internalIndexBulk.add(
-					es.getClient().prepareIndex(index, "concept", id).setSource(source));
-
+			return source;
 		} catch (Exception e) {
-			play.Logger.warn("", e);
-		}
-	}
-
-	private static void executeIndexing(BulkRequestBuilder indexBulk,
-			String index) {
-		List<String> result = new ArrayList<>();
-		try {
-			BulkResponse bulkResponse = indexBulk.execute().actionGet();
-			if (bulkResponse.hasFailures()) {
-				result.add(bulkResponse.buildFailureMessage());
-			}
-		} catch (Exception e) {
-			play.Logger.warn("", e);
+			throw new RuntimeException(e);
 		}
 	}
 
@@ -273,6 +306,10 @@ public class MyElasticsearch {
 				.execute().actionGet().getState().getMetaData().concreteAllIndices());
 	}
 
+	/**
+	 * @param index the name of the index or the alias
+	 * @return number of documents in the index
+	 */
 	public long getSize(String index) {
 		final CountResponse response =
 				es.getClient().prepareCount(index).execute().actionGet();

@@ -6,10 +6,15 @@ import org.eclipse.rdf4j.rio.RDFFormat;
 import org.junit.Assert;
 import org.junit.Test;
 
-import elasticsearch.MyElasticsearch;
 import elasticsearch.MyTripleStore;
 import services.RdfUtils;
 
+/**
+ * @author Jan Schnasse
+ *
+ */
+
+@SuppressWarnings("javadoc")
 public class TestTripleStore {
 
 	@Test
@@ -58,15 +63,5 @@ public class TestTripleStore {
 				ts.getConcept(ts.getAllConcepts().iterator().next());
 		String asTurtle = RdfUtils.graphToString(statements, RDFFormat.TURTLE);
 		System.out.println(asTurtle);
-	}
-
-	@Test
-	public void indexZipFile() {
-		MyElasticsearch es;
-		String index = "agrovoc";
-		es = new MyElasticsearch();
-		es.init(index);
-		es.indexZippedFile(play.Environment.simple().resourceAsStream(
-				"agrovoc_2016-07-15_lod.nt.gz"), index, RDFFormat.NTRIPLES);
 	}
 }
