@@ -18,12 +18,12 @@ public class TestMyElasticsearch {
 	@SuppressWarnings("static-access")
 	@Test
 	public void indexZipFile() throws InterruptedException {
-		String index = "agrovoc";
+		String index = "ddc";
 		es.init(index);
-		es.indexZippedFile(play.Environment.simple().resourceAsStream(
-				"agrovoc_2016-07-15_lod.nt.gz"), index, RDFFormat.NTRIPLES);
+		es.indexZippedFile(play.Environment.simple().resourceAsStream("ddc.nt.gz"),
+				index, RDFFormat.NTRIPLES);
 		Thread.currentThread().sleep(3000);
-		Assert.assertEquals(32707, es.getSize(index));
+		Assert.assertEquals(76408, es.getSize(index));
 	}
 
 	@After

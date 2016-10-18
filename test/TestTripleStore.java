@@ -25,7 +25,7 @@ public class TestTripleStore {
 		Assert.assertEquals(1, ts.getAllConcepts().size());
 	}
 
-	@Test
+	// @Test
 	public void test_large_agrovoc() {
 		MyTripleStore ts = new MyTripleStore();
 		ts.loadZippedFile(play.Environment.simple()
@@ -41,7 +41,7 @@ public class TestTripleStore {
 		Assert.assertEquals(76408, ts.getAllConcepts().size());
 	}
 
-	@Test
+	// @Test
 	public void test_very_large() {
 		MyTripleStore ts = new MyTripleStore();
 		ts.loadZippedFile(play.Environment.simple()
