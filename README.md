@@ -29,7 +29,7 @@ A webservice to lookup SKOS concepts from an elasticsearch index.
 ##Run
 
 	# in order to support uploading larger skos files
-	export _JAVA_OPTIONS="-Xmx1g" 
+	export _JAVA_OPTIONS="-Xmx2g" 
 	#now run in develop mode
 	/opt/activator-1.3.2-minimal/activator run
 
