@@ -8,7 +8,9 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.zip.GZIPInputStream;
 
+import org.eclipse.rdf4j.model.BNode;
 import org.eclipse.rdf4j.model.IRI;
+import org.eclipse.rdf4j.model.Literal;
 import org.eclipse.rdf4j.model.Resource;
 import org.eclipse.rdf4j.model.Statement;
 import org.eclipse.rdf4j.model.Value;
@@ -110,8 +112,20 @@ public class MyTripleStore {
 					BindingSet bindingSet = result.next();
 					Value p = bindingSet.getValue("p");
 					Value o = bindingSet.getValue("o");
-					Statement newS = v.createStatement(v.createIRI(concept),
-							v.createIRI(p.stringValue()), v.createLiteral(o.stringValue()));
+					Statement newS;
+					if (o instanceof Literal) {
+						Literal aLiteral = (Literal) o;
+						newS = v.createStatement(v.createIRI(concept),
+								v.createIRI(p.stringValue()), aLiteral);
+
+					} else if (o instanceof BNode) {
+						newS = v.createStatement(v.createIRI(concept),
+								v.createIRI(p.stringValue()), v.createBNode(o.stringValue()));
+					} else {
+						newS = v.createStatement(v.createIRI(concept),
+								v.createIRI(p.stringValue()), v.createIRI(o.stringValue()));
+					}
+
 					allStatementsOfOneConcept.add(newS);
 				}
 			}

@@ -1,5 +1,6 @@
 import java.io.File;
 
+import org.eclipse.rdf4j.rio.RDFFormat;
 import org.elasticsearch.search.SearchHits;
 import org.junit.After;
 import org.junit.Assert;
@@ -16,13 +17,14 @@ public class TestAutocomplete {
 	@Before
 	public void startUp() {
 		es = new MyElasticsearch();
-		es.init(index);
-		es.indexDirectory(new File("test/resources/testData"), index);
+
 	}
 
 	@Test
 	public void testAutocomplete() {
-		SearchHits hits = es.autocompleteQuery(index, "Erdnuss", "de", 0, 10);
+		es.init(index);
+		es.indexDirectory(new File("test/resources/testData"), index);
+		SearchHits hits = es.autocompleteQuery(index, "Erdnus", "de", 0, 10);
 		play.Logger.debug("Total Hits " + hits.totalHits());
 		play.Logger.debug("HIT " + hits.getHits()[0].getSource().get("id"));
 		Assert.assertTrue(1 == hits.totalHits());
@@ -32,6 +34,25 @@ public class TestAutocomplete {
 		play.Logger.debug("Total Hits " + hits.totalHits());
 		play.Logger.debug("HIT " + hits.getHits()[0].getSource().get("id"));
 		Assert.assertTrue(1 == hits.totalHits());
+		Assert.assertTrue("http://aims.fao.org/aos/agrovoc/c_11368"
+				.equals(hits.getHits()[0].getSource().get("id")));
+	}
+
+	// @Test
+	public void testAutocompleteAll() {
+		es.init(index);
+		es.indexZippedFile(play.Environment.simple().resourceAsStream(
+				"agrovoc_2016-07-15_lod.nt.gz"), index, RDFFormat.NTRIPLES);
+		SearchHits hits = es.autocompleteQuery(index, "Erdnus", "de", 0, 10);
+		play.Logger.debug("Total Hits " + hits.totalHits());
+		play.Logger.debug("HIT " + hits.getHits()[0].getSource().get("id"));
+		Assert.assertTrue(4 == hits.totalHits());
+		Assert.assertTrue("http://aims.fao.org/aos/agrovoc/c_11368"
+				.equals(hits.getHits()[0].getSource().get("id")));
+		hits = es.autocompleteQuery(index, "groundnuts", "en", 0, 10);
+		play.Logger.debug("Total Hits " + hits.totalHits());
+		play.Logger.debug("HIT " + hits.getHits()[0].getSource().get("id"));
+		Assert.assertTrue(3 == hits.totalHits());
 		Assert.assertTrue("http://aims.fao.org/aos/agrovoc/c_11368"
 				.equals(hits.getHits()[0].getSource().get("id")));
 	}
