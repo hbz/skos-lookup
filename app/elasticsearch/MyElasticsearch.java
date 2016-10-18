@@ -68,6 +68,18 @@ public class MyElasticsearch {
 	 */
 	public MyElasticsearch() {
 		es = new EmbeddedElasticsearch();
+		try (InputStream settingsIn =
+				play.Environment.simple().resourceAsStream(es.getIndexSettings())) {
+
+			es.getClient().admin().cluster().prepareHealth().setWaitForYellowStatus()
+					.execute().actionGet();
+
+			es.getClient().admin().indices().refresh(new RefreshRequest())
+					.actionGet();
+
+		} catch (Exception e) {
+			throw new RuntimeException(e);
+		}
 	}
 
 	/**
