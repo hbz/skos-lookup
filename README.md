@@ -43,7 +43,7 @@ A webservice to lookup SKOS concepts from an elasticsearch index.
 	
 Response
 	
-	/**/mycallback([{"label":"Erdnuss","value":"c_11368"}])
+	/**/mycallback([{"label":"Erdnuss","value":"http://aims.fao.org/aos/agrovoc/c_11368"},{"label":"Erdnussöl","value":"http://aims.fao.org/aos/agrovoc/c_25477"},{"label":"Erdnussbutter","value":"http://aims.fao.org/aos/agrovoc/c_5640"},{"label":"Erdnussmehl","value":"http://aims.fao.org/aos/agrovoc/c_35679"}])
 	
 	
 ##Example UI with jQuery autocomplete
