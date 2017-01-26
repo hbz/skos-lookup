@@ -1,0 +1,1 @@
+web: target/universal/stage/bin/skos-lookup -Dhttp.port=${PORT}
