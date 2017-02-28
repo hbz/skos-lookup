@@ -43,7 +43,7 @@ A webservice to lookup SKOS concepts from an elasticsearch index.
 	
 Response
 	
-	/**/mycallback([{"label":"Erdnuss","value":"c_11368"}])
+	/**/mycallback([{"label":"Erdnuss","value":"http://aims.fao.org/aos/agrovoc/c_11368"},{"label":"Erdnussöl","value":"http://aims.fao.org/aos/agrovoc/c_25477"},{"label":"Erdnussbutter","value":"http://aims.fao.org/aos/agrovoc/c_5640"},{"label":"Erdnussmehl","value":"http://aims.fao.org/aos/agrovoc/c_35679"}])
 	
 	
 ##Example UI with jQuery autocomplete
@@ -101,6 +101,12 @@ start
 	rm -rf /opt/skos-lookup/*
 	mv /tmp/skos-lookup-1.0-SNAPSHOT/* /opt/skos-lookup/
 	sudo service skos-lookup start
+
+#Attribution
+
+Reuses Jakobs JSKOS context: https://gbv.github.io/jskos/jskos.html
+
+Uses Jörgs elasticsearch plugin bundle: https://github.com/jprante/elasticsearch-plugin-bundle
 
 #LICENSE
 
