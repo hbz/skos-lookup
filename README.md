@@ -103,8 +103,11 @@ start
 	sudo service skos-lookup start
 
 #Attribution
-	Reuses Jakob's JSKOS context: https://gbv.github.io/jskos/jskos.html
-	Uses Jörg's elasticsearch plugin bundle: https://github.com/jprante/elasticsearch-plugin-bundle
+
+Reuses Jakob's JSKOS context: https://gbv.github.io/jskos/jskos.html
+
+Uses Jörg's elasticsearch plugin bundle: https://github.com/jprante/elasticsearch-plugin-bundle
+
 #LICENSE
 
 GNU AFFERO GENERAL PUBLIC LICENSE
