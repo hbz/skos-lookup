@@ -7,30 +7,31 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import elasticsearch.MyElasticsearch;
+import elasticsearch.ElasticsearchBuilder;
 
 @SuppressWarnings("javadoc")
 public class TestAutocomplete {
-	MyElasticsearch es;
+	ElasticsearchBuilder esb;
 	String index = "agrovoc";
 
 	@Before
 	public void startUp() {
-		es = new MyElasticsearch();
+		esb = new ElasticsearchBuilder();
 
 	}
 
 	@Test
 	public void testAutocomplete() {
-		es.init(index);
-		es.indexDirectory(new File("test/resources/testData"), index);
-		SearchHits hits = es.autocompleteQuery(index, "Erdnus", "de", 0, 10);
+		esb.init(index);
+		esb.indexDirectory(new File("test/resources/testData"), index);
+		SearchHits hits =
+				esb.getInstance().autocompleteQuery(index, "Erdnus", "de", 0, 10);
 		play.Logger.debug("Total Hits " + hits.totalHits());
 		play.Logger.debug("HIT " + hits.getHits()[0].getSource().get("id"));
 		Assert.assertTrue(1 == hits.totalHits());
 		Assert.assertTrue("http://aims.fao.org/aos/agrovoc/c_11368"
 				.equals(hits.getHits()[0].getSource().get("id")));
-		hits = es.autocompleteQuery(index, "groundnuts", "en", 0, 10);
+		hits = esb.getInstance().autocompleteQuery(index, "groundnuts", "en", 0, 10);
 		play.Logger.debug("Total Hits " + hits.totalHits());
 		play.Logger.debug("HIT " + hits.getHits()[0].getSource().get("id"));
 		Assert.assertTrue(1 == hits.totalHits());
@@ -40,16 +41,17 @@ public class TestAutocomplete {
 
 	// @Test
 	public void testAutocompleteAll() {
-		es.init(index);
-		es.indexZippedFile(play.Environment.simple().resourceAsStream(
+		esb.init(index);
+		esb.indexZippedFile(play.Environment.simple().resourceAsStream(
 				"agrovoc_2016-07-15_lod.nt.gz"), index, RDFFormat.NTRIPLES);
-		SearchHits hits = es.autocompleteQuery(index, "Erdnus", "de", 0, 10);
+		SearchHits hits =
+				esb.getInstance().autocompleteQuery(index, "Erdnus", "de", 0, 10);
 		play.Logger.debug("Total Hits " + hits.totalHits());
 		play.Logger.debug("HIT " + hits.getHits()[0].getSource().get("id"));
 		Assert.assertTrue(4 == hits.totalHits());
 		Assert.assertTrue("http://aims.fao.org/aos/agrovoc/c_11368"
 				.equals(hits.getHits()[0].getSource().get("id")));
-		hits = es.autocompleteQuery(index, "groundnuts", "en", 0, 10);
+		hits = esb.getInstance().autocompleteQuery(index, "groundnuts", "en", 0, 10);
 		play.Logger.debug("Total Hits " + hits.totalHits());
 		play.Logger.debug("HIT " + hits.getHits()[0].getSource().get("id"));
 		Assert.assertTrue(3 == hits.totalHits());
@@ -59,6 +61,6 @@ public class TestAutocomplete {
 
 	@After
 	public void shutDown() {
-		es.stopElasticSearch();
+		esb.getInstance().stopElasticSearch();
 	}
 }

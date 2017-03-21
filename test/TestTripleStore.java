@@ -6,7 +6,7 @@ import org.eclipse.rdf4j.rio.RDFFormat;
 import org.junit.Assert;
 import org.junit.Test;
 
-import elasticsearch.MyTripleStore;
+import services.MyTripleStore;
 import services.RdfUtils;
 
 /**
@@ -60,7 +60,7 @@ public class TestTripleStore {
 				RDFFormat.NTRIPLES);
 		Assert.assertEquals(1, ts.getAllConcepts().size());
 		Collection<Statement> statements =
-				ts.getConcept(ts.getAllConcepts().iterator().next());
+				ts.getDocument(ts.getAllConcepts().iterator().next());
 		String asTurtle = RdfUtils.graphToString(statements, RDFFormat.TURTLE);
 		System.out.println(asTurtle);
 	}

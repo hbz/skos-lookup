@@ -1,4 +1,4 @@
-package elasticsearch;
+package services;
 
 import java.io.File;
 import java.io.InputStream;
@@ -20,10 +20,8 @@ import org.eclipse.rdf4j.query.BindingSet;
 import org.eclipse.rdf4j.query.QueryLanguage;
 import org.eclipse.rdf4j.query.TupleQuery;
 import org.eclipse.rdf4j.query.TupleQueryResult;
-import org.eclipse.rdf4j.query.Update;
 import org.eclipse.rdf4j.repository.Repository;
 import org.eclipse.rdf4j.repository.RepositoryConnection;
-import org.eclipse.rdf4j.repository.event.RepositoryConnectionListener;
 import org.eclipse.rdf4j.repository.event.base.NotifyingRepositoryConnectionWrapper;
 import org.eclipse.rdf4j.repository.event.base.RepositoryConnectionListenerAdapter;
 import org.eclipse.rdf4j.repository.sail.SailRepository;
@@ -97,14 +95,14 @@ public class MyTripleStore {
 	}
 
 	/**
-	 * @param concept an URI of a SKOS concept
+	 * @param subjectUri an URI of a SKOS concept
 	 * @return all statements with concept as rdf-subject
 	 */
-	public Collection<Statement> getConcept(String concept) {
+	public Collection<Statement> getDocument(String subjectUri) {
 		try (RepositoryConnection con = repo.getConnection()) {
 			ValueFactory v = SimpleValueFactory.getInstance();
-			Collection<Statement> allStatementsOfOneConcept = new ArrayList<>();
-			String queryString = "SELECT ?p ?o { <" + concept + "> ?p ?o . } ";
+			Collection<Statement> graph = new ArrayList<>();
+			String queryString = "SELECT ?p ?o { <" + subjectUri + "> ?p ?o . } ";
 			TupleQuery tupleQuery =
 					con.prepareTupleQuery(QueryLanguage.SPARQL, queryString);
 			try (TupleQueryResult result = tupleQuery.evaluate()) {
@@ -115,21 +113,19 @@ public class MyTripleStore {
 					Statement newS;
 					if (o instanceof Literal) {
 						Literal aLiteral = (Literal) o;
-						newS = v.createStatement(v.createIRI(concept),
+						newS = v.createStatement(v.createIRI(subjectUri),
 								v.createIRI(p.stringValue()), aLiteral);
-
 					} else if (o instanceof BNode) {
-						newS = v.createStatement(v.createIRI(concept),
+						newS = v.createStatement(v.createIRI(subjectUri),
 								v.createIRI(p.stringValue()), v.createBNode(o.stringValue()));
 					} else {
-						newS = v.createStatement(v.createIRI(concept),
+						newS = v.createStatement(v.createIRI(subjectUri),
 								v.createIRI(p.stringValue()), v.createIRI(o.stringValue()));
 					}
-
-					allStatementsOfOneConcept.add(newS);
+					graph.add(newS);
 				}
 			}
-			return allStatementsOfOneConcept;
+			return graph;
 		} catch (Exception e) {
 			throw new RuntimeException(e);
 		}

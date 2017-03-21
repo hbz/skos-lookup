@@ -19,6 +19,8 @@ package controllers;
 
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.io.StringWriter;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -39,7 +41,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.typesafe.config.Config;
 import com.typesafe.config.ConfigFactory;
 
-import elasticsearch.MyElasticsearch;
+import elasticsearch.ElasticsearchBuilder;
 import play.data.DynamicForm;
 import play.data.Form;
 import play.inject.ApplicationLifecycle;
@@ -59,7 +61,7 @@ public class SkosToElasticsearch extends Controller {
 	/**
 	 * Elasticsearchinterface
 	 */
-	public final static MyElasticsearch es = new MyElasticsearch();
+	public final static ElasticsearchBuilder esb = new ElasticsearchBuilder();
 
 	/**
 	 * @param lifecycle parameter to hook into application management
@@ -67,7 +69,7 @@ public class SkosToElasticsearch extends Controller {
 	@Inject
 	public SkosToElasticsearch(ApplicationLifecycle lifecycle) {
 		lifecycle.addStopHook(() -> {
-			es.stopElasticSearch();
+			esb.getInstance().stopElasticSearch();
 			return CompletableFuture.completedFuture(null);
 		});
 	}
@@ -91,26 +93,7 @@ public class SkosToElasticsearch extends Controller {
 			String index = requestData.get("index");
 			String compression = requestData.get("compression");
 			if (data != null) {
-				File file = (File) data.getFile();
-				try (FileInputStream uploadData = new FileInputStream(file)) {
-
-					RDFFormat f = RDFFormat.RDFXML;
-					if ("TURTLE".equals(format)) {
-						f = RDFFormat.TURTLE;
-					} else if ("NTRIPLES".equals(format)) {
-						f = RDFFormat.NTRIPLES;
-					} else if ("RDFXML".equals(format)) {
-						f = RDFFormat.RDFXML;
-					}
-					es.init(index);
-					if ("gzip".equals(compression)) {
-						es.indexZippedFile(uploadData, index, f);
-					} else {
-						es.indexFile(uploadData, index, f);
-					}
-					flash("info", "File uploaded");
-					future.complete(ok());
-				}
+				uploadData(future, format, data, index, compression);
 			} else {
 				flash("error", "Missing file");
 				future.complete(redirect("/example"));
@@ -121,6 +104,40 @@ public class SkosToElasticsearch extends Controller {
 		}
 	}
 
+	private void uploadData(CompletableFuture<Result> future, String format,
+			FilePart data, String index, String compression)
+			throws IOException, FileNotFoundException {
+		File file = (File) data.getFile();
+		try (FileInputStream uploadData = new FileInputStream(file)) {
+			RDFFormat f = initalizeRdfFormat(format);
+			initalizeBuilder(index, compression, uploadData, f);
+			flash("info", "File uploaded");
+			future.complete(ok());
+		}
+	}
+
+	private RDFFormat initalizeRdfFormat(String format) {
+		RDFFormat f = RDFFormat.RDFXML;
+		if ("TURTLE".equals(format)) {
+			f = RDFFormat.TURTLE;
+		} else if ("NTRIPLES".equals(format)) {
+			f = RDFFormat.NTRIPLES;
+		} else if ("RDFXML".equals(format)) {
+			f = RDFFormat.RDFXML;
+		}
+		return f;
+	}
+
+	private void initalizeBuilder(String index, String compression,
+			FileInputStream uploadData, RDFFormat f) {
+		esb.init(index);
+		if ("gzip".equals(compression)) {
+			esb.indexZippedFile(uploadData, index, f);
+		} else {
+			esb.indexFile(uploadData, index, f);
+		}
+	}
+
 	/**
 	 * @return a html form with an example on how to use the autocompletion
 	 *         endpoint
@@ -128,7 +145,8 @@ public class SkosToElasticsearch extends Controller {
 	public CompletionStage<Result> autocompleteExample() {
 		CompletableFuture<Result> future = new CompletableFuture<>();
 		Config conf = ConfigFactory.load();
-		future.complete(ok(autocomplete.render(es.getIndexList(), conf)));
+		future.complete(
+				ok(autocomplete.render(esb.getInstance().getIndexList(), conf)));
 		return future;
 
 	}
@@ -146,7 +164,8 @@ public class SkosToElasticsearch extends Controller {
 		final String[] callback =
 				request() == null || request().queryString() == null ? null
 						: request().queryString().get("callback");
-		SearchHits hits = es.autocompleteQuery(index, q, lang, 0, 10);
+		SearchHits hits =
+				esb.getInstance().autocompleteQuery(index, q, lang, 0, 10);
 		List<Map<String, String>> result = new ArrayList<>();
 		hits.forEach((hit) -> {
 			Map<String, Object> h = hit.getSource();
@@ -184,7 +203,7 @@ public class SkosToElasticsearch extends Controller {
 		response().setHeader("content-type", "application/json");
 		String escaped_q = QueryParserBase.escape(q);
 		CompletableFuture<Result> future = new CompletableFuture<>();
-		SearchHits hits = es.query(index, escaped_q, 0, 10);
+		SearchHits hits = esb.getInstance().query(index, escaped_q, 0, 10);
 		List<SearchHit> list = Arrays.asList(hits.getHits());
 		List<Map<String, Object>> hitMap = new ArrayList<>();
 		for (SearchHit hit : list) {
@@ -215,7 +234,7 @@ public class SkosToElasticsearch extends Controller {
 	public CompletionStage<Result> upload() {
 		CompletableFuture<Result> future = new CompletableFuture<>();
 		Config conf = ConfigFactory.load();
-		future.complete(ok(upload.render(es.getIndexList(), conf)));
+		future.complete(ok(upload.render(esb.getInstance().getIndexList(), conf)));
 		return future;
 	}
 }

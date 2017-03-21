@@ -4,7 +4,7 @@ import org.junit.After;
 import org.junit.Assert;
 import org.junit.Test;
 
-import elasticsearch.MyElasticsearch;
+import elasticsearch.ElasticsearchBuilder;
 
 /**
  * @author Jan Schnasse
@@ -13,22 +13,22 @@ import elasticsearch.MyElasticsearch;
 @SuppressWarnings("javadoc")
 public class TestMyElasticsearch {
 
-	MyElasticsearch es = new MyElasticsearch();
+	ElasticsearchBuilder esb = new ElasticsearchBuilder();
 
 	@SuppressWarnings("static-access")
 	@Test
 	public void indexZipFile() throws InterruptedException {
 		String index = "ddc";
-		es.init(index);
-		es.indexZippedFile(play.Environment.simple().resourceAsStream("ddc.nt.gz"),
+		esb.init(index);
+		esb.indexZippedFile(play.Environment.simple().resourceAsStream("ddc.nt.gz"),
 				index, RDFFormat.NTRIPLES);
 		Thread.currentThread().sleep(3000);
-		Assert.assertEquals(76408, es.getSize(index));
+		Assert.assertEquals(76408, esb.getInstance().getSize(index));
 	}
 
 	@After
 	public void shutDown() {
-		es.stopElasticSearch();
+		esb.getInstance().stopElasticSearch();
 	}
 
 }

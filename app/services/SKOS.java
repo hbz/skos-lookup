@@ -1,4 +1,4 @@
-package elasticsearch;
+package services;
 
 /**
  * @author Jan Schnasse
