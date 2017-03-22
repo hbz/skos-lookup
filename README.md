@@ -113,7 +113,7 @@ start
 
 # Attribution
 
-Reuses Jakobs JSKOS context: https://gbv.github.io/jskos/jskos.html
+Reuses Jakobs JSKOS context: https://gbv.github.io/jskos/jskos.html#json-ld-context
 
 Uses Jörgs elasticsearch plugin bundle: https://github.com/jprante/elasticsearch-plugin-bundle
 
