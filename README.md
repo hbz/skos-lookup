@@ -1,5 +1,5 @@
 [![Travis Ci](https://travis-ci.org/hbz/skos-lookup.svg?branch=master)](https://travis-ci.org/hbz/skos-lookup)
-#About
+# About
 
 A webservice to lookup SKOS concepts from an elasticsearch index.
 - Start service. 
@@ -8,36 +8,36 @@ A webservice to lookup SKOS concepts from an elasticsearch index.
 - get back an URI for a particular SKOS Concept.
 
 
-#Usage
+# Usage
 
-##Java 8
+## Java 8
 
 	echo $JAVA_HOME //check if java 8 is configured
 
-##Download Activator
+## Download Activator
 
 	wget http://downloads.typesafe.com/typesafe-activator/1.3.2/typesafe-activator-1.3.2-minimal.zip
 	unzip typesafe-activator-1.3.2-minimal.zip
 	sudo mv activator-1.3.2-minimal /opt
 
-##Git clone
+## Git clone
 
 	cd /tmp
 	git clone https://github.com/hbz/skos-lookup
 	cd skos-lookup
 
-##Run
+## Run
 
 	# in order to support uploading larger skos files
 	export _JAVA_OPTIONS="-Xmx2g" 
 	#now run in develop mode
 	/opt/activator-1.3.2-minimal/activator run
 
-##Add sample data to index
+## Add sample data to index
 	
 	curl -i -X POST -H "Content-Type: multipart/form-data" localhost:9000/tools/skos-lookup/init -F "data=@/tmp/skos-lookup/test/resources/agrovoc_2016-07-15_lod.nt.gz" -F"index=agrovoc_test" -F"compression=gzip" -F"format=NTRIPLES"
 	
-##Perform sample query
+## Perform sample query
 
 	curl -XGET 'localhost:9000/tools/skos-lookup/autocomplete?lang=de&q=Erdnus&callback=mycallback&index=agrovoc_test'
 	
@@ -46,7 +46,7 @@ Response
 	/**/mycallback([{"label":"Erdnuss","value":"http://aims.fao.org/aos/agrovoc/c_11368"},{"label":"Erdnussöl","value":"http://aims.fao.org/aos/agrovoc/c_25477"},{"label":"Erdnussbutter","value":"http://aims.fao.org/aos/agrovoc/c_5640"},{"label":"Erdnussmehl","value":"http://aims.fao.org/aos/agrovoc/c_35679"}])
 	
 	
-##Example UI with jQuery autocomplete
+## Example UI with jQuery autocomplete
 
 	firefox http://localhost:9000/tools/skos-lookup/example
 	
@@ -58,12 +58,12 @@ Response
 
 ![Lookup example](doc/images/skos-lookup-hit.png?raw=true)
 	
-##Example UI with upload form
+## Example UI with upload form
 
 	firefox http://localhost:9000/tools/skos-lookup/init
 	
 
-#Install on Ubuntu
+# Install on Ubuntu
 
 	cd /tmp/skos-lookup
 	/opt/activator-1.3.2-minimal/activator dist
@@ -95,7 +95,7 @@ start
 
 	sudo service skos-lookup start
 
-#Update
+# Update
 	rm -rf /tmp/skos-lookup
 	cd /tmp
 	git clone https://github.com/hbz/skos-lookup
@@ -111,13 +111,13 @@ start
 	mv /tmp/skos-lookup-1.0-SNAPSHOT/* /opt/skos-lookup/
 	sudo service skos-lookup start
 
-#Attribution
+# Attribution
 
 Reuses Jakobs JSKOS context: https://gbv.github.io/jskos/jskos.html
 
 Uses Jörgs elasticsearch plugin bundle: https://github.com/jprante/elasticsearch-plugin-bundle
 
-#LICENSE
+# LICENSE
 
 GNU AFFERO GENERAL PUBLIC LICENSE
 Version 3, 19 November 2007
