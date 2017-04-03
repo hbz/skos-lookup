@@ -91,9 +91,8 @@ public class SkosToElasticsearch extends Controller {
 			@SuppressWarnings("rawtypes")
 			FilePart data = body.getFile("data");
 			String index = requestData.get("index");
-			String compression = requestData.get("compression");
 			if (data != null) {
-				uploadData(future, format, data, index, compression);
+				uploadData(future, format, data, index);
 			} else {
 				flash("error", "Missing file");
 				future.complete(redirect("/example"));
@@ -105,12 +104,11 @@ public class SkosToElasticsearch extends Controller {
 	}
 
 	private void uploadData(CompletableFuture<Result> future, String format,
-			FilePart data, String index, String compression)
-			throws IOException, FileNotFoundException {
+			FilePart data, String index) throws IOException, FileNotFoundException {
 		File file = (File) data.getFile();
 		try (FileInputStream uploadData = new FileInputStream(file)) {
 			RDFFormat f = initalizeRdfFormat(format);
-			initalizeBuilder(index, compression, uploadData, f);
+			initalizeBuilder(index, uploadData, f);
 			flash("info", "File uploaded");
 			future.complete(ok());
 		}
@@ -128,14 +126,10 @@ public class SkosToElasticsearch extends Controller {
 		return f;
 	}
 
-	private void initalizeBuilder(String index, String compression,
-			FileInputStream uploadData, RDFFormat f) {
+	private void initalizeBuilder(String index, FileInputStream uploadData,
+			RDFFormat f) {
 		esb.init(index);
-		if ("gzip".equals(compression)) {
-			esb.indexZippedFile(uploadData, index, f);
-		} else {
-			esb.indexFile(uploadData, index, f);
-		}
+		esb.indexFile(uploadData, index, f);
 	}
 
 	/**

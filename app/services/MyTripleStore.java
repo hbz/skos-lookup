@@ -57,11 +57,9 @@ public class MyTripleStore {
 	 * @param in gzip compressed data on an inputstream
 	 * @param format the format of the streamed data
 	 */
-	public void loadZippedFile(InputStream in, RDFFormat format) {
-		play.Logger.info("Load zip file of format " + format);
+	public void loadFile(InputStream in, RDFFormat format) {
 		try (NotifyingRepositoryConnectionWrapper con =
-				new NotifyingRepositoryConnectionWrapper(repo, repo.getConnection());
-				InputStream gzipIn = new GZIPInputStream(in)) {
+				new NotifyingRepositoryConnectionWrapper(repo, repo.getConnection());) {
 			RepositoryConnectionListenerAdapter myListener =
 					new RepositoryConnectionListenerAdapter() {
 						private long count = 0;
@@ -76,18 +74,6 @@ public class MyTripleStore {
 						}
 					};
 			con.addRepositoryConnectionListener(myListener);
-			con.add(gzipIn, "", format);
-		} catch (Exception e) {
-			throw new RuntimeException(e);
-		}
-	}
-
-	/**
-	 * @param in rdf data on an input stream
-	 * @param format the rdf-format
-	 */
-	public void loadFile(InputStream in, RDFFormat format) {
-		try (RepositoryConnection con = repo.getConnection()) {
 			con.add(in, "", format);
 		} catch (Exception e) {
 			throw new RuntimeException(e);
