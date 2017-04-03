@@ -35,7 +35,7 @@ A webservice to lookup SKOS concepts from an elasticsearch index.
 
 ## Add sample data to index
 	
-	curl -i -X POST -H "Content-Type: multipart/form-data" localhost:9000/tools/skos-lookup/init -F "data=@/tmp/skos-lookup/test/resources/agrovoc_2016-07-15_lod.nt.gz" -F"index=agrovoc_test" -F"compression=gzip" -F"format=NTRIPLES"
+	curl -i -X POST -H "Content-Type: multipart/form-data" localhost:9000/tools/skos-lookup/init -F "data=@/tmp/skos-lookup/test/resources/agrovoc_2016-07-15_lod.nt.gz" -F"index=agrovoc_test" -F"format=NTRIPLES"
 	
 ## Perform sample query
 
