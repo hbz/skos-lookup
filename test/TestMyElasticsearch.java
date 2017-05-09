@@ -20,7 +20,7 @@ public class TestMyElasticsearch {
 	public void indexZipFile() throws InterruptedException {
 		String index = "ddc";
 		esb.init(index);
-		esb.indexZippedFile(play.Environment.simple().resourceAsStream("ddc.nt.gz"),
+		esb.indexFile(play.Environment.simple().resourceAsStream("ddc.nt.gz"),
 				index, RDFFormat.NTRIPLES);
 		Thread.currentThread().sleep(3000);
 		Assert.assertEquals(76408, esb.getInstance().getSize(index));

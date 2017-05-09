@@ -15,12 +15,6 @@ Upload a Turtle Rdf Skos File
        <input type="radio" id="rdf-xml-format" name="format" value="RDFXML" selected>
        <label for="rdf-xml-format">Rdf-Xml</label>
     </fieldset>
-    <fieldset id="compression"> 
-       <input type="radio" id="gzip" name="compression" value="gzip" selected>
-       <label for="rdf-format">gzip</label>
-       <input type="radio" id="raw" name="compression" value="raw">
-       <label for="json-format">raw</label>
-    </fieldset>
     <select name="index" id="index-select" class="input-widget">
 			@for(i <- indices){
 				<option value="@i">@i</option>

@@ -91,9 +91,8 @@ public class SkosToElasticsearch extends Controller {
 			@SuppressWarnings("rawtypes")
 			FilePart data = body.getFile("data");
 			String index = requestData.get("index");
-			String compression = requestData.get("compression");
 			if (data != null) {
-				uploadData(future, format, data, index, compression);
+				uploadData(future, format, data, index);
 			} else {
 				flash("error", "Missing file");
 				future.complete(redirect("/example"));
@@ -105,12 +104,11 @@ public class SkosToElasticsearch extends Controller {
 	}
 
 	private void uploadData(CompletableFuture<Result> future, String format,
-			FilePart data, String index, String compression)
-			throws IOException, FileNotFoundException {
+			FilePart data, String index) throws IOException, FileNotFoundException {
 		File file = (File) data.getFile();
 		try (FileInputStream uploadData = new FileInputStream(file)) {
 			RDFFormat f = initalizeRdfFormat(format);
-			initalizeBuilder(index, compression, uploadData, f);
+			initalizeBuilder(index, uploadData, f);
 			flash("info", "File uploaded");
 			future.complete(ok());
 		}
@@ -128,14 +126,10 @@ public class SkosToElasticsearch extends Controller {
 		return f;
 	}
 
-	private void initalizeBuilder(String index, String compression,
-			FileInputStream uploadData, RDFFormat f) {
+	private void initalizeBuilder(String index, FileInputStream uploadData,
+			RDFFormat f) {
 		esb.init(index);
-		if ("gzip".equals(compression)) {
-			esb.indexZippedFile(uploadData, index, f);
-		} else {
-			esb.indexFile(uploadData, index, f);
-		}
+		esb.indexFile(uploadData, index, f);
 	}
 
 	/**
@@ -237,4 +231,44 @@ public class SkosToElasticsearch extends Controller {
 		future.complete(ok(upload.render(esb.getInstance().getIndexList(), conf)));
 		return future;
 	}
+
+	/**
+	 * @param q performs a matchQuery against prefLabel.{@paramref lang}
+	 * @param lang a language for autocomplete
+	 * @param index the index to get autocomplete suggestions from
+	 * @return a list of (label, value)-pairs wrapped in a jsonp callback. If no
+	 *         callback has been passed, the list is returned anyway
+	 */
+	public CompletionStage<Result> select2(String q, String lang, String index) {
+		CompletableFuture<Result> future = new CompletableFuture<>();
+		final String[] callback =
+				request() == null || request().queryString() == null ? null
+						: request().queryString().get("callback");
+		SearchHits hits =
+				esb.getInstance().autocompleteQuery(index, q, lang, 0, 10);
+		List<Map<String, String>> result = new ArrayList<>();
+		hits.forEach((hit) -> {
+			Map<String, Object> h = hit.getSource();
+			String label = getLabel(h, lang);
+			String id = getId(h);
+			Map<String, String> m = new HashMap<>();
+			m.put("text", label);
+			m.put("id", id);
+			result.add(m);
+		});
+		String searchResult = SkosToElasticsearch.json(result);
+		String response = callback != null
+				? String.format("/**/%s(%s)", callback[0], searchResult) : searchResult;
+		future.complete(ok(response));
+		return future;
+	}
+
+	public CompletionStage<Result> displayPost() {
+		CompletableFuture<Result> future = new CompletableFuture<>();
+		String response =
+				SkosToElasticsearch.json(request().body().asFormUrlEncoded());
+		future.complete(ok(response));
+		return future;
+	}
+
 }

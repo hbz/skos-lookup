@@ -82,24 +82,7 @@ public class ElasticsearchBuilder {
 	}
 
 	/**
-	 * @param gzipDataAsInputStream an gzip compressed inputstream with rdf data
-	 *          in Format f
-	 * @param index the name of the index to add data to
-	 * @param f the RDFFormat of the inputstream
-	 */
-	public void indexZippedFile(final InputStream gzipDataAsInputStream,
-			String index, RDFFormat f) {
-		try {
-			MyTripleStore ts = new MyTripleStore();
-			ts.loadZippedFile(gzipDataAsInputStream, f);
-			index(index, ts);
-		} catch (Exception e) {
-			throw new RuntimeException(e);
-		}
-	}
-
-	/**
-	 * @param in nputstream with rdf data in Format f
+	 * @param in inputstream with rdf data in Format f. gzip is also supported
 	 * @param index the name of the index to add data to
 	 * @param f the RDFFormat of the inputstream
 	 */

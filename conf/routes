@@ -4,4 +4,6 @@ POST 	/init						controllers.SkosToElasticsearch.init()
 GET 	/init						controllers.SkosToElasticsearch.upload()
 GET 	/example					controllers.SkosToElasticsearch.autocompleteExample
 GET		/autocomplete				controllers.SkosToElasticsearch.autocomplete(q:String,lang:String,index:String)
+GET		/select2				    controllers.SkosToElasticsearch.select2(q:String,lang:String,index:String)
 GET		/search					    controllers.SkosToElasticsearch.search(q:String,index:String)
+POST    /displayPost                controllers.SkosToElasticsearch.displayPost()
