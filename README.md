@@ -57,6 +57,12 @@ Response
 	http://localhost:9000/tools/skos-lookup/search?q=http%3A%2F%2Faims.fao.org%2Faos%2Fagrovoc%2Fc_13551&lang=de&index=agrovoc
 
 ![Lookup example](doc/images/skos-lookup-hit.png?raw=true)
+
+## Example UI with select2
+
+    firefox http://localhost:9000/tools/skos-lookup/example
+
+![Tagging example](doc/images/example-select2.png?raw=true)
 	
 ## Example UI with upload form
 
