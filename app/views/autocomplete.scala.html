@@ -18,15 +18,15 @@
 <script src="@controllers.routes.Assets.versioned("javascripts/jquery-ui.min.js")"></script>
 <script src="@controllers.routes.Assets.versioned("javascripts/bootstrap.min.js")"></script>
 
-
+<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css" rel="stylesheet" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10">
 </head>
 <body>
 	<form method="GET" class="form-inline" action="@configuration.getString("application.context")/search">
-		<input class="ui-autocomplete-input agrovoc-autocomplete"
-			name="q" id="agrovocInput1" style="width: 300px"
-			autocomplete="off" type="text">
+	 <select multiple="true" class="form-control select2 agrovoc-autocomplete" style="width:300px">
+    </select>
 		<select name="lang" id="lang-select" class="input-widget">
 			<option value="de" selected>Deutsch</option>
 			<option value="en">Englisch</option>
@@ -40,35 +40,34 @@
 	</form>
 </body>
 <script>
-	$(function() {
-		enableAutocomplete();
-		function enableAutocomplete() {
-			$('.agrovoc-autocomplete').each(function() {
-				enableAgrovocAutocomplete($(this));
-			});
-		}
-		function enableAgrovocAutocomplete(inputElement) {
-			inputElement
-					.autocomplete({
-			            source : function(request, response) {
-			            	lang=$('#lang-select').find(":selected").attr('value');
-			            	index=$('#index-select').find(":selected").attr('value');
-			                $.ajax({
-			                    url : "@configuration.getString("application.context")/autocomplete",
-			                    dataType : "jsonp",
-			                    data : {
-			                        q : request.term,
-			                        lang :  lang,
-			                        index : index
-			                    },
-			                    success : function(data) {
-			                        response(data);
-			                    }
-			                });
-			            }
-			        });
-		}
+$(function() {
+	$('.agrovoc-autocomplete').select2({
+		multiple: true,
+	    tags: true,
+	    placeholder: "Please enter tags",
+	    // automatically creates tag when user hit space or comma:
+	    tokenSeparators: [",", " "],
+	   
+	    ajax: {
+	        url: "@configuration.getString("application.context")/select2",
+	        dataType: 'json',
+	        data :  function (params) {
+	            return {
+                q : params.term,
+                lang :  "de",
+                index : "agrovoc"
+	            };
+	        },
+	        processResults: function (data) {
+	      
+	            return {
+	              results: data
+	            };
+	          }
+	    }
 	});
+
+});
 </script>
 </html>
 
