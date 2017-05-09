@@ -24,9 +24,14 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10">
 </head>
 <body>
-	<form method="GET" class="form-inline" action="@configuration.getString("application.context")/search">
-	 <select multiple="true" class="form-control select2 agrovoc-autocomplete" style="width:300px">
-    </select>
+<h2>Examples</h2>
+<p>
+Based on <a href="https://jqueryui.com/autocomplete/">jquery autocomplete</a>
+
+<form method="GET" class="form-inline" action="@configuration.getString("application.context")/search">
+		<input class="ui-autocomplete-input agrovoc-autocomplete"
+			name="q" id="agrovocInput1" style="width: 300px"
+			autocomplete="off" type="text">
 		<select name="lang" id="lang-select" class="input-widget">
 			<option value="de" selected>Deutsch</option>
 			<option value="en">Englisch</option>
@@ -37,36 +42,88 @@
 			}	
 		</select>
 		<button type="submit" class="btn">Search</button>
-	</form>
+</form>
+</p>
+<p>
+Based on <a href="https://select2.github.io">Select2</a>
+
+<form method="post" class="form-inline" action="@configuration.getString("application.context")/displayPost">
+	 <select name="tags" multiple="true" class="form-control select2 agrovoc-select2" style="width:300px">
+    </select>
+		<select name="lang" id="lang-select2" class="input-widget">
+			<option value="de" selected>Deutsch</option>
+			<option value="en">Englisch</option>
+		</select>
+		<select name="index" id="index-select2" class="input-widget">
+			@for(i <- indices){
+				<option value="@i">@i</option>
+			}	
+		</select>
+		<button type="submit" class="btn">Post</button>
+</form>
+</p>
 </body>
 <script>
 $(function() {
-	$('.agrovoc-autocomplete').select2({
-		multiple: true,
-	    tags: true,
-	    placeholder: "Please enter tags",
-	    // automatically creates tag when user hit space or comma:
-	    tokenSeparators: [",", " "],
-	   
-	    ajax: {
-	        url: "@configuration.getString("application.context")/select2",
-	        dataType: 'json',
-	        data :  function (params) {
-	            return {
-                q : params.term,
-                lang :  "de",
-                index : "agrovoc"
-	            };
-	        },
-	        processResults: function (data) {
-	      
-	            return {
-	              results: data
-	            };
-	          }
-	    }
-	});
-
+	enableAutocomplete();
+	enableSelect2();
+	function enableAutocomplete() {
+		$('.agrovoc-autocomplete').each(function() {
+			enableAgrovocAutocomplete($(this));
+		});
+	}
+	function enableAgrovocAutocomplete(inputElement) {
+		inputElement
+				.autocomplete({
+		            source : function(request, response) {
+		            	lang=$('#lang-select').find(":selected").attr('value');
+		            	index=$('#index-select').find(":selected").attr('value');
+		                $.ajax({
+		                    url : "@configuration.getString("application.context")/autocomplete",
+		                    dataType : "jsonp",
+		                    data : {
+		                        q : request.term,
+		                        lang :  lang,
+		                        index : index
+		                    },
+		                    success : function(data) {
+		                        response(data);
+		                    }
+		                });
+		            }
+		        });
+	}
+	function enableSelect2() {
+		$('.agrovoc-select2').each(function() {
+			enableAgrovocSelect2($(this));
+		});
+	}
+	function enableAgrovocSelect2(inputElement){
+		$(inputElement).select2({
+			multiple: true,
+		    tags: true,
+		    placeholder: "Please enter tags",
+		    tokenSeparators: [",", " "],	   
+		    ajax: {
+		        url: "@configuration.getString("application.context")/select2",
+		        dataType: 'json',
+		        data :  function (params) {
+		        	lang=$('#lang-select2').find(":selected").attr('value');
+	            	index=$('#index-select2').find(":selected").attr('value');
+		            return {
+	                q : params.term,
+	                lang :  lang,
+	                index : index
+		            };
+		        },
+		        processResults: function (data) {
+		            return {
+		              results: data
+		            };
+		          }
+		    }
+		});
+	}
 });
 </script>
 </html>

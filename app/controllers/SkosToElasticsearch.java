@@ -268,4 +268,13 @@ public class SkosToElasticsearch extends Controller {
 		future.complete(ok(response));
 		return future;
 	}
+
+	public CompletionStage<Result> displayPost() {
+		CompletableFuture<Result> future = new CompletableFuture<>();
+		String response =
+				SkosToElasticsearch.json(request().body().asFormUrlEncoded());
+		future.complete(ok(response));
+		return future;
+	}
+
 }
