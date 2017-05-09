@@ -18,12 +18,17 @@
 <script src="@controllers.routes.Assets.versioned("javascripts/jquery-ui.min.js")"></script>
 <script src="@controllers.routes.Assets.versioned("javascripts/bootstrap.min.js")"></script>
 
-
+<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css" rel="stylesheet" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10">
 </head>
 <body>
-	<form method="GET" class="form-inline" action="@configuration.getString("application.context")/search">
+<h2>Examples</h2>
+<p>
+Based on <a href="https://jqueryui.com/autocomplete/">jquery autocomplete</a>
+
+<form method="GET" class="form-inline" action="@configuration.getString("application.context")/search">
 		<input class="ui-autocomplete-input agrovoc-autocomplete"
 			name="q" id="agrovocInput1" style="width: 300px"
 			autocomplete="off" type="text">
@@ -37,38 +42,98 @@
 			}	
 		</select>
 		<button type="submit" class="btn">Search</button>
-	</form>
+</form>
+Search Example:
+<code>
+/tools/skos-lookup/search?q=http%3A%2F%2Faims.fao.org%2Faos%2Fagrovoc%2Fc_13551&lang=de&index=agrovoc
+</code>
+</p>
+<p>
+Based on <a href="https://select2.github.io">Select2</a>
+
+<form method="post" class="form-inline" action="@configuration.getString("application.context")/displayPost">
+	 <select name="tags" multiple="true" class="form-control select2 agrovoc-select2" style="width:300px">
+    </select>
+		<select name="lang" id="lang-select2" class="input-widget">
+			<option value="de" selected>Deutsch</option>
+			<option value="en">Englisch</option>
+		</select>
+		<select name="index" id="index-select2" class="input-widget">
+			@for(i <- indices){
+				<option value="@i">@i</option>
+			}	
+		</select>
+		<button type="submit" class="btn">Post</button>
+</form>
+<p>
+Post Example:
+<code>
+"tags":["http://aims.fao.org/aos/agrovoc/c_4078","http://aims.fao.org/aos/agrovoc/c_3519"]
+</code>
+</p>
 </body>
 <script>
-	$(function() {
-		enableAutocomplete();
-		function enableAutocomplete() {
-			$('.agrovoc-autocomplete').each(function() {
-				enableAgrovocAutocomplete($(this));
-			});
-		}
-		function enableAgrovocAutocomplete(inputElement) {
-			inputElement
-					.autocomplete({
-			            source : function(request, response) {
-			            	lang=$('#lang-select').find(":selected").attr('value');
-			            	index=$('#index-select').find(":selected").attr('value');
-			                $.ajax({
-			                    url : "@configuration.getString("application.context")/autocomplete",
-			                    dataType : "jsonp",
-			                    data : {
-			                        q : request.term,
-			                        lang :  lang,
-			                        index : index
-			                    },
-			                    success : function(data) {
-			                        response(data);
-			                    }
-			                });
-			            }
-			        });
-		}
-	});
+$(function() {
+	enableAutocomplete();
+	enableSelect2();
+	function enableAutocomplete() {
+		$('.agrovoc-autocomplete').each(function() {
+			enableAgrovocAutocomplete($(this));
+		});
+	}
+	function enableAgrovocAutocomplete(inputElement) {
+		inputElement
+				.autocomplete({
+		            source : function(request, response) {
+		            	lang=$('#lang-select').find(":selected").attr('value');
+		            	index=$('#index-select').find(":selected").attr('value');
+		                $.ajax({
+		                    url : "@configuration.getString("application.context")/autocomplete",
+		                    dataType : "jsonp",
+		                    data : {
+		                        q : request.term,
+		                        lang :  lang,
+		                        index : index
+		                    },
+		                    success : function(data) {
+		                        response(data);
+		                    }
+		                });
+		            }
+		        });
+	}
+	function enableSelect2() {
+		$('.agrovoc-select2').each(function() {
+			enableAgrovocSelect2($(this));
+		});
+	}
+	function enableAgrovocSelect2(inputElement){
+		$(inputElement).select2({
+			multiple: true,
+		    tags: true,
+		    placeholder: "Please enter tags",
+		    tokenSeparators: [",", " "],	   
+		    ajax: {
+		        url: "@configuration.getString("application.context")/select2",
+		        dataType: 'json',
+		        data :  function (params) {
+		        	lang=$('#lang-select2').find(":selected").attr('value');
+	            	index=$('#index-select2').find(":selected").attr('value');
+		            return {
+	                q : params.term,
+	                lang :  lang,
+	                index : index
+		            };
+		        },
+		        processResults: function (data) {
+		            return {
+		              results: data
+		            };
+		          }
+		    }
+		});
+	}
+});
 </script>
 </html>
 

@@ -231,4 +231,44 @@ public class SkosToElasticsearch extends Controller {
 		future.complete(ok(upload.render(esb.getInstance().getIndexList(), conf)));
 		return future;
 	}
+
+	/**
+	 * @param q performs a matchQuery against prefLabel.{@paramref lang}
+	 * @param lang a language for autocomplete
+	 * @param index the index to get autocomplete suggestions from
+	 * @return a list of (label, value)-pairs wrapped in a jsonp callback. If no
+	 *         callback has been passed, the list is returned anyway
+	 */
+	public CompletionStage<Result> select2(String q, String lang, String index) {
+		CompletableFuture<Result> future = new CompletableFuture<>();
+		final String[] callback =
+				request() == null || request().queryString() == null ? null
+						: request().queryString().get("callback");
+		SearchHits hits =
+				esb.getInstance().autocompleteQuery(index, q, lang, 0, 10);
+		List<Map<String, String>> result = new ArrayList<>();
+		hits.forEach((hit) -> {
+			Map<String, Object> h = hit.getSource();
+			String label = getLabel(h, lang);
+			String id = getId(h);
+			Map<String, String> m = new HashMap<>();
+			m.put("text", label);
+			m.put("id", id);
+			result.add(m);
+		});
+		String searchResult = SkosToElasticsearch.json(result);
+		String response = callback != null
+				? String.format("/**/%s(%s)", callback[0], searchResult) : searchResult;
+		future.complete(ok(response));
+		return future;
+	}
+
+	public CompletionStage<Result> displayPost() {
+		CompletableFuture<Result> future = new CompletableFuture<>();
+		String response =
+				SkosToElasticsearch.json(request().body().asFormUrlEncoded());
+		future.complete(ok(response));
+		return future;
+	}
+
 }
