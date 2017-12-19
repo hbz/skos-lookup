@@ -1,7 +1,7 @@
 # Map static resources from the /public folder to the /assets URL path
 GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
-POST 	/init						controllers.SkosToElasticsearch.init()
-GET 	/init						controllers.SkosToElasticsearch.upload()
+POST 	/upload						controllers.SkosToElasticsearch.postUploadForm()
+GET 	/upload						controllers.SkosToElasticsearch.getUploadForm(index:String?=null)
 GET 	/example					controllers.SkosToElasticsearch.autocompleteExample
 GET		/autocomplete				controllers.SkosToElasticsearch.autocomplete(q:String,lang:String,index:String)
 GET		/select2				    controllers.SkosToElasticsearch.select2(q:String,lang:String,index:String)

@@ -3,7 +3,7 @@
 
 @main("Skos-Lookup") {
 Upload a Turtle Rdf Skos File
-@helper.form(action = routes.SkosToElasticsearch.init, 'enctype -> "multipart/form-data") {
+@helper.form(action = routes.SkosToElasticsearch.postUploadForm, 'enctype -> "multipart/form-data") {
     <label class="form-control-label" for="file">File</label>
     <input id="file" type="file" name="data">
     <label class="form-control-label" for="format">Format</label>

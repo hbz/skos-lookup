@@ -75,12 +75,28 @@ public class SkosToElasticsearch extends Controller {
 	}
 
 	/**
+	 * @return a simple upload form for rdf files
+	 */
+	public CompletionStage<Result> getUploadForm(String index) {
+		CompletableFuture<Result> future = new CompletableFuture<>();
+		Config conf = ConfigFactory.load();
+		List<String> indices = esb.getInstance().getIndexList();
+		if (index != null && !index.isEmpty()) {
+			indices = new ArrayList<>();
+			indices.add(index);
+		}
+
+		future.complete(ok(upload.render(indices, conf)));
+		return future;
+	}
+
+	/**
 	 * Requires http-post data with -Fdata=binary file data -Findex=name of the
 	 * index -Fcompression=<raw|gzip> -Fformat=<TURTLE|NTRIPLES|RDFXML>
 	 * 
 	 * @return http 200 if everything has been imported
 	 */
-	public CompletionStage<Result> init() {
+	public CompletionStage<Result> postUploadForm() {
 		CompletableFuture<Result> future = new CompletableFuture<>();
 		try {
 			@SuppressWarnings("rawtypes")
@@ -220,16 +236,6 @@ public class SkosToElasticsearch extends Controller {
 			play.Logger.error("", e);
 			return "{\"message\":\"error\"}";
 		}
-	}
-
-	/**
-	 * @return a simple upload form for rdf files
-	 */
-	public CompletionStage<Result> upload() {
-		CompletableFuture<Result> future = new CompletableFuture<>();
-		Config conf = ConfigFactory.load();
-		future.complete(ok(upload.render(esb.getInstance().getIndexList(), conf)));
-		return future;
 	}
 
 	/**
