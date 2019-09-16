@@ -19,3 +19,4 @@ dist
 /conf/split
 /data
 /conf/agrovoc_2016-07-15_lod.nt
+/docker/svc
