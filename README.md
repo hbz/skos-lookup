@@ -10,23 +10,37 @@ A webservice to lookup SKOS concepts from an elasticsearch index.
 
 # Usage
 
-## Java 8
+## Docker Run
+### Git clone
+
+	cd /tmp
+	git clone https://github.com/hbz/skos-lookup
+	cd skos-lookup
+	
+### Docker	
+   
+    cd docker
+    bash docker-pre-build.sh
+   
+## Native Run
+
+### Java 8
 
 	echo $JAVA_HOME //check if java 8 is configured
 
-## Download Activator
+### Download Activator
 
 	wget http://downloads.typesafe.com/typesafe-activator/1.3.2/typesafe-activator-1.3.2-minimal.zip
 	unzip typesafe-activator-1.3.2-minimal.zip
 	sudo mv activator-1.3.2-minimal /opt
 
-## Git clone
+### Git clone
 
 	cd /tmp
 	git clone https://github.com/hbz/skos-lookup
 	cd skos-lookup
 
-## Run
+### Run
 
 	# in order to support uploading larger skos files
 	export _JAVA_OPTIONS="-Xmx2g" 
