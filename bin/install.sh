@@ -35,7 +35,6 @@ fi
 ln -sf $targetDir/$newInstallDir $toscienceDir/$linkDir
 rm -r  $targetDir/$newInstallDir/conf
 ln -sf $confDir $targetDir/$newInstallDir/conf
-cp $deployDir/conf/routes $targetDir/$newInstallDir/conf
 ln -sf $resourcesDir $targetDir/$newInstallDir/resources
 cd $actDir
 
